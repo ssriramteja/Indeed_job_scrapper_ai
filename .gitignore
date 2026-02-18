@@ -9,8 +9,9 @@ env/
 
 # Job Scraper specific
 *.log
-job_matches_*.md
-job_matches_*.xlsx
+outputs/job_matches_*.md
+outputs/job_matches_*.xlsx
+!outputs/.gitkeep
 ~$*.xlsx
 
 # OS
