@@ -16,7 +16,8 @@ def search_workday_jobs(title: str, location: str = "United States") -> list:
     try:
         # Use Google search to find Workday jobs
         query = f'site:myworkdayjobs.com "{title}" "{location}"'
-        url = f"https://www.google.com/search?q={quote(query)}&num=20"
+        # &tbs=qdr:d filters for results from the last 24 hours
+        url = f"https://www.google.com/search?q={quote(query)}&num=20&tbs=qdr:d"
         
         headers = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
@@ -56,7 +57,8 @@ def search_greenhouse_jobs(title: str, location: str = "United States") -> list:
     jobs = []
     try:
         query = f'site:boards.greenhouse.io "{title}" "{location}"'
-        url = f"https://www.google.com/search?q={quote(query)}&num=20"
+        # &tbs=qdr:d filters for results from the last 24 hours
+        url = f"https://www.google.com/search?q={quote(query)}&num=20&tbs=qdr:d"
         
         headers = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
@@ -94,7 +96,8 @@ def search_icims_jobs(title: str, location: str = "United States") -> list:
     jobs = []
     try:
         query = f'site:icims.com "{title}" "{location}"'
-        url = f"https://www.google.com/search?q={quote(query)}&num=20"
+        # &tbs=qdr:d filters for results from the last 24 hours
+        url = f"https://www.google.com/search?q={quote(query)}&num=20&tbs=qdr:d"
         
         headers = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'

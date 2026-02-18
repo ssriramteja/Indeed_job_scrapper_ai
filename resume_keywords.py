@@ -49,4 +49,6 @@ SEARCH_TITLES = [
     "LLM Engineer",
     "Applied Scientist",
     "Research Scientist ML",
+    "Gen AI Engineer",
+    
 ]

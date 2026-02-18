@@ -9,7 +9,7 @@ def collect_all_jobs(titles: list, location: str = "United States") -> list:
     """
     all_jobs_df = pd.DataFrame()
     
-    # Increased results per title and added ZipRecruiter for more coverage
+    # Updated to 24 hours per user request (was 72)
     # Added delays between requests to avoid rate limiting
     
     print(f"Starting scrape for {len(titles)} titles in {location}...")
@@ -21,8 +21,8 @@ def collect_all_jobs(titles: list, location: str = "United States") -> list:
                 site_name=["indeed", "zip_recruiter"],  # Removed LinkedIn/Glassdoor (failing with 400 errors)
                 search_term=title,
                 location=location,
-                results_wanted=500, # Increased from 300 to 500 for more coverage
-                hours_old=72,       # Increased from 24 to 72 hours for more jobs
+                results_wanted=500, 
+                hours_old=24,       # Reduced from 72 to 24 hours per user request
                 country_watchlist=["USA"]
             )
             
