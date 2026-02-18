@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Job Scraper specific
+*.log
+job_matches_*.md
+job_matches_*.xlsx
+~$*.xlsx
+
+# OS
+.DS_Store

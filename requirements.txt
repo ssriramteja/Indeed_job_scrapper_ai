@@ -1,0 +1,8 @@
+python-jobspy
+python-dotenv
+pandas
+google-search-results
+selenium
+webdriver-manager
+beautifulsoup4
+openpyxl
