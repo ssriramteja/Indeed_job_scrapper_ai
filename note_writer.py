@@ -107,41 +107,44 @@ def save_history(urls: set):
     except Exception as e:
         print(f"⚠️ Error saving history: {e}")
 
-def update_readme(today, md_file, excel_file, matches_count):
+def update_readme(today, md_file, excel_file, jobs):
     """
-    Updates the repository README.md with the latest run results.
+    Updates the repository README.md with the latest run results, including job details.
     """
-    # README often exists in the root of the repo (one level up from job-alert usually, but let's check)
-    # The user repo structure has job-alert as a subfolder.
     readme_path = os.path.join("..", "README.md")
-    
-    # If not found in parent, try local
     if not os.path.exists(readme_path):
         readme_path = "README.md"
 
-    # Use relative paths for links in README
-    # md_file and excel_file are like "daily_matches/job_matches_2026-02-20.md"
-    # From README.md in root, this is "job-alert/daily_matches/..."
     rel_md = f"job-alert/{md_file}"
     rel_excel = f"job-alert/{excel_file}"
 
     header = "# 🚀 Indeed Job Scraper AI\n\n"
     stats = f"### 📊 Latest Update: {today}\n"
-    stats += f"- **New Matches Found Today:** {matches_count}\n"
-    stats += f"- 📄 [Markdown Report]({rel_md})\n"
+    stats += f"- **New Matches Found Today:** {len(jobs)}\n"
+    stats += f"- 📄 [Full Markdown Report]({rel_md})\n"
     stats += f"- 📁 [Excel Report]({rel_excel})\n\n"
-    stats += "---\n\n"
+    
+    # Add top 5 matches directly to README
+    if jobs:
+        stats += "#### 🎯 Top Matches Today:\n"
+        for i, job in enumerate(jobs[:5], 1):
+            title = job.get('title', 'N/A')
+            company = job.get('company', 'N/A')
+            score = job.get('score', 0)
+            url = job.get('apply_link', '#')
+            stats += f"{i}. **{title}** at **{company}** — Match Score: {score}% ([Apply]({url}))\n"
+        
+        if len(jobs) > 5:
+            stats += f"\n...and {len(jobs) - 5} more matches in the [Full Report]({rel_md}).\n"
+    
+    stats += "\n---\n\n"
     stats += "## 📂 Historical Matches\n"
     stats += "All previous matches can be found in the [daily_matches/](job-alert/daily_matches/) folder.\n"
 
-    # If README doesn't exist, create it with the header
-    if not os.path.exists(readme_path):
-        with open(readme_path, "w") as f:
-            f.write(header + stats)
-    else:
-        # If it exists, we could either overwrite or prepend. Let's overwrite the top summary section.
-        with open(readme_path, "w") as f:
-            f.write(header + stats)
+    # For the user's specific request "update them daily to read.me.md file with adding the date", 
+    # we'll overwrite the main dashboard area.
+    with open(readme_path, "w") as f:
+        f.write(header + stats)
     
     print(f"✅ README.md updated at {readme_path}")
 

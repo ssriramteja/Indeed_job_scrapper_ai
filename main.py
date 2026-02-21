@@ -84,7 +84,7 @@ def main():
         
         # Update README
         today = date.today().strftime("%Y-%m-%d")
-        update_readme(today, filename, excel_filename, len(ranked))
+        update_readme(today, filename, excel_filename, ranked)
         
         print(f"\n📝 Done! Check '{filename}' and '{excel_filename}' for your daily job matches.")
     else:
