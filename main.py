@@ -56,9 +56,36 @@ def main():
 
     if ranked:
         print(f"\n✅ Found {len(ranked)} matching jobs!")
-        print(f"🏆 Top match: {ranked[0]['title']} at {ranked[0]['company']} — {ranked[0]['score']}%")
+        
+        # [NEW] Cross-day deduplication: Filter out jobs seen in previous runs
+        from note_writer import load_history, save_history, update_readme
+        from datetime import date
+        
+        history_urls = load_history()
+        new_ranked = [j for j in ranked if j.get('apply_link') not in history_urls]
+        
+        skipped_count = len(ranked) - len(new_ranked)
+        if skipped_count > 0:
+            print(f"♻️  Filtered out {skipped_count} jobs already seen in previous runs.")
+        
+        if not new_ranked:
+            print("\n✨ All matching jobs today were already found in previous runs. No new files generated.")
+            return
+
+        ranked = new_ranked
+        print(f"🏆 Top NEW match: {ranked[0]['title']} at {ranked[0]['company']} — {ranked[0]['score']}%")
+        
         filename = save_jobs_to_note(ranked)
         excel_filename = save_jobs_to_excel(ranked)
+        
+        # Update history with new job urls
+        new_urls = {j.get('apply_link') for j in ranked if j.get('apply_link')}
+        save_history(history_urls.union(new_urls))
+        
+        # Update README
+        today = date.today().strftime("%Y-%m-%d")
+        update_readme(today, filename, excel_filename, len(ranked))
+        
         print(f"\n📝 Done! Check '{filename}' and '{excel_filename}' for your daily job matches.")
     else:
         print("\n❌ No matching jobs found today after filtering.")
