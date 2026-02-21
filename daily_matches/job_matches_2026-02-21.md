@@ -1,62 +1,51 @@
 # 🎯 Daily Job Matches — 2026-02-21
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AI/ML Engineer (Mid-Level) @ OnPoint Consulting, Inc
-**Match Score:** 13.3%
+## 1. Senior Data Engineer @ Deloitte
+**Match Score:** 20.0%
 
-📍 **Location:** Bethesda, MD, US USA
+📍 **Location:** San Jose, CA, US USA
 
-🔑 **Keywords:** Data Scientist, Copilot, TensorFlow, PyTorch, Azure ML, Synapse, Data Lake, CI/CD, Git, Python
+🔑 **Keywords:** RAG, Glue, Redshift, BigQuery, Synapse, Git, Snowflake, Databricks, BigQuery, Redshift
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ecd65ee8e23a06be)
-
----
-
-## 2. AI Applications Development Intern @ Zoox
-**Match Score:** 11.1%
-
-📍 **Location:** Foster City, CA, US USA
-
-🔑 **Keywords:** LangChain, RAG, LLaMA, Copilot, Prompt Engineering, Git, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2d2402acc3891444)
+[Apply Here](https://www.indeed.com/viewjob?jk=8ed48e228bf802be)
 
 ---
 
-## 3. Midlevel Software Engineer @ Liveworld
-**Match Score:** 11.1%
+## 2. Software Engineer - Database Integrations @ clickhouse
+**Match Score:** 12.2%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Git, PostgreSQL, Python, SQL, R, Java, Scala
+🔑 **Keywords:** RAG, BigQuery, Data Lake, Kubernetes, Snowflake, BigQuery, Kafka, MySQL, MongoDB, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7dffdc68dbca47db)
-
----
-
-## 4. Data Engineer @ Driven Brands
-**Match Score:** 10.0%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** BigQuery, CI/CD, Snowflake, BigQuery, MySQL, SQL, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=039063e25cce7591)
+[Apply Here](https://www.indeed.com/viewjob?jk=77453e14526da77d)
 
 ---
 
-## 5. Data Scientist - Quantitative Trading @ TotalEnergies
+## 3. AI & Data Consultant @ Deloitte
+**Match Score:** 12.2%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, RAG, CI/CD, Git, Tableau, Power BI, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a97fe7cbba5b42a5)
+
+---
+
+## 4. Sr. Business Intelligence Engineer - Digital Experiences & Capabilities @ Visa
 **Match Score:** 10.0%
 
-📍 **Location:** Houston, TX, US USA
+📍 **Location:** San Francisco, CA, US USA
 
-🔑 **Keywords:** Data Scientist, Docker, CI/CD, MongoDB, Python, SQL, R, Scala, Optimization
+🔑 **Keywords:** RAG, Git, Hadoop, Tableau, Power BI, R, Scala, Optimization, A/B Testing
 
-[Apply Here](https://www.indeed.com/viewjob?jk=51838a211f043506)
+[Apply Here](https://www.indeed.com/viewjob?jk=3df7a7234ca3a31b)
 
 ---
 

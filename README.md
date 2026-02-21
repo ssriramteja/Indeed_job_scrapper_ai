@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-02-21
-- **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 224
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 228
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-21.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-21.xlsx)
 
@@ -10,6 +10,7 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Deloitte** | Senior Data Engineer | San Jose, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ed48e228bf802be) | 2026-02-21 |
 | **Adidev Technologies Inc** | Data Scientist / Data Science Specialist | Dallas, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=91cd87d39ed00187) | 2026-02-21 |
 | **MetLife** | Junior Software Engineer | Whippany, NJ, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27a8a2a71007930a) | 2026-02-21 |
 | **Southern New Hampshire University** | Senior Software AI Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eaf894cd20490ad2) | 2026-02-21 |
@@ -36,6 +37,8 @@
 | **Best Egg** | Data Platform Engineer II | Wilmington, DE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ff6ad916136713c) | 2026-02-21 |
 | **GENIES** | Backend Engineer Intern (LLM) | Los Angeles, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c0fa41739b22a607) | 2026-02-21 |
 | **Hilton** | AI Software Engineer (contract) | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8576dc30077a3e83) | 2026-02-21 |
+| **clickhouse** | Software Engineer - Database Integrations | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77453e14526da77d) | 2026-02-21 |
+| **Deloitte** | AI & Data Consultant | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a97fe7cbba5b42a5) | 2026-02-21 |
 | **Salesforce** | Software Engineering MTS | Indianapolis, IN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=872c45b8ca00b9d0) | 2026-02-21 |
 | **McKesson** | Sr. Quality Engineer | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=484a7d4e140ae699) | 2026-02-21 |
 | **NVIDIA** | Senior Software Engineer - AI Research Clusters | Santa Clara, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e62aae990e8e1e0d) | 2026-02-21 |
@@ -48,6 +51,7 @@
 | **eCapital** | Senior Software Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98e272ab19ecdfca) | 2026-02-21 |
 | **Driven Brands** | Data Engineer | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=039063e25cce7591) | 2026-02-21 |
 | **TotalEnergies** | Data Scientist - Quantitative Trading | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51838a211f043506) | 2026-02-21 |
+| **Visa** | Sr. Business Intelligence Engineer - Digital Experiences & Capabilities | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3df7a7234ca3a31b) | 2026-02-21 |
 | **Breeze Airways** | Machine Learning Engineer | Salt Lake City, UT, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d767420f2a9716f8) | 2026-02-20 |
 | **Honeywell** | Advanced AI Engineer (Generative AI) | Phoenix, AZ, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a32e71c90b7de7dd) | 2026-02-20 |
 | **Veolia** | Intern - AI Engineering SLM | Paramus, NJ, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37bd83d543bfc24a) | 2026-02-20 |
