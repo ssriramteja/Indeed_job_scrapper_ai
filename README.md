@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-02-21
-- **New Matches Found in Last Run:** 2
-- **Total Active Matches (Last 4 Days):** 236
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 240
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-21.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-21.xlsx)
 
@@ -52,6 +52,10 @@
 | **Liveworld** | Midlevel Software Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7dffdc68dbca47db) | 2026-02-21 |
 | **C1** | Application Development Intern - Artificial Intelligence | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=572965e66b126cf4) | 2026-02-21 |
 | **Ascension** | Software Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11c257b267f7ca14) | 2026-02-21 |
+| **HCA Healthcare** | Senior Software Engineer | Nashville, TN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7055f93be6329f9d) | 2026-02-21 |
+| **Baylor Scott & White Health** | Analytics Developer 3 - HEDIS Quality | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49c56062f945cbd6) | 2026-02-21 |
+| **Forvia** | Software Engineer | Auburn Hills, MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=711075e72263a26e) | 2026-02-21 |
+| **Forvia** | Data Scientist | Auburn Hills, MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0761c4262d5d60ff) | 2026-02-21 |
 | **NVIDIA** | AI and ML HPC Cluster Engineer | Santa Clara, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=608e4534825362a1) | 2026-02-21 |
 | **eCapital** | Senior Software Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98e272ab19ecdfca) | 2026-02-21 |
 | **Driven Brands** | Data Engineer | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=039063e25cce7591) | 2026-02-21 |
