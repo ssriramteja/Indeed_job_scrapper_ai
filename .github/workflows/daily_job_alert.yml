@@ -2,7 +2,9 @@ name: Hourly Job Alert
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Runs every hour
+    - cron: '0 13,15,17,19,21,23 * * 1-5' # Weekdays: Every 2 hours day (EST 8am-8pm)
+    - cron: '0 1,5,9 * * 1-5'             # Weekdays: Every 4 hours night (EST 8pm-8am)
+    - cron: '0 13,1 * * 0,6'              # Weekends: 8am and 8pm EST
   workflow_dispatch:        # Also allows manual trigger from GitHub UI
 
 jobs:
