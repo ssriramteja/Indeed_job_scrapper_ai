@@ -1,15 +1,21 @@
 # 🚀 Indeed Job Scraper AI
 
-### 📊 Latest Update: 2026-02-20
-- **New Matches Found in Last Run:** 186
-- **Total Active Matches (Last 4 Days):** 186
-- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-20.md)
-- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-20.xlsx)
+### 📊 Latest Update: 2026-02-21
+- **New Matches Found in Last Run:** 6
+- **Total Active Matches (Last 4 Days):** 192
+- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-21.md)
+- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-21.xlsx)
 
 #### 🎯 Rolling Window: Matches from last 4 days
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Southern New Hampshire University** | Senior Software AI Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eaf894cd20490ad2) | 2026-02-21 |
+| **Southern New Hampshire University** | Senior Software AI Engineer - Fullstack | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=04eec46adb7daf9d) | 2026-02-21 |
+| **Abbott** | Data Engineer | Pleasanton, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44aa0d70d66a42cd) | 2026-02-21 |
+| **LMI** | Data Scientist | Colorado Springs, CO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62eecaeeda0ea761) | 2026-02-21 |
+| **Ally Financial** | Software Engineer – Identity Shield & Consumer Fraud - Shield | Charlotte, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1496bf62962757c0) | 2026-02-21 |
+| **Salesforce** | Software Engineering MTS | Indianapolis, IN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=872c45b8ca00b9d0) | 2026-02-21 |
 | **Breeze Airways** | Machine Learning Engineer | Salt Lake City, UT, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d767420f2a9716f8) | 2026-02-20 |
 | **Honeywell** | Advanced AI Engineer (Generative AI) | Phoenix, AZ, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a32e71c90b7de7dd) | 2026-02-20 |
 | **Veolia** | Intern - AI Engineering SLM | Paramus, NJ, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37bd83d543bfc24a) | 2026-02-20 |
