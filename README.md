@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-02-21
-- **New Matches Found in Last Run:** 6
-- **Total Active Matches (Last 4 Days):** 219
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 224
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-21.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-21.xlsx)
 
@@ -29,6 +29,7 @@
 | **Grainger** | Data Engineer III | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca71348ca74ae1ce) | 2026-02-21 |
 | **GENIES** | Machine Learning Engineer: ML Infra and Model Optimization | Los Angeles, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f207a3617ebf2e2) | 2026-02-21 |
 | **American Academy of Orthopaedic Surgeons** | Senior Data Engineer | Rosemont, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c11ce56e07f4ef5b) | 2026-02-21 |
+| **OnPoint Consulting, Inc** | AI/ML Engineer (Mid-Level) | Bethesda, MD, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ecd65ee8e23a06be) | 2026-02-21 |
 | **Ally Financial** | Software Engineer – Identity Shield & Consumer Fraud - Shield | Charlotte, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1496bf62962757c0) | 2026-02-21 |
 | **McKesson** | Software Engineer | Columbus, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1ace665b571d0bb) | 2026-02-21 |
 | **McKesson** | Sr Software Engineer | Columbus, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=75d8c3155721fa1b) | 2026-02-21 |
@@ -41,8 +42,12 @@
 | **General Dynamics Information Technology** | AI/ML Engineer SME (CMS) | IN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fdbbee24455a9dd6) | 2026-02-21 |
 | **Stitch Consulting Services, Inc.** | Technical Architect - Databricks | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d2439e6093084e24) | 2026-02-21 |
 | **Huntington Bank** | Senior Data Scientist | Detroit, MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05207a6563aa981a) | 2026-02-21 |
+| **Zoox** | AI Applications Development Intern | Foster City, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d2402acc3891444) | 2026-02-21 |
+| **Liveworld** | Midlevel Software Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7dffdc68dbca47db) | 2026-02-21 |
 | **NVIDIA** | AI and ML HPC Cluster Engineer | Santa Clara, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=608e4534825362a1) | 2026-02-21 |
 | **eCapital** | Senior Software Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98e272ab19ecdfca) | 2026-02-21 |
+| **Driven Brands** | Data Engineer | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=039063e25cce7591) | 2026-02-21 |
+| **TotalEnergies** | Data Scientist - Quantitative Trading | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51838a211f043506) | 2026-02-21 |
 | **Breeze Airways** | Machine Learning Engineer | Salt Lake City, UT, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d767420f2a9716f8) | 2026-02-20 |
 | **Honeywell** | Advanced AI Engineer (Generative AI) | Phoenix, AZ, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a32e71c90b7de7dd) | 2026-02-20 |
 | **Veolia** | Intern - AI Engineering SLM | Paramus, NJ, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37bd83d543bfc24a) | 2026-02-20 |
