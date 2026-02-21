@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,9 +40,7 @@ jobs:
           retention-days: 7
 
       - name: Commit and Push changes
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md daily_matches/history.json daily_matches/active_jobs.json daily_matches/job_matches_*.md daily_matches/job_matches_*.xlsx
-          git commit -m "Auto-update hourly job matches and history: $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update hourly job matches and history: $(date +'%Y-%m-%d %H:%M')"
+          file_pattern: 'README.md daily_matches/history.json daily_matches/active_jobs.json daily_matches/job_matches_*.md daily_matches/job_matches_*.xlsx'
