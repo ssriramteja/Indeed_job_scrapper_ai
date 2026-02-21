@@ -109,7 +109,7 @@ def save_history(urls: set):
 
 def update_readme(today, md_file, excel_file, jobs):
     """
-    Updates the repository README.md with the latest run results, including job details.
+    Updates the repository README.md with the latest run results, including job details in a table format.
     """
     readme_path = os.path.join("..", "README.md")
     if not os.path.exists(readme_path):
@@ -124,18 +124,27 @@ def update_readme(today, md_file, excel_file, jobs):
     stats += f"- 📄 [Full Markdown Report]({rel_md})\n"
     stats += f"- 📁 [Excel Report]({rel_excel})\n\n"
     
-    # Add top 5 matches directly to README
+    # Add top 10 matches directly to README in a table format
     if jobs:
-        stats += "#### 🎯 Top Matches Today:\n"
-        for i, job in enumerate(jobs[:5], 1):
+        stats += "#### 🎯 Top Matches Today:\n\n"
+        stats += "| Company | Role | Location | Application | Age |\n"
+        stats += "| :--- | :--- | :--- | :--- | :--- |\n"
+        
+        for job in jobs[:10]:
             title = job.get('title', 'N/A')
             company = job.get('company', 'N/A')
-            score = job.get('score', 0)
+            location = job.get('location', 'N/A')
             url = job.get('apply_link', '#')
-            stats += f"{i}. **{title}** at **{company}** — Match Score: {score}% ([Apply]({url}))\n"
+            # For "Age", we'll use "0d" for fresh scrapes, or try to parse posted_at
+            age = "0d" 
+            
+            # Application column with a link
+            app_link = f"[Apply 🚀]({url})"
+            
+            stats += f"| **{company}** | {title} | {location} | {app_link} | {age} |\n"
         
-        if len(jobs) > 5:
-            stats += f"\n...and {len(jobs) - 5} more matches in the [Full Report]({rel_md}).\n"
+        if len(jobs) > 10:
+            stats += f"\n...and {len(jobs) - 10} more matches in the [Full Report]({rel_md}).\n"
     
     stats += "\n---\n\n"
     stats += "## 📂 Historical Matches\n"
