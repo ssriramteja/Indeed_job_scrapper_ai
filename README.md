@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-02-21
-- **New Matches Found in Last Run:** 6
-- **Total Active Matches (Last 4 Days):** 234
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 236
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-21.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-21.xlsx)
 
@@ -58,6 +58,8 @@
 | **TotalEnergies** | Data Scientist - Quantitative Trading | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51838a211f043506) | 2026-02-21 |
 | **Visa** | Sr. Business Intelligence Engineer - Digital Experiences & Capabilities | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3df7a7234ca3a31b) | 2026-02-21 |
 | **C1** | Application Development Intern - Artificial Intelligence | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3168e2727d0f09d) | 2026-02-21 |
+| **JPMorganChase** | Data Scientist Associate - Payments Data & Analytics | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=88e65ed63acca9c3) | 2026-02-21 |
+| **The Home Depot** | DATA SCIENTIST - SUPPLY CHAIN | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cef5a66a07b4ad4f) | 2026-02-21 |
 | **Breeze Airways** | Machine Learning Engineer | Salt Lake City, UT, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d767420f2a9716f8) | 2026-02-20 |
 | **Honeywell** | Advanced AI Engineer (Generative AI) | Phoenix, AZ, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a32e71c90b7de7dd) | 2026-02-20 |
 | **Veolia** | Intern - AI Engineering SLM | Paramus, NJ, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37bd83d543bfc24a) | 2026-02-20 |
