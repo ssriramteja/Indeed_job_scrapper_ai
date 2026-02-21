@@ -124,27 +124,24 @@ def update_readme(today, md_file, excel_file, jobs):
     stats += f"- 📄 [Full Markdown Report]({rel_md})\n"
     stats += f"- 📁 [Excel Report]({rel_excel})\n\n"
     
-    # Add top 10 matches directly to README in a table format
+    # Add all matches directly to README in a table format
     if jobs:
-        stats += "#### 🎯 Top Matches Today:\n\n"
-        stats += "| Company | Role | Location | Application | Age |\n"
-        stats += "| :--- | :--- | :--- | :--- | :--- |\n"
+        stats += "#### 🎯 All Matches Today:\n\n"
+        stats += "| Company | Role | Location | Match Score | Application | Date |\n"
+        stats += "| :--- | :--- | :--- | :--- | :--- | :--- |\n"
         
-        for job in jobs[:10]:
+        for job in jobs:
             title = job.get('title', 'N/A')
             company = job.get('company', 'N/A')
             location = job.get('location', 'N/A')
             url = job.get('apply_link', '#')
-            # For "Age", we'll use "0d" for fresh scrapes, or try to parse posted_at
-            age = "0d" 
+            score = f"{job.get('score', 0)}%"
+            posted_at = job.get('posted_at', 'Unknown')
             
             # Application column with a link
             app_link = f"[Apply 🚀]({url})"
             
-            stats += f"| **{company}** | {title} | {location} | {app_link} | {age} |\n"
-        
-        if len(jobs) > 10:
-            stats += f"\n...and {len(jobs) - 10} more matches in the [Full Report]({rel_md}).\n"
+            stats += f"| **{company}** | {title} | {location} | {score} | {app_link} | {posted_at} |\n"
     
     stats += "\n---\n\n"
     stats += "## 📂 Historical Matches\n"
