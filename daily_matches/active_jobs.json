@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Fresh Job Today",
+        "company": "FreshCorp",
+        "apply_link": "https://fresh.com",
+        "score": 90,
+        "scrapped_date": "2026-02-20"
+    },
+    {
+        "title": "Recent Job (2d)",
+        "company": "RecentCorp",
+        "apply_link": "https://recent.com",
+        "scrapped_date": "2026-02-18",
+        "score": 60
+    }
+]

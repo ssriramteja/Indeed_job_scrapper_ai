@@ -1,5 +1,6 @@
-from datetime import date
+from datetime import date, datetime, timedelta
 import os
+import json # Moved up for clarity
 
 def save_jobs_to_note(jobs: list):
     """
@@ -107,50 +108,88 @@ def save_history(urls: set):
     except Exception as e:
         print(f"⚠️ Error saving history: {e}")
 
-def update_readme(today, md_file, excel_file, jobs):
+def update_readme(today_str, md_file, excel_file, new_jobs):
     """
-    Updates the repository README.md with the latest run results, including job details in a table format.
+    Updates the repository README.md with a 4-day rolling window of jobs.
     """
     readme_path = os.path.join("..", "README.md")
     if not os.path.exists(readme_path):
         readme_path = "README.md"
+    
+    active_jobs_file = os.path.join("daily_matches", "active_jobs.json")
+    
+    # Load existing active jobs
+    active_jobs = []
+    if os.path.exists(active_jobs_file):
+        try:
+            with open(active_jobs_file, "r") as f:
+                active_jobs = json.load(f)
+        except Exception as e:
+            print(f"⚠️ Error loading active jobs: {e}")
 
+    # Merge new jobs (avoiding duplicates by apply_link)
+    seen_urls = {j.get('apply_link') for j in active_jobs if j.get('apply_link')}
+    for job in new_jobs:
+        if job.get('apply_link') not in seen_urls:
+            # Tag with scrapped_date
+            job['scrapped_date'] = today_str
+            active_jobs.append(job)
+    
+    # Filter out jobs older than 4 days
+    today = datetime.strptime(today_str, "%Y-%m-%d").date()
+    filtered_active = []
+    for job in active_jobs:
+        try:
+            scrapped_date_str = job.get('scrapped_date')
+            scrapped_date = datetime.strptime(scrapped_date_str, "%Y-%m-%d").date()
+            if (today - scrapped_date).days < 4:
+                filtered_active.append(job)
+        except Exception:
+            # If date format is wrong, keep it for safety unless it's clearly old
+            filtered_active.append(job)
+            
+    # Sort by score for display
+    filtered_active.sort(key=lambda x: x.get('score', 0), reverse=True)
+
+    # Save back to JSON
+    try:
+        with open(active_jobs_file, "w") as f:
+            json.dump(filtered_active, f, indent=4)
+    except Exception as e:
+        print(f"⚠️ Error saving active jobs: {e}")
+
+    # Generate README content
     rel_md = f"job-alert/{md_file}"
     rel_excel = f"job-alert/{excel_file}"
 
     header = "# 🚀 Indeed Job Scraper AI\n\n"
-    stats = f"### 📊 Latest Update: {today}\n"
-    stats += f"- **New Matches Found Today:** {len(jobs)}\n"
+    stats = f"### 📊 Latest Update: {today_str}\n"
+    stats += f"- **New Matches Found in Last Run:** {len(new_jobs)}\n"
+    stats += f"- **Total Active Matches (Last 4 Days):** {len(filtered_active)}\n"
     stats += f"- 📄 [Full Markdown Report]({rel_md})\n"
     stats += f"- 📁 [Excel Report]({rel_excel})\n\n"
     
-    # Add all matches directly to README in a table format
-    if jobs:
-        stats += "#### 🎯 All Matches Today:\n\n"
-        stats += "| Company | Role | Location | Match Score | Application | Date |\n"
+    if filtered_active:
+        stats += "#### 🎯 Rolling Window: Matches from last 4 days\n\n"
+        stats += "| Company | Role | Location | Match Score | Application | Date Found |\n"
         stats += "| :--- | :--- | :--- | :--- | :--- | :--- |\n"
         
-        for job in jobs:
+        for job in filtered_active:
             title = job.get('title', 'N/A')
             company = job.get('company', 'N/A')
             location = job.get('location', 'N/A')
             url = job.get('apply_link', '#')
             score = f"{job.get('score', 0)}%"
-            posted_at = job.get('posted_at', 'Unknown')
-            
-            # Application column with a link
+            scrapped_at = job.get('scrapped_date', 'Unknown')
             app_link = f"[Apply 🚀]({url})"
-            
-            stats += f"| **{company}** | {title} | {location} | {score} | {app_link} | {posted_at} |\n"
+            stats += f"| **{company}** | {title} | {location} | {score} | {app_link} | {scrapped_at} |\n"
     
     stats += "\n---\n\n"
     stats += "## 📂 Historical Matches\n"
     stats += "All previous matches can be found in the [daily_matches/](job-alert/daily_matches/) folder.\n"
 
-    # For the user's specific request "update them daily to read.me.md file with adding the date", 
-    # we'll overwrite the main dashboard area.
     with open(readme_path, "w") as f:
         f.write(header + stats)
     
-    print(f"✅ README.md updated at {readme_path}")
+    print(f"✅ README.md updated with 4-day rolling window ({len(filtered_active)} jobs)")
 
