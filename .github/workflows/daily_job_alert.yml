@@ -31,6 +31,14 @@ jobs:
         with:
           name: job-matches
           path: |
-            job_matches_*.md
-            job_matches_*.xlsx
+            job-alert/daily_matches/job_matches_*.md
+            job-alert/daily_matches/job_matches_*.xlsx
           retention-days: 7
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add job-alert/daily_matches/job_matches_*.md job-alert/daily_matches/job_matches_*.xlsx
+          git commit -m "Auto-update daily job matches: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push

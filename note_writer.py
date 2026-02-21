@@ -8,7 +8,7 @@ def save_jobs_to_note(jobs: list):
     today = date.today().strftime("%Y-%m-%d")
     
     # Ensure outputs directory exists
-    output_dir = "outputs"
+    output_dir = "daily_matches"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         
@@ -54,7 +54,7 @@ def save_jobs_to_excel(jobs: list):
     today = date.today().strftime("%Y-%m-%d")
     
     # Ensure outputs directory exists
-    output_dir = "outputs"
+    output_dir = "daily_matches"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         
