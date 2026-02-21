@@ -148,8 +148,8 @@ def update_readme(today_str, md_file, excel_file, new_jobs):
             # If date format is wrong, keep it for safety unless it's clearly old
             filtered_active.append(job)
             
-    # Sort by score for display
-    filtered_active.sort(key=lambda x: x.get('score', 0), reverse=True)
+    # Sort by date (newest first) and then score for display
+    filtered_active.sort(key=lambda x: (x.get('scrapped_date', ''), x.get('score', 0)), reverse=True)
 
     # Save back to JSON
     try:
