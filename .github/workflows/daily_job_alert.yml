@@ -40,5 +40,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md job-alert/daily_matches/history.json job-alert/daily_matches/job_matches_*.md job-alert/daily_matches/job_matches_*.xlsx
-          git commit -m "Auto-update daily job matches and history: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git commit -m "Auto-update hourly job matches and history: $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
           git push
