@@ -1,15 +1,21 @@
 # 🚀 Indeed Job Scraper AI
 
-### 📊 Latest Update: 2026-02-21
-- **New Matches Found in Last Run:** 1
-- **Total Active Matches (Last 4 Days):** 241
-- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-21.md)
-- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-21.xlsx)
+### 📊 Latest Update: 2026-02-22
+- **New Matches Found in Last Run:** 6
+- **Total Active Matches (Last 4 Days):** 247
+- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-22.md)
+- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-22.xlsx)
 
 #### 🎯 Rolling Window: Matches from last 4 days
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **ExxonMobil** | Data Scientist, Upstream Development | Houston, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18763024525c9788) | 2026-02-22 |
+| **Oak Ridge National Laboratory** | Postdoctoral Research Associate, Agentic Workflows | Oak Ridge, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ffa230522b70ff07) | 2026-02-22 |
+| **Staples** | Sr Analyst Supply Chain Ops Research | Framingham, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3757762afd6acc3f) | 2026-02-22 |
+| **Mercury Insurance Company** | Senior Software Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cee995a368e6f967) | 2026-02-22 |
+| **Medtronic** | IT Architect Advisor - Enterprise Architecture Data and AI | Mounds View, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=48d58844218ed408) | 2026-02-22 |
+| **KBR** | AI Engineer – Agentic AI Solutions for Automated Decision Making | Sioux Falls, SD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=483d9c2d7745bdd6) | 2026-02-22 |
 | **Deloitte** | Senior Data Engineer | San Jose, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ed48e228bf802be) | 2026-02-21 |
 | **Johnson Controls** | Ai/ML Engineer | Dallas, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a93129ac0f94b09) | 2026-02-21 |
 | **Adidev Technologies Inc** | Data Scientist / Data Science Specialist | Dallas, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=91cd87d39ed00187) | 2026-02-21 |
