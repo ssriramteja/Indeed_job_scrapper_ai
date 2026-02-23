@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-02-23
-- **New Matches Found in Last Run:** 33
-- **Total Active Matches (Last 4 Days):** 360
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 363
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-23.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-23.xlsx)
 
@@ -17,6 +17,8 @@
 | **Convey** | Software Engineer New | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f0c38e749fbda51) | 2026-02-23 |
 | **Convey** | Senior Software Engineer New | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5a7e1e1ef2ff4bf9) | 2026-02-23 |
 | **Sigma Computing** | Senior Security Engineer – Cloud & Data Security | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d4ac754da67252d) | 2026-02-23 |
+| **BakerHostetler** | Solutions Architect | Cleveland, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b9840944141fbe6) | 2026-02-23 |
+| **NVIDIA** | Senior ML Platform Engineer | Santa Clara, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=062cd6698cf7e079) | 2026-02-23 |
 | **SAS** | Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's) | Cary, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03cc8e157898599f) | 2026-02-23 |
 | **Sharetec** | Senior Mobile Software Engineer (Full Stack) | Nashville, TN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=927f66c68876634e) | 2026-02-23 |
 | **Sigma Computing** | Technical Support Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b94386ac1471ed5e) | 2026-02-23 |
@@ -41,6 +43,7 @@
 | **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03a0717e81c9117f) | 2026-02-23 |
 | **GEICO** | Senior Machine Learning Engineer | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b05beae17f6dead) | 2026-02-23 |
 | **GEICO** | Senior Machine Learning Engineer | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b09166cd6c260952) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a4c5f2f4766a9526) | 2026-02-23 |
 | **SportsBiz Group Inc** | Computer Vision Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5d516d199f412e9) | 2026-02-23 |
 | **Sigma Computing** | Technical Support Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a01c49c40c088fe3) | 2026-02-23 |
 | **Expedia Group** | Senior Software Development Engineer - Advertising Technology | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5437a1b0e8faf95d) | 2026-02-23 |
