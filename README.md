@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-02-23
-- **New Matches Found in Last Run:** 8
-- **Total Active Matches (Last 4 Days):** 317
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 320
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-23.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-23.xlsx)
 
@@ -15,9 +15,12 @@
 | **Dell Technologies** | Senior Systems Engineer, UDS Data Management - East | MA, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff8fbb8c2cb45e2e) | 2026-02-23 |
 | **Texplorers Inc.** | Senior AI Engineer | Lewisville, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9aa5392b1ae4eac1) | 2026-02-23 |
 | **SAS** | Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's) | Cary, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03cc8e157898599f) | 2026-02-23 |
+| **Sharetec** | Senior Mobile Software Engineer (Full Stack) | Nashville, TN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=927f66c68876634e) | 2026-02-23 |
 | **SportsBiz Group Inc** | Computer Vision Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5d516d199f412e9) | 2026-02-23 |
 | **SAP** | SAP iXp Intern - AI Machine Learning | Palo Alto, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90785d4b0ecee872) | 2026-02-23 |
 | **nan** | Kitchen Helper | Daphne, AL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fed55110419e5c18) | 2026-02-23 |
+| **EY** | Service Delivery Center - Microsoft Power Platform & Copilot Engineer - Senior | Alpharetta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dba14496bf2d3822) | 2026-02-23 |
+| **EY** | Service Delivery Center - Microsoft Power Platform & Copilot Engineer - Analyst | Alpharetta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=964e7d50ab093cb2) | 2026-02-23 |
 | **Deloitte** | Senior Consultant - GenAI Full Stack Developer | Seattle, WA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6880377961dd34c) | 2026-02-22 |
 | **Deloitte** | Senior Consultant - GenAI Full Stack Developer | Columbus, OH, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f8d81da2675f09a) | 2026-02-22 |
 | **Deloitte** | Senior Consultant - GenAI Full Stack Developer | Jericho, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80ecea7854c84d2f) | 2026-02-22 |
