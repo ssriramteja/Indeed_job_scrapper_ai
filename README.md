@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-02-23
-- **New Matches Found in Last Run:** 7
-- **Total Active Matches (Last 4 Days):** 327
+- **New Matches Found in Last Run:** 33
+- **Total Active Matches (Last 4 Days):** 360
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-23.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-23.xlsx)
 
@@ -20,10 +20,43 @@
 | **SAS** | Summer 2026 – Business Value Engineering & Financial Analytics Intern (Master's) | Cary, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03cc8e157898599f) | 2026-02-23 |
 | **Sharetec** | Senior Mobile Software Engineer (Full Stack) | Nashville, TN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=927f66c68876634e) | 2026-02-23 |
 | **Sigma Computing** | Technical Support Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b94386ac1471ed5e) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=382ed68c6be421a9) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=627cfc3847a07be3) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c3e693503a2f491) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47fc26ace33f4e57) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98982339150895a6) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=309f87cd1d128f5b) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=325a8c51c30cf1d5) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d9d29b7e0b3cdd3d) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b35508015ceb239c) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=331f99049a5d1dae) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59b1ffe4fc565874) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=24051d8ef80e37dd) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=975af84117bd48cb) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da9723a3cb997006) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2fbdd2a08360c65b) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8da24880aebfb290) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8500db98fb6bca16) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f1d3eb5b6b7312c3) | 2026-02-23 |
+| **YO IT CONSULTING** | Data Scientist - Kaggle Grandmaster | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03a0717e81c9117f) | 2026-02-23 |
+| **GEICO** | Senior Machine Learning Engineer | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b05beae17f6dead) | 2026-02-23 |
+| **GEICO** | Senior Machine Learning Engineer | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b09166cd6c260952) | 2026-02-23 |
 | **SportsBiz Group Inc** | Computer Vision Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5d516d199f412e9) | 2026-02-23 |
 | **Sigma Computing** | Technical Support Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a01c49c40c088fe3) | 2026-02-23 |
 | **Expedia Group** | Senior Software Development Engineer - Advertising Technology | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5437a1b0e8faf95d) | 2026-02-23 |
 | **Arcline** | ML / AI Infrastructure Engineering Intern | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9afaefdf5d1354cd) | 2026-02-23 |
+| **Houston-Galveston Area Council** | Senior Systems Analyst | Houston, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a2e29b7af96f5f4f) | 2026-02-23 |
+| **GEICO** | Senior .NET Backend Engineer - Billing Platform *Hybrid* | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=29e4884190f9d7a3) | 2026-02-23 |
+| **GEICO** | Senior .NET Backend Engineer - Billing Platform *Hybrid* | Oakland, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eadabb150b4442f0) | 2026-02-23 |
+| **GEICO** | Senior .NET Backend Engineer - Billing Platform *Hybrid* | Chevy Chase, MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4da0f08be0e909f) | 2026-02-23 |
+| **GEICO** | Senior .NET Backend Engineer - Billing Platform *Hybrid* | Fort Worth, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=efaec18d25b07d81) | 2026-02-23 |
+| **GEICO** | Senior .NET Backend Engineer - Billing Platform *Hybrid* | Washington, DC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1cebc1bef750dca) | 2026-02-23 |
+| **GEICO** | Senior .NET Backend Engineer - Billing Platform *Hybrid* | San Jose, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cde6c28d5dce5f78) | 2026-02-23 |
+| **GEICO** | Senior .NET Backend Engineer - Billing Platform *Hybrid* | Dallas, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aaea5358edb7c5ca) | 2026-02-23 |
+| **GEICO** | Senior .NET Backend Engineer - Billing Platform *Hybrid* | Palo Alto, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a11b62e64d0be8e6) | 2026-02-23 |
+| **GEICO** | Senior .NET Backend Engineer - Billing Platform *Hybrid* | Richardson, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ba7b0ffd18b7ca7) | 2026-02-23 |
+| **GEICO** | Senior .NET Backend Engineer - Billing Platform *Hybrid* | Falls Church, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b56c157ed6bcb260) | 2026-02-23 |
+| **GEICO** | Senior .NET Backend Engineer - Billing Platform *Hybrid* | Baltimore, MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=93133844d882af32) | 2026-02-23 |
 | **SAP** | SAP iXp Intern - AI Machine Learning | Palo Alto, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90785d4b0ecee872) | 2026-02-23 |
 | **nan** | Kitchen Helper | Daphne, AL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fed55110419e5c18) | 2026-02-23 |
 | **EY** | Service Delivery Center - Microsoft Power Platform & Copilot Engineer - Senior | Alpharetta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dba14496bf2d3822) | 2026-02-23 |
