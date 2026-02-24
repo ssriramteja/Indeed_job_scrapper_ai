@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-02-24
-- **New Matches Found in Last Run:** 16
-- **Total Active Matches (Last 4 Days):** 322
+- **New Matches Found in Last Run:** 13
+- **Total Active Matches (Last 4 Days):** 335
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-24.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-24.xlsx)
 
@@ -11,6 +11,8 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Pindrop** | Senior Software Engineer - ML Ops | Remote, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7db54c6b588d8f5c) | 2026-02-24 |
+| **Seismic** | Senior Software Engineer II - Backend - AI Search | US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ee26f17ffea2401) | 2026-02-24 |
+| **Seismic** | Senior Software Engineer II - AI/ML | US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b9be3c418bc5646) | 2026-02-24 |
 | **NYC Health + Hospitals** | Dir, AI Platform Engineering | New York, NY, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34c920d00f0a63af) | 2026-02-24 |
 | **Cargomatic** | Data Engineer | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4eebde6b6cf3dae) | 2026-02-24 |
 | **Match Made Tech** | Data Engineer (Hybrid) | Irvine, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7496d31cfec6658e) | 2026-02-24 |
@@ -31,6 +33,10 @@
 | **Realign** | Senior Generative AI Developer-1 | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fbe61600116cf690) | 2026-02-24 |
 | **Realign** | Senior Generative AI Developer-1 | Jersey City, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c15b9e57ef4bd9f) | 2026-02-24 |
 | **MNTN** | Senior Engineer, Machine Learning | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d09521a9228f78a) | 2026-02-24 |
+| **Wells Fargo** | Senior Software Engineer | Columbus, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da661d8fb0ece801) | 2026-02-24 |
+| **Wells Fargo** | Senior Software Engineer | Minneapolis, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f03d32c795783e6d) | 2026-02-24 |
+| **Wells Fargo** | Senior Software Engineer | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ce987d03cd6c59b) | 2026-02-24 |
+| **McAfee** | Senior Data Engineer | Frisco, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4210181db0262688) | 2026-02-24 |
 | **Minute Media** | Analytics Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2aba85d8fb6add85) | 2026-02-24 |
 | **JIG-SAW US, Inc.** | AI / Data Engineer, AI/ML-powered IoT Platform | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=48b6a9e62830f431) | 2026-02-24 |
 | **Minute Media** | Analytics Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=78ea236ffc20e955) | 2026-02-24 |
@@ -49,6 +55,9 @@
 | **eBay** | Engineering Systems & Tools Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9610a75feeeb729) | 2026-02-24 |
 | **Anyware Robotics** | Robotics Infrastructure Software Intern | Fremont, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5eb15092385e430) | 2026-02-24 |
 | **Sharetec** | Senior Full Stack Software Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3be640f527ac8228) | 2026-02-24 |
+| **Tungsten Automation** | IT Integration Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb56bd3754295d02) | 2026-02-24 |
+| **Panasonic** | Machine Learning Engineer IV | Irvine, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00b52d63f45b1e0a) | 2026-02-24 |
+| **Avita Care Solutions** | Machine Learning Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c48dba4ca99290f) | 2026-02-24 |
 | **Rochester Regional Health** | AI Solutions Architect | Rochester, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1635116397db4b4) | 2026-02-24 |
 | **Enlyte** | DevSecOps Engineering Intern | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1e5927d938f5c3b) | 2026-02-24 |
 | **Innodata** | Applied Research Scientist, LLM Evaluation & Post-Training | Ridgefield Park, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69285f2f7c852f92) | 2026-02-24 |
@@ -69,6 +78,10 @@
 | **The Hartford** | Senior Software Engineer - Intelligent Document Processing | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49b0ecb3824425f0) | 2026-02-24 |
 | **The Hartford** | Senior Software Engineer - Intelligent Document Processing | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4785f4e219aa24cd) | 2026-02-24 |
 | **The Hartford** | Senior Software Engineer - Intelligent Document Processing | Danbury, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84b39ab1c65d6768) | 2026-02-24 |
+| **First Community Mortgage** | IT Automation Engineer | Murfreesboro, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be3722d7e483ab58) | 2026-02-24 |
+| **ComEd** | Data Scientist (Transmission & Substation Engineering) | Oakbrook Terrace, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f8825c9ffb07f54f) | 2026-02-24 |
+| **Mutual of Omaha** | Data Scientist | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a094b0555a3afdd7) | 2026-02-24 |
+| **Takeuchi** | AI/ML Software Developer | Pendergrass, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a073898e33b883f) | 2026-02-24 |
 | **Dell Technologies** | Senior Systems Engineer, UDS Data Management - West | CA, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6bf94c93449dfa3d) | 2026-02-23 |
 | **Dell Technologies** | Senior Systems Engineer, UDS Data Management - Central | IL, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=23fa7ab7f29d61af) | 2026-02-23 |
 | **Dell Technologies** | Senior Systems Engineer, UDS Data Management - East | MA, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff8fbb8c2cb45e2e) | 2026-02-23 |
