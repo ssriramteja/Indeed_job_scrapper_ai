@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-02-25
-- **New Matches Found in Last Run:** 18
-- **Total Active Matches (Last 4 Days):** 513
+- **New Matches Found in Last Run:** 9
+- **Total Active Matches (Last 4 Days):** 522
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-25.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-25.xlsx)
 
@@ -13,9 +13,13 @@
 | **Target** | Machine Learning Engineer - AI team | Brooklyn Park, MN, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fcd4d824813f7cb9) | 2026-02-25 |
 | **CDW** | Marketing Data Scientist - GenAI | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=699336be01be17ae) | 2026-02-25 |
 | **CDW** | Marketing Data Scientist - GenAI | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e2e93be1c330abc) | 2026-02-25 |
+| **JPMorganChase** | Software Engineer III | New York, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2cd32825b07168a6) | 2026-02-25 |
+| **JPMorganChase** | Software Engineer III (SWES03) DT_AI/ML | New York, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a073dd45695fc17b) | 2026-02-25 |
 | **AMD** | Data Scientist (Sales Operations) | Austin, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6139e59e099ba6a8) | 2026-02-25 |
 | **Auction Technology Group** | Senior Backend Engineer - Platform Enablement | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5df47aafd3009ff) | 2026-02-25 |
+| **JPMorganChase** | Software Engineer II_AI/ML | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a98bbc96397eaf9) | 2026-02-25 |
 | **Select Minds LLC** | Data Scientist | Dallas, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da736b6af49a61cb) | 2026-02-25 |
+| **SRS Distribution** | Analytics Engineer | McKinney, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=01278285fb17a0ad) | 2026-02-25 |
 | **Visa** | Senior Analytical Engineer | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fa8d280f0f8b9b62) | 2026-02-25 |
 | **Merlin Labs** | Machine Learning Operations Engineer | Boston, MA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5f002df8ebe456c) | 2026-02-25 |
 | **Ascensus** | Software Engineer | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5a47a44d6a3f091) | 2026-02-25 |
@@ -79,6 +83,11 @@
 | **Jives Media** | Data Scientist | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99587f12c0f3275c) | 2026-02-25 |
 | **Select Minds LLC** | Senior AI / ML Engineer | Dallas, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4fbed1e14e3c66df) | 2026-02-25 |
 | **NTT DATA** | Java Full Stack Developer (Server-side dev. (Java/Spring Boot) and Angular client-side dev.) | Raleigh-Durham, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e66e7f3fe329fd1) | 2026-02-25 |
+| **Rice Engineering** | Data Scientist | Houston, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a61e3564cb83914) | 2026-02-25 |
+| **Comcast** | Machine Learning Engineer (GoLang) | Washington, DC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd59edbaf799283c) | 2026-02-25 |
+| **JPMorganChase** | CCB Risk Program Senior Associate | Jersey City, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3926a9735dea4110) | 2026-02-25 |
+| **Observe.AI** | AI Agent Engineer New | Redwood City, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=07ce3418e6ab2dae) | 2026-02-25 |
+| **Mayo Clinic** | Software Engineer - UiPath Automation Developer - Remote | Rochester, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e45a9026604c809d) | 2026-02-25 |
 | **Inn-Flow Inc.** | Senior Full Stack Software Engineer | Raleigh, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9aa533db75254f28) | 2026-02-25 |
 | **Tata Consultancy Services (TCS)** | GEN AI Engineer | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ba878f2c456e3228) | 2026-02-25 |
 | **Red Hat** | Senior Software Engineer | Raleigh, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d58a276de20baa7) | 2026-02-25 |
