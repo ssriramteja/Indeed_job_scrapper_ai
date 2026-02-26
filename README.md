@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-02-26
-- **New Matches Found in Last Run:** 16
-- **Total Active Matches (Last 4 Days):** 655
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 658
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-26.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-26.xlsx)
 
@@ -15,6 +15,7 @@
 | **Tata Consultancy Services (TCS)** | CCaaS Integration Engineer | Philadelphia, PA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da6da8715ca8e326) | 2026-02-26 |
 | **First American** | Senior Data Engineer (Remote in CA) | Santa Ana, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05ccb57abd2eb2be) | 2026-02-26 |
 | **Open Insurance** | DevOps & Backend Engineer — Mid/Senior | Remote, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6691fd82745fd2c9) | 2026-02-26 |
+| **Disney Entertainment Television** | Sr Machine Learning Engineer | New York, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=06c7525b9f402e34) | 2026-02-26 |
 | **SolidLine Media** | Data Engineer | US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e8185f66fc8c270) | 2026-02-26 |
 | **Radwell International** | Enterprise AI Architect | Willingboro, NJ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=291c96af0e7cea02) | 2026-02-26 |
 | **Associated Wholesale Grocers** | Solution Engineer I | Kansas City, KS, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e5985bee213bf40) | 2026-02-26 |
@@ -45,6 +46,7 @@
 | **EverTune** | Senior Software Engineer, Back End & Infrastructure | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a89b5bd8ec3186a3) | 2026-02-26 |
 | **EverTune** | Senior Software Engineer, Back End & Infrastructure | Seattle, WA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20d3c79a118506ff) | 2026-02-26 |
 | **McKesson** | Senior Machine Learning Ops Engineer | Irving, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f8203af416f8f7f) | 2026-02-26 |
+| **Colgate-Palmolive** | Machine Learning Engineer (171679) | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7b373595b350ec3d) | 2026-02-26 |
 | **Hunter Industries** | Software Engineer - Backend/Cloud Services | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b582244014f6614c) | 2026-02-26 |
 | **M-TECH SYSTEMS** | Senior Software Engineer - Agentic AI | Dunwoody, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a11375c4da72daef) | 2026-02-26 |
 | **Redfin** | Remote Senior Applied Machine Learning Engineer - Applied Machine Learning Team | Seattle, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fc622751927c7ed2) | 2026-02-26 |
@@ -122,6 +124,7 @@
 | **Millennium Management** | Systematic Production Support Engineer | Miami, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77dbe60d954cf27d) | 2026-02-26 |
 | **Conagra Brands** | Senior Automation Enablement Engineer | Omaha, NE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d83e0839c59ed13) | 2026-02-26 |
 | **Millennium Management** | Systematic Production Support Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d69e2a46fbb76bda) | 2026-02-26 |
+| **Colgate-Palmolive** | AI Product Engineer (171682) | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a208fc4aebd38540) | 2026-02-26 |
 | **Target** | Machine Learning Engineer - AI team | Brooklyn Park, MN, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fcd4d824813f7cb9) | 2026-02-25 |
 | **SavvyMoney** | Data Scientist – AI & Machine Learning Systems (Dublin, CA) | Dublin, CA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e01821abea23411c) | 2026-02-25 |
 | **CDW** | Marketing Data Scientist - GenAI | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=699336be01be17ae) | 2026-02-25 |
