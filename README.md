@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-02-27
-- **New Matches Found in Last Run:** 6
-- **Total Active Matches (Last 4 Days):** 669
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 671
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-27.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-27.xlsx)
 
@@ -14,6 +14,7 @@
 | **LTIMindtree** | Java Full Stack – AI Engineer (Senior Software Engineer) | Tampa, FL, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=65acbad9fc6000b8) | 2026-02-27 |
 | **NTT DATA** | Senior AI Engineer | MO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6accf9a868913e9c) | 2026-02-27 |
 | **EchoStar** | Data Scientist - AI Products | Denver, CO, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0564921d1b98bba5) | 2026-02-27 |
+| **nan** | Sr Data Engineer | Glendale, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f61d4f9e0de29b6) | 2026-02-27 |
 | **Advita Ortho** | Software Engineer | Gainesville, FL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2eaf015c7a25437f) | 2026-02-27 |
 | **Ingram Micro** | Agentic AI Architect | Irvine, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac1e3fbd8cfe9177) | 2026-02-27 |
 | **Teladoc Health** | Senior Data Engineer (Snowflake & dbt) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=485d715fc100593a) | 2026-02-27 |
@@ -23,6 +24,7 @@
 | **Ingram Micro** | Agentic AI Architect | Irvine, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=138e9d49a2bbc3d5) | 2026-02-27 |
 | **Colgate-Palmolive** | Machine Learning Engineer | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8347260a96645aa2) | 2026-02-27 |
 | **California State Personnel Board** | INFORMATION TECHNOLOGY SPECIALIST II | CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=07cbf3a945c9cfd5) | 2026-02-27 |
+| **nan** | Site Reliability Engineer II | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4420b6c7bc5a59dc) | 2026-02-27 |
 | **nan** | Senior Software Engineer - Machine Learning & Artificial Intelligence (ML & AI) | King of Prussia, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d7c1193c8f42bbf) | 2026-02-27 |
 | **ClassLink, Inc.** | AI Agentics Engineer | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5930a08b3694c73c) | 2026-02-27 |
 | **Sakuu Corp** | Full-Stack Software Engineer, Manufacturing/R&D Data Platform (NestJS, Next.js, Kafka) | San Jose, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43351bc15987c6d7) | 2026-02-27 |
