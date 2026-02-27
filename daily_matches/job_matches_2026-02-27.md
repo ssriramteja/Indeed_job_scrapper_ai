@@ -1,106 +1,73 @@
 # 🎯 Daily Job Matches — 2026-02-27
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Machine Learning Engineer @ Colgate-Palmolive
-**Match Score:** 15.6%
+## 1. Full-Stack Software Engineer, Manufacturing/R&D Data Platform (NestJS, Next.js, Kafka) @ Sakuu Corp
+**Match Score:** 14.4%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** FastAPI, Docker, Kubernetes, CI/CD, GitHub Actions, Git, Kafka, PostgreSQL, MongoDB, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=43351bc15987c6d7)
+
+---
+
+## 2. Senior Software Engineer , Backend - Dining Technology @ American Express
+**Match Score:** 13.3%
 
 📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, Docker, Kubernetes, CI/CD, Git, Python, SQL, R
+🔑 **Keywords:** Docker, Kubernetes, Jenkins, GitHub Actions, Git, Kafka, MySQL, MongoDB, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8347260a96645aa2)
-
----
-
-## 2. INFORMATION TECHNOLOGY SPECIALIST II @ California State Personnel Board
-**Match Score:** 15.6%
-
-📍 **Location:** CA, US USA
-
-🔑 **Keywords:** RAG, Prompt Engineering, YOLO, Glue, Redshift, CI/CD, Snowflake, Redshift, Power BI, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=07cbf3a945c9cfd5)
+[Apply Here](https://www.indeed.com/viewjob?jk=1a55027269ae2c13)
 
 ---
 
-## 3. Database Engineer II @ Cvent
+## 3. Compliance - Technology Operational Risk Management - Data Scientist - Associate @ JPMorganChase
 **Match Score:** 12.2%
 
-📍 **Location:** Tysons Corner, VA, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** RAG, S3, Redshift, Redshift, MySQL, MongoDB, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, RAG, TensorFlow, AWS SageMaker, Databricks, Tableau, Quicksight, Matplotlib, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8e6a5e86c2af0d5a)
-
----
-
-## 4. Database Engineer II @ Cvent
-**Match Score:** 12.2%
-
-📍 **Location:** Tysons Corner, VA, US USA
-
-🔑 **Keywords:** RAG, S3, Redshift, Redshift, MySQL, MongoDB, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=131e73fa50f53df2)
+[Apply Here](https://www.indeed.com/viewjob?jk=045a831304ccc9c5)
 
 ---
 
-## 5. Data Scientist II @ RealPage Inc
+## 4. Senior Associate Analytics Solutions @ JPMorganChase
 **Match Score:** 11.1%
-
-📍 **Location:** Richardson, TX, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, TensorFlow, PyTorch, CI/CD, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f825a63f48aaa844)
-
----
-
-## 6. Java Full Stack Engineer @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Cincinnati, OH, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, AKS, CI/CD, GitHub Actions, Git, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=beee71e3e6d0cb6a)
-
----
-
-## 7. AI Product Engineer @ Colgate-Palmolive
-**Match Score:** 10.0%
 
 📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** Generative AI, LangChain, RAG, Prompt Engineering, Python, SQL, R, Java, Scala
+🔑 **Keywords:** Generative AI, RAG, Git, Hadoop, Cassandra, Tableau, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=284f71660be9ad6f)
-
----
-
-## 8. Senior Software Engineer @ Wells Fargo
-**Match Score:** 10.0%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** LangChain, S3, FastAPI, CI/CD, PostgreSQL, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f3205827d3d23a6d)
+[Apply Here](https://www.indeed.com/viewjob?jk=416f86049737d8ab)
 
 ---
 
-## 9. Senior Software Engineer @ Wells Fargo
+## 5. Senior Software Engineer - AI Infrastructure @ Oracle
 **Match Score:** 10.0%
 
-📍 **Location:** Iselin, NJ, US USA
+📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** LangChain, S3, FastAPI, CI/CD, PostgreSQL, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Docker, Terraform, NoSQL, Python, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b1ee6c0afe803222)
+[Apply Here](https://www.indeed.com/viewjob?jk=6f57588aab62f26d)
+
+---
+
+## 6. Software Engineer III- Python / Numpy / Pandas @ JPMorganChase
+**Match Score:** 10.0%
+
+📍 **Location:** Jersey City, NJ, US USA
+
+🔑 **Keywords:** RAG, CI/CD, Jenkins, Git, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7ba1ecac7a817c1c)
 
 ---
 
