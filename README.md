@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-02-28
-- **New Matches Found in Last Run:** 89
-- **Total Active Matches (Last 4 Days):** 665
+- **New Matches Found in Last Run:** 59
+- **Total Active Matches (Last 4 Days):** 724
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-02-28.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-02-28.xlsx)
 
@@ -11,6 +11,7 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **General Motors (GM)** | AI/ML Data Scientist (GPSSC) | Warren, MI, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=814016ce86a7c72d) | 2026-02-28 |
+| **KLA** | Software Engineer - Test Automation | Milpitas, CA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=463a562e09f02043) | 2026-02-28 |
 | **CVS Health** | Senior Data Engineer | Raleigh, NC, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cbc1e170de38a542) | 2026-02-28 |
 | **CVS Health** | Senior Data Engineer | Providence, RI, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2fb7e47147703669) | 2026-02-28 |
 | **CVS Health** | Senior Data Engineer | Montpelier, VT, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ddf12bf17952542) | 2026-02-28 |
@@ -55,17 +56,36 @@
 | **CVS Health** | Data Engineer | Hartford, CT, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1160a183c15d3b85) | 2026-02-28 |
 | **CVS Health** | Data Engineer | Montpelier, VT, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58248392c4bed895) | 2026-02-28 |
 | **CVS Health** | Data Engineer | Wellesley, MA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b512f84c4e3c0261) | 2026-02-28 |
+| **Sifted** | Software Engineer | US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18bfc6e6a18ce553) | 2026-02-28 |
+| **Tata Consultancy Services (TCS)** | Gen AI Engineer | Corpus Christi, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1e06a9779c3b963) | 2026-02-28 |
 | **Equifax** | Senior Site Reliability Engineer | Alpharetta, GA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bba6b64160929f1f) | 2026-02-28 |
 | **CARVANA** | Software Engineer, LLM Platform | Tempe, AZ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b9642207c5b2cc59) | 2026-02-28 |
 | **Crum & Forster** | Data Engineer | Morristown, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e5863d850559839) | 2026-02-28 |
 | **Checkmate** | Senior Analytics Engineer | US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=102e9f75d4db155a) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Greenwood Village, CO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ad62cdcb252c06b4) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Washington, DC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2bc4e267bb7823be) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Atlanta, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83fa755414d50a72) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Chicago, IL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=488428b5100aed7f) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Boston, MA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9acacc05159bbd8b) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Phoenix, AZ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cbe64447f42b99fd) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Miami, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=886ec9fbb2989eb3) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Tampa, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eda4ce3023325ae3) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ac6a8b7258b4db0) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=92087e0417204ffa) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Troy, MI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0dafbc85dde6ad1) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Los Angeles, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=06a5ea547b0b409c) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Houston, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=783e4198dfc74675) | 2026-02-28 |
+| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=344cbdafffd4b8b1) | 2026-02-28 |
 | **Prudential** | Senior Software Engineer | Newark, NJ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b65fc3a984a32f89) | 2026-02-28 |
+| **Wells Fargo** | Senior Software Engineer | Charlotte, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c476ac432d7de6d) | 2026-02-28 |
+| **JPMorganChase** | Applied AI/ML Associate | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d536353670857d77) | 2026-02-28 |
 | **Incode Technologies** | Senior Site Reliability Engineer (Public Sector) | US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ad682b69fc62b5e2) | 2026-02-28 |
 | **Scotiabank** | Senior Platform Engineer | Dallas, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=396e79600c7b7785) | 2026-02-28 |
 | **Objectways Technologies** | Data Engineer | Phoenix, AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cba73fbf347a2d2f) | 2026-02-28 |
 | **Realign** | Senior Generative AI Developer-5 | Jersey City, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3dd5e7d5f166445) | 2026-02-28 |
 | **Realign** | Senior Generative AI Developer-5 | Irving, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7544df352fa97273) | 2026-02-28 |
 | **Realign** | Senior Generative AI Developer-5 | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=539a653701298df3) | 2026-02-28 |
+| **Cornerstone OnDemand** | Senior Software Engineer | Dublin, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80bd47c732eab56e) | 2026-02-28 |
 | **PlayStation** | Machine Learning Engineer II, Search | San Mateo, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a9117e61d6c35de) | 2026-02-28 |
 | **Salesforce** | Software Engineer, Search Infrastructure - Slack | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=887b9ad94b5b444c) | 2026-02-28 |
 | **Salesforce** | Software Engineer, Search Data Infrastructure -Slack | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=969ee1debacb5796) | 2026-02-28 |
@@ -76,6 +96,40 @@
 | **Climate Cabinet** | Contract Data Engineer | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6cc8418979f43c48) | 2026-02-28 |
 | **ADP** | Application Developers | Roseland, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe1b2063f7fc47ae) | 2026-02-28 |
 | **Smith Farms North** | Full Stack Engineer | Baltimore, MD, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0367e46838cd0cf) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | St. Louis, MO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2bc1ce034d072880) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=596deed38c362a1d) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Tempe, AZ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d19a025e6bd6d5bd) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ec31e36c5de02aa) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Houston, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b7e540710a389000) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Dallas, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=feeeac4fa3a42f24) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Indianapolis, IN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=011eeb69e8fec14f) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Morristown, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=399c759e16e58f61) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Philadelphia, PA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=daaec8e72d6a45b0) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | McLean, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=24f0fbd177a7dd72) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Cincinnati, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3fb93a30ba94f803) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Nashville, TN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd7ba4869408ed3c) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ada0fd922330a0ec) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Cleveland, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=409ebe72604c1338) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Pittsburgh, PA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=67c8b6d9bf1fc1af) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Charlotte, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed5389d09b09d3ec) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Kansas City, MO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c1c51a40bacb950) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Stamford, CT, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=117746d6b7c53388) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | San Jose, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4628289a62607241) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3c5c959096e0883) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Miami, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8589d2df3b2cc9b6) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Denver, CO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97d7a058c2360d92) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Boston, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d438b7990da688fe) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58cea49ce108a9bb) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=551e20e85839e287) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Los Angeles, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=998b7f83db1589c3) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Detroit, MI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9b2833946dcdd17f) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Sacramento, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=022317dac33a7f3f) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Minneapolis, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd6f0b56c99022f9) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | San Diego, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=693e24a07a5e8f17) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Tampa, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d60b178f2aff3e14) | 2026-02-28 |
+| **Deloitte** | ConvergeCONSUMER - Data Scientist (Senior Consultant) - Innovation_Delivery_Transformation | Costa Mesa, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a362a691a1f34a95) | 2026-02-28 |
+| **AutoZone** | Sr. Windows & Cloud Administrator | Elk Grove, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f04fdf345d2242d1) | 2026-02-28 |
+| **Eikon Therapeutics** | Senior Engineer, Data Informatics | Millbrae, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e635d44a1ca175d7) | 2026-02-28 |
 | **Snap Inc.** | Quality Engineer, Level 4 | Los Angeles, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab98d24229ba7e77) | 2026-02-28 |
 | **BV Teck** | LLM Platform Engineer | Miami, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=595da48ca92a5f44) | 2026-02-28 |
 | **BV Teck** | LLM Platform Engineer | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec6fff1e9c78f471) | 2026-02-28 |
@@ -93,12 +147,17 @@
 | **Paramount** | Sr Software Engineer | Burbank, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=420672dd85d56519) | 2026-02-28 |
 | **Bank of America** | Data Scientist | Charlotte, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5dbb26eca7e71b00) | 2026-02-28 |
 | **Big Shot Pictures** | Data Scientist | Los Angeles, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94082c3ffc6cc710) | 2026-02-28 |
+| **JPMorganChase** | AI/LLM SRE Software Engineer III | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3da00a34d922cab3) | 2026-02-28 |
+| **Fiserv** | Senior Data Engineer/Analyst | Berkeley Heights, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c24add604f0e3d4c) | 2026-02-28 |
 | **Aquila Software Group** | Backend Software Engineer | Pembroke Pines, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13d753024d03d8df) | 2026-02-28 |
 | **NVIDIA** | Senior Software Engineer, Agentic AI for Science | Santa Clara, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99b12ab885bf8771) | 2026-02-28 |
 | **Blue Shield of California** | Senior Full Stack Engineer (Informatica) | Oakland, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94a7e1aa7c7ba0e7) | 2026-02-28 |
 | **Brillio LLC** | Sr.Node JS Developer – R01561357 | St. Louis, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c43a909c7851dfd2) | 2026-02-28 |
 | **TD Bank** | Applied Machine Learning Scientist II (US) | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e65b81c5b2486081) | 2026-02-28 |
 | **DataVisor** | Senior Software Engineer | Mountain View, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b14a69afc592e39d) | 2026-02-28 |
+| **Dell Technologies** | Senior Systems Development Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db1e5daa9892f8ee) | 2026-02-28 |
+| **Toast, Inc** | AI Data Analyst - Customer Success | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=48d2759402bc24d8) | 2026-02-28 |
+| **The Walt Disney Company** | Senior Quality Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70e87e376f88b615) | 2026-02-28 |
 | **Openkyber** | ML Infrastructure Architect | AK, US USA | 28.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=341544bd6730c9ac) | 2026-02-27 |
 | **Velvetech** | MLops Engineer | Remote, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=55830710a153dc5e) | 2026-02-27 |
 | **Micron Technology** | SR DATA SCIENTIST, SMART MFG & AI | Boise, ID, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=12881722cc760412) | 2026-02-27 |
