@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-01
-- **New Matches Found in Last Run:** 79
-- **Total Active Matches (Last 4 Days):** 575
+- **New Matches Found in Last Run:** 1
+- **Total Active Matches (Last 4 Days):** 576
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-01.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-01.xlsx)
 
@@ -85,6 +85,7 @@
 | **PwC** | AI & GenAI Data Scientist-Senior Associate | Indianapolis, IN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd80417e505a4be2) | 2026-03-01 |
 | **PwC** | AI & GenAI Data Scientist-Senior Associate | Chicago, IL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a546d9a1e68aab17) | 2026-03-01 |
 | **PwC** | AI & GenAI Data Scientist-Senior Associate | Houston, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c27f9aaffe47015) | 2026-03-01 |
+| **Deloitte** | Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a677917152c7ba4a) | 2026-03-01 |
 | **Allstate Insurance** | Cloud Platform Engineer (ML DevOps) | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7f5dba6447d1b44) | 2026-03-01 |
 | **Capital One** | Senior Machine Learning Engineer | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=738a91b414103579) | 2026-03-01 |
 | **Capital One** | Senior Associate, Front-End Web & Email Developer (Auto - Brand & Marketing) | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6b2be9907e86ed39) | 2026-03-01 |
