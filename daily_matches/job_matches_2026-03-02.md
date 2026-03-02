@@ -1,194 +1,161 @@
 # 🎯 Daily Job Matches — 2026-03-02
 
-**Total Jobs Found:** 17
+**Total Jobs Found:** 14
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Kafka API Engineer @ Openkyber
-**Match Score:** 20.0%
+## 1. Sr Gen AI Engineer - NY/NJ @ Photon
+**Match Score:** 17.8%
 
-📍 **Location:** AK, US USA
+📍 **Location:** NY, US USA
 
-🔑 **Keywords:** AI Engineer, RAG, Hugging Face, TensorFlow, PyTorch, MLflow, Docker, Kubernetes, CI/CD, Databricks
+🔑 **Keywords:** AI Engineer, LangChain, RAG, LLaMA, Gemini, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, FastAPI
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2bdf305a59e5377a)
-
----
-
-## 2. Kafka Schema Registry Engineer @ Openkyber
-**Match Score:** 18.9%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, FastAPI, Kubernetes, AKS, CI/CD, Jenkins, GitHub Actions, Terraform
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e4308f77f38286dd)
+[Apply Here](https://www.indeed.com/viewjob?jk=7e3492813f1c56ca)
 
 ---
 
-## 3. Java Full Stack Engineer - Professional @ Hexaware Technologies
+## 2. Software Engineer @ OmniTrust Technologies
 **Match Score:** 15.6%
 
-📍 **Location:** US USA
+📍 **Location:** Alpharetta, GA, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, CI/CD, Jenkins, Terraform, Git, PostgreSQL, Python, SQL
+🔑 **Keywords:** Generative AI, RAG, S3, FastAPI, Docker, Kubernetes, CI/CD, PostgreSQL, MySQL, MongoDB
 
-[Apply Here](https://www.indeed.com/viewjob?jk=75a593062a046b0c)
-
----
-
-## 4. MLOps Specialist @ Domino's
-**Match Score:** 15.6%
-
-📍 **Location:** Ann Arbor, MI, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, MLflow, Docker, Kubernetes, CI/CD, GitHub Actions, Git, Databricks, PySpark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2068eadbf0fe8b4e)
+[Apply Here](https://www.indeed.com/viewjob?jk=861d98ce8ccd9dd9)
 
 ---
 
-## 5. Senior Kafka Integration Engineer @ Openkyber
+## 3. Senior Data Platform SIEM Engineer @ SAP
+**Match Score:** 14.4%
+
+📍 **Location:** Newtown Square, PA, US USA
+
+🔑 **Keywords:** RAG, S3, Data Lake, Kinesis, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f6fef1f451ba88d8)
+
+---
+
+## 4. Software Development Engineer I @ GM Financial
 **Match Score:** 13.3%
 
-📍 **Location:** AK, US USA
+📍 **Location:** Arlington, TX, US USA
 
-🔑 **Keywords:** Kubernetes, CI/CD, Jenkins, Terraform, Git, Kafka, NoSQL, Python, SQL, R
+🔑 **Keywords:** Generative AI, Docker, Kubernetes, Jenkins, Terraform, Git, NoSQL, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d1ca422cd843ef14)
+[Apply Here](https://www.indeed.com/viewjob?jk=9c635f2175e2d81b)
 
 ---
 
-## 6. Associate Software Engineer @ Optum
+## 5. Sr Engineer - Interactive Compute @ Target
 **Match Score:** 13.3%
 
-📍 **Location:** Eden Prairie, MN, US USA
+📍 **Location:** Brooklyn Park, MN, US USA
 
-🔑 **Keywords:** RAG, Copilot, AKS, CI/CD, GitHub Actions, Terraform, Git, Tableau, Python, R
+🔑 **Keywords:** Data Scientist, Docker, Kubernetes, Jenkins, Git, Hadoop, NoSQL, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6c8add64b9180c0a)
+[Apply Here](https://www.indeed.com/viewjob?jk=48fd0ce1b8d654bd)
 
 ---
 
-## 7. Solutions Architect - AI @ Robots & Pencils
+## 6. AI Security Software Engineer Intern - Summer 2026 @ Lenovo
+**Match Score:** 12.2%
+
+📍 **Location:** Morrisville, NC, US USA
+
+🔑 **Keywords:** Generative AI, RAG, LLaMA, PyTorch, Git, Python, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=68a2648fcd8ad090)
+
+---
+
+## 7. Senior Software Engineer @ Patch My PC
 **Match Score:** 12.2%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Glue, Redshift, CI/CD, Terraform, Redshift, Python, R, Scala
+🔑 **Keywords:** RAG, Docker, Kubernetes, Git, MongoDB, NoSQL, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e9e0f4d3981383ee)
+[Apply Here](https://www.indeed.com/viewjob?jk=1fad6158a853f5a5)
 
 ---
 
-## 8. Kafka Cluster Support Engineer @ Openkyber
+## 8. Fullstack developer @ Xsolla
 **Match Score:** 12.2%
 
-📍 **Location:** AK, US USA
+📍 **Location:** GA, US USA
 
-🔑 **Keywords:** Generative AI, Docker, Kubernetes, Jenkins, Git, Kafka, NoSQL, Python, SQL, R
+🔑 **Keywords:** Docker, Kubernetes, CI/CD, Git, PostgreSQL, MySQL, MongoDB, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2d4ea9dc6fb0c600)
-
----
-
-## 9. Senior AI Engineer @ Fustis LLC
-**Match Score:** 12.2%
-
-📍 **Location:** Norwalk, CT, US USA
-
-🔑 **Keywords:** AI Engineer, Generative AI, Prompt Engineering, S3, Glue, Data Lake, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9c3bd906cd851479)
+[Apply Here](https://www.indeed.com/viewjob?jk=5c4d58b13b159e04)
 
 ---
 
-## 10. Data Engineer @ Visa
-**Match Score:** 12.2%
-
-📍 **Location:** Foster City, CA, US USA
-
-🔑 **Keywords:** RAG, Apache Airflow, CI/CD, Kafka, Hadoop, NoSQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e1534e35cf264fdf)
-
----
-
-## 11. AI Solutions Engineering Architect @ Plante Moran
+## 9. Machine Learning Engineer - ThousandEyes @ Cisco
 **Match Score:** 11.1%
 
-📍 **Location:** Southfield, MI, US USA
+📍 **Location:** San Francisco, CA, US USA
 
-🔑 **Keywords:** AI Engineer, RAG, Copilot, TensorFlow, PyTorch, CI/CD, Terraform, Git, R, Scala
+🔑 **Keywords:** AI Engineer, Machine Learning Engineer, RAG, TensorFlow, PyTorch, XGBoost, Git, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8b68871ac3a81296)
+[Apply Here](https://www.indeed.com/viewjob?jk=ab2d85f0cfcfae5e)
 
 ---
 
-## 12. Senior Machine Learning EngineerNew @ BILL
+## 10. Data Engineer II, Gen AI, Music @ Spotify
 **Match Score:** 11.1%
 
-📍 **Location:** Draper, UT, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, TensorFlow, PyTorch, Power BI, Python, R, Scala
+🔑 **Keywords:** Generative AI, RAG, BigQuery, Dataflow, BigQuery, Python, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ac9ae67ba53cef11)
-
----
-
-## 13. Agentic AI Engineer-6 @ Realign
-**Match Score:** 10.0%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, Gemini, Copilot, Prompt Engineering, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c8edd75e1dbb0f0f)
+[Apply Here](https://www.indeed.com/viewjob?jk=9cba9ed2348af89c)
 
 ---
 
-## 14. Applied AI Data Scientist (CEO Office) @ TheSoul Group
+## 11. RLHF Specialist @ Odixcity Consulting
+**Match Score:** 11.1%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** Machine Learning Engineer, LLaMA, Mistral, TensorFlow, PyTorch, AWS SageMaker, GCP Vertex AI, Python, R, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=99e5a37fd71b5e7d)
+
+---
+
+## 12. Machine Learning Engineer @ Fusion Risk Management
 **Match Score:** 10.0%
 
 📍 **Location:** US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, Git, Python, SQL, R, Scala
+🔑 **Keywords:** Machine Learning Engineer, Docker, Kubernetes, CI/CD, Snowflake, R, Scala, Optimization, Bayesian
 
-[Apply Here](https://www.indeed.com/viewjob?jk=91128a60c17a9a57)
-
----
-
-## 15. Kafka Real Time Analytics Engineer @ Openkyber
-**Match Score:** 10.0%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** RAG, Git, Kafka, Hadoop, Tableau, Power BI, Python, R, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1e1bbe4eeb6fb9c0)
+[Apply Here](https://www.indeed.com/viewjob?jk=c53f21951354c46c)
 
 ---
 
-## 16. Kafka Real Time Analytics Engineer @ Openkyber
+## 13. Data Scientist @ Bank of America
 **Match Score:** 10.0%
 
-📍 **Location:** AK, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** AI Engineer, RAG, Copilot, Prompt Engineering, Synapse, Kafka, SQL, R, Scala
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Cassandra, NoSQL, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=5bf6df71fea46ed5)
+[Apply Here](https://www.indeed.com/viewjob?jk=8ad27f7660d3fbd6)
 
 ---
 
-## 17. Kafka API Engineer @ Openkyber
+## 14. Senior DevOps Engineer - Remote @ nan
 **Match Score:** 10.0%
 
-📍 **Location:** AK, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Docker, Kubernetes, CI/CD, Kafka, NoSQL, SQL, R, Java, Scala
+🔑 **Keywords:** Kubernetes, CI/CD, Jenkins, Terraform, Git, Python, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=1914606a75d90ac4)
+[Apply Here](https://www.indeed.com/viewjob?jk=81a3569aa45c7f5e)
 
 ---
 
