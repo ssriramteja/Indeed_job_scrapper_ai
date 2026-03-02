@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-02
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 389
+- **New Matches Found in Last Run:** 1
+- **Total Active Matches (Last 4 Days):** 390
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-02.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-02.xlsx)
 
@@ -14,6 +14,7 @@
 | **Quantifind** | DevOps Engineer (Linux) | Palo Alto, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=87617613276c990f) | 2026-03-02 |
 | **Riley Power Group** | Senior AI Solutions Developer | Bay City, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe6340185b711d35) | 2026-03-02 |
 | **Riley Power Group** | AI Solutions Architect | Bay City, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1153ccb0914b06a8) | 2026-03-02 |
+| **Nest Veterinary** | Senior Python Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=efb041473ea5610e) | 2026-03-02 |
 | **Harley-Davidson, Inc.** | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4cf195aaa007f2e9) | 2026-03-01 |
 | **nan** | Senior Machine Learning Engineer, Ad Platforms | Seattle, WA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1a213b086eb25b7) | 2026-03-01 |
 | **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1468da67074d20da) | 2026-03-01 |

@@ -88,6 +88,28 @@
         "scrapped_date": "2026-03-02"
     },
     {
+        "title": "Senior Python Engineer",
+        "company": "Nest Veterinary",
+        "location": "US USA",
+        "posted_at": "2026-03-01",
+        "score": 11.1,
+        "matched_keywords": [
+            "RAG",
+            "Copilot",
+            "FastAPI",
+            "CI/CD",
+            "GitHub Actions",
+            "Terraform",
+            "Git",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=efb041473ea5610e",
+        "description": "### **we're growing fast \u2014 and we\u2019re building our team to scale**\n\n\nnest veterinary is on track to 5x this year. we're the category leader in care plan infrastructure for veterinary practices, and we're building the team that will take us to the next level. if you thrive in fast\\-moving environments, care deeply about system design, and want your code to solve real\\-world problems \u2014 this is your role.\n\n### **about nest veterinary**\n\n\nour mission is simple: make pet care accessible to every pet parent. we provide fully\\-managed, tech\\-enabled care plan solutions that help veterinary practices increase compliance, drive revenue, and deliver better preventive care \u2014 without the administrative burden.\n\n\nwe're transforming an industry, and we're doing it with a modern python stack and a team that genuinely cares about the impact of their work.\n\n### **the role**\n\n\nas a senior python engineer, you\u2019ll be a foundational member of a small, elite engineering team (\\<10\\) shipping daily. you will help drive the architectural maturity of our platform as we scale, ensuring our systems remain as elegant and durable as they are fast.\n\n\nthis isn't an \"implement tickets\" role \u2014 it's a high\\-agency position for someone who wants to own the architecture, identify weak abstractions before they ossify, and build the financial and operational engine that allows vets to focus on medicine rather than logic.\n\n### **what you'll own**\n\n* **architectural evolution:** you\u2019ll design and build scalable backend services using **python 3\\.12\\+, fastapi, and grpc** on **gcp**.\n* **system integrity \\& security:** operate within a **soc 2 type ii** environment. you\u2019ll develop complex payment flows via stripe and handle sensitive pii with a hipaa\\-aware posture, ensuring our infrastructure is as reliable as it is fast.\n* **engineering excellence:** raise the bar for code quality and documentation. you\u2019ll provide high\\-leverage code reviews and help establish the standards that allow us to scale efficiently and effectively as our load increases.\n* **modern workflow:** leverage tools like **terraform, cloud run, and google spanner** to maintain high availability. you\u2019ll use ai tools (claude, copilot) intelligently to accelerate development\u2014using them as leverage for research and scaffolding without outsourcing your own judgment.\n\n### **what we're looking for**\n\n* **7\\+ years** building backend systems in production with deep **python** expertise.\n* **prior startup experience required** \u2014 you know how to build in fast\\-moving environments and recognize when to favor \"speed to market\" vs. \"architectural perfection.\"\n* **proven architectural judgment** \u2014 you\u2019ve handled apis, distributed transactional systems, and cloud\\-native infrastructure (gcp preferred).\n* **security\\-minded** \u2014 you have experience handling sensitive data (pii, payments, or healthcare\\-adjacent).\n* **a builder's mindset** \u2014 you write code that others can read six months later and you aren't afraid to refactor legacy paths into durable services.\n* **high ownership, team mentality** \u2014 you understand what you ship, you value \"strong opinions, loosely held,\" and you thrive in a collaborative team environment.\n\n### **why nest**\n\n* **5x growth trajectory** \u2014 your impact on our core systems will be visible and immediate.\n* **direct access to leadership** \u2014 work in a flat organization where your technical insights drive product decisions.\n* **daily shipping velocity** \u2014 a \"test\\-heavy\" culture and robust ci/cd (github actions/cloud deploy) means you see your work in production every day.\n* **mission that matters** \u2014 more pets getting the preventive care they need because of the durable infrastructure you build.\n* **teammates who show up** \u2014 kind, motivated, and genuinely collaborative\n\n*nest is an equal\\-opportunity employer. you are welcome at nest for who you are, no matter where you come from or what you look like. our platform is for everyone, and so is our workplace. bring us your personal experience, your perspectives, and your background. it's in our differences that we will find the power to keep revolutionizing veterinary health care and help pets live longer, healthier, and happier lives.*",
+        "scrapped_date": "2026-03-02"
+    },
+    {
         "title": "Senior ML/GenAI Ops Engineer - Milwaukee, WI",
         "company": "Harley-Davidson, Inc.",
         "location": "Milwaukee, WI, US USA",
