@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-03
-- **New Matches Found in Last Run:** 12
-- **Total Active Matches (Last 4 Days):** 435
+- **New Matches Found in Last Run:** 16
+- **Total Active Matches (Last 4 Days):** 451
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-03.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-03.xlsx)
 
@@ -94,6 +94,19 @@
 | **Patch My PC** | DevOps Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7da8b76170c98f2) | 2026-03-03 |
 | **nan** | Software Engineer II | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31b2c457ac06652a) | 2026-03-03 |
 | **Snowflake** | Senior AI/ML Architect, Applied Field Engineering | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8b803ecb54348b17) | 2026-03-03 |
+| **First Legal** | Senior AI Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3205766924fb90e) | 2026-03-03 |
+| **First Legal** | Senior AI Engineer | White Plains, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7724150631a274bb) | 2026-03-03 |
+| **First Legal** | Senior AI Engineer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8dcf9c881b8b2b03) | 2026-03-03 |
+| **First Legal** | Senior AI Engineer | Sacramento, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c893485b4c346aa0) | 2026-03-03 |
+| **First Legal** | Senior AI Engineer | Phoenix, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eccbf6b5fbbae8f0) | 2026-03-03 |
+| **First Legal** | Senior AI Engineer | Henderson, NV, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1fed99ad6f10654d) | 2026-03-03 |
+| **First Legal** | Senior AI Engineer | Henderson, NV, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4d0b466949a1bdb1) | 2026-03-03 |
+| **First Legal** | Senior AI Engineer | Hollywood, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f4984cac15af1f8) | 2026-03-03 |
+| **First Legal** | Senior AI Engineer | San Diego, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f7dd33c1c8dd9ef) | 2026-03-03 |
+| **First Legal** | Senior AI Engineer | Oakland, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8b6a5f873843085) | 2026-03-03 |
+| **First Legal** | Senior AI Engineer | Los Angeles, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd445525a9885001) | 2026-03-03 |
+| **First Legal** | Senior AI Engineer | Paris, TN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a8e2a2840837668d) | 2026-03-03 |
+| **ALTRUIST** | GTM Engineer, Hazel AI | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ace9e82efa6b4b13) | 2026-03-03 |
 | **Dealpath** | Architect | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96131089b8806964) | 2026-03-03 |
 | **ADP** | Senior Application Developers | Florham Park, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9942b966dca45696) | 2026-03-03 |
 | **Visa** | Mobile Software Engineer- Senior Consultant Level | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aeed75151360487e) | 2026-03-03 |
@@ -117,6 +130,9 @@
 | **Qualcomm** | Senior Software Engineer | San Diego, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31cc62ca31467b1d) | 2026-03-03 |
 | **Wayfair** | Machine Learning Scientist II - Supplier Ads | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1965482b714c1fcb) | 2026-03-03 |
 | **Qualcomm** | Software Engineer, AI Software Core (Multiple levels) | San Diego, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5ec1807b3a887e0) | 2026-03-03 |
+| **Realign** | GEN AI Engineer-1 | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f8c1f365e57c241d) | 2026-03-03 |
+| **AAA Life Insurance Company** | Marketing Analytics and Data Science Program Management Intern | Livonia, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=48646c7ec667696e) | 2026-03-03 |
+| **Wolters Kluwer** | Senior Product Software Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f40684013e8a26dd) | 2026-03-03 |
 | **OmniTrust Technologies** | Data Engineer | Alpharetta, GA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d62af133e60ea749) | 2026-03-02 |
 | **Openkyber** | Kafka API Engineer | AK, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2bdf305a59e5377a) | 2026-03-02 |
 | **ACV Auctions** | Senior Data Engineer, ACVMax | Buffalo, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a05a21e755f84f81) | 2026-03-02 |
