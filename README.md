@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-03
-- **New Matches Found in Last Run:** 10
-- **Total Active Matches (Last 4 Days):** 461
+- **New Matches Found in Last Run:** 1
+- **Total Active Matches (Last 4 Days):** 462
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-03.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-03.xlsx)
 
@@ -143,6 +143,7 @@
 | **Tiger Analytics** | Data Scientist/ Senior Data Scientist -Demand Forecasting | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e456131c0acdfa4e) | 2026-03-03 |
 | **JPMorganChase** | Data Scientist Senior Associate | Wilmington, DE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6998765062eafc6a) | 2026-03-03 |
 | **Dassault Systèmes** | CATIA Account Executive - Enterprise Software | San Diego, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3970c133b965d57a) | 2026-03-03 |
+| **police department** | Senior Data Scientist | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=daf707e59c91fd25) | 2026-03-03 |
 | **OmniTrust Technologies** | Data Engineer | Alpharetta, GA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d62af133e60ea749) | 2026-03-02 |
 | **Openkyber** | Kafka API Engineer | AK, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2bdf305a59e5377a) | 2026-03-02 |
 | **ACV Auctions** | Senior Data Engineer, ACVMax | Buffalo, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a05a21e755f84f81) | 2026-03-02 |
