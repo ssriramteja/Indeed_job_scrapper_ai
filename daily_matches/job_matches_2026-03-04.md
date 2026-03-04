@@ -1,73 +1,40 @@
 # 🎯 Daily Job Matches — 2026-03-04
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 3
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Software Engineer, Cloud Infrastructure @ ALTRUIST
-**Match Score:** 18.9%
+## 1. Senior Engineer - DevOps/ DataOps @ FICO
+**Match Score:** 17.8%
 
-📍 **Location:** Los Angeles, CA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Copilot, S3, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, RAG, S3, EC2, Kubernetes, CI/CD, Jenkins, GitHub Actions
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b2b2e3b90367f3b4)
-
----
-
-## 2. Senior Software Engineer, Cloud Infrastructure @ ALTRUIST
-**Match Score:** 18.9%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Copilot, S3, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=15721c69bc524693)
+[Apply Here](https://www.indeed.com/viewjob?jk=e1ed15cfc823b0b7)
 
 ---
 
-## 3. Sr. BI Engineer @ Foot Locker
+## 2. AI / Machine Learning Engineer @ JobSPOT
 **Match Score:** 13.3%
 
-📍 **Location:** Irving, TX, US USA
+📍 **Location:** San Jose, CA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Data Lake, Snowflake, Databricks, PostgreSQL, NoSQL, Power BI, Python, SQL
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8556f55def0d3f2a)
-
----
-
-## 4. Data Science Analyst I - Enterprise Data & Analytics - Digital and Technology Partners - Hybrid/Onsite @ Mount Sinai Health System
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** RAG, Prompt Engineering, Git, Databricks, PySpark, Tableau, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0d19f2c58d3a5238)
+[Apply Here](https://www.indeed.com/viewjob?jk=e124e38991469030)
 
 ---
 
-## 5. AI Scientist 2 @ Intuit
-**Match Score:** 10.0%
+## 3. Senior Web Architect, Full Stack @ Pegasystems
+**Match Score:** 12.2%
 
-📍 **Location:** Mountain View, CA, US USA
+📍 **Location:** MA, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, Generative AI, TensorFlow, PyTorch, Keras, CI/CD, Python, SQL, R
+🔑 **Keywords:** Generative AI, RAG, CI/CD, Git, PostgreSQL, MySQL, MongoDB, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e801ff1a5022b474)
-
----
-
-## 6. AI Scientist 2 @ Intuit
-**Match Score:** 10.0%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, Generative AI, TensorFlow, PyTorch, Keras, CI/CD, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2e851fd7aef35214)
+[Apply Here](https://www.indeed.com/viewjob?jk=7e8c76c468a954e5)
 
 ---
 

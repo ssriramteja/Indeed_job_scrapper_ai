@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-04
-- **New Matches Found in Last Run:** 6
-- **Total Active Matches (Last 4 Days):** 515
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 518
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-04.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-04.xlsx)
 
@@ -20,6 +20,7 @@
 | **Intelligent Medical Objects** | Senior AI Engineer – Clinical AI | Chicago, IL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=faa3ef6fe33de62a) | 2026-03-04 |
 | **NetApp** | Sr. Software Engineer | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b08c3dc1b325be49) | 2026-03-04 |
 | **Seismic** | Senior Software Engineer II - AI/ML | US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d0bc9a390582054) | 2026-03-04 |
+| **FICO** | Senior Engineer - DevOps/ DataOps | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1ed15cfc823b0b7) | 2026-03-04 |
 | **Quilt** | Senior Data Engineer | Provo, UT, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27d883fd388e687a) | 2026-03-04 |
 | **Red Moon, LLC** | Agentic AI Developer | Las Vegas, NV, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5276d9c7e29b3fe) | 2026-03-04 |
 | **Residex, LLC** | Software Engineer, AI Analytics | Greenwood Village, CO, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b994e1736909aed) | 2026-03-04 |
@@ -42,11 +43,13 @@
 | **QXO** | Senior Applied Scientist | Seattle, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=118577285ec0c152) | 2026-03-04 |
 | **QXO** | Senior Applied Scientist | Seattle, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c8163b8efebf920) | 2026-03-04 |
 | **Foot Locker** | Sr. BI Engineer | Irving, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8556f55def0d3f2a) | 2026-03-04 |
+| **JobSPOT** | AI / Machine Learning Engineer | San Jose, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e124e38991469030) | 2026-03-04 |
 | **MKS2 Technologies** | API Developer Jr. | Washington, DC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=976d4320b891418b) | 2026-03-04 |
 | **MKS2 Technologies** | API Developer, Mid | Washington, DC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=982682f617c5fe52) | 2026-03-04 |
 | **Cognizant** | AI Tester with Automation Testing | Weehawken, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77946028fadfa4fb) | 2026-03-04 |
 | **ThredUp** | Associate Machine Learning Engineer | Scottsdale, AZ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de201d7b3d6d9da4) | 2026-03-04 |
 | **Uber** | Scientist II - Reservations | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4cb19b5c387df4c9) | 2026-03-04 |
+| **Pegasystems** | Senior Web Architect, Full Stack | MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e8c76c468a954e5) | 2026-03-04 |
 | **Realign** | Python Engineer-2 | Alpharetta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=afa5b66d58f49aef) | 2026-03-04 |
 | **NVIDIA** | Software Development Engineer in Test | CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=856fddef5c13342b) | 2026-03-04 |
 | **Street Smart** | Sr. Cloud Software Engineer | Columbus, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c239f14a982b8f0) | 2026-03-04 |
