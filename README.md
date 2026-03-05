@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-05
-- **New Matches Found in Last Run:** 38
-- **Total Active Matches (Last 4 Days):** 668
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 673
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-05.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-05.xlsx)
 
@@ -61,6 +61,7 @@
 | **Information Technology Senior Management Forum** | Senior Data Engineer | McLean, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ad2838bd8f61427) | 2026-03-05 |
 | **RealPage Inc** | Developer III | Richardson, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b35fdbabb8c95c41) | 2026-03-05 |
 | **Pindrop** | Software Engineer - Authentication | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6513fcf97bbfd044) | 2026-03-05 |
+| **PwC** | AI & GenAI Data Scientist-Senior Associate | Portland, OR, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5db835aa77a456de) | 2026-03-05 |
 | **TORCH.AI** | Software Engineer (Mid-Level) | Leawood, KS, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd1f3b38c2b05093) | 2026-03-05 |
 | **TORCH.AI** | Software Engineer (Junior) | Leawood, KS, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28e432d03da8db08) | 2026-03-05 |
 | **TORCH.AI** | Software Engineer (Mid-Level) - Maritime | Leawood, KS, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=333e6c5bd2360d9a) | 2026-03-05 |
@@ -69,6 +70,9 @@
 | **Novolex** | IT Data Engineer | Lake Forest, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=024a63ca708c8a8f) | 2026-03-05 |
 | **Hard Rock International** | Database Administrator | Hollywood, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=169d4a00d377fdae) | 2026-03-05 |
 | **Tivity Health** | Sr Software Developer - remote opportunity | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a33a7d52bc385fbe) | 2026-03-05 |
+| **Koch** | Data Architect | Houston, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e83bd0fd320bb829) | 2026-03-05 |
+| **Koch** | Data Architect | Tulsa, OK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=105f562c4b87c831) | 2026-03-05 |
+| **Koch** | Data Architect | Wichita, KS, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56a2fccd9b09c654) | 2026-03-05 |
 | **Target RWE** | Data Engineer | Raleigh, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f9e6332a7739943) | 2026-03-05 |
 | **Calix** | Software Engineering Intern, Cloud | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d5cb27b8b96f5996) | 2026-03-05 |
 | **LTIMindtree** | Senior Specialist - System Management | Glen Allen, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=293f842904007fda) | 2026-03-05 |
@@ -106,6 +110,7 @@
 | **Inspira Financial** | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1733261c550fa238) | 2026-03-05 |
 | **Inspira Financial** | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d0e899d198425eb) | 2026-03-05 |
 | **JPMorganChase** | CCB Risk Modeling - AI ML Senior Associate | Palo Alto, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=46d1a166f45a539b) | 2026-03-05 |
+| **Boeing** | Senior Human Resources Data Scientist | Arlington, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfe4ff669409db3b) | 2026-03-05 |
 | **Applied Intuition** | Senior Software Engineer - Backend | Sunnyvale, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76dafd5ad5da03d3) | 2026-03-05 |
 | **The Hanover Insurance Group** | Application Engineer (MA or REMOTE) | Worcester, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4031967f3370a998) | 2026-03-05 |
 | **The Hanover Insurance Group** | Application Engineer (MA or REMOTE) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5e6664180a41e9f) | 2026-03-05 |
