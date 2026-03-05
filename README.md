@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-05
-- **New Matches Found in Last Run:** 59
-- **Total Active Matches (Last 4 Days):** 570
+- **New Matches Found in Last Run:** 8
+- **Total Active Matches (Last 4 Days):** 578
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-05.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-05.xlsx)
 
@@ -11,6 +11,7 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Pfizer** | AI Data Engineer-LLMs / Agentic Systems | Cambridge, MA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=92b5658394aee4e3) | 2026-03-05 |
+| **Stanford University** | AI Applications Engineer | Redwood City, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0dc1867fdcc5324) | 2026-03-05 |
 | **Weyerhaeuser** | MLOps Engineer | Seattle, WA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d9f82346c5ff2d3) | 2026-03-05 |
 | **Axon** | Sr. Software Engineer I, Applied AI | Seattle, WA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e858c83fc09cd77d) | 2026-03-05 |
 | **Alight Solutions** | Cloud Platform Engineer | IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=398f35933211332f) | 2026-03-05 |
@@ -51,6 +52,8 @@
 | **Tata Consultancy Services (TCS)** | Data Scientist | San Antonio, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b221670e71869a2) | 2026-03-05 |
 | **nan** | ML Scientist (Research) | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fd496c3e4a780e55) | 2026-03-05 |
 | **Amplify** | Analytics Engineer | Brooklyn, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4d16d721d2057f3) | 2026-03-05 |
+| **Guidewire Software, Inc.** | Senior Full Stack Engineer | San Mateo, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b5e082bd1857b0f) | 2026-03-05 |
+| **LightEdge** | BI Engineer | Kansas City, MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=521c8eaf0e3efb60) | 2026-03-05 |
 | **Applied Intuition** | Senior Software Engineer - Backend | Sunnyvale, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76dafd5ad5da03d3) | 2026-03-05 |
 | **The Hanover Insurance Group** | Application Engineer (MA or REMOTE) | Worcester, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4031967f3370a998) | 2026-03-05 |
 | **The Hanover Insurance Group** | Application Engineer (MA or REMOTE) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5e6664180a41e9f) | 2026-03-05 |
@@ -69,6 +72,11 @@
 | **Fox Corporation** | Data Scientist | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4c0e7fa0f9b310e) | 2026-03-05 |
 | **LTIMindtree** | Specialist - Architecture | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=286ca3ea7e142a13) | 2026-03-05 |
 | **Mastercard** | Senior Software Engineer, Quality | Arlington, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ffd9292cb15ce63) | 2026-03-05 |
+| **VeeRteq Solutions Inc.** | Playwright Automation Engineer | CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=035276d2ab91c33a) | 2026-03-05 |
+| **Siemens** | Senior Agentic AI Software Engineer - Hybrid Charlotte, NC US | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19f46c3f43f76013) | 2026-03-05 |
+| **Siemens** | Senior Agentic AI Software Engineer - Hybrid Charlotte, NC US | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2bf1e5a5c5e15842) | 2026-03-05 |
+| **Genentech** | Senior Data Scientist, Gen AI Application | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=276f2679fa9e6c41) | 2026-03-05 |
+| **Genentech** | Senior Data Scientist, Gen AI Foundation | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3df9968f242aa233) | 2026-03-05 |
 | **Skechers** | Data Scientist | Hermosa Beach, CA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d0cf03fccf9f1cb) | 2026-03-04 |
 | **Chewy** | Software Engineer II, | Boston, MA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4edb591674d441f) | 2026-03-04 |
 | **Zifo** | Data Engineer/Python Developer | Boston, MA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3419a1d7b4acb559) | 2026-03-04 |
