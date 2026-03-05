@@ -1,15 +1,74 @@
 # 🚀 Indeed Job Scraper AI
 
-### 📊 Latest Update: 2026-03-04
-- **New Matches Found in Last Run:** 24
-- **Total Active Matches (Last 4 Days):** 591
-- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-04.md)
-- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-04.xlsx)
+### 📊 Latest Update: 2026-03-05
+- **New Matches Found in Last Run:** 59
+- **Total Active Matches (Last 4 Days):** 570
+- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-05.md)
+- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-05.xlsx)
 
 #### 🎯 Rolling Window: Matches from last 4 days
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Pfizer** | AI Data Engineer-LLMs / Agentic Systems | Cambridge, MA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=92b5658394aee4e3) | 2026-03-05 |
+| **Weyerhaeuser** | MLOps Engineer | Seattle, WA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d9f82346c5ff2d3) | 2026-03-05 |
+| **Axon** | Sr. Software Engineer I, Applied AI | Seattle, WA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e858c83fc09cd77d) | 2026-03-05 |
+| **Alight Solutions** | Cloud Platform Engineer | IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=398f35933211332f) | 2026-03-05 |
+| **Infosys** | Specialist Programmer | Austin, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9772b3b8d4167ecc) | 2026-03-05 |
+| **Broadridge** | Professional Software Engineer (Hybrid - Flexible Options) | Newark, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e8fba97ed3034d1b) | 2026-03-05 |
+| **Information Technology Senior Management Forum** | Senior Data Engineer | Richmond, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e8500146d476812) | 2026-03-05 |
+| **Information Technology Senior Management Forum** | Senior Data Engineer | McLean, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ad2838bd8f61427) | 2026-03-05 |
+| **TORCH.AI** | Software Engineer (Mid-Level) | Leawood, KS, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd1f3b38c2b05093) | 2026-03-05 |
+| **TORCH.AI** | Software Engineer (Junior) | Leawood, KS, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28e432d03da8db08) | 2026-03-05 |
+| **TORCH.AI** | Software Engineer (Mid-Level) - Maritime | Leawood, KS, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=333e6c5bd2360d9a) | 2026-03-05 |
+| **LTIMindtree** | Senior Software Engineer | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af8d363b230dfbc2) | 2026-03-05 |
+| **LTIMindtree** | Specialist - Data Sciences | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd940dcf75668323) | 2026-03-05 |
+| **Target RWE** | Data Engineer | Raleigh, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f9e6332a7739943) | 2026-03-05 |
+| **Calix** | Software Engineering Intern, Cloud | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d5cb27b8b96f5996) | 2026-03-05 |
+| **LTIMindtree** | Senior Specialist - System Management | Glen Allen, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=293f842904007fda) | 2026-03-05 |
+| **LTIMindtree** | Associate Data Scientist | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f86909b5de5b200) | 2026-03-05 |
+| **LTIMindtree** | Associate Data Scientist | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=980b7ec6640759f9) | 2026-03-05 |
+| **LTIMindtree** | Associate Data Scientist | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=700dc98cd2a30d83) | 2026-03-05 |
+| **LTIMindtree** | Associate Data Scientist | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be5ed1ca4c054e8a) | 2026-03-05 |
+| **LTIMindtree** | Associate Data Scientist | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5b0d7cd8ced04c55) | 2026-03-05 |
+| **LTIMindtree** | Associate Data Scientist | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=61da5b8d7f3fb578) | 2026-03-05 |
+| **LTIMindtree** | Associate Data Scientist | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=482732be67104c5a) | 2026-03-05 |
+| **LTIMindtree** | Associate Data Scientist | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5275fb7ab538d6a) | 2026-03-05 |
+| **LTIMindtree** | Associate Data Scientist | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb48441be4e479d5) | 2026-03-05 |
+| **Dentsu** | AI Engineer | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a45941264c404bd7) | 2026-03-05 |
+| **Tata Consultancy Services (TCS)** | Engineer | Cleveland, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8d7918d179d06eb) | 2026-03-05 |
+| **Accenture** | ATC - AI & Data Analyst - NAELFY26 | Saint Petersburg, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ce7a50a4bbe9ef2) | 2026-03-05 |
+| **Dentsu** | Backend Software Engineer (Python) | MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7068d75c37f1b8c8) | 2026-03-05 |
+| **General Motors (GM)** | Software Systems Engineer, Release Reliability & Automation (Autonomous Vehicles) | Sunnyvale, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=864266ab5f8e3aac) | 2026-03-05 |
+| **TORCH.AI** | Full-Stack Engineer (Mid-Level) | Leawood, KS, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20b5b1afcebf43c7) | 2026-03-05 |
+| **BLOC Resources, LLC** | Data Engineer 2 | Birmingham, AL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c51290628ce41b82) | 2026-03-05 |
+| **LTIMindtree** | Senior Specialist - Software Engineering | Glen Allen, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aaf6b9d0d0a7f431) | 2026-03-05 |
+| **LTIMindtree** | Senior Data Scientist | Irving, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5b8664d0039f65d3) | 2026-03-05 |
+| **LTIMindtree** | Senior Data Scientist | Irving, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee2d303655d059ef) | 2026-03-05 |
+| **LTIMindtree** | Specialist - Software Engineering | Irving, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c939c0749db59f2) | 2026-03-05 |
+| **LTIMindtree** | Specialist - Software Engineering | Irving, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7c55451e98b41d03) | 2026-03-05 |
+| **LTIMindtree** | Specialist - Software Engineering | Irving, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb23f6bc12a639ee) | 2026-03-05 |
+| **Tata Consultancy Services (TCS)** | Data Scientist | San Antonio, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b221670e71869a2) | 2026-03-05 |
+| **nan** | ML Scientist (Research) | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fd496c3e4a780e55) | 2026-03-05 |
+| **Amplify** | Analytics Engineer | Brooklyn, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4d16d721d2057f3) | 2026-03-05 |
+| **Applied Intuition** | Senior Software Engineer - Backend | Sunnyvale, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76dafd5ad5da03d3) | 2026-03-05 |
+| **The Hanover Insurance Group** | Application Engineer (MA or REMOTE) | Worcester, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4031967f3370a998) | 2026-03-05 |
+| **The Hanover Insurance Group** | Application Engineer (MA or REMOTE) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5e6664180a41e9f) | 2026-03-05 |
+| **Salesforce** | Senior Software Engineer - Digital Enterprise Technology (Full Stack) | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56466e312b79d572) | 2026-03-05 |
+| **nan** | Applied ML Engineer | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7484dad4d2a43858) | 2026-03-05 |
+| **Uber** | Senior AI/ML Engineer | Sunnyvale, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fdf9f898aab0e027) | 2026-03-05 |
+| **Uber** | Senior AI/ML Engineer | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e5381eb936e7bd7) | 2026-03-05 |
+| **Uber** | Senior AI/ML Engineer | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=50cbdef325b3537e) | 2026-03-05 |
+| **SquareTrade** | Managing Engineer, Applied Generative AI | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5fb58d094b00ad40) | 2026-03-05 |
+| **GM Financial** | Data Engineer III | Arlington, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee985d84045acc7c) | 2026-03-05 |
+| **LTIMindtree** | Senior Software Engineer | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e06b386f8790e9aa) | 2026-03-05 |
+| **LTIMindtree** | Senior Software Engineer | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a9a5e46a31d9f2f9) | 2026-03-05 |
+| **LTIMindtree** | Senior Software Engineer | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e57bc8dad7908fc) | 2026-03-05 |
+| **Gopuff** | Senior Software Engineer - Delivery Intelligence | Philadelphia, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e74d21a444ae8028) | 2026-03-05 |
+| **Gopuff** | Senior Software Engineer - Delivery Intelligence | Miami, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df2409f62f3229fd) | 2026-03-05 |
+| **Fox Corporation** | Data Scientist | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4c0e7fa0f9b310e) | 2026-03-05 |
+| **LTIMindtree** | Specialist - Architecture | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=286ca3ea7e142a13) | 2026-03-05 |
+| **Mastercard** | Senior Software Engineer, Quality | Arlington, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ffd9292cb15ce63) | 2026-03-05 |
 | **Skechers** | Data Scientist | Hermosa Beach, CA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d0cf03fccf9f1cb) | 2026-03-04 |
 | **Chewy** | Software Engineer II, | Boston, MA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4edb591674d441f) | 2026-03-04 |
 | **Zifo** | Data Engineer/Python Developer | Boston, MA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3419a1d7b4acb559) | 2026-03-04 |
@@ -521,86 +580,6 @@
 | **Openkyber** | Kafka Azure Engineer | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34ee2712fc0c8c6b) | 2026-03-02 |
 | **Crane Worldwide Logistics** | Data Scientist | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4516597778f72f9) | 2026-03-02 |
 | **Slingshot Aerospace** | Senior AI Research Scientist | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7a2acf7dd263d51) | 2026-03-02 |
-| **Harley-Davidson, Inc.** | Senior ML/GenAI Ops Engineer - Milwaukee, WI | Milwaukee, WI, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4cf195aaa007f2e9) | 2026-03-01 |
-| **nan** | Senior Machine Learning Engineer, Ad Platforms | Seattle, WA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1a213b086eb25b7) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1468da67074d20da) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca67141186873164) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a567de20d4246f11) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ef8cfd63be6b2f4b) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8cf0c5c032f1b7d0) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=95e76b8669037dd0) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5e89840fc3915c0) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=009a48d1e207de6a) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff4656cd3762d03a) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e03c5b313d9aa813) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=417d620844c193e1) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e7c054f96a1e417) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7df8ff0e871e239) | 2026-03-01 |
-| **Alvarez & Marsal** | Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e39f6d1106965d2c) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Irvine, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b642b2a3effa79c6) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Sacramento, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84232f0681f42371) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Portland, OR, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=504c6ceb870fe714) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | New Orleans, LA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ca9c4116f101235) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Des Moines, IA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=95d392a72022774b) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Milwaukee, WI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f615f3103406a50) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Spartanburg, SC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69be8d2493b4a99c) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | San Antonio, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fa3b2f5c6ae271e2) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Denver, CO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df0504c09694a675) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Los Angeles, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=062a70b59a705914) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | St. Louis, MO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc8d07b3d07b137a) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Hartford, CT, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=35f2389372287064) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6ab4e8d25e18fa12) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Richmond, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=518f761df2ebbdc3) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Florham Park, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee095240645e2f00) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Las Vegas, NV, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb0159a342c58547) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | San Diego, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c19e249d5380eb9) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Kansas City, MO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe7204647c34327c) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Baltimore, MD, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44ee5d215a7e0225) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Stamford, CT, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=472bf5828302a975) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Buffalo, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=78401746c7c7db62) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Phoenix, AZ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c8858633b77ee09) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Fort Worth, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69821a346b5b01a1) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Greensboro, NC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a65cd0de6b232043) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Rosemont, IL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3fbda3d6bdc6380f) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff559d832d45d385) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Minneapolis, MN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dc393ed178521c09) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Nashville, TN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cfa3b1a7e556130c) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Seattle, WA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c3d186b3f1851e5) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Raleigh, NC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e81f10c01336da80) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Miami, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=091d5a9315f979be) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Albany, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=206900f328578126) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Charlotte, NC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27bfc9393d2e7579) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Boston, MA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=545a1cd1cc6fde81) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Atlanta, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e60fdc7cc5331896) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Cleveland, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4dda6b72fad569af) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Detroit, MI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c2f2e41b006ce9e) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Columbus, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a717bd92ec79f6f) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Columbia, SC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c72e0937b601547) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Philadelphia, PA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4ce2d7f4afe938f) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Birmingham, AL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d2dfef2f8bd80509) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Salt Lake City, UT, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=160020345842fa8f) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Grand Rapids, MI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22ea440b3a34ba4d) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Cincinnati, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47e3fe18e5f8f12d) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Oklahoma City, OK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8bff12fecf5561fc) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Silicon Valley, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a20fa6b3324a7771) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Tulsa, OK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=291abbbd705cdf03) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Tampa, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9cbf7d3adb57893c) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Austin, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a31de5366e89616) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Pittsburgh, PA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7454ca664ae729ea) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Melville, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7c81481a2e458b09) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Little Rock, AR, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3d17d2ec54dea667) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aee0a2e88f35c5db) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Fayetteville, AR, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb2710f9450b6447) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Jacksonville, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d2392f61966f3d3) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Washington, DC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22e71356c323f6f1) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Indianapolis, IN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd80417e505a4be2) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Chicago, IL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a546d9a1e68aab17) | 2026-03-01 |
-| **PwC** | AI & GenAI Data Scientist-Senior Associate | Houston, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c27f9aaffe47015) | 2026-03-01 |
-| **Deloitte** | Project Delivery Specialist - Sr. API & Azure DevOps Developer - Remote | Cincinnati, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a677917152c7ba4a) | 2026-03-01 |
-| **Allstate Insurance** | Cloud Platform Engineer (ML DevOps) | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7f5dba6447d1b44) | 2026-03-01 |
-| **Capital One** | Senior Machine Learning Engineer | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=738a91b414103579) | 2026-03-01 |
-| **Capital One** | Senior Associate, Front-End Web & Email Developer (Auto - Brand & Marketing) | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6b2be9907e86ed39) | 2026-03-01 |
-| **The Walt Disney Company** | Senior Quality Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7760224c5d07dff2) | 2026-03-01 |
 
 ---
 
