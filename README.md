@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-05
-- **New Matches Found in Last Run:** 8
-- **Total Active Matches (Last 4 Days):** 578
+- **New Matches Found in Last Run:** 52
+- **Total Active Matches (Last 4 Days):** 630
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-05.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-05.xlsx)
 
@@ -14,16 +14,56 @@
 | **Stanford University** | AI Applications Engineer | Redwood City, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0dc1867fdcc5324) | 2026-03-05 |
 | **Weyerhaeuser** | MLOps Engineer | Seattle, WA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d9f82346c5ff2d3) | 2026-03-05 |
 | **Axon** | Sr. Software Engineer I, Applied AI | Seattle, WA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e858c83fc09cd77d) | 2026-03-05 |
+| **Deloitte** | Associate GenAI Engineer | Morristown, NJ, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a026b7b596edb95a) | 2026-03-05 |
+| **Deloitte** | Associate GenAI Engineer | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a132dfc777bcff0a) | 2026-03-05 |
+| **Deloitte** | Associate GenAI Engineer | Jersey City, NJ, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6708bcec429a4f9d) | 2026-03-05 |
 | **Alight Solutions** | Cloud Platform Engineer | IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=398f35933211332f) | 2026-03-05 |
 | **Infosys** | Specialist Programmer | Austin, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9772b3b8d4167ecc) | 2026-03-05 |
+| **RealPage Inc** | AI Engineer III | Richardson, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7135bbd091f6e927) | 2026-03-05 |
+| **RealPage Inc** | AI Engineer III | Richardson, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96fa7712617c2b0f) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Austin, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dea3b0f5ba959d7e) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | New York, NY, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d6acb25c99f27c0d) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Cleveland, OH, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=621709c162140604) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Nashville, TN, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c8a6366c30e8284) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Houston, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b1e3299bb98da7e6) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Tempe, AZ, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62c3c540d75e6a4d) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | McLean, VA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1186a0648008358) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Cincinnati, OH, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8eb5bfe6a3f00c18) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Morristown, NJ, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=65db1fbf0b744c4d) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Seattle, WA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f6390e3b8ede6beb) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Charlotte, NC, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=07a6d419a08174a5) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Philadelphia, PA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=caab9641a78e78cf) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | St. Louis, MO, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c56690205eacf1e) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Dallas, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74b107f1bfd991f5) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Pittsburgh, PA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4eba887cd0ca9245) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Sacramento, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80994247ad6663e6) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Kansas City, MO, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3cf1ff53fba4dc32) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Minneapolis, MN, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=acd016d84ab35df8) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Atlanta, GA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=994bbac81cd17f77) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | San Jose, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5367f6a728a9f33) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Tampa, FL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30a5af9146bcf729) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Denver, CO, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63142d8ecc3d4d86) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Indianapolis, IN, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=21034ca2a9df4ed0) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Boston, MA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=46305193c28f6e90) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Chicago, IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=485e7e23c30e6fcc) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | San Diego, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99d07b49921502d7) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Stamford, CT, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32a1abce70103b03) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Miami, FL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=062782b468665ab3) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | San Francisco, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3efa0710def94d00) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Detroit, MI, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a5f885c321034d2) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Costa Mesa, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=91932fdabc16594f) | 2026-03-05 |
+| **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Los Angeles, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a8b68ad8aae6dda) | 2026-03-05 |
 | **Broadridge** | Professional Software Engineer (Hybrid - Flexible Options) | Newark, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e8fba97ed3034d1b) | 2026-03-05 |
 | **Information Technology Senior Management Forum** | Senior Data Engineer | Richmond, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e8500146d476812) | 2026-03-05 |
 | **Information Technology Senior Management Forum** | Senior Data Engineer | McLean, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ad2838bd8f61427) | 2026-03-05 |
+| **RealPage Inc** | Developer III | Richardson, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b35fdbabb8c95c41) | 2026-03-05 |
+| **Pindrop** | Software Engineer - Authentication | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6513fcf97bbfd044) | 2026-03-05 |
 | **TORCH.AI** | Software Engineer (Mid-Level) | Leawood, KS, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd1f3b38c2b05093) | 2026-03-05 |
 | **TORCH.AI** | Software Engineer (Junior) | Leawood, KS, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28e432d03da8db08) | 2026-03-05 |
 | **TORCH.AI** | Software Engineer (Mid-Level) - Maritime | Leawood, KS, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=333e6c5bd2360d9a) | 2026-03-05 |
 | **LTIMindtree** | Senior Software Engineer | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af8d363b230dfbc2) | 2026-03-05 |
 | **LTIMindtree** | Specialist - Data Sciences | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd940dcf75668323) | 2026-03-05 |
+| **Novolex** | IT Data Engineer | Lake Forest, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=024a63ca708c8a8f) | 2026-03-05 |
 | **Target RWE** | Data Engineer | Raleigh, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f9e6332a7739943) | 2026-03-05 |
 | **Calix** | Software Engineering Intern, Cloud | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d5cb27b8b96f5996) | 2026-03-05 |
 | **LTIMindtree** | Senior Specialist - System Management | Glen Allen, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=293f842904007fda) | 2026-03-05 |
@@ -37,6 +77,8 @@
 | **LTIMindtree** | Associate Data Scientist | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5275fb7ab538d6a) | 2026-03-05 |
 | **LTIMindtree** | Associate Data Scientist | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb48441be4e479d5) | 2026-03-05 |
 | **Dentsu** | AI Engineer | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a45941264c404bd7) | 2026-03-05 |
+| **Deloitte** | Data Scientist - National Federal Tax Services | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6924bfb8fd4f7afd) | 2026-03-05 |
+| **Deloitte** | Data Scientist - National Federal Tax Services | Los Angeles, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5b8c1eb33e6b1ba3) | 2026-03-05 |
 | **Tata Consultancy Services (TCS)** | Engineer | Cleveland, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8d7918d179d06eb) | 2026-03-05 |
 | **Accenture** | ATC - AI & Data Analyst - NAELFY26 | Saint Petersburg, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ce7a50a4bbe9ef2) | 2026-03-05 |
 | **Dentsu** | Backend Software Engineer (Python) | MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7068d75c37f1b8c8) | 2026-03-05 |
@@ -54,6 +96,9 @@
 | **Amplify** | Analytics Engineer | Brooklyn, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4d16d721d2057f3) | 2026-03-05 |
 | **Guidewire Software, Inc.** | Senior Full Stack Engineer | San Mateo, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b5e082bd1857b0f) | 2026-03-05 |
 | **LightEdge** | BI Engineer | Kansas City, MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=521c8eaf0e3efb60) | 2026-03-05 |
+| **Inspira Financial** | Data Scientist (Remote) | Oak Brook, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=345031cc2dcdfebc) | 2026-03-05 |
+| **Inspira Financial** | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1733261c550fa238) | 2026-03-05 |
+| **Inspira Financial** | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d0e899d198425eb) | 2026-03-05 |
 | **Applied Intuition** | Senior Software Engineer - Backend | Sunnyvale, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76dafd5ad5da03d3) | 2026-03-05 |
 | **The Hanover Insurance Group** | Application Engineer (MA or REMOTE) | Worcester, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4031967f3370a998) | 2026-03-05 |
 | **The Hanover Insurance Group** | Application Engineer (MA or REMOTE) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5e6664180a41e9f) | 2026-03-05 |
@@ -77,6 +122,13 @@
 | **Siemens** | Senior Agentic AI Software Engineer - Hybrid Charlotte, NC US | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2bf1e5a5c5e15842) | 2026-03-05 |
 | **Genentech** | Senior Data Scientist, Gen AI Application | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=276f2679fa9e6c41) | 2026-03-05 |
 | **Genentech** | Senior Data Scientist, Gen AI Foundation | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3df9968f242aa233) | 2026-03-05 |
+| **Tata Consultancy Services (TCS)** | Agentic AI Engineer | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=297b782722b3fa99) | 2026-03-05 |
+| **RELX Group** | Senior Container Platform Engineer*** Hybrid in Raleigh, NC | Raleigh, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1da41e74ec65cda) | 2026-03-05 |
+| **LexisNexis Legal & Professional** | Senior Container Platform Engineer*** Hybrid in Raleigh, NC | Raleigh, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5add27442fbeffb9) | 2026-03-05 |
+| **City National Bank** | Data Senior Scientist | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=669cf2add69e840e) | 2026-03-05 |
+| **City National Bank** | Data Senior Scientist | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e2b27e9797faa9e) | 2026-03-05 |
+| **Genentech** | Senior Data Scientist, Gen AI Application | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5e6953071e03c7b) | 2026-03-05 |
+| **Genentech** | Senior Data Scientist, Gen AI Foundation | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f212829af1f3caa) | 2026-03-05 |
 | **Skechers** | Data Scientist | Hermosa Beach, CA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d0cf03fccf9f1cb) | 2026-03-04 |
 | **Chewy** | Software Engineer II, | Boston, MA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4edb591674d441f) | 2026-03-04 |
 | **Zifo** | Data Engineer/Python Developer | Boston, MA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3419a1d7b4acb559) | 2026-03-04 |
