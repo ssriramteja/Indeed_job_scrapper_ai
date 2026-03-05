@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-05
-- **New Matches Found in Last Run:** 52
-- **Total Active Matches (Last 4 Days):** 630
+- **New Matches Found in Last Run:** 38
+- **Total Active Matches (Last 4 Days):** 668
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-05.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-05.xlsx)
 
@@ -10,6 +10,7 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Advance Auto Parts** | Data Scientist | Raleigh, NC, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=64783609821b5058) | 2026-03-05 |
 | **Pfizer** | AI Data Engineer-LLMs / Agentic Systems | Cambridge, MA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=92b5658394aee4e3) | 2026-03-05 |
 | **Stanford University** | AI Applications Engineer | Redwood City, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0dc1867fdcc5324) | 2026-03-05 |
 | **Weyerhaeuser** | MLOps Engineer | Seattle, WA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d9f82346c5ff2d3) | 2026-03-05 |
@@ -53,6 +54,8 @@
 | **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Detroit, MI, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a5f885c321034d2) | 2026-03-05 |
 | **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Costa Mesa, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=91932fdabc16594f) | 2026-03-05 |
 | **Deloitte** | ConvergeHEALTH-Full-Stack Software Engineer-Innovation_Delivery_Transformation | Los Angeles, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a8b68ad8aae6dda) | 2026-03-05 |
+| **Advance Auto Parts** | Sr. Data Engineer | Raleigh, NC, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3e2d8bc5a4c9174d) | 2026-03-05 |
+| **JPMorganChase** | Senior Associate -Applied AI Data Scientist | Jersey City, NJ, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=447ecf288ec635dc) | 2026-03-05 |
 | **Broadridge** | Professional Software Engineer (Hybrid - Flexible Options) | Newark, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e8fba97ed3034d1b) | 2026-03-05 |
 | **Information Technology Senior Management Forum** | Senior Data Engineer | Richmond, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e8500146d476812) | 2026-03-05 |
 | **Information Technology Senior Management Forum** | Senior Data Engineer | McLean, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ad2838bd8f61427) | 2026-03-05 |
@@ -64,6 +67,8 @@
 | **LTIMindtree** | Senior Software Engineer | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af8d363b230dfbc2) | 2026-03-05 |
 | **LTIMindtree** | Specialist - Data Sciences | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd940dcf75668323) | 2026-03-05 |
 | **Novolex** | IT Data Engineer | Lake Forest, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=024a63ca708c8a8f) | 2026-03-05 |
+| **Hard Rock International** | Database Administrator | Hollywood, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=169d4a00d377fdae) | 2026-03-05 |
+| **Tivity Health** | Sr Software Developer - remote opportunity | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a33a7d52bc385fbe) | 2026-03-05 |
 | **Target RWE** | Data Engineer | Raleigh, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f9e6332a7739943) | 2026-03-05 |
 | **Calix** | Software Engineering Intern, Cloud | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d5cb27b8b96f5996) | 2026-03-05 |
 | **LTIMindtree** | Senior Specialist - System Management | Glen Allen, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=293f842904007fda) | 2026-03-05 |
@@ -79,6 +84,7 @@
 | **Dentsu** | AI Engineer | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a45941264c404bd7) | 2026-03-05 |
 | **Deloitte** | Data Scientist - National Federal Tax Services | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6924bfb8fd4f7afd) | 2026-03-05 |
 | **Deloitte** | Data Scientist - National Federal Tax Services | Los Angeles, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5b8c1eb33e6b1ba3) | 2026-03-05 |
+| **Universal Background Screening** | Junior Software Engineer | Phoenix, AZ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9beca67b7d20a92) | 2026-03-05 |
 | **Tata Consultancy Services (TCS)** | Engineer | Cleveland, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8d7918d179d06eb) | 2026-03-05 |
 | **Accenture** | ATC - AI & Data Analyst - NAELFY26 | Saint Petersburg, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ce7a50a4bbe9ef2) | 2026-03-05 |
 | **Dentsu** | Backend Software Engineer (Python) | MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7068d75c37f1b8c8) | 2026-03-05 |
@@ -99,6 +105,7 @@
 | **Inspira Financial** | Data Scientist (Remote) | Oak Brook, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=345031cc2dcdfebc) | 2026-03-05 |
 | **Inspira Financial** | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1733261c550fa238) | 2026-03-05 |
 | **Inspira Financial** | Sr. Software Engineer (Remote) | Oak Brook, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d0e899d198425eb) | 2026-03-05 |
+| **JPMorganChase** | CCB Risk Modeling - AI ML Senior Associate | Palo Alto, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=46d1a166f45a539b) | 2026-03-05 |
 | **Applied Intuition** | Senior Software Engineer - Backend | Sunnyvale, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76dafd5ad5da03d3) | 2026-03-05 |
 | **The Hanover Insurance Group** | Application Engineer (MA or REMOTE) | Worcester, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4031967f3370a998) | 2026-03-05 |
 | **The Hanover Insurance Group** | Application Engineer (MA or REMOTE) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5e6664180a41e9f) | 2026-03-05 |
@@ -129,6 +136,37 @@
 | **City National Bank** | Data Senior Scientist | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e2b27e9797faa9e) | 2026-03-05 |
 | **Genentech** | Senior Data Scientist, Gen AI Application | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5e6953071e03c7b) | 2026-03-05 |
 | **Genentech** | Senior Data Scientist, Gen AI Foundation | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f212829af1f3caa) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=434eec96fb9692b2) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=42bb477caadfc26c) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Portland, OR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4753fd98a50b3fe3) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Raleigh, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c4fc325f040d982e) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fef936da522c9af1) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Orlando, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08d09f380f70a3fe) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Memphis, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22ab1b2a49fa7cce) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=82c773741b57e6b5) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e1ceb9ade56a2fc) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5fab364ee83d967c) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Detroit, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4fabb517af1e2ad2) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Palm Beach, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ea613e39b9985b0) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bf44454d58cbbfe3) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4beac83bae3fc2f) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=efa5606ca7937a3d) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Indianapolis, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bc92d65138587fbe) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d119769f1bd69085) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b259a15f5d14a2ee) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Philadelphia, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7b40aef71bf1c61) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5a4b28b613349842) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Denver, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3fbc21dc9407e833) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8fdcab3f00e210d) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49700fc92efe684d) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Salt Lake City, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=87afcc5fc764fe82) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | San Diego, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=46220d0f4888dc55) | 2026-03-05 |
+| **IT Labs** | Forward Deployed Software Engineer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f3a79f28b2498e75) | 2026-03-05 |
+| **TikTok** | Software Engineer, TikTok AIGC Agentic Workflow | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3040dd79f0846a3c) | 2026-03-05 |
+| **TikTok** | Senior Software Engineer, TikTok AIGC Agentic Workflow | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b2bcc587c3af65e) | 2026-03-05 |
+| **JPMorganChase** | Corporate Finance – Data Science Product Associate | Newark, DE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=53a8bd4dbe5c9210) | 2026-03-05 |
+| **Foot Locker** | Senior Data Analyst | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db87b6eb69c0206e) | 2026-03-05 |
+| **nan** | Data Engineer | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38b673fd36dffa19) | 2026-03-05 |
 | **Skechers** | Data Scientist | Hermosa Beach, CA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d0cf03fccf9f1cb) | 2026-03-04 |
 | **Chewy** | Software Engineer II, | Boston, MA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4edb591674d441f) | 2026-03-04 |
 | **Zifo** | Data Engineer/Python Developer | Boston, MA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3419a1d7b4acb559) | 2026-03-04 |
