@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-06
-- **New Matches Found in Last Run:** 11
-- **Total Active Matches (Last 4 Days):** 836
+- **New Matches Found in Last Run:** 1
+- **Total Active Matches (Last 4 Days):** 837
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-06.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-06.xlsx)
 
@@ -114,6 +114,7 @@
 | **rockITdata** | AI/ML Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ee274259b2b0969) | 2026-03-06 |
 | **Teradata** | Senior Software Engineer | CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=806bff32d1d719ff) | 2026-03-06 |
 | **JPMorganChase** | Software Engineer III - Backend | Palo Alto, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e84202aaf2d40639) | 2026-03-06 |
+| **Charles Schwab** | Database Development Engineer | Southlake, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0851e8fad5830e58) | 2026-03-06 |
 | **Hasbro, Inc.** | Data Engineer | Renton, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fae84989543dec5d) | 2026-03-06 |
 | **McKesson** | Sr IT Architect | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc65b2a1509f9e28) | 2026-03-06 |
 | **Johnson & Johnson** | Full Stack Software Engineer | Raritan, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1da58f819c758031) | 2026-03-06 |
