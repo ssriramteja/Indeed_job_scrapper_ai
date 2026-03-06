@@ -1,95 +1,161 @@
 # 🎯 Daily Job Matches — 2026-03-06
 
-**Total Jobs Found:** 8
+**Total Jobs Found:** 14
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Analyst, Risk Data Engineering @ Lincoln Financial Group
-**Match Score:** 18.9%
+## 1. AV Safety Engineering Analytics AI/ML Engineer (GPSSC) @ General Motors (GM)
+**Match Score:** 28.9%
 
-📍 **Location:** Radnor, PA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, S3, Glue, Athena, Redshift, MLflow, CI/CD, Databricks, Redshift
+🔑 **Keywords:** Generative AI, LangChain, RAG, TensorFlow, PyTorch, XGBoost, S3, BigQuery, Data Lake, Dataflow
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4c054d24fbe757c5)
-
----
-
-## 2. Senior Software Engineer - Clinical Systems (Lab Ops) @ Caris Life Sciences
-**Match Score:** 14.4%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** RAG, S3, Docker, Kubernetes, CI/CD, Git, PostgreSQL, MySQL, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fb8de235a110895a)
+[Apply Here](https://www.indeed.com/viewjob?jk=1b0a8c3e1d955c79)
 
 ---
 
-## 3. Senior Software Engineer @ DocuSign
-**Match Score:** 13.3%
+## 2. Gen AI Engineer @ CCS Inc
+**Match Score:** 16.7%
 
-📍 **Location:** Seattle, WA, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** RAG, Hugging Face, MLflow, FastAPI, Docker, Kubernetes, CI/CD, Kafka, NoSQL, Python
+🔑 **Keywords:** AI Engineer, LangChain, RAG, LLaMA, Hugging Face, FAISS, Pinecone, Prompt Engineering, MLflow, Docker
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ed1b9b0328def6aa)
+[Apply Here](https://www.indeed.com/viewjob?jk=4f0daa2739654d2f)
 
 ---
 
-## 4. DevOps Engineer @ Walkme
-**Match Score:** 13.3%
+## 3. Sr. AI Engineer @ NYU Langone Health
+**Match Score:** 15.6%
 
 📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Terraform, Git, MySQL, MongoDB, SQL
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, RAG, Prompt Engineering, TensorFlow, PyTorch, MLflow, Docker, Kubernetes
 
-[Apply Here](https://www.indeed.com/viewjob?jk=36669407e627b585)
+[Apply Here](https://www.indeed.com/viewjob?jk=43c7e17e3710a8b4)
 
 ---
 
-## 5. Senior Cloud Systems Engineer (Databricks Administrator) @ Providge Consulting
+## 4. Sr. AI Engineer @ NYU Langone Health
+**Match Score:** 15.6%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, RAG, Prompt Engineering, TensorFlow, PyTorch, MLflow, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=815fc66c898092a0)
+
+---
+
+## 5. Senior AI/ML Scientist @ General Motors (GM)
+**Match Score:** 14.4%
+
+📍 **Location:** Milford, MI, US USA
+
+🔑 **Keywords:** Generative AI, RAG, TensorFlow, PyTorch, Azure ML, MLflow, Docker, Kubernetes, Databricks, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=300d4ca14be662c3)
+
+---
+
+## 6. Gen AI Engineer (Remote) @ Realign
+**Match Score:** 14.4%
+
+📍 **Location:** Frederick, MD, US USA
+
+🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, Prompt Engineering, TensorFlow, PyTorch, Azure ML, Docker, Kubernetes
+
+[Apply Here](https://www.indeed.com/viewjob?jk=24193c69942175bf)
+
+---
+
+## 7. AV Safety Engineering Analytics Simulation Engineer (GPSSC) @ General Motors (GM)
+**Match Score:** 13.3%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Git, Tableau, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4b9eec46bbab109b)
+
+---
+
+## 8. Safety Modeling Engineer – Counterfactual & Behavioral Safety Modeling (GPSSC) @ General Motors (GM)
+**Match Score:** 12.2%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Git, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b2e667884cbb664f)
+
+---
+
+## 9. Safety Modeling Engineer – Collision Severity and Safety Impact Modeling (GPSSC) @ General Motors (GM)
+**Match Score:** 12.2%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Git, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c132c8bafc240b9a)
+
+---
+
+## 10. GenAI Engineer @ Realign
+**Match Score:** 12.2%
+
+📍 **Location:** Santa Clara, CA, US USA
+
+🔑 **Keywords:** AI Engineer, Generative AI, RAG, Copilot, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, Python, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7d21acdf5aa3edec)
+
+---
+
+## 11. Data Scientist (Data Science) @ Boeing
+**Match Score:** 12.2%
+
+📍 **Location:** Everett, WA, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, Docker, Kubernetes, Databricks, Tableau, Power BI, Matplotlib, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=27f23ac699145218)
+
+---
+
+## 12. Product Engineer @ ALTIMATE
 **Match Score:** 11.1%
 
-📍 **Location:** Washington, DC, US USA
+📍 **Location:** Sunnyvale, CA, US USA
 
-🔑 **Keywords:** RAG, S3, CI/CD, Terraform, Databricks, Python, SQL, R, Scala, Optimization
+🔑 **Keywords:** RAG, FastAPI, Kubernetes, Git, PostgreSQL, Python, SQL, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e094ab218ebab2ed)
+[Apply Here](https://www.indeed.com/viewjob?jk=95f4b6534ba4c3cd)
 
 ---
 
-## 6. Data Engineer @ BOULDER SCIENTIFIC CO
+## 13. Senior Software Development Engineer – Distributed Inference @ AMD
 **Match Score:** 11.1%
 
-📍 **Location:** Longmont, CO, US USA
+📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** RAG, CI/CD, Git, Snowflake, Power BI, Python, SQL, R, Scala, Optimization
+🔑 **Keywords:** RAG, LLaMA, Kubernetes, CI/CD, Jenkins, Git, Python, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=9486135c47b58364)
-
----
-
-## 7. Sr. Full Stack Software Engineer (Onsite - San Diego) @ Carlsmed
-**Match Score:** 10.0%
-
-📍 **Location:** Carlsbad, CA, US USA
-
-🔑 **Keywords:** S3, EC2, CI/CD, Git, PostgreSQL, SQL, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=47ffb86f604e14df)
+[Apply Here](https://www.indeed.com/viewjob?jk=62f77c01ffbc91c7)
 
 ---
 
-## 8. AI/ML Engineer - Systems @ KLA
+## 14. Data Engineer @ General Dynamics Information Technology
 **Match Score:** 10.0%
 
-📍 **Location:** Ann Arbor, MI, US USA
+📍 **Location:** IN, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, TensorFlow, CI/CD, Git, Python, R, Scala, Optimization
+🔑 **Keywords:** AI Engineer, RAG, Git, NoSQL, Python, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c2ea11c3a57a7712)
+[Apply Here](https://www.indeed.com/viewjob?jk=5c72aa5ea3e941f5)
 
 ---
 
