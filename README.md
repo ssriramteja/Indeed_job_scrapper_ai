@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-06
-- **New Matches Found in Last Run:** 20
-- **Total Active Matches (Last 4 Days):** 857
+- **New Matches Found in Last Run:** 16
+- **Total Active Matches (Last 4 Days):** 873
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-06.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-06.xlsx)
 
@@ -114,6 +114,11 @@
 | **Openkyber** | Cloud Posture Management Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=067142cff93a1db8) | 2026-03-06 |
 | **Openkyber** | Kubernetes Security Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6ed1c8109ce5f745) | 2026-03-06 |
 | **Openkyber** | AI Deployment Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=befd26f0914858d7) | 2026-03-06 |
+| **The Wyanoke Group** | Software Engineer | Thorofare, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6982bb757f23e348) | 2026-03-06 |
+| **NavitasPartners** | AI Application Developer (.NET / Azure AI) - 26-02279 | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1721e503308441b9) | 2026-03-06 |
+| **Blue Cross Blue Shield of Michigan** | Artificial Intelligence Engineer II | Detroit, MI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b223a39487082f8) | 2026-03-06 |
+| **Navan** | Sr. Backend Software Engineer, Fraud Risk Platform | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f38251c6d8dc24d) | 2026-03-06 |
+| **Navan** | Sr. Backend Software Engineer, Fraud Risk Platform | Dallas, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd3e26ae86e44d1b) | 2026-03-06 |
 | **Henry Schein** | Data Scientist | ME, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58997e058de1a885) | 2026-03-06 |
 | **Providge Consulting** | Senior Cloud Systems Engineer (Databricks Administrator) | Washington, DC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e094ab218ebab2ed) | 2026-03-06 |
 | **BOULDER SCIENTIFIC CO** | Data Engineer | Longmont, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9486135c47b58364) | 2026-03-06 |
@@ -131,6 +136,13 @@
 | **Sapphire Media LLC** | Junior Frontend Developer (Creative + Full-Stack) | Scottsdale, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c9d4ded917fb939a) | 2026-03-06 |
 | **Texas Comptroller of Public Accounts** | TxDMV - Data Analyst - Senior BI Developer (Remote in Texas) | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5b98eb455b4295de) | 2026-03-06 |
 | **Texas Department of Motor Vehicles** | TxDMV - Data Analyst - Senior BI Developer (Remote in Texas) | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4fb5c05e83aa7c0e) | 2026-03-06 |
+| **AHOLD Delhaize** | Cloud Reliability Engineer III | Salisbury, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a873ea80c18685a8) | 2026-03-06 |
+| **AHOLD Delhaize** | Azure Cloud Reliability Engineer III | Salisbury, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d03be69e8b8b46a) | 2026-03-06 |
+| **AHOLD Delhaize** | Azure Cloud Reliability Engineer III | Quincy, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3394267006383789) | 2026-03-06 |
+| **AHOLD Delhaize** | Cloud Reliability Engineer III | Quincy, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89f67d7a82e1ab2f) | 2026-03-06 |
+| **AHOLD Delhaize** | Azure Cloud Engineer III | Salisbury, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ca6b1dc40a2c3ae) | 2026-03-06 |
+| **AHOLD Delhaize** | Azure Cloud Engineer III | Quincy, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7878cfb5b544954f) | 2026-03-06 |
+| **McKinsey & Company** | Research and Data Science Fellow - People & Organization | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac2815420a9c094b) | 2026-03-06 |
 | **Hasbro, Inc.** | Data Engineer | Renton, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fae84989543dec5d) | 2026-03-06 |
 | **McKesson** | Sr IT Architect | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc65b2a1509f9e28) | 2026-03-06 |
 | **Johnson & Johnson** | Full Stack Software Engineer | Raritan, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1da58f819c758031) | 2026-03-06 |
@@ -170,6 +182,10 @@
 | **Texas Comptroller of Public Accounts** | TxDMV - Systems Analyst - Data Engineer (Remote in TX) | TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73e61a163308157a) | 2026-03-06 |
 | **Texas Department of Motor Vehicles** | TxDMV - Systems Analyst - Data Engineer (Remote in TX) | TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=934456836d756b7d) | 2026-03-06 |
 | **Citizens** | Senior Agentic AI Engineer | Johnston, RI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7682b35bbf97b83a) | 2026-03-06 |
+| **DLA Piper** | Data Engineer | Reston, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8ec2f40b7c71d98) | 2026-03-06 |
+| **nan** | Senior LLM / Generative AI Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=772756a15ab74f19) | 2026-03-06 |
+| **Visa** | Data Scientist, AI/ML – Visa Consulting and Analytics | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de9b1266ec52174f) | 2026-03-06 |
+| **Heartland Veterinary Partners** | Visualization Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ae96e01998eff74) | 2026-03-06 |
 | **Advance Auto Parts** | Data Scientist | Raleigh, NC, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=64783609821b5058) | 2026-03-05 |
 | **Openkyber** | ML Infrastructure Architect | AK, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=60711b668acbd0b3) | 2026-03-05 |
 | **Openkyber** | ML Infrastructure Architect | AK, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db8a35e2b334dacc) | 2026-03-05 |
