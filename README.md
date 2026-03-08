@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-08
-- **New Matches Found in Last Run:** 29
-- **Total Active Matches (Last 4 Days):** 626
+- **New Matches Found in Last Run:** 17
+- **Total Active Matches (Last 4 Days):** 643
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-08.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-08.xlsx)
 
@@ -10,9 +10,15 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Openkyber** | AI-Driven Threat Intelligence Analyst | TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f0eb14a985ec302b) | 2026-03-08 |
+| **Openkyber** | CrowdStrike Charlotte AI Engineer | TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd36b3af081d974a) | 2026-03-08 |
 | **Openkyber** | Machine Learning Threat Intelligence Engineer | GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c27bc0cbf92e5826) | 2026-03-08 |
+| **Openkyber** | Machine Learning Threat Intelligence Engineer | GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=29da198aaee83e0a) | 2026-03-08 |
 | **Openkyber** | Machine Learning Threat Intelligence Engineer | GA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c96ecafc624f15b3) | 2026-03-08 |
+| **Deloitte** | GenAI Engineer | Arlington, VA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9523c95c8a240349) | 2026-03-08 |
 | **Openkyber** | AI-Driven Threat Intelligence Analyst | IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=67808ceb6c462dbc) | 2026-03-08 |
+| **Openkyber** | Java Trainer / Mentor / Educator | VA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f225ad27d76e606c) | 2026-03-08 |
+| **Openkyber** | AI-Driven Threat Intelligence Analyst | IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f88da9b8e7516ee) | 2026-03-08 |
 | **Openkyber** | AI-Driven Threat Intelligence Analyst | GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ff508dfc11d64fe) | 2026-03-08 |
 | **Openkyber** | CrowdStrike Charlotte AI Engineer | CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d2a426fbf9b09b9a) | 2026-03-08 |
 | **Rivian and Volkswagen Group Technologies** | Sr. Software Systems & Data Engineer | Palo Alto, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5f045bd52323b67) | 2026-03-08 |
@@ -22,15 +28,24 @@
 | **Zions Bancorporation** | AI Engineer - Innovation Lab | Midvale, UT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e2a11c31d8ce5293) | 2026-03-08 |
 | **The Cadmus Group, Inc.** | Data Scientist | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c9298a4309623a1a) | 2026-03-08 |
 | **Disney Experiences** | Sr. Software Engineer | Celebration, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d14bdf995edae51e) | 2026-03-08 |
+| **Openkyber** | CrowdStrike Charlotte AI Engineer | GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa431a0f71f59764) | 2026-03-08 |
+| **Meijer** | Advanced Analyst II | Grand Rapids, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f3f529aa904b546) | 2026-03-08 |
 | **Openkyber** | CrowdStrike GenAI Security Engineer | TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=07730b1f5d6d529d) | 2026-03-08 |
 | **Openkyber** | CrowdStrike Charlotte AI Engineer | NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bfc6acb987d4792b) | 2026-03-08 |
 | **Openkyber** | Machine Learning Threat Intelligence Engineer | NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25db5000eeae2ce9) | 2026-03-08 |
+| **nan** | Founding Software Engineer | Naples, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7f5e6f4ef455fd4) | 2026-03-08 |
+| **Openkyber** | AI-Driven Threat Intelligence Analyst | GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ad7cadb668678f16) | 2026-03-08 |
+| **Openkyber** | GenAI Threat Intelligence Analyst | GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f5e99a2e7f39f10) | 2026-03-08 |
 | **nan** | Site Reliability Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0cf7aeb5a02166f) | 2026-03-08 |
 | **nan** | AI/ML Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=042d6a059fce02c7) | 2026-03-08 |
 | **American Civil Liberties Union** | Summer 2026 Howard University Graduate Intern, Technology- Analytics Department | York, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bf14f91badbb5205) | 2026-03-08 |
 | **Airwallex** | AI Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e2a37bf0f6749cc0) | 2026-03-08 |
 | **Airwallex** | AI Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=42fc783bf719af43) | 2026-03-08 |
 | **North Carolina Department of Correction** | Data Scientist | NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=661fbea1be1eba0d) | 2026-03-08 |
+| **Openkyber** | DevOps/AI Ops Administrator | TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bda711724fb96f94) | 2026-03-08 |
+| **Openkyber** | Java Software Engineer | HI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6e96f791ed6e1185) | 2026-03-08 |
+| **Openkyber** | Microsoft Threat Intelligence Analyst | TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a5d6190abb27508) | 2026-03-08 |
+| **Openkyber** | Machine Learning Threat Intelligence Engineer | GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cfdbf463d4ec1494) | 2026-03-08 |
 | **nan** | Founding Reliability & Performance Engineer | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ffe22ea463db3aa) | 2026-03-08 |
 | **Bausch & Lomb** | AI Agent ML Engineer | Wheeling, WV, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ad7a53c4a08e7124) | 2026-03-08 |
 | **Bausch & Lomb** | AI Agent ML Engineer | Detroit, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7715fd332eadbfc9) | 2026-03-08 |
@@ -39,6 +54,8 @@
 | **Bausch & Lomb** | AI Agent ML Engineer | Philadelphia, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c6167403dedf432) | 2026-03-08 |
 | **I4DM** | Cloud DevSecOps Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4af690cfdfaf9e78) | 2026-03-08 |
 | **Seamless** | GTM Automation Engineer | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b52470f59e76f94) | 2026-03-08 |
+| **Openkyber** | Cloud AI Application Administrator | OR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37f05dd4e98c67cd) | 2026-03-08 |
+| **Openkyber** | Java Production Support Engineer | IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9260483f5fd449bb) | 2026-03-08 |
 | **Vanderbilt University** | Applied Artificial Intelligence Engineer | Nashville, TN, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ca6504eac1ad121) | 2026-03-07 |
 | **The Wyanoke Group** | AI Engineer | Thorofare, NJ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4c14d111aa82140) | 2026-03-07 |
 | **Applied Medical** | Software Engineer - AI Engineer II/III | Rancho Santa Margarita, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=921527a7644f024e) | 2026-03-07 |
