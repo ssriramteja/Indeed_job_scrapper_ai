@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-09
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 406
+- **New Matches Found in Last Run:** 13
+- **Total Active Matches (Last 4 Days):** 419
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-09.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-09.xlsx)
 
@@ -32,6 +32,8 @@
 | **Openkyber** | Associate ML Infrastructure Engineer | OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f73fcdf60543dc29) | 2026-03-09 |
 | **Openkyber** | Associate ML Infrastructure Engineer | OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=714ec340c93e2f35) | 2026-03-09 |
 | **Openkyber** | Terraform MLOps Engineer | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14ef9a02e63046b1) | 2026-03-09 |
+| **RightRev** | Back-End AI Engineer | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da1213278b93e6bd) | 2026-03-09 |
+| **BITS, Inc.** | AI/ML Engineer | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7a0685b33151974) | 2026-03-09 |
 | **Berkshire Hathaway Specialty Insurance** | Data Scientist / Senior Data Scientist (Risk Modeling Focus) | San Ramon, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=612df1868af9d54f) | 2026-03-09 |
 | **Berkshire Hathaway Specialty Insurance** | Data Scientist / Senior Data Scientist (Risk Modeling Focus) | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=724dcb545f058b93) | 2026-03-09 |
 | **Openkyber** | MLOps | CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f80931732d91d4a6) | 2026-03-09 |
@@ -47,6 +49,7 @@
 | **Openkyber** | AI Platform Engineer | GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f2a4da6c8b29864) | 2026-03-09 |
 | **Openkyber** | MLOps | GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=41247af670cd7077) | 2026-03-09 |
 | **Openkyber** | MLOps | GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f0e8b67569d1abd) | 2026-03-09 |
+| **Openkyber** | Kubernetes ML Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=127254c89307645a) | 2026-03-09 |
 | **Openkyber** | GenAI Threat Intelligence Analyst | TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ce4778e23223f61) | 2026-03-09 |
 | **Openkyber** | AI Application Architect | CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18222a72f279542f) | 2026-03-09 |
 | **Openkyber** | Microsoft Threat Intelligence Analyst | TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3bf1a71270be8b00) | 2026-03-09 |
@@ -54,11 +57,21 @@
 | **Openkyber** | AI Application Architect | GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=626fa0a3ab6f27ca) | 2026-03-09 |
 | **Openkyber** | Kubernetes MLOps Engineer | NH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed6327e72675e4d0) | 2026-03-09 |
 | **Red Hat** | Senior Software Engineer - Open Data Hub/OpenShift AI | Raleigh, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6bdc41f6b1d7965b) | 2026-03-09 |
+| **Progressive Technology Solutions** | Senior Backend Engineer | Merrifield, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a853e0ae22d5c66) | 2026-03-09 |
+| **Syngenta** | Applied Genetics Scientist - Pipeline Data Science | Durham, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bf2eec91a895be79) | 2026-03-09 |
+| **Openkyber** | Generative AI Operations Engineer | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5233eb09f014a08a) | 2026-03-09 |
+| **GEICO** | Senior Taxonomist | Chevy Chase, MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5097254ffda8aa23) | 2026-03-09 |
+| **GEICO** | Senior Taxonomist | Dallas, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ba1788435dbf136) | 2026-03-09 |
+| **GEICO** | Senior Taxonomist | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=179cc696ce6a3a5a) | 2026-03-09 |
+| **GEICO** | Senior Taxonomist | Palo Alto, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a49578296052b0f) | 2026-03-09 |
+| **GEICO** | Senior Taxonomist | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ea6c9de4c26d6a0) | 2026-03-09 |
+| **GEICO** | Senior Taxonomist | Richardson, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=68fc2220156f231f) | 2026-03-09 |
 | **Tamarind Bio** | Computational Scientist | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6cc5b4cbfad611e4) | 2026-03-09 |
 | **Openkyber** | Cloud-Native MLOps Engineer | MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=130801f04a451d5c) | 2026-03-09 |
 | **Openkyber** | Production Support Executive | IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c95915fbd426ea3) | 2026-03-09 |
 | **Chamberlain Group** | Software Engineer I - AI | Oak Brook, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=447bcc67f82fc3e7) | 2026-03-09 |
 | **nan** | AI Trainer for Cantonese (Hong Kong) | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eb3b50fded0df74a) | 2026-03-09 |
+| **Cornspring** | Data Engineer Intern | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c845bfe1dfd51233) | 2026-03-09 |
 | **Openkyber** | AI-Driven Threat Intelligence Analyst | TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f0eb14a985ec302b) | 2026-03-08 |
 | **Openkyber** | CrowdStrike Charlotte AI Engineer | TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd36b3af081d974a) | 2026-03-08 |
 | **Openkyber** | Machine Learning Threat Intelligence Engineer | GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c27bc0cbf92e5826) | 2026-03-08 |
