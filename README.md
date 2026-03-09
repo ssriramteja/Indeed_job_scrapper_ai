@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-09
-- **New Matches Found in Last Run:** 29
-- **Total Active Matches (Last 4 Days):** 386
+- **New Matches Found in Last Run:** 16
+- **Total Active Matches (Last 4 Days):** 402
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-09.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-09.xlsx)
 
@@ -12,6 +12,8 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Openkyber** | CrowdStrike Charlotte AI Engineer | GA, US USA | 28.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a9ca0178ffbff15) | 2026-03-09 |
 | **Openkyber** | AI Application Architect | TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28e4d6385751ba88) | 2026-03-09 |
+| **Openkyber** | MLOps | TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f9a961034c94203e) | 2026-03-09 |
+| **Openkyber** | MLOps | TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5360f2e4e078cc82) | 2026-03-09 |
 | **Openkyber** | AI Application Architect | IL, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db40aa076d14f9d0) | 2026-03-09 |
 | **Openkyber** | AI Application Architect | IL, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=972ecca486e8cd7e) | 2026-03-09 |
 | **Openkyber** | AI Application Architect | GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a3902181000a2737) | 2026-03-09 |
@@ -22,23 +24,37 @@
 | **Openkyber** | Terraform MLOps Engineer | IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de027c01e5c0019b) | 2026-03-09 |
 | **Openkyber** | Generative AI Operations Engineer | GA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8983e071806a0394) | 2026-03-09 |
 | **Openkyber** | AI-Driven Threat Intelligence Analyst | IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6739cbc12b6628de) | 2026-03-09 |
+| **Openkyber** | Docker MLOps Engineer | CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ddc72cf3e9f4cacd) | 2026-03-09 |
 | **Openkyber** | AI Application Architect | NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a0b8313e7245642) | 2026-03-09 |
 | **Openkyber** | AI Application Architect | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9cb8af80af373eb9) | 2026-03-09 |
 | **Bluelight Consulting** | DataOps/ML Engineer - Remote, Latin America | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=086257d35fc77da6) | 2026-03-09 |
 | **Openkyber** | DevOps/AI Ops Administrator | TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85f08ece5433f514) | 2026-03-09 |
+| **Openkyber** | Associate ML Infrastructure Engineer | OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f73fcdf60543dc29) | 2026-03-09 |
+| **Openkyber** | Associate ML Infrastructure Engineer | OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=714ec340c93e2f35) | 2026-03-09 |
+| **Openkyber** | Terraform MLOps Engineer | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14ef9a02e63046b1) | 2026-03-09 |
+| **Berkshire Hathaway Specialty Insurance** | Data Scientist / Senior Data Scientist (Risk Modeling Focus) | San Ramon, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=612df1868af9d54f) | 2026-03-09 |
+| **Berkshire Hathaway Specialty Insurance** | Data Scientist / Senior Data Scientist (Risk Modeling Focus) | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=724dcb545f058b93) | 2026-03-09 |
+| **Openkyber** | MLOps | CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f80931732d91d4a6) | 2026-03-09 |
+| **Openkyber** | MLOps | CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09a09d113d12e316) | 2026-03-09 |
 | **Openkyber** | CrowdStrike Charlotte AI Engineer | GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a28833a04fe41c5) | 2026-03-09 |
 | **Openkyber** | Python | GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17ddf4daef31642b) | 2026-03-09 |
 | **Openkyber** | API Enablement Specialist | VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e92ce3f72178fa2b) | 2026-03-09 |
 | **Openkyber** | AI Application Architect | NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30438aff292750ae) | 2026-03-09 |
 | **Openkyber** | AI Application Architect | GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c15fc57fa4877545) | 2026-03-09 |
 | **Openkyber** | Java AI / ML Integration Engineer | NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=306efe4a26e0706c) | 2026-03-09 |
+| **Openkyber** | AI Platform Engineer | GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f2a4da6c8b29864) | 2026-03-09 |
+| **Openkyber** | MLOps | GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=41247af670cd7077) | 2026-03-09 |
+| **Openkyber** | MLOps | GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f0e8b67569d1abd) | 2026-03-09 |
 | **Openkyber** | GenAI Threat Intelligence Analyst | TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ce4778e23223f61) | 2026-03-09 |
 | **Openkyber** | AI Application Architect | CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18222a72f279542f) | 2026-03-09 |
 | **Openkyber** | Microsoft Threat Intelligence Analyst | TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3bf1a71270be8b00) | 2026-03-09 |
 | **Bluelight Consulting** | Senior Artificial Intelligence/Machine Learning Engineer - Remote, Latin America | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9935e07d8984af95) | 2026-03-09 |
 | **Openkyber** | AI Application Architect | GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=626fa0a3ab6f27ca) | 2026-03-09 |
+| **Openkyber** | Kubernetes MLOps Engineer | NH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed6327e72675e4d0) | 2026-03-09 |
 | **Tamarind Bio** | Computational Scientist | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6cc5b4cbfad611e4) | 2026-03-09 |
 | **Openkyber** | Cloud-Native MLOps Engineer | MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=130801f04a451d5c) | 2026-03-09 |
+| **Openkyber** | Production Support Executive | IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c95915fbd426ea3) | 2026-03-09 |
+| **Chamberlain Group** | Software Engineer I - AI | Oak Brook, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=447bcc67f82fc3e7) | 2026-03-09 |
 | **Openkyber** | AI-Driven Threat Intelligence Analyst | TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f0eb14a985ec302b) | 2026-03-08 |
 | **Openkyber** | CrowdStrike Charlotte AI Engineer | TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd36b3af081d974a) | 2026-03-08 |
 | **Openkyber** | Machine Learning Threat Intelligence Engineer | GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c27bc0cbf92e5826) | 2026-03-08 |

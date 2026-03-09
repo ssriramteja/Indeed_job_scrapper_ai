@@ -44,6 +44,50 @@
         "scrapped_date": "2026-03-09"
     },
     {
+        "title": "MLOps",
+        "company": "Openkyber",
+        "location": "TX, US USA",
+        "posted_at": "2026-03-08",
+        "score": 27.8,
+        "matched_keywords": [
+            "AI Engineer",
+            "Generative AI",
+            "LangChain",
+            "RAG",
+            "Hugging Face",
+            "FAISS",
+            "Pinecone",
+            "ChromaDB",
+            "Prompt Engineering",
+            "TensorFlow"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=f9a961034c94203e",
+        "description": "**position :** sr gen ai with agentic ai : for usa location : dallas texas or charlotte nc ( day 1 onsite)  \n\n**type of job :** contract : 12 months  \n\n**experience :** 10\\+ years  \n\n**must have skills:** gen ai agentic ai ml ops python ml data science rag llm  \n\n**nice to have skills:** google cloud platform prompt engineering  \n\n**detailed job description:**\nwe are seeking a highly skilled generative ai engineer with a strong python background to design, develop, and deploy cutting\\-edge ai solutions. the ideal candidate will have hands\\-on experience with large language models (llms), prompt engineering, and gen ai frameworks, along with expertise in building scalable ai applications. experience in developing agentic ai solutions.\n\n\n**key responsibilities:**\n* design and implement generative ai models for text, image, or multimodal applications.\n* develop prompt engineering strategies and embedding\\-based retrieval systems.\n* integrate gen ai capabilities into web applications and enterprise workflows.\n* build agentic ai applications with context engineering and mcp tools.\n\n**required skills \\& qualifications:**\n* 10\\+ years of hands\\-on experience in ai, data science, ml, gen ai.\n* strong hands on experience designing and deploying retrieval\\-augmented generation (rag) pipelines\n* strong mlops/llmops experience with ci/cd automation, extensive experience with langchain, langgraph, and agentic ai patterns including routing, memory, multi\\-agent orchestration, guardrails, and failure recovery.\n* experience in cloud\\-native engineering across aws (sagemaker, lambda, ecs/fargate, s3, api gateway, step functions) and google cloud platform (vertex ai) for scalable ai delivery\n* experience in developing microservices and api development using fastapi, rest apis, pydantic/json schemas, docker, and kubernetes for low\\-latency serving.\n* strong hands\\-on experience with vector databases and semantic search technologies including pinecone, faiss, chromadb, and embedding lifecycle management\n* strong proficiency in python and ai/ml frameworks (pytorch, tensorflow).\n* hands on experience using session and memory for building multi\\-agent systems along with using mcp tools.\n* hands\\-on experience with llms, transformers, and hugging face ecosystem.\n* knowledge and experience with vector databases and rag technique for semantic search.\n* familiarity with cloud ai services (aws sagemaker, azure openai, google cloud platform vertex ai).\n* understanding of mlops practices for scalable ai deployment.\n* strong experience in working with llm fine\\-tuning with lora, qlora, peft, strong experience in architected advanced rag systems using pinecone, faiss, weaviate, chroma, hybrid retrieval, and custom embeddings, strong experience in designing end\\-to\\-end llmops/mlops pipelines using mlflow, dvc, sagemaker pipelines, vertex ai pipelines, and github actions\n* experience in using cloud\\-native ai systems on aws (sagemaker, lambda, eks, ec2, step functions, s3, glue) and google cloud platform vertex ai, supporting high\\-volume inference and secure enterprise operations\n* experience in developing multi\\-agent orchestration workflows using langgraph and crewai for tool\\-calling, validation agents, automated reasoning, and workflow supervision\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
+        "title": "MLOps",
+        "company": "Openkyber",
+        "location": "TX, US USA",
+        "posted_at": "2026-03-08",
+        "score": 27.8,
+        "matched_keywords": [
+            "AI Engineer",
+            "Generative AI",
+            "LangChain",
+            "RAG",
+            "Hugging Face",
+            "FAISS",
+            "Pinecone",
+            "ChromaDB",
+            "Prompt Engineering",
+            "TensorFlow"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=5360f2e4e078cc82",
+        "description": "**position :** sr gen ai with agentic ai : for usa location : dallas texas or charlotte nc ( day 1 onsite)\n\n\n**type of job :** contract : 12 months\n\n\n**experience :** 10\\+ years\n\n\n**must have skills:** gen ai agentic ai ml ops python ml data science rag llm\n\n\n**nice to have skills:** google cloud platform prompt engineering\n\n\n**detailed job description:** we are seeking a highly skilled generative ai engineer with a strong python background to design, develop, and deploy cutting\\-edge ai solutions. the ideal candidate will have hands\\-on experience with large language models (llms), prompt engineering, and gen ai frameworks, along with expertise in building scalable ai applications. experience in developing agentic ai solutions.\n\n\n**key responsibilities:**\n\n\n* design and implement generative ai models for text, image, or multimodal applications.\n* develop prompt engineering strategies and embedding\\-based retrieval systems.\n* integrate gen ai capabilities into web applications and enterprise workflows.\n* build agentic ai applications with context engineering and mcp tools.\n\n**required skills \\& qualifications:**\n\n\n* 10\\+ years of hands\\-on experience in ai, data science, ml, gen ai.\n* strong hands on experience designing and deploying retrieval\\-augmented generation (rag) pipelines\n* strong mlops/llmops experience with ci/cd automation, extensive experience with langchain, langgraph, and agentic ai patterns including routing, memory, multi\\-agent orchestration, guardrails, and failure recovery.\n* experience in cloud\\-native engineering across aws (sagemaker, lambda, ecs/fargate, s3, api gateway, step functions) and google cloud platform (vertex ai) for scalable ai delivery\n* experience in developing microservices and api development using fastapi, rest apis, pydantic/json schemas, docker, and kubernetes for low\\-latency serving.\n* strong hands\\-on experience with vector databases and semantic search technologies including pinecone, faiss, chromadb, and embedding lifecycle management\n* strong proficiency in python and ai/ml frameworks (pytorch, tensorflow).\n* hands on experience using session and memory for building multi\\-agent systems along with using mcp tools.\n* hands\\-on experience with llms, transformers, and hugging face ecosystem.\n* knowledge and experience with vector databases and rag technique for semantic search.\n* familiarity with cloud ai services (aws sagemaker, azure openai, google cloud platform vertex ai).\n* understanding of mlops practices for scalable ai deployment.\n* strong experience in working with llm fine\\-tuning with lora, qlora, peft,\n* strong experience in architected advanced rag systems using pinecone, faiss, weaviate, chroma, hybrid retrieval, and custom embeddings,\n* strong experience in designing end\\-to\\-end llmops/mlops pipelines using mlflow, dvc, sagemaker pipelines, vertex ai pipelines, and github actions\n* experience in using cloud\\-native ai systems on aws (sagemaker, lambda, eks, ec2, step functions, s3, glue) and google cloud platform vertex ai, supporting high\\-volume inference and secure enterprise operations\n* experience in developing multi\\-agent orchestration workflows using langgraph and crewai for tool\\-calling, validation agents, automated reasoning, and workflow supervision\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
         "title": "AI Application Architect",
         "company": "Openkyber",
         "location": "IL, US USA",
@@ -264,6 +308,28 @@
         "scrapped_date": "2026-03-09"
     },
     {
+        "title": "Docker MLOps Engineer",
+        "company": "Openkyber",
+        "location": "CA, US USA",
+        "posted_at": "2026-03-08",
+        "score": 16.7,
+        "matched_keywords": [
+            "MLflow",
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Terraform",
+            "Git",
+            "Snowflake",
+            "Databricks",
+            "Cassandra",
+            "Tableau"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=ddc72cf3e9f4cacd",
+        "description": "data operations engineer location: cupertino, ca/ austin, ca(onsite) experience : 15\\+ years required as data operations engineer, you will collaborate with various infrastructure teams, platforms, product, engineering and scientists, to identify requirements that will derive the creation of sensible operations to build and manage data analytics foundations. the ideal candidate is a self\\-motivated teammate with good problem solving and communication skills with theability to adapt and learn quickly, provide results with limited direction, and choose the best possible operational decisions.\n\n\n**core responsibilities \\-**\nlead day\\-to\\-day operations to ensure organizational delivery of quality results.\n\n\nresponsible for provisioning, enabling, scaling and maintaining our team's data, analytics and ml infrastructures forbatch and real time systems including pipelines, frameworks, tools and services in hybrid cloud.\n\n\nshepherd zero\\-downtime deployment process through continuous delivery practices, rapidly releasing features thatprovide critical and faster insights to business users.\n\n\ncollaborate with the platform team by building the right tools for observability, monitoring, alerting and self\\-healing forthe day to day management of analytics foundations.\n\n\ndebug complex problems in distributed environment and ability to run the prod incidents efficiently to following up withpost incident reviews.\n\n\ndeveloping self\\-service tools and automation to improve engineering efficiency and the quality of services.\n\n\nexcellent verbal and written communication skills.\n\n\nself\\-starter with forward thinking capability with strong executional track record and be accountable for business priorities.\n\n\nhands\\-on experience with ci/cd pipelines and cloud environments like gitlab, spinnaker , docker/kubernetes observability using splunk, grafana/data dog is a huge plus.\n\n\nproficient with one or more programming languages such as python/go/rust/java/scala for automation and api integrations.\n\n\nexperience in implementing security controls, governance processes, compliance validation, infrastructure cost analysis and optimization.\n\n\nknowledge of analytics and applied ml stack like apache spark, trino/pinot, iceberg, atlas, flink, airflow/luigi, tableau, snowflake, databricks, mlflow, data catalogs, jupiter notebooks, vector database and cassandra.\n\n\nsolid understanding of iaac (infrastructure as a code) techniques like terraform, orchestration and tooling.\n\n\nexperience scaling operations in a fast\\-paced and dynamic environment.\n\n\nexperience working in agile or evolving product environments\n\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
         "title": "AI Application Architect",
         "company": "Openkyber",
         "location": "NJ, US USA",
@@ -349,6 +415,160 @@
         ],
         "apply_link": "https://www.indeed.com/viewjob?jk=85f08ece5433f514",
         "description": "role: python ai engineer (w2 requirement) location: plano, tx (onsite) duration: long term position summary: the python ai engineer will be responsible for building ai workflows with langchain and openai, orchestrating large language models (llms), and implementing low\\-latency systems for real\\-time data processing. the role focuses on applications hosted on azure cloud with kubernetes infrastructure, managing distributed systems, and transitioning ci/cd pipelines from azure devops to github actions. the position also involves monitoring systems, handling transcript data streaming from kafka platforms, and collaborating with care agents to address customer issues. what the right candidate will enjoy: working on cutting\\-edge ai workflows and llm orchestration. collaborating with a dedicated team of data scientists and frontend developers. opportunities to implement innovative solutions for real\\-time data processing. what type of experience does the right candidate have: strong expertise in python, including frameworks like fastapi. proficiency in azure cloud services and kubernetes infrastructure. experience with ci/cd pipelines, particularly github actions. knowledge of distributed systems, high concurrency, and multithreading. familiarity with postgresql, kafka, and helm charts. ability to monitor systems effectively and manage orchestration requests. what the responsibilities are of the right candidate: develop and implement ai workflows with langchain and openai. handle orchestration and management of distributed systems. transition ci/cd pipelines from azure devops to github actions. monitor and optimize low\\-latency systems for real\\-time data processing. collaborate with care agents to address customer issues effectively. stream transcript data from kafka platforms and integrate with core systems.\n\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
+        "title": "Associate ML Infrastructure Engineer",
+        "company": "Openkyber",
+        "location": "OH, US USA",
+        "posted_at": "2026-03-08",
+        "score": 14.4,
+        "matched_keywords": [
+            "Data Scientist",
+            "AWS SageMaker",
+            "S3",
+            "EC2",
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Jenkins",
+            "GitHub Actions",
+            "Terraform"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=f73fcdf60543dc29",
+        "description": "**job title:** platform engineer aws sagemaker\n\n\n**location:** cincinnati, oh, hybrid\n\n\n**duration:** 10\\+ months with potential extensions\n\n\n**technical skills \\- must have**\n\n\n* aws (networking, security, ec2/ecs, s3, lambda, sqs, etc.)\n* ci/cd tooling (jenkins, github actions, or similar)\n* exposure to linux\\-based environments and shell scripting\n* platform engineering\n* python\n* terraform\n\n**job description**\n\n\nwe are seeking a platform engineer to help support and enhance our aws\\-based machine learning platform, sagemaker. this role focuses on maintaining and improving infrastructure that enables data scientists and ml engineers to build, train, and deploy models efficiently and securely. this candidate should have foundational cloud and infrastructure\\-as\\-code experience, strong troubleshooting skills, and an interest in supporting machine learning workloads.\n\n\n**key responsibilities**\n\n\n* assist in building, maintaining, and improving aws infrastructure supporting amazon sagemaker and related ml services.\n* develop and maintain infrastructure as code (iac) using terraform to provision, manage, and version cloud resources.\n* assist with ci/cd pipeline development and automation for infrastructure and ml workflows.\n* help design, implement and maintain core components and services using best practices for cloud architecture and security.\n* monitor platform reliability, performance, cost efficiency and assist in troubleshooting infrastructure and deployment issues.\n* collaborate with data scientists and ml engineers to understand platform needs to improve stakeholder experience.\n* participate in documentation, operational runbooks, and knowledge sharing.\n\n**required qualifications**\n\n\n* understanding of core aws components and services such as:\n\t+ networking \\- subnets, routing, dns, and security groups\n\t+ security \\- iam roles/policies, encryption, secrets management, and least\\-privilege access models\n\t+ ec2/ecs\n\t+ s3\n\t+ lambda\n\t+ sqs\n* experience with:\n\t+ experience developing in python (lambda services, scripting, etc.)\n\t+ terraform or other infrastructure\\-as\\-code tools\n\t+ ci/cd tooling (jenkins, github actions, or similar)\n* exposure to linux\\-based environments and shell scripting.\n* strong problem\\-solving skills and willingness to learn new technologies.\n* ability to collaborate effectively with cross\\-functional teams.\n\n**preferred qualifications**\n\n\n* exposure to amazon sagemaker or other ml platform tooling.\n* basic understanding of machine learning workflows (training, inference, data pipelines, model lifecycle), as well as connectivity and execution patterns (batch, realtime).\n* familiarity with containerization and orchestration technologies such as docker or kubernetes.\n* experience developing oidc\\-integrated applications.\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
+        "title": "Associate ML Infrastructure Engineer",
+        "company": "Openkyber",
+        "location": "OH, US USA",
+        "posted_at": "2026-03-08",
+        "score": 14.4,
+        "matched_keywords": [
+            "Data Scientist",
+            "AWS SageMaker",
+            "S3",
+            "EC2",
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Jenkins",
+            "GitHub Actions",
+            "Terraform"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=714ec340c93e2f35",
+        "description": "**job title:** platform engineer aws sagemaker\n\n\n**location:** cincinnati, oh, hybrid\n\n\n**duration:** 10\\+ months with potential extensions\n\n\n**technical skills \\- must have**\n\n\n* aws aws (networking, security, ec2/ecs, s3, lambda, sqs, etc.)\n* ci/cd tooling (jenkins, github actions, or similar)\n* exposure to linux\\-based environments and shell scripting\n* platform engineering\n* python\n* terraform\n\n**job description**\n\n\nwe are seeking a platform engineer to help support and enhance our aws\\-based machine learning platform, sagemaker. this role focuses on maintaining and improving infrastructure that enables data scientists and ml engineers to build, train, and deploy models efficiently and securely. this candidate should have foundational cloud and infrastructure\\-as\\-code experience, strong troubleshooting skills, and an interest in supporting machine learning workloads.\n\n\n**key responsibilities**\n\n\n* assist in building, maintaining, and improving aws infrastructure supporting amazon sagemaker and related ml services.\n* develop and maintain infrastructure as code (iac) using terraform to provision, manage, and version cloud resources.\n* assist with ci/cd pipeline development and automation for infrastructure and ml workflows.\n* help design, implement and maintain core components and services using best practices for cloud architecture and security.\n* monitor platform reliability, performance, cost efficiency and assist in troubleshooting infrastructure and deployment issues.\n* collaborate with data scientists and ml engineers to understand platform needs to improve stakeholder experience.\n* participate in documentation, operational runbooks, and knowledge sharing.\n\n**required qualifications**\n\n\n* understanding of core aws components and services such as:\n\t+ networking \\- subnets, routing, dns, and security groups\n\t+ security \\- iam roles/policies, encryption, secrets management, and least\\-privilege access models\n\t+ ec2/ecs\n\t+ s3\n\t+ lambda\n\t+ sqs\n* experience with:\n\t+ experience developing in python (lambda services, scripting, etc.)\n\t+ terraform or other infrastructure\\-as\\-code tools\n\t+ ci/cd tooling (jenkins, github actions, or similar)\n* exposure to linux\\-based environments and shell scripting.\n* strong problem\\-solving skills and willingness to learn new technologies.\n* ability to collaborate effectively with cross\\-functional teams.\n\n**preferred qualifications**\n\n\n* exposure to amazon sagemaker or other ml platform tooling.\n* basic understanding of machine learning workflows (training, inference, data pipelines, model lifecycle), as well as connectivity and execution patterns (batch, realtime).\n* familiarity with containerization and orchestration technologies such as docker or kubernetes.\n* experience developing oidc\\-integrated applications\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
+        "title": "Terraform MLOps Engineer",
+        "company": "Openkyber",
+        "location": "GA, US USA",
+        "posted_at": "2026-03-08",
+        "score": 14.4,
+        "matched_keywords": [
+            "RAG",
+            "S3",
+            "EC2",
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Jenkins",
+            "GitHub Actions",
+            "Terraform",
+            "Git"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=14ef9a02e63046b1",
+        "description": "**job title:** senior aws cloud infrastructure engineer (terraform / iac)  \n\n**location:** philadelphia 5x/week  \n\n**employment mode:** contract w2 telecom domain mandatory\n  \n\n**role overview**\nwe are seeking a senior aws cloud infrastructure engineer who excels at designing, provisioning, and managing cloud\\-native infrastructure on aws using terraform and iac best practices. this is primarily a cloud infrastructure role \\- you will own the end\\-to\\-end design and automation of our aws environment, from network topology and security posture to serverless and containerized workloads. the ideal candidate is a terraform practitioner first, with deep aws expertise and the ability to enforce governance, repeatability, and security through code.\n\n  \n\n  \n\n**key responsibilities**\n* aws architecture \\& cloud design: architect and own highly available, multi\\-az environments across core aws services \\- vpc design, subnet segmentation, transit gateway, route 53, and iam trust boundaries. deep hands\\-on experience with the aws serverless stack (lambda, dynamodb, api gateway, s3\\) is a strong plus.\n* terraform \\& infrastructure as code (iac): design and maintain modular, reusable terraform configurations across multiple aws accounts and environments. enforce module standards, remote state management (s3 \\+ dynamodb locking), and workspace\\-based environment promotion strategies.\n* container orchestration: manage microservices deployment and scaling using docker and kubernetes (eks) .\n* performance optimization: manage and tune amazon elasticache (redis) for high\\-speed data retrieval and session management.\n* security first: implement **security as code** within terraform and aws. conduct regular audits to fix security gaps, manage iam roles, and ensure vpc isolation.\n* monitoring \\& observability: own the monitoring stack to proactively identify issues before they impact users. come to the table with recommendations for cost\\-saving and performance improvements.\n* leadership \\& proactivity: act as a self\\-driven expert who doesn't wait for a ticket to fix a problem. you will mentor junior staff and drive the technical roadmap for our infrastructure.\n\n  \n\n**required skills \\& experience**\n* terraform (required): 3\\+ years writing production terraform. must be comfortable with modules, workspaces, remote state, and provider version pinning. experience with terragrunt is a strong plus.\n* aws (required): 4\\+ years of hands\\-on aws experience. must have deep knowledge of vpc, iam, ec2, ecs/eks, lambda, s3, rds/aurora, cloudwatch, and cloudtrail. aws solutions architect or devops engineer certification preferred.\n* ci/cd \\& gitops: practical experience integrating terraform into ci/cd pipelines (github actions, jenkins, or gitlab ci). familiarity with plan/apply workflows, drift detection, and policy\\-as\\-code tools like sentinel or opa.\n* containers \\& orchestration: working knowledge of docker and kubernetes (eks preferred). ability to provision and manage eks clusters through terraform.\n* devops tooling experience (helm, argocd) is a plus but not the primary focus.\n* scripting \\& automation: proficiency in python or bash for infrastructure automation tasks, lambda functions, and custom resource provisioning.\n* nice to have: aws cdk or cloudformation exposure, experience with multi\\-account aws organizations setups (control tower / landing zone), and familiarity with finops or cost allocation tagging strategies.\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
+        "title": "Data Scientist / Senior Data Scientist (Risk Modeling Focus)",
+        "company": "Berkshire Hathaway Specialty Insurance",
+        "location": "San Ramon, CA, US USA",
+        "posted_at": "2026-03-09",
+        "score": 13.3,
+        "matched_keywords": [
+            "Data Scientist",
+            "RAG",
+            "TensorFlow",
+            "PyTorch",
+            "Docker",
+            "Git",
+            "Databricks",
+            "Python",
+            "SQL",
+            "R"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=612df1868af9d54f",
+        "description": "**who are we?**  \n\na strategic and trusted insurance partner, berkshire hathaway specialty insurance (bhsi), provides a broad range of commercial property, casualty and specialty insurance coverages and outstanding service to customers and brokers around the world. part of berkshire hathaway\u2019s insurance operations, we bring our solutions to market with our stellar brand name, top\\-rated balance sheet, and the expertise of our global team of professionals, who exude excellent capabilities and strong character.  \n\nwe are a values\\-based organization where respect, integrity, excellence, collaboration, and passion define who we are and how we do business. we value diversity of backgrounds, experience, and perspectives and strive to foster an inclusive environment that enables all our team members to bring their best selves to work. we are one team committed to building a culture where every teammate has the opportunity to contribute and be recognized. want to be part of the team building the finest property, casualty and specialty lines insurance company in the world?  \n\nlearn more about our unique culture and history. **job opportunity:**  \n\nberkshire hathaway specialty insurance (bhsi) has an exciting opportunity for data scientist / senior data scientist to join the catastrophe engineering and analytics (cat e\\&a) team. cat e\\&a is an innovative and versatile technical team conducting catastrophe risk research and development and providing complex quantitative metrics that inform underwriting decisions across multiple lines of business.  \n\nthe successful candidate will be responsible for identifying and applying cutting\\-edge data science techniques to build a better view of the risk for multiple perils. you will work across functional areas and perils within the team, supporting the development of models for various natural catastrophes, natural hazards, building vulnerability, and man\\-made risks such as cyber, casualty, among others. in addition, you will conduct in\\-depth evaluation of vendor models, research and develop internal views of exposure and risks, consult on account\\-specific risk analyses, and develop internal tools to facilitate account underwriting decision\\-making and other related activities. **duties \\& responsibilities:**  \n\n* evaluate and develop insights into large and diverse data sets from claims, hazard models, structural analysis, geospatial sources, and various other public/proprietary datasets.\n* develop and maintain expertise in advanced data science, machine learning, and artificial intelligence techniques, and their application to understanding risk.\n* work with domain experts across teams and perils to enhance our use of available data.\n* propose and execute innovative solutions to insurance problems that directly impact bhsi underwriting decisions.\n **qualifications, skills and experience:**  \n\neducational background* advanced degree (master's or ph.d.) in statistics, actuarial science, applied mathematics, data science, engineering, or other equivalent quantitative discipline.\n* strong academic foundation in probability theory, statistical inference, stochastic processes, and bayesian statistics.\n  \n\ntechnical \\& analytical skills* deep expertise in probability models commonly used in insurance (e.g., frequency\u2013severity models, glms, loss distributions).\n* strong applied statistics skills for:\n\t+ risk modeling\n\t+ predictive analytics\n\t+ pricing \\& underwriting analytics\n\t+ catastrophe exposure analysis\n* proficiency in statistical and machine learning techniques, including:\n\t+ regression (glm, gam, gamms)\n\t+ time\\-series forecasting\n\t+ gradient boosting, random forests, and other tree\\-based models, neural networks models\n\t+ clustering and segmentation\n\t+ bayesian methods\n* hands\\-on experience with key programming tools:\n\t+ python (numpy, pandas, scikit\\-learn; pytorch/tensorflow a plus)\n\t+ r (actuarial/statistical packages)\n\t+ sql for data extraction and manipulation\n\t+ familiarity with git and docker is a plus\n* experience with big data and distributed computing (e.g., spark, databricks, aws/gcp/azure) is a plus.\n  \n\npreferred domain knowledge in risk modeling* strong understanding of property \\& casualty insurance, including:\n\t+ exposure modeling\n\t+ loss distributions (e.g., pareto, lognormal, gamma)\n\t+ catastrophe risk concepts and tail modeling\n\t+ portfolio risk aggregation, reinsurance structures, and risk metrics (aal, pml, tvar)\n  \n\ndata skills* ability to work with large structured and unstructured datasets.\n* expertise in data cleaning, transformation, and feature engineering.\n* experience building automated data pipelines and scalable model workflows.\n  \n\nmodeling \\& communication* ability to translate complex statistical concepts into actionable business insights.\n* experience communicating results clearly to actuaries, underwriters, executives, and non\\-technical stakeholders.\n* strong documentation and model governance discipline.\n  \n\nprofessional competencies* curious, analytical thinker with strong problem\\-solving ability.\n* ability to work independently in ambiguous problem spaces.\n* collaborative mindset \u2014 comfortable partnering with actuaries, underwriters, portfolio managers, and engineers.\n **bhsi offers:**  \n\n* a competitive package and exciting growth opportunities for career\\-oriented teammates.\n* a dynamic, action oriented, and thoughtful environment centered on always doing the right thing for our customers, teammates, and our other stakeholders.\n* a purposely non\\-bureaucratic organization that embraces simplicity over complexity and emphasizes individual excellence in a team framework.\n* benefits that support your life and well\\-being, which include:\n\t+ comprehensive health, dental and vision benefits\n\t+ disability insurance (both short\\-term and long\\-term)\n\t+ life insurance (for you and your family)\n\t+ accidental death \\& dismemberment insurance (for you and your family)\n\t+ flexible spending accounts\n\t+ health reimbursement account\n\t+ employee assistance program\n\t+ retirement savings 401(k) plan with company match\n\t+ generous holiday and paid time off\n\t+ tuition reimbursement\n\t+ paid parental leave\n\n *the base salary range for this position in atlanta, ga, boston, ma, or san ramon, ca is $100,000 to $160,000, along with annual bonus eligibility. total compensation for a candidate is determined by their relevant skills, location, and experience. we value our teammates \u2013 both their capabilities and character \u2013 as demonstrated by our amazing culture.*  \n\nnote: compensation will be commensurate with experience. this job description is not intended to be all\\-inclusive. team member may perform other related duties as negotiated to meet the ongoing needs of the organization.",
+        "scrapped_date": "2026-03-09"
+    },
+    {
+        "title": "Data Scientist / Senior Data Scientist (Risk Modeling Focus)",
+        "company": "Berkshire Hathaway Specialty Insurance",
+        "location": "Boston, MA, US USA",
+        "posted_at": "2026-03-09",
+        "score": 13.3,
+        "matched_keywords": [
+            "Data Scientist",
+            "RAG",
+            "TensorFlow",
+            "PyTorch",
+            "Docker",
+            "Git",
+            "Databricks",
+            "Python",
+            "SQL",
+            "R"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=724dcb545f058b93",
+        "description": "**who are we?**  \n\na strategic and trusted insurance partner, berkshire hathaway specialty insurance (bhsi), provides a broad range of commercial property, casualty and specialty insurance coverages and outstanding service to customers and brokers around the world. part of berkshire hathaway\u2019s insurance operations, we bring our solutions to market with our stellar brand name, top\\-rated balance sheet, and the expertise of our global team of professionals, who exude excellent capabilities and strong character.  \n\nwe are a values\\-based organization where respect, integrity, excellence, collaboration, and passion define who we are and how we do business. we value diversity of backgrounds, experience, and perspectives and strive to foster an inclusive environment that enables all our team members to bring their best selves to work. we are one team committed to building a culture where every teammate has the opportunity to contribute and be recognized. want to be part of the team building the finest property, casualty and specialty lines insurance company in the world?  \n\nlearn more about our unique culture and history. **job opportunity:**  \n\nberkshire hathaway specialty insurance (bhsi) has an exciting opportunity for data scientist / senior data scientist to join the catastrophe engineering and analytics (cat e\\&a) team. cat e\\&a is an innovative and versatile technical team conducting catastrophe risk research and development and providing complex quantitative metrics that inform underwriting decisions across multiple lines of business.  \n\nthe successful candidate will be responsible for identifying and applying cutting\\-edge data science techniques to build a better view of the risk for multiple perils. you will work across functional areas and perils within the team, supporting the development of models for various natural catastrophes, natural hazards, building vulnerability, and man\\-made risks such as cyber, casualty, among others. in addition, you will conduct in\\-depth evaluation of vendor models, research and develop internal views of exposure and risks, consult on account\\-specific risk analyses, and develop internal tools to facilitate account underwriting decision\\-making and other related activities. **duties \\& responsibilities:**  \n\n* evaluate and develop insights into large and diverse data sets from claims, hazard models, structural analysis, geospatial sources, and various other public/proprietary datasets.\n* develop and maintain expertise in advanced data science, machine learning, and artificial intelligence techniques, and their application to understanding risk.\n* work with domain experts across teams and perils to enhance our use of available data.\n* propose and execute innovative solutions to insurance problems that directly impact bhsi underwriting decisions.\n **qualifications, skills and experience:**  \n\neducational background* advanced degree (master's or ph.d.) in statistics, actuarial science, applied mathematics, data science, engineering, or other equivalent quantitative discipline.\n* strong academic foundation in probability theory, statistical inference, stochastic processes, and bayesian statistics.\n  \n\ntechnical \\& analytical skills* deep expertise in probability models commonly used in insurance (e.g., frequency\u2013severity models, glms, loss distributions).\n* strong applied statistics skills for:\n\t+ risk modeling\n\t+ predictive analytics\n\t+ pricing \\& underwriting analytics\n\t+ catastrophe exposure analysis\n* proficiency in statistical and machine learning techniques, including:\n\t+ regression (glm, gam, gamms)\n\t+ time\\-series forecasting\n\t+ gradient boosting, random forests, and other tree\\-based models, neural networks models\n\t+ clustering and segmentation\n\t+ bayesian methods\n* hands\\-on experience with key programming tools:\n\t+ python (numpy, pandas, scikit\\-learn; pytorch/tensorflow a plus)\n\t+ r (actuarial/statistical packages)\n\t+ sql for data extraction and manipulation\n\t+ familiarity with git and docker is a plus\n* experience with big data and distributed computing (e.g., spark, databricks, aws/gcp/azure) is a plus.\n  \n\npreferred domain knowledge in risk modeling* strong understanding of property \\& casualty insurance, including:\n\t+ exposure modeling\n\t+ loss distributions (e.g., pareto, lognormal, gamma)\n\t+ catastrophe risk concepts and tail modeling\n\t+ portfolio risk aggregation, reinsurance structures, and risk metrics (aal, pml, tvar)\n  \n\ndata skills* ability to work with large structured and unstructured datasets.\n* expertise in data cleaning, transformation, and feature engineering.\n* experience building automated data pipelines and scalable model workflows.\n  \n\nmodeling \\& communication* ability to translate complex statistical concepts into actionable business insights.\n* experience communicating results clearly to actuaries, underwriters, executives, and non\\-technical stakeholders.\n* strong documentation and model governance discipline.\n  \n\nprofessional competencies* curious, analytical thinker with strong problem\\-solving ability.\n* ability to work independently in ambiguous problem spaces.\n* collaborative mindset \u2014 comfortable partnering with actuaries, underwriters, portfolio managers, and engineers.\n **bhsi offers:**  \n\n* a competitive package and exciting growth opportunities for career\\-oriented teammates.\n* a dynamic, action oriented, and thoughtful environment centered on always doing the right thing for our customers, teammates, and our other stakeholders.\n* a purposely non\\-bureaucratic organization that embraces simplicity over complexity and emphasizes individual excellence in a team framework.\n* benefits that support your life and well\\-being, which include:\n\t+ comprehensive health, dental and vision benefits\n\t+ disability insurance (both short\\-term and long\\-term)\n\t+ life insurance (for you and your family)\n\t+ accidental death \\& dismemberment insurance (for you and your family)\n\t+ flexible spending accounts\n\t+ health reimbursement account\n\t+ employee assistance program\n\t+ retirement savings 401(k) plan with company match\n\t+ generous holiday and paid time off\n\t+ tuition reimbursement\n\t+ paid parental leave\n\n *the base salary range for this position in atlanta, ga, boston, ma, or san ramon, ca is $100,000 to $160,000, along with annual bonus eligibility. total compensation for a candidate is determined by their relevant skills, location, and experience. we value our teammates \u2013 both their capabilities and character \u2013 as demonstrated by our amazing culture.*  \n\nnote: compensation will be commensurate with experience. this job description is not intended to be all\\-inclusive. team member may perform other related duties as negotiated to meet the ongoing needs of the organization.",
+        "scrapped_date": "2026-03-09"
+    },
+    {
+        "title": "MLOps",
+        "company": "Openkyber",
+        "location": "CA, US USA",
+        "posted_at": "2026-03-08",
+        "score": 13.3,
+        "matched_keywords": [
+            "RAG",
+            "Prompt Engineering",
+            "CI/CD",
+            "Snowflake",
+            "Databricks",
+            "Kafka",
+            "Tableau",
+            "Python",
+            "SQL",
+            "R"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=f80931732d91d4a6",
+        "description": "**role:** data engineer  \n\n**location:** cupertino, ca/ austin, ca\nthe data foundations engineer designs and scales modern data architectures powering wallet, payments, and commerceproducts. this role focuses on building high\\-performance data pipelines and enabling analytics and ml use cases, with strongfundamentals in data modeling and scalable systems.\n\n\n**key responsibilities \\- data engineering \\& architecture:**\n* design and implement scalable batch and near\\-real\\-time data pipelines.\n* develop etl/elt workflows optimized for performance and cost.\n* implement dimensional data models and standardize business metrics.\n* instrument apis and user journeys to capture behavioral and transactional data.\n\n**data governance \\& quality** \\- ensure data integrity, governance, privacy, and compliance.  \n\nmaintain reliability and availability of mission\\-critical systems.  \n\n**required qualifications** 6\\+ years of experience in data engineering for analytics or ml systems.\n* strong sql proficiency.\n* experience in python, scala, or java.\n* hands\\-on experience with spark, kafka, and airflow (or similar).\n* strong understanding of data modeling and lakehouse architectures (e.g., iceberg).\n* experience with aws, azure, or google cloud platform.\n* comfortable participating in rotating on\\-call.\n* experience with snowflake, databricks, trino, olap/nrt systems, superset or tableau.\n* familiarity with ci/cd, data observability, infrastructure\\-as\\-code.\n* exposure to mlops and genai/rag pipelines.\n* hands\\-on experience with llms (prompt engineering, fine\\-tuning, rag).\n* experience in fintech, wallet, or payments domain.\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
+        "title": "MLOps",
+        "company": "Openkyber",
+        "location": "CA, US USA",
+        "posted_at": "2026-03-08",
+        "score": 13.3,
+        "matched_keywords": [
+            "RAG",
+            "Prompt Engineering",
+            "CI/CD",
+            "Snowflake",
+            "Databricks",
+            "Kafka",
+            "Tableau",
+            "Python",
+            "SQL",
+            "R"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=09a09d113d12e316",
+        "description": "**role:** data engineer location: cupertino, ca/ austin, ca the data foundations engineer designs and scales modern data architectures powering wallet, payments, and commerceproducts.  \n\n**key responsibilities**\n* design and implement scalable batch and near\\-real\\-time data pipelines.\n* develop etl/elt workflows optimized for performance and cost.\n* implement dimensional data models and standardize business metrics.\n* instrument apis and user journeys to capture behavioral and transactional data.\n* ensure data integrity, governance, privacy, and compliance.\n* maintain reliability and availability of mission\\-critical systems.\n\n**required qualifications**\n* 6\\+ years of experience in data engineering for analytics or ml systems.\n* strong sql proficiency.\n* experience in python, scala, or java.\n* hands\\-on experience with spark, kafka, and airflow (or similar).\n* strong understanding of data modeling and lakehouse architectures (e.g., iceberg).\n* experience with aws, azure, or google cloud platform.\n* comfortable participating in rotating on\\-call.\n* experience with snowflake, databricks, trino, olap/nrt systems, superset or tableau.\n* familiarity with ci/cd, data observability, infrastructure\\-as\\-code.\n* exposure to mlops and genai/rag pipelines.\n* hands\\-on experience with llms (prompt engineering, fine\\-tuning, rag).\n* experience in fintech, wallet, or payments domain.\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
         "scrapped_date": "2026-03-09"
     },
     {
@@ -484,6 +704,72 @@
         "scrapped_date": "2026-03-09"
     },
     {
+        "title": "AI Platform Engineer",
+        "company": "Openkyber",
+        "location": "GA, US USA",
+        "posted_at": "2026-03-08",
+        "score": 12.2,
+        "matched_keywords": [
+            "AI Engineer",
+            "Data Scientist",
+            "LangChain",
+            "RAG",
+            "LLaMA",
+            "Pinecone",
+            "FastAPI",
+            "Kubernetes",
+            "CI/CD",
+            "Python"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=7f2a4da6c8b29864",
+        "description": "**job description:** ai platform engineer to design and build the foundational components that power enterprise\\-scale genai applications. this includes data guardrails, model safety tooling, observability pipelines, evaluation harnesses, and standardized logging/monitoring frameworks. this role is critical for enabling safe, reliable, and compliant ai development across multiple use cases, teams, and business units. idea is to create the common platform services that ai team will build upon.\n\n\n**key responsibilities**\n\n\n**1\\. guardrails, safety \\& governance**\n\n* design and implement data guardrail frameworks (pre\\-processing, redaction, pii/phi filtering, dlp integration, prompt defenses).\n* build \"model armor\" components such as: input validation \\& sanitization, prompt\\-injection defenses, harmful content detection \\& policy enforcement, output filtering, factchecking, grounding checks.\n* integrate safety tooling (policy engines, classifiers, dlp apis/safety models).\n* collaborate with security, compliance, and data privacy teams to ensure frameworks meet enterprise governance requirements.\n\n**2\\. observability frameworks**\n\n\n* build and maintain observability pipelines using tools like arize ai (tracing, quality metrics, dataset drift/hallucination tracking, embedding monitoring).\n* define and enforce platform\\-wide standards for: tracing llm calls, token usage and cost monitoring, latency and reliability metrics, prompt/model version tracking.\n* provide reusable sdks or middleware for engineering teams to adopt observability with minimal friction.\n\n**3\\. logging, monitoring \\& telemetry**\n\n\n* design standardized llm\\-specific logging schemas, including: inputs/outputs, model metadata, retrieval metadata, safety flags, user context and attribution.\n* build monitoring dashboards for performance, cost, anomalies, errors, and safety events.\n* implement alerting and slos/slis for llm inference systems.\n\n**4\\. evaluation infrastructure**\n\n\n* architect and maintain evaluation harnesses for genai systems, including: rag evaluation (faithfulness, relevance, hallucination risk), summarization/qa evaluation, human\\-in\\-the\\-loop review workflows, automated eval pipelines integrated into ci/cd.\n* support frameworks such as ragas, g\\-eval, rubric scoring, pairwise comparisons, and test case generation.\n* build reusable tooling for teams to write, run, and track model evaluations.\n\n**5\\. platform engineering \\& reusable components**\n\n\n* develop shared libraries, apis, and services for: prompt management/versioning, embedding pipelines and model wrappers, retrieval adapters, common data loaders and document preprocessing, tool/function schemas.\n* drive consistency across teams with standards, reference architectures, and best practices.\n* review system designs across use cases to ensure alignment to platform patterns.\n\n**6\\. collaboration \\& enablement**\n\n\n* partner with ai engineers, product teams, and data scientists to understand cross\\-cutting needs and convert them into reusable platform features.\n* create documentation, onboarding guides, examples, and developer tooling.\n* provide internal training (brown bags, workshops) on guardrails, observability, and evaluation frameworks.\n\n**required qualifications technical skills**\n\n\n* 5\\-10\\+ years software engineering or ml infrastructure experience.\n* strong python engineering fundamentals (fastapi, async, typing/pydantic, testing).\n* experience with model safety/guardrails approaches (prompt injection defense, pii redaction, toxicity filters, policy enforcement).\n* hands\\-on with arize ai, langsmith, or similar llm observability platforms.\n* experience creating evaluation frameworks using ragas, g\\-eval, or custom rubric systems.\n* strong familiarity with vector databases (pinecone, weaviate, milvus), embeddings, and retrieval pipelines.\n* solid understanding of llm architectures, tokenization, embeddings, context limits, and rag patterns.\n* experience in cloud (google cloud platform preferred), kubernetes/ge, containers, and ci/cd.\n* strong understanding of security, governance, dlp, data privacy, rbac, and enterprise compliance requirements.\n\n**soft skills**\n\n\n* strong documentation and communication skills.\n* ability to influence engineering teams and standardize best practices.\n* comfortable working across multiple stakeholders\\-platform, security, ml engineering, product.\n\n**nice to have**\n\n\n* experience with langchain/langgraph or llamalndex orchestrations.\n* experience with guardrails.ai, rebuff, protect ai, or similar llm security tooling.\n* experience with google cloud platform vertex ai pipelines, model monitoring, and vector search.\n* familiarity with knowledge graphs, grounding models, fact\\-checking models.\n* building sdks or developer frameworks adopted across multiple teams.\n* on\\-prem or hybrid ai deployment experience.\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
+        "title": "MLOps",
+        "company": "Openkyber",
+        "location": "GA, US USA",
+        "posted_at": "2026-03-08",
+        "score": 12.2,
+        "matched_keywords": [
+            "LangChain",
+            "RAG",
+            "TensorFlow",
+            "PyTorch",
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Python",
+            "SQL",
+            "R"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=41247af670cd7077",
+        "description": "role: ai/ml architect location: alpharetta, ga / dallas, tx / chicago, il /berkeley heights, nj / new york, ny (can be anywhere in usa as well if they are willing to travel) level: senior (10\\-12\\+ years' experience) position: 4 job description: agentic ai, ml, mlops, python, solution design, llm s, ai proof of concepts, cloud, devops, ci/cd tools about the role: we are seeking a highly experienced ai / ml engineer to design, develop, and deploy machinelearning solutions that power key analytics and intelligent automation across our fintech ecosystem. this role focuses on delivering productiongrade ml systems spanning classical ml, deep learning, and llmbased applications while ensuring scalability, reliability, and regulatory compliance. the engineer will own endtoend model development, from data preparation through deployment and monitoring, and will work closely with engineering, product, and data teams to implement impactful ai capabilities.\n\n\n**key responsibilities:**\n* build, train, and evaluate ml and deep learning models for classification, prediction, anomaly detection, and nlp use cases.\n* implement scalable ml pipelines for data processing, feature engineering, and inference.\n* develop and integrate llmbased capabilities including embeddings, rag workflows, and finetuned models.\n* deploy models to production using containerized and cloudnative infrastructures (docker, kubernetes, azure/aws).\n* implement mlops practices including ci/cd integration, experiment tracking, model registries, and monitoring.\n* ensure highquality data pipelines and automate preprocessing for structured and unstructured data.\n* apply model explainability (shap, lime) and responsible ai principles to ensure transparency and safe use.\n\n**required qualifications:**\n* deep handson experience building and deploying ml models (supervised, unsupervised, deep learning, nlp).\n* strong python skills (numpy, pandas, scikitlearn, pytorch or tensorflow).\n* experience with sql and dataengineering workflows (spark or airflow).\n* practical experience with llms, vector databases, embeddings, and rag systems.\n* familiarity with production ml deployment using docker, kubernetes, ci/cd pipelines, and gpu acceleration.\n* experience with cloud ai tooling (azure, aws, or google cloud platform) and scalable inference pipelines.\n* strong understanding of model monitoring, drift detection, and retraining strategies.\n* ability to create clear model explanations and apply interpretability tools.\n\n**nice to have:**\n* experience in fintech or other regulated industries with compliance requirements (soc 2, pci\\-dss, fedramp)\n* background with langchain, multiagent frameworks, or advanced vector search architectures.\n* experience implementing governance, safety guardrails, or responsible ai frameworks.\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
+        "title": "MLOps",
+        "company": "Openkyber",
+        "location": "GA, US USA",
+        "posted_at": "2026-03-08",
+        "score": 12.2,
+        "matched_keywords": [
+            "LangChain",
+            "RAG",
+            "TensorFlow",
+            "PyTorch",
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Python",
+            "SQL",
+            "R"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=8f0e8b67569d1abd",
+        "description": "**role:** ai/ml architect location: alpharetta, ga / dallas, tx / chicago, il /berkeley heights, nj / new york, ny (can be anywhere in usa as well if they are willing to travel) level: senior (10\\-12\\+ years' experience) position: 4\n\n\n**job description:** agentic ai, ml, mlops, python, solution design, llm s, ai proof of concepts, cloud, devops, ci/cd tools\n\n\n**about the role:** we are seeking a highly experienced ai / ml engineer to design, develop, and deploy machinelearning solutions that power key analytics and intelligent automation across our fintech ecosystem. this role focuses on delivering productiongrade ml systems spanning classical ml, deep learning, and llmbased applications while ensuring scalability, reliability, and regulatory compliance. the engineer will own endtoend model development, from data preparation through deployment and monitoring, and will work closely with engineering, product, and data teams to implement impactful ai capabilities.\n\n\n**key responsibilities:**\n\n\n* build, train, and evaluate ml and deep learning models for classification, prediction, anomaly detection, and nlp use cases.\n* implement scalable ml pipelines for data processing, feature engineering, and inference.\n* develop and integrate llmbased capabilities including embeddings, rag workflows, and finetuned models.\n* deploy models to production using containerized and cloudnative infrastructures (docker, kubernetes, azure/aws).\n* implement mlops practices including ci/cd integration, experiment tracking, model registries, and monitoring.\n* ensure highquality data pipelines and automate preprocessing for structured and unstructured data.\n* apply model explainability (shap, lime) and responsible ai principles to ensure transparency and safe use.\n\n**required qualifications:** deep handson experience building and deploying ml models (supervised, unsupervised, deep learning, nlp). strong python skills (numpy, pandas, scikitlearn, pytorch or tensorflow). experience with sql and dataengineering workflows (spark or airflow). practical experience with llms, vector databases, embeddings, and rag systems. familiarity with production ml deployment using docker, kubernetes, ci/cd pipelines, and gpu acceleration. experience with cloud ai tooling (azure, aws, or google cloud platform) and scalable inference pipelines. strong understanding of model monitoring, drift detection, and retraining strategies. ability to create clear model explanations and apply interpretability tools.\n\n\n**nice to have:** experience in fintech or other regulated industries with compliance requirements (soc 2, pci\\-dss, fedramp) background with langchain, multiagent frameworks, or advanced vector search architectures. experience implementing governance, safety guardrails, or responsible ai frameworks.\n\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
         "title": "GenAI Threat Intelligence Analyst",
         "company": "Openkyber",
         "location": "TX, US USA",
@@ -594,6 +880,28 @@
         "scrapped_date": "2026-03-09"
     },
     {
+        "title": "Kubernetes MLOps Engineer",
+        "company": "Openkyber",
+        "location": "NH, US USA",
+        "posted_at": "2026-03-08",
+        "score": 11.1,
+        "matched_keywords": [
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Jenkins",
+            "Terraform",
+            "Git",
+            "Python",
+            "R",
+            "Java",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=ed6327e72675e4d0",
+        "description": "**responsibilities:**\nkforce has a client that is seeking a cloud engineer java aws kubernetes in merrimack, nh. summary: as senior cloud engineer, you will utilize your strong cloud experience to develop solutions. this position involves working on an extraordinarily talented team whose job is to build cloud native applications. the ideal candidate for this position will have a strong background in cloud technologies and the ability to work in a fast\\-paced agile environment. they will be able to navigate and handle technical complexities while developing secure and scalable solutions for our customers.\n\n\n**requirements:**\n* bs degree in computer science preferred with 5\\+ years of working knowledge in cloud and related technologies\n* experience with python, golang, node js, docker, kubernetes, infrastructure as code, cloudformation, terraform\n* experience with building secure cloud solutions\n* experience with aws services, iam, eks, rds, vpc and cloudwatch\n* expert in building containerized applications using java spring boot \\& micronaut\n* understanding of how to build self\\-service solutions to be used by development teams\n* skilled in testing frameworks like junit/cucumber/spring test, tools like swagger/git/jenkins\n* proficiency with ci/cd tools and creating pipelines\n* proficient communication skills with an ability to present to both technical and non\\-technical stakeholders\n* preferred experience in retail financial markets or another highly regulated industry\n\nthe pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. we may ultimately pay more or less than this range. employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. this range may be modified in the future.\n\n\nwe offer comprehensive benefits including medical/dental/vision insurance, hsa, fsa, 401(k), and life, disability \\& add insurance to eligible employees. salaried personnel receive paid time off. hourly employees are not eligible for paid time off unless required by law. hourly employees on a service contract act project are eligible for paid sick leave.\n\n\nnote: pay is not considered compensation until it is earned, vested and determinable. the amount and availability of any compensation remains in openkyber's sole discretion unless and until paid and may be modified in its discretion consistent with the law.\n\n\nthis job is not eligible for bonuses, incentives or commissions.\n\n\nopenkyber is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.\n\n\nby clicking ?apply today? you agree to receive calls, ai\\-generated calls, text messages or emails from openkyber and its affiliates, and service providers. note that if you choose to communicate with openkyber via text messaging the frequency may vary, and message and data rates may apply. carriers are not liable for delayed or undelivered messages. you will always have the right to cease communicating via text by using key words such as stop.\n\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
         "title": "Computational Scientist",
         "company": "Tamarind Bio",
         "location": "San Francisco, CA, US USA",
@@ -633,6 +941,48 @@
         ],
         "apply_link": "https://www.indeed.com/viewjob?jk=130801f04a451d5c",
         "description": "**responsibilities:** openkyber has a client in boston, ma that is seeking a cloud production support engineer.\n\n\n**requirements:**\n\n\n* good cics system knowledge would be valuable\n* database and storage knowledge\n* ability to problem solve, create documentation and collaborate to multiple teams.\n* trouble shoot under pressure\n* gen ai knowledge a plus\n* motivation to learn basic mainframe navigation experience with:\n* aws (ec2, vpc, s3, iam, lambda, cloudformation)\n* terraform\n* linux\n* networking, firewalls, load balancers\n* containers \\& orchestration \\- docker, kukernetes\n* programming \\- java, python, bash, powershell\n* ci/cd and dev ops tools\n* monitoring, logging and observability\n\nthe pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. we may ultimately pay more or less than this range. employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. this range may be modified in the future. we offer comprehensive benefits including medical/dental/vision insurance, hsa, fsa, 401(k), and life, disability \\& add insurance to eligible employees. salaried personnel receive paid time off. hourly employees are not eligible for paid time off unless required by law. hourly employees on a service contract act project are eligible for paid sick leave. note: pay is not considered compensation until it is earned, vested and determinable. the amount and availability of any compensation remains in openkyber's sole discretion unless and until paid and may be modified in its discretion consistent with the law. this job is not eligible for bonuses, incentives or commissions. openkyber is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status. by clicking ?apply today? you agree to receive calls, ai\\-generated calls, text messages or emails from openkyber and its affiliates, and service providers. note that if you choose to communicate with openkyber via text messaging the frequency may vary, and message and data rates may apply. carriers are not liable for delayed or undelivered messages. you will always have the right to cease communicating via text by using key words such as stop.\n\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
+        "title": "Production Support Executive",
+        "company": "Openkyber",
+        "location": "IL, US USA",
+        "posted_at": "2026-03-08",
+        "score": 10.0,
+        "matched_keywords": [
+            "RAG",
+            "S3",
+            "EC2",
+            "Docker",
+            "CI/CD",
+            "Terraform",
+            "Python",
+            "R",
+            "Java"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=8c95915fbd426ea3",
+        "description": "**responsibilities:**\nopenkyber has a client in boston, ma that is seeking a cloud production support engineer.\n\n\n**requirements:**\n* good cics system knowledge would be valuable\n* database and storage knowledge\n* ability to problem solve, create documentation and collaborate to multiple teams.\n* trouble shoot under pressure\n* gen ai knowledge a plus\n* motivation to learn basic mainframe navigation\n\nexperience with:\n\n\n* aws (ec2, vpc, s3, iam, lambda, cloudformation)\n* terraform\n* linux\n* networking, firewalls, load balancers\n* containers \\& orchestration \\- docker, kukernetes\n* programming \\- java, python, bash, powershell\n* ci/cd and dev ops tools\n* monitoring, logging and observability\n\nthe pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. we may ultimately pay more or less than this range. employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. this range may be modified in the future.\n\n\nwe offer comprehensive benefits including medical/dental/vision insurance, hsa, fsa, 401(k), and life, disability \\& add insurance to eligible employees. salaried personnel receive paid time off. hourly employees are not eligible for paid time off unless required by law. hourly employees on a service contract act project are eligible for paid sick leave.\n\n\nnote: pay is not considered compensation until it is earned, vested and determinable. the amount and availability of any compensation remains in openkyber's sole discretion unless and until paid and may be modified in its discretion consistent with the law.\n\n\nthis job is not eligible for bonuses, incentives or commissions.\n\n\nopenkyber is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.\n\n\nby clicking ?apply today? you agree to receive calls, ai\\-generated calls, text messages or emails from openkyber and its affiliates, and service providers. note that if you choose to communicate with openkyber via text messaging the frequency may vary, and message and data rates may apply. carriers are not liable for delayed or undelivered messages. you will always have the right to cease communicating via text by using key words such as stop.\n\n\n**for applications and inquiries, contact:** hirings@openkyber.com",
+        "scrapped_date": "2026-03-09"
+    },
+    {
+        "title": "Software Engineer I - AI",
+        "company": "Chamberlain Group",
+        "location": "Oak Brook, IL, US USA",
+        "posted_at": "2026-03-08",
+        "score": 10.0,
+        "matched_keywords": [
+            "Generative AI",
+            "LangChain",
+            "RAG",
+            "Copilot",
+            "Prompt Engineering",
+            "Git",
+            "Python",
+            "R",
+            "Java"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=447bcc67f82fc3e7",
+        "description": "chamberlain group (cg) is a global leader in intelligent access and blackstone portfolio company. powered by our myq technology, we make access simple and secure for millions of homeowners, businesses, and communities worldwide. our flagship brands, liftmaster\u00ae and chamberlain\u00ae , are found in 51\\+ million homes, and 14 million\\+ people rely on the myq\u00ae app daily.\n\n\n\nthis is a role within cgi's engineering group. a successful incumbent passionate about building with modern ai tools and eager to grow in the rapidly evolving world of generative ai and intelligent systems. this role is ideal for a recent graduate who has completed academic or personal projects using llms, ai coding assistants, and modern software development tools. you will work alongside experienced engineers on real\\-world ai applications including intelligent assistants, automation tools, and ai\\-driven product features. this role emphasizes learning, experimentation, and hands\\-on development while contributing to production systems.\n\n\njob responsibilities:\n\n* contribute to development of ai\\-powered applications and internal tools.\n* build and test features using llms, apis, and modern development frameworks.\n* use ai coding tools (cursor, claude, codex, copilot, etc.) to accelerate development and improve code quality.\n* assist in building prototypes and proof\\-of\\-concepts for new ai features.\n* support integration of ai services into mobile, web, and backend systems.\n* participate in code reviews, sprint planning, and technical discussions.\n* write clean, well\\-documented, maintainable code.\n* learn and apply best practices in software engineering and ai development.\n* collaborate with product managers, designers, and senior engineers.\n* comply with health and safety guidelines and rules; managers should also ensure compliance across their teams.\n* protect chamberlain group\u2019s reputation by keeping information confidential.\n* maintain professional and technical knowledge by attending educational workshops, reading professional publications, establishing personal networks, and participating in professional societies.\n* contribute to the team effort by accomplishing related results and participating on projects as needed.\n\n\njob requirements:\n\n* bachelor\u2019s degree in computer science, software engineering, or related field (or graduating soon).\n* internship, coursework, or personal projects involving: generative ai, chatbots or assistants, ai\\-assisted coding workflows, and/or automation tools\n* experience building projects using: openai apis, claude, huggingface, langchain, or similar frameworks (nice to have)\n\n\nknowledge, skills, and abilities:\n\n* strong fundamentals in computer science and software engineering.\n* coursework in system design, distributed systems\n* proficiency in at least one programming language (python preferred; javascript/typescript also useful).\n* familiarity with rest apis, git, and modern development workflows.\n* experience using ai coding tools such as: cursor, claude, codex / copilot, chatgpt or similar tools\n* understanding of basic llm concepts: prompt engineering, api\\-based model usage, retrieval\\-augmented generation (rag) basics\n* ability to debug and iterate quickly.\n* strong curiosity and willingness to learn new tools and frameworks.\n* good communication and teamwork skills.\n\n\nother:\n\n* ability to travel up to 10% of the time domestically and internationally\n\n\npreferred job requirements:\n\n* master\u2019s degree in computer science, computer engineering, or related field\n* experience in iot, software services, video, and ai.\n* preferred internship experience in ai\\-focused startups, developer\\-tooling or cloud platforms, consumer technology/iot companies, or enterprise saas organizations building applications with generative ai and modern software tools.\n* portfolio, github, or demo projects strongly preferred.\n\n\nthe pay range for this position is $53,200\\.00 \\- $100,525\\.00; base pay offered may vary depending on a number of factors including, but not limited to, the position offered, location, education, training, and/or experience. in addition to base pay, also offered is a comprehensive benefits package and 401k contribution (all benefits are subject to eligibility requirements). this position is eligible for participation in a short\\-term incentive plan subject to the terms of the applicable plans and policies.\nchamberlain group wants all of its employees to succeed and encourages people of all backgrounds to apply. we\u2019re proud to be an equal opportunity employer, and you\u2019ll be considered for this role regardless of race, color, religion, sex, national origin, age, sexual orientation, ancestry; marital, disabled or veteran status. we\u2019re committed to fostering an environment where people of all lived experiences feel welcome.\n\n\npersons with disabilities who anticipate needing accommodations for any part of the application process may contact, in confidence recruiting@chamberlain.com.\n\n  \n\nnote: staffing agencies, headhunters, recruiters, and/or placement agencies, please do not contact our hiring managers directly.",
         "scrapped_date": "2026-03-09"
     },
     {
