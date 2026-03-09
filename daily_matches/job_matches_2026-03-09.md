@@ -1,172 +1,227 @@
 # 🎯 Daily Job Matches — 2026-03-09
 
-**Total Jobs Found:** 15
+**Total Jobs Found:** 20
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Sr Data Engineer @ Topgolf
-**Match Score:** 20.0%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, S3, Glue, Redshift, Data Lake, Kinesis, Apache Airflow, CI/CD, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=48a3d37ec6e3c854)
-
----
-
-## 2. Senior AI/ML Engineer @ Transflo
+## 1. AI Developer – Model Creation & Full Stack (Python) @ ECS
 **Match Score:** 18.9%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Machine Learning Engineer, LangChain, RAG, LLaMA, Hugging Face, Pinecone, Prompt Engineering, TensorFlow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=317128db35b1c788)
-
----
-
-## 3. Senior Software Engineer @ Optum
-**Match Score:** 17.8%
-
-📍 **Location:** Basking Ridge, NJ, US USA
-
-🔑 **Keywords:** Pinecone, Docker, Kubernetes, CI/CD, Kafka, PostgreSQL, MySQL, MongoDB, Cassandra, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=20ebbd1659adab31)
-
----
-
-## 4. Senior Full-Stack Engineer @ Monks
-**Match Score:** 13.3%
-
-📍 **Location:** Cupertino, CA, US USA
-
-🔑 **Keywords:** Docker, CI/CD, Jenkins, GitHub Actions, Git, PostgreSQL, MySQL, MongoDB, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=de964b64141d192f)
-
----
-
-## 5. Enterprise Data Architect (Hybrid - Austin, TX) @ Togetherwork
-**Match Score:** 13.3%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** RAG, S3, Glue, Redshift, Data Lake, Kinesis, CI/CD, Redshift, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=772798db531882c8)
-
----
-
-## 6. Senior MuleSoft Engineer @ Green Irony
-**Match Score:** 12.2%
-
-📍 **Location:** Raleigh, NC, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git, Kafka, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=902ef08f4a0d7d10)
-
----
-
-## 7. Professional Research Assistant @ Univeristy Of Colorado Boulder
-**Match Score:** 11.1%
-
-📍 **Location:** Boulder, CO, US USA
-
-🔑 **Keywords:** RAG, BigQuery, MLflow, Snowflake, BigQuery, Python, SQL, R, Java, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=713c34fce515b47e)
-
----
-
-## 8. Intern- AI/ML Engineering @ ENERCON SERVICES, INC
-**Match Score:** 11.1%
-
-📍 **Location:** Kennesaw, GA, US USA
-
-🔑 **Keywords:** AI Engineer, RAG, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, Azure ML, Python, R, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=77c47922f7d85c8e)
-
----
-
-## 9. Senior Data Engineer @ nan
-**Match Score:** 10.0%
-
-📍 **Location:** Fort Worth, TX, US USA
-
-🔑 **Keywords:** Glue, Athena, CI/CD, Git, PostgreSQL, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=332e9fb32e0415f5)
-
----
-
-## 10. Product Engineer Senior Consultant I (Full Stack Java/AI) @ Allstate Insurance
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Generative AI, LangChain, RAG, Prompt Engineering, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8b3ede5765e5e1c9)
-
----
-
-## 11. AI Developer @ EUTECH Chamber
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, Pinecone, Docker, Git, Python, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a4aad1013564cc7b)
-
----
-
-## 12. Solutions Architect, Cloud & AI @ Promevo
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, Generative AI, RAG, Prompt Engineering, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3db42a08f08149e7)
-
----
-
-## 13. Cloud DevOps Engineer @ nan
-**Match Score:** 10.0%
-
-📍 **Location:** Iselin, NJ, US USA
-
-🔑 **Keywords:** Docker, Kubernetes, CI/CD, Terraform, Kafka, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=38572d6cdf06c0ad)
-
----
-
-## 14. AI/ML Engineer III @ Ryder System
-**Match Score:** 10.0%
-
-📍 **Location:** Tallahassee, FL, US USA
-
-🔑 **Keywords:** Data Scientist, TensorFlow, PyTorch, Git, Databricks, Python, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5c76b335adc1dbdc)
-
----
-
-## 15. Systems Management Analyst, Azure/DevOps - Remote @ Optum
-**Match Score:** 10.0%
 
 📍 **Location:** Memphis, TN, US USA
 
-🔑 **Keywords:** RAG, Copilot, CI/CD, Terraform, Git, Python, SQL, R, Optimization
+🔑 **Keywords:** Data Scientist, TensorFlow, PyTorch, FastAPI, Docker, Kubernetes, CI/CD, Git, PostgreSQL, MySQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=18c04073ad856400)
+[Apply Here](https://www.indeed.com/viewjob?jk=3b7ab4a418bdfe39)
+
+---
+
+## 2. Junior Data Engineer @ The Brite Group
+**Match Score:** 17.8%
+
+📍 **Location:** Reston, VA, US USA
+
+🔑 **Keywords:** Data Scientist, S3, EC2, Glue, Athena, Redshift, Data Lake, CI/CD, Git, Redshift
+
+[Apply Here](https://www.indeed.com/viewjob?jk=97fe4fefddbc3bf0)
+
+---
+
+## 3. Full Stack Engineer @ InformAI
+**Match Score:** 16.7%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** Data Scientist, S3, EC2, FastAPI, Docker, Kubernetes, CI/CD, Terraform, Git, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=86fc1393dcf5eb4a)
+
+---
+
+## 4. AI Engineer @ Quest Global
+**Match Score:** 15.6%
+
+📍 **Location:** Sunnyvale, CA, US USA
+
+🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, LLaMA, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, Docker
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c6e7b74f60e3f76b)
+
+---
+
+## 5. Senior ML Engineer @ Shopmonkey
+**Match Score:** 15.6%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, Hugging Face, Pinecone, TensorFlow, PyTorch, MLflow, CI/CD, Snowflake, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0802ac126c9a1ff9)
+
+---
+
+## 6. Senior Data Engineer @ Point Digital Finance
+**Match Score:** 15.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, Cortex, S3, Apache Airflow, CI/CD, GitHub Actions, Terraform, Git, Snowflake
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e88c572a3f85eb53)
+
+---
+
+## 7. Python Engineer @ Tata Consultancy Services (TCS)
+**Match Score:** 14.4%
+
+📍 **Location:** Irving, TX, US USA
+
+🔑 **Keywords:** Gemini, TensorFlow, PyTorch, Keras, Docker, Git, PySpark, Hadoop, MySQL, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9cd446fe550a8f20)
+
+---
+
+## 8. Data Engineer - Sr. Consultant level @ Visa
+**Match Score:** 13.3%
+
+📍 **Location:** Foster City, CA, US USA
+
+🔑 **Keywords:** TensorFlow, Docker, Kubernetes, CI/CD, Git, Kafka, Hadoop, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6d1adbd6944b89ed)
+
+---
+
+## 9. Senior Data Engineer @ ConocoPhillips
+**Match Score:** 13.3%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** Data Scientist, Data Lake, Snowflake, Databricks, Kafka, PostgreSQL, Power BI, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4c4bead3a549cf5d)
+
+---
+
+## 10. AI Engineer @ General Dynamics Information Technology
+**Match Score:** 12.2%
+
+📍 **Location:** Falls Church, VA, US USA
+
+🔑 **Keywords:** AI Engineer, Data Scientist, RAG, LLaMA, TensorFlow, PyTorch, Git, Python, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=13cd085f7b3f3343)
+
+---
+
+## 11. Junior Analytics Engineer @ Exiger
+**Match Score:** 11.1%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** RAG, Prompt Engineering, S3, Snowflake, Kafka, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b57c7ab0df211106)
+
+---
+
+## 12. Data QA Engineer III @ Preferred Travel Group
+**Match Score:** 11.1%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** RAG, CI/CD, Jenkins, Git, Tableau, Power BI, Python, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=587fd1c533e6509d)
+
+---
+
+## 13. IT Platform Engineer Senior @ University of Maryland University College
+**Match Score:** 11.1%
+
+📍 **Location:** College Park, MD, US USA
+
+🔑 **Keywords:** RAG, CI/CD, GitHub Actions, Terraform, Git, Power BI, Python, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2c1b2de67639d71f)
+
+---
+
+## 14. Full Stack Developer @ General Dynamics Information Technology
+**Match Score:** 11.1%
+
+📍 **Location:** Falls Church, VA, US USA
+
+🔑 **Keywords:** AI Engineer, RAG, FastAPI, CI/CD, Git, NoSQL, Python, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=969dd367dfbd182d)
+
+---
+
+## 15. Engineer, Machine Learning Engineering (ML Apps) @ Qualcomm
+**Match Score:** 10.0%
+
+📍 **Location:** Santa Clara, CA, US USA
+
+🔑 **Keywords:** Machine Learning Engineer, Generative AI, PyTorch, Docker, CI/CD, Git, Python, R, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ae8d24935da05eb5)
+
+---
+
+## 16. Sr. Software Engineer @ Zoro
+**Match Score:** 10.0%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RAG, Prompt Engineering, Docker, Kubernetes, CI/CD, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a589ec468ec221f6)
+
+---
+
+## 17. Senior Software Engineer I @ LexisNexis Risk Solutions
+**Match Score:** 10.0%
+
+📍 **Location:** Boca Raton, FL, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, MySQL, MongoDB, SQL, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7e1586f5989048f3)
+
+---
+
+## 18. Senior System Engineer @ CMC Productions USA, Inc.
+**Match Score:** 10.0%
+
+📍 **Location:** Plano, TX, US USA
+
+🔑 **Keywords:** RAG, FastAPI, Docker, CI/CD, NoSQL, Python, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1e4918aa5155e586)
+
+---
+
+## 19. Data Scientist @ Linde
+**Match Score:** 10.0%
+
+📍 **Location:** Tonawanda, NY, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Git, Python, SQL, R, Java, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fe42b0844bee7c05)
+
+---
+
+## 20. Software Engineer @ Optum
+**Match Score:** 10.0%
+
+📍 **Location:** Eden Prairie, MN, US USA
+
+🔑 **Keywords:** Docker, Kubernetes, CI/CD, GitHub Actions, Git, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a49bfa0d3768c3e2)
 
 ---
 
