@@ -1,150 +1,62 @@
 # 🎯 Daily Job Matches — 2026-03-09
 
-**Total Jobs Found:** 13
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Back-End AI Engineer @ RightRev
-**Match Score:** 14.4%
+## 1. Full Stack Developer @ Local Lead EB
+**Match Score:** 13.3%
+
+📍 **Location:** Hallandale Beach, FL, US USA
+
+🔑 **Keywords:** RAG, S3, EC2, Docker, CI/CD, GitHub Actions, Git, PostgreSQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=62e0b0ed27a5ec6b)
+
+---
+
+## 2. (1363) Senior DevOps Engineer @ Nearsure
+**Match Score:** 13.3%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, Azure ML, MLflow, CI/CD, Git, Snowflake, Python, SQL
+🔑 **Keywords:** Generative AI, S3, EC2, Docker, Kubernetes, AKS, CI/CD, Jenkins, Terraform, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=da1213278b93e6bd)
-
----
-
-## 2. AI/ML Engineer @ BITS, Inc.
-**Match Score:** 14.4%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, TensorFlow, PyTorch, MLflow, Docker, Kubernetes, Hadoop, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f7a0685b33151974)
+[Apply Here](https://www.indeed.com/viewjob?jk=f7b52733c5b93b90)
 
 ---
 
-## 3. Kubernetes ML Engineer @ Openkyber
-**Match Score:** 12.2%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Docker, Kubernetes, Kafka, Hadoop, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=127254c89307645a)
-
----
-
-## 4. Senior Backend Engineer @ Progressive Technology Solutions
+## 3. Senior Software Engineer, Infrastructure @ Okta
 **Match Score:** 11.1%
 
-📍 **Location:** Merrifield, VA, US USA
+📍 **Location:** Bellevue, WA, US USA
 
-🔑 **Keywords:** Docker, CI/CD, Jenkins, Git, Power BI, SQL, R, Java, Scala, Optimization
+🔑 **Keywords:** Docker, Kubernetes, Terraform, MySQL, MongoDB, Python, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0a853e0ae22d5c66)
+[Apply Here](https://www.indeed.com/viewjob?jk=eee844d3954d72d1)
 
 ---
 
-## 5. Applied Genetics Scientist - Pipeline Data Science @ Syngenta
+## 4. Machine Learning Engineer @ Swish Analytics Inc.
 **Match Score:** 11.1%
 
-📍 **Location:** Durham, NC, US USA
+📍 **Location:** San Francisco, CA, US USA
 
-🔑 **Keywords:** PyTorch, Keras, Docker, Kubernetes, Git, NoSQL, Python, SQL, R, Scala
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Kubernetes, CI/CD, MySQL, Python, SQL, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=bf2eec91a895be79)
-
----
-
-## 6. Generative AI Operations Engineer @ Openkyber
-**Match Score:** 11.1%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, Generative AI, Databricks, PySpark, Power BI, Python, SQL, R, Optimization, A/B Testing
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5233eb09f014a08a)
+[Apply Here](https://www.indeed.com/viewjob?jk=3e2b18933e9d914c)
 
 ---
 
-## 7. Senior Taxonomist @ GEICO
-**Match Score:** 11.1%
-
-📍 **Location:** Chevy Chase, MD, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Kinesis, Apache Airflow, Kafka, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5097254ffda8aa23)
-
----
-
-## 8. Senior Taxonomist @ GEICO
-**Match Score:** 11.1%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Kinesis, Apache Airflow, Kafka, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8ba1788435dbf136)
-
----
-
-## 9. Senior Taxonomist @ GEICO
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Kinesis, Apache Airflow, Kafka, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=179cc696ce6a3a5a)
-
----
-
-## 10. Senior Taxonomist @ GEICO
-**Match Score:** 11.1%
-
-📍 **Location:** Palo Alto, CA, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Kinesis, Apache Airflow, Kafka, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8a49578296052b0f)
-
----
-
-## 11. Senior Taxonomist @ GEICO
-**Match Score:** 11.1%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Kinesis, Apache Airflow, Kafka, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7ea6c9de4c26d6a0)
-
----
-
-## 12. Senior Taxonomist @ GEICO
-**Match Score:** 11.1%
-
-📍 **Location:** Richardson, TX, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Kinesis, Apache Airflow, Kafka, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=68fc2220156f231f)
-
----
-
-## 13. Data Engineer Intern @ Cornspring
+## 5. Sr Data Scientist - Machine Learning @ QVC
 **Match Score:** 10.0%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** West Chester, PA, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, RAG, PostgreSQL, Python, SQL, R, Scala
+🔑 **Keywords:** Data Scientist, TensorFlow, BigQuery, Databricks, BigQuery, R, Scala, Optimization, Bayesian
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c845bfe1dfd51233)
+[Apply Here](https://www.indeed.com/viewjob?jk=cefe77ba99b93785)
 
 ---
 
