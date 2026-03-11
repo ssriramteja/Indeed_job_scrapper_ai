@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-11
-- **New Matches Found in Last Run:** 20
-- **Total Active Matches (Last 4 Days):** 468
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 473
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-11.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-11.xlsx)
 
@@ -23,6 +23,7 @@
 | **Citi** | Digital S/W Eng Intm Analyst - Officer | Tampa, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eeb0f8c11885ae48) | 2026-03-11 |
 | **JPMorganChase** | Data Engineer III | Columbus, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=843894356ab92a82) | 2026-03-11 |
 | **Openkyber** | Java AI / ML Integration Engineer | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0772d4beb2dd778b) | 2026-03-11 |
+| **Edurech Technoogy** | AI/ML Engineer | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fcb20aa09ee4ee9b) | 2026-03-11 |
 | **LTIMindtree** | Senior Specialist - Software Engineering | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3553f5857948933c) | 2026-03-11 |
 | **Fox Corporation** | Data Warehousing Specialist | Los Angeles, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=55ca5f5e42c7ae45) | 2026-03-11 |
 | **Openkyber** | AWS Network Engineer | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6614e385cde53c67) | 2026-03-11 |
@@ -43,6 +44,7 @@
 | **Openkyber** | Azure Network Engineer | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f25f88e227cb922) | 2026-03-11 |
 | **Openkyber** | OCI Terraform Engineer | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=786a6033717c7e3b) | 2026-03-11 |
 | **CVS Health** | Data Engineer | Hartford, CT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b17294d4d78b3548) | 2026-03-11 |
+| **Applied Research in Acoustics LLC** | Software Engineer (Ful-Stack & Scientific Visualization) | Madison, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bfbb4d83561f8dbf) | 2026-03-11 |
 | **Information Technology Senior Management Forum** | Senior Software Engineer, Back End | McLean, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b9d3f05f2d1cdf1) | 2026-03-11 |
 | **DICK'S Sporting Goods** | Sr. Software Engineer - Search (REMOTE) | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84a58520eb1a7089) | 2026-03-11 |
 | **AMD** | CPU System Validation Architect | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=377fc2a7cf056710) | 2026-03-11 |
@@ -107,6 +109,9 @@
 | **Tata Consultancy Services (TCS)** | Specialist -Artificial Intelligence | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32175977cd7251dd) | 2026-03-11 |
 | **Openkyber** | AWS Network Engineer | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=748ff33f7c0f9cd3) | 2026-03-11 |
 | **Comcast** | Workforce AI & Data Engineer | Philadelphia, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d6b4c74abeb7c6e1) | 2026-03-11 |
+| **Capital One** | Senior Machine Learning Engineer | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5fe9ffcd47d23e0c) | 2026-03-11 |
+| **Capital One** | Senior Machine Learning Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1bc985e7a360e58c) | 2026-03-11 |
+| **Capital One** | Senior Software Engineer | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf0a88c7b2103fc7) | 2026-03-11 |
 | **Capgemini** | Associate Data Scientist | Nashville, TN, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c349face95a4a45) | 2026-03-10 |
 | **Openkyber** | AI Application Architect | AK, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b27a9b186a474fcc) | 2026-03-10 |
 | **Openkyber** | AWS Network Engineer | AK, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0baa9cae1d61c25) | 2026-03-10 |
