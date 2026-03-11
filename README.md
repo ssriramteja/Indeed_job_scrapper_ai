@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-11
-- **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 473
+- **New Matches Found in Last Run:** 65
+- **Total Active Matches (Last 4 Days):** 538
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-11.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-11.xlsx)
 
@@ -11,22 +11,51 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Openkyber** | Cloud AI Consultant | AK, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb4f88eed34169f4) | 2026-03-11 |
+| **Capgemini** | Data Scientist | Nashville, TN, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4789de154dff59e1) | 2026-03-11 |
+| **Openkyber** | AI-Driven OSINT Analyst | AK, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c162c855a415e0aa) | 2026-03-11 |
+| **Openkyber** | OCI Storage Engineer | AK, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb5335ce208760e5) | 2026-03-11 |
 | **Openkyber** | UKG AI Scheduling Consultant | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d200cb704435b8bf) | 2026-03-11 |
 | **Openkyber** | UKG AI Scheduling Consultant | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa7707ece5dbc064) | 2026-03-11 |
 | **Openkyber** | UKG AI Scheduling Consultant | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb1e04244359bb9f) | 2026-03-11 |
 | **Openkyber** | UKG AI Scheduling Consultant | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b25fb23fd56de18) | 2026-03-11 |
+| **Openkyber** | AI-Driven OSINT Analyst | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b54639551819f0ac) | 2026-03-11 |
+| **Openkyber** | AI-Driven OSINT Analyst | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e2885a4f57fb528) | 2026-03-11 |
+| **Openkyber** | AI-Driven OSINT Analyst | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85e1a600a644295d) | 2026-03-11 |
+| **Openkyber** | AI-Driven OSINT Analyst | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f314aef4baf3f7c) | 2026-03-11 |
+| **Openkyber** | AI-Driven OSINT Analyst | NJ, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c593e4d4ed9ba8bf) | 2026-03-11 |
+| **Openkyber** | AI-Driven OSINT Analyst | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bdb3c19b0b102d64) | 2026-03-11 |
+| **Openkyber** | OCI AI Services Engineer | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ba439eac0774c66) | 2026-03-11 |
+| **Openkyber** | OCI AI Services Engineer | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e10a3388fdc5d76b) | 2026-03-11 |
+| **Openkyber** | OCI AI Services Engineer | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a7b3f88b90e9cb3d) | 2026-03-11 |
+| **Openkyber** | Kubernetes Cloud Engineer (EKS) | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a98d3ffe57a6ab3) | 2026-03-11 |
 | **Dhara Consulting Group** | Senior Full Stack AI/ML Engineer (#9BCTLJP00003238) | Reston, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4fb5fe208cf7f4e4) | 2026-03-11 |
 | **nan** | Senior Data Engineer | San Diego, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e55d8f1eb8410b9) | 2026-03-11 |
+| **Openkyber** | Generative AI Intelligence Analyst | AK, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ce63089ab7679bc) | 2026-03-11 |
+| **Openkyber** | OCI AI Infrastructure Engineer | AK, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7cfb8a0fe3be2961) | 2026-03-11 |
+| **Capgemini** | Data Engineer | Atlanta, GA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a17f9a800db9e079) | 2026-03-11 |
+| **Capgemini** | Associate Data Engineer - Databricks & GCP | Nashville, TN, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bafb0baf34406e6c) | 2026-03-11 |
 | **BOK Financial** | Software Engineer III - Java Backend | Tulsa, OK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69f26e792b98c94c) | 2026-03-11 |
+| **Capgemini** | Data Engineer with Databricks and GCP | Nashville, TN, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1abee21eb63a4b65) | 2026-03-11 |
+| **Capgemini** | Gen AI Engineer | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8564f28adedd855e) | 2026-03-11 |
+| **Capgemini** | Gen AI Engineer | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b1d5a3b98413be2e) | 2026-03-11 |
 | **RealPage Inc** | Developer IV | Richardson, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=856d67655e437893) | 2026-03-11 |
 | **nan** | Data Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8078d1ebfe9d1942) | 2026-03-11 |
+| **Capgemini** | Data Scientist | Berwyn, IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7e37ba368e6b8a1) | 2026-03-11 |
+| **Capgemini** | GCP Cloud Architect | Nashville, TN, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e86a9395e17960c1) | 2026-03-11 |
+| **Capgemini** | Gen AI Architect | Chicago, IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6e74b227ccb5a16a) | 2026-03-11 |
 | **Citi** | Digital S/W Eng Intm Analyst - Officer | Tampa, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eeb0f8c11885ae48) | 2026-03-11 |
 | **JPMorganChase** | Data Engineer III | Columbus, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=843894356ab92a82) | 2026-03-11 |
 | **Openkyber** | Java AI / ML Integration Engineer | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0772d4beb2dd778b) | 2026-03-11 |
 | **Edurech Technoogy** | AI/ML Engineer | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fcb20aa09ee4ee9b) | 2026-03-11 |
+| **Openkyber** | Generative AI Intelligence Analyst | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5bd5cdde8a2fc3e8) | 2026-03-11 |
+| **Welltower, Inc** | Senior Data Analyst, Digital Growth & Optimization | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bf337d2c4fd0d06e) | 2026-03-11 |
+| **Openkyber** | Generative AI Intelligence Analyst | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff7e3e96aad3ad0f) | 2026-03-11 |
 | **LTIMindtree** | Senior Specialist - Software Engineering | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3553f5857948933c) | 2026-03-11 |
 | **Fox Corporation** | Data Warehousing Specialist | Los Angeles, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=55ca5f5e42c7ae45) | 2026-03-11 |
 | **Openkyber** | AWS Network Engineer | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6614e385cde53c67) | 2026-03-11 |
+| **Capgemini** | Senior Microsoft power platform Engineer (Strong expertise in AI Builder, Copilots, Dynamics 365) | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0eaa11b39422fd1) | 2026-03-11 |
+| **Capgemini** | Senior GCP Data Engineer | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1c4fb2066401756) | 2026-03-11 |
+| **Capgemini** | Java Developer | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2fafe3bbb6db1d44) | 2026-03-11 |
 | **Johnson & Johnson** | Product Engineer TS Advanced Therapies | Raritan, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e7d20eb0597ce1b) | 2026-03-11 |
 | **Hunter Douglas** | AI Data Scientist | Broomfield, CO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eb22f63d0d8fa584) | 2026-03-11 |
 | **Wells Fargo** | Fraud Technology Software Engineer | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=032281f84bc9a278) | 2026-03-11 |
@@ -45,6 +74,14 @@
 | **Openkyber** | OCI Terraform Engineer | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=786a6033717c7e3b) | 2026-03-11 |
 | **CVS Health** | Data Engineer | Hartford, CT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b17294d4d78b3548) | 2026-03-11 |
 | **Applied Research in Acoustics LLC** | Software Engineer (Ful-Stack & Scientific Visualization) | Madison, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bfbb4d83561f8dbf) | 2026-03-11 |
+| **Openkyber** | AI-Driven OSINT Analyst | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fbaabd24e0d4a7d6) | 2026-03-11 |
+| **Openkyber** | AI-Driven OSINT Analyst | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6363625f4344b3b4) | 2026-03-11 |
+| **Openkyber** | OCI AI Services Engineer | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=92e4d50f0b83efe8) | 2026-03-11 |
+| **Openkyber** | OCI AI Services Engineer | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3978a8c9a90e42e) | 2026-03-11 |
+| **Capgemini** | Cloud Engineer - Senior Software Engineer | Seattle, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f7ef927e38140b0) | 2026-03-11 |
+| **Capgemini** | Solr Admin | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b89cfdf469723503) | 2026-03-11 |
+| **Openkyber** | AWS Platform Architect | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f789c8560e252850) | 2026-03-11 |
+| **Applied Research in Acoustics LLC** | Software Engineer (Ful-Stack & Scientific Visualization) | Seattle, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e26d56e21df1acb0) | 2026-03-11 |
 | **Information Technology Senior Management Forum** | Senior Software Engineer, Back End | McLean, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b9d3f05f2d1cdf1) | 2026-03-11 |
 | **DICK'S Sporting Goods** | Sr. Software Engineer - Search (REMOTE) | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84a58520eb1a7089) | 2026-03-11 |
 | **AMD** | CPU System Validation Architect | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=377fc2a7cf056710) | 2026-03-11 |
@@ -54,6 +91,16 @@
 | **Uber** | Machine Learning Engineer II | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f808751afd2350f2) | 2026-03-11 |
 | **Uber** | Machine Learning Engineer II | Sunnyvale, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c3d672c84a4188e) | 2026-03-11 |
 | **Aon** | Data Scientist | Washington, DC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b016231514abad5e) | 2026-03-11 |
+| **Openkyber** | Generative AI Intelligence Analyst | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=68ec5093a257856a) | 2026-03-11 |
+| **Openkyber** | OCI Cloud Operations Associate | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=439aad3226198302) | 2026-03-11 |
+| **Capgemini** | Senior AI Engineer | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e97587e3189309b9) | 2026-03-11 |
+| **Openkyber** | AWS API Gateway Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a95721c90e40065) | 2026-03-11 |
+| **Openkyber** | OCI DevOps Professional | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f790d416225ad9b9) | 2026-03-11 |
+| **Openkyber** | OCI API Gateway Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4b84fd7269e4e8d) | 2026-03-11 |
+| **Capgemini** | Senior Azure Engineer (SRE/DevOps) 1 | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7dd937d6568e8942) | 2026-03-11 |
+| **Capgemini** | GCP Data Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f3f59481e80476f) | 2026-03-11 |
+| **Capgemini** | Senior Data Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7936fd607153e13) | 2026-03-11 |
+| **Capgemini** | Senior Cloud Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=613074391bd5ccad) | 2026-03-11 |
 | **Piping Rock Health Products** | AI Engineer | Bohemia, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a344026aa847c24d) | 2026-03-11 |
 | **Hightower Advisors** | Cloud & Infrastructure Engineer | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b801dbbdaa30c998) | 2026-03-11 |
 | **deuna** | Senior DevOps Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76827a0ae7f41547) | 2026-03-11 |
@@ -94,6 +141,13 @@
 | **Openkyber** | UKG AI Scheduling Consultant | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3d7d587ce5d6c4bd) | 2026-03-11 |
 | **Mayo Clinic** | Senior AI-ML Engineer | Rochester, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f97aecdb14f072ad) | 2026-03-11 |
 | **Pacific Gas and Electric** | Operations Data Analyst, Senior | Dublin, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=602f4d7955daed21) | 2026-03-11 |
+| **Openkyber** | AI-Driven OSINT Analyst | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e6fd3f123fa38d24) | 2026-03-11 |
+| **REsurety** | Machine Learning, Software Engineer | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=382f9726704381eb) | 2026-03-11 |
+| **Truist** | Cyber Senior Operations Specialist (Senior Engineer – Cloud Security) | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=877db3ea0af17ee5) | 2026-03-11 |
+| **Capgemini** | Practicing Enterprise Architect | Bridgewater, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6735ccacec4a1287) | 2026-03-11 |
+| **Capgemini** | Data Engineer (Teradata /ETL informatica/Snowflake) | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e091ae9d7f7379a8) | 2026-03-11 |
+| **Capgemini** | Ignition Platform Integration Engineer | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96319c25ea9aa90d) | 2026-03-11 |
+| **Openkyber** | AWS Technical Apprentice / Trainee | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea849db988856cb4) | 2026-03-11 |
 | **FujiFilm** | Senior Data Engineer, Alteryx/Tableau | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4fd45bfe46d8cf5) | 2026-03-11 |
 | **Mochi Health** | Senior Front-End Engineer | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8cbacb11323e8e7) | 2026-03-11 |
 | **Fivetran** | Software Engineer II, Databases | Oakland, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=481e36909591dfe8) | 2026-03-11 |
@@ -112,6 +166,17 @@
 | **Capital One** | Senior Machine Learning Engineer | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5fe9ffcd47d23e0c) | 2026-03-11 |
 | **Capital One** | Senior Machine Learning Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1bc985e7a360e58c) | 2026-03-11 |
 | **Capital One** | Senior Software Engineer | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf0a88c7b2103fc7) | 2026-03-11 |
+| **Openkyber** | Generative AI Intelligence Analyst | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b688cc0fb511fa6) | 2026-03-11 |
+| **Forum Energy Technologies** | AI Architect | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e2932ffd73df7be) | 2026-03-11 |
+| **Capgemini** | Cloud Infrastructure Engineer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=322f0d9e0537c6c1) | 2026-03-11 |
+| **Capgemini** | Data Engineer with Microsoft Fabric | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22ec8bfab0b40259) | 2026-03-11 |
+| **Capgemini** | SCADA Ignition Developer | Southfield, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c390ef72a71188f) | 2026-03-11 |
+| **Capgemini** | Digital Manufacturing Engineer (Remote) | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0dde29fe5bef6f76) | 2026-03-11 |
+| **Capgemini** | Senior SCADA Engineer - Ignition Platform | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=535abbb4f07f0262) | 2026-03-11 |
+| **Capgemini** | SDET - POS Automation (Retail) | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d816bce2e41f8a8) | 2026-03-11 |
+| **Openkyber** | OCI DevOps Professional | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=40505304948a5df2) | 2026-03-11 |
+| **Openkyber** | AWS Systems Engineer | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e009ebfecb76cc1e) | 2026-03-11 |
+| **Openkyber** | Kubernetes Cloud Engineer (EKS) | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18ea2ad597e460d1) | 2026-03-11 |
 | **Capgemini** | Associate Data Scientist | Nashville, TN, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c349face95a4a45) | 2026-03-10 |
 | **Openkyber** | AI Application Architect | AK, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b27a9b186a474fcc) | 2026-03-10 |
 | **Openkyber** | AWS Network Engineer | AK, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0baa9cae1d61c25) | 2026-03-10 |
