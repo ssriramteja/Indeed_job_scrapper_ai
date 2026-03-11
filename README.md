@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-11
-- **New Matches Found in Last Run:** 19
-- **Total Active Matches (Last 4 Days):** 420
+- **New Matches Found in Last Run:** 28
+- **Total Active Matches (Last 4 Days):** 448
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-11.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-11.xlsx)
 
@@ -13,6 +13,7 @@
 | **nan** | Senior Data Engineer | San Diego, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e55d8f1eb8410b9) | 2026-03-11 |
 | **BOK Financial** | Software Engineer III - Java Backend | Tulsa, OK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69f26e792b98c94c) | 2026-03-11 |
 | **Citi** | Digital S/W Eng Intm Analyst - Officer | Tampa, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eeb0f8c11885ae48) | 2026-03-11 |
+| **JPMorganChase** | Data Engineer III | Columbus, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=843894356ab92a82) | 2026-03-11 |
 | **LTIMindtree** | Senior Specialist - Software Engineering | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3553f5857948933c) | 2026-03-11 |
 | **Fox Corporation** | Data Warehousing Specialist | Los Angeles, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=55ca5f5e42c7ae45) | 2026-03-11 |
 | **Johnson & Johnson** | Product Engineer TS Advanced Therapies | Raritan, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e7d20eb0597ce1b) | 2026-03-11 |
@@ -30,6 +31,12 @@
 | **Wells Fargo** | DevOps Senior Software Engineer | Concord, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d0a8985ab173bcc) | 2026-03-11 |
 | **Information Technology Senior Management Forum** | Senior Software Engineer, Back End | McLean, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b9d3f05f2d1cdf1) | 2026-03-11 |
 | **DICK'S Sporting Goods** | Sr. Software Engineer - Search (REMOTE) | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84a58520eb1a7089) | 2026-03-11 |
+| **AMD** | CPU System Validation Architect | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=377fc2a7cf056710) | 2026-03-11 |
+| **JPMorganChase** | Software Engineer II | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1e97823f26b6cfd) | 2026-03-11 |
+| **Uber** | Machine Learning Engineer II | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73eadbcf00848c6f) | 2026-03-11 |
+| **Uber** | Machine Learning Engineer II | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d6023aa8f0339c3) | 2026-03-11 |
+| **Uber** | Machine Learning Engineer II | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f808751afd2350f2) | 2026-03-11 |
+| **Uber** | Machine Learning Engineer II | Sunnyvale, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c3d672c84a4188e) | 2026-03-11 |
 | **Piping Rock Health Products** | AI Engineer | Bohemia, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a344026aa847c24d) | 2026-03-11 |
 | **Hightower Advisors** | Cloud & Infrastructure Engineer | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b801dbbdaa30c998) | 2026-03-11 |
 | **deuna** | Senior DevOps Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76827a0ae7f41547) | 2026-03-11 |
@@ -46,6 +53,27 @@
 | **Liberty Mutual Insurance** | Senior Software Engineer | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15db6e02c8f964c1) | 2026-03-11 |
 | **Liberty Mutual Insurance** | Senior Software Engineer | Portsmouth, NH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31f2d15fc950de2e) | 2026-03-11 |
 | **Liberty Mutual Insurance** | Senior Software Engineer | Plano, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=393a7e1ab1bfe7ea) | 2026-03-11 |
+| **JPMorganChase** | AIML Associate - DCL | Jersey City, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8541dd7149d7a05) | 2026-03-11 |
+| **JPMorganChase** | AIML Sr. Associate - DCL | Jersey City, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c739373fb5d752b6) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c9f159d315359abb) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a6072a91eeeca03b) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Miami, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9abd594d1f62f5b3) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Detroit, MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=78ba172e8fc4a5fb) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Houston, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da1f7e4ac2bccd6f) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Summit, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d421e5a7d5c1696) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Durham, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1ca1187146e8137) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74a3d7835099d646) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Dallas, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f83954958747b1a4) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63c99593a7157706) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Denver, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=475350c334d31caa) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8cdcbb6ea287579e) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Minneapolis, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11a944799fae2de7) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Philadelphia, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea2cd382123a3335) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Nashville, TN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d44d6bae1c957683) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Brooklyn, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1bce4a27d3f0540f) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Washington, DC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=405303e08b5056c6) | 2026-03-11 |
+| **Boston Consulting Group** | BCG Platinion | Senior AI Solution Architect | Pittsburgh, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a484b2a26068b06d) | 2026-03-11 |
+| **Red Hat** | Senior Marketing Data Analyst | Raleigh, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14695ca4eee60a9c) | 2026-03-11 |
 | **FujiFilm** | Senior Data Engineer, Alteryx/Tableau | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4fd45bfe46d8cf5) | 2026-03-11 |
 | **Mochi Health** | Senior Front-End Engineer | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8cbacb11323e8e7) | 2026-03-11 |
 | **Fivetran** | Software Engineer II, Databases | Oakland, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=481e36909591dfe8) | 2026-03-11 |

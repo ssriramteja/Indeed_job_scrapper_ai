@@ -1,216 +1,315 @@
 # 🎯 Daily Job Matches — 2026-03-11
 
-**Total Jobs Found:** 19
+**Total Jobs Found:** 28
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Data Engineer @ nan
-**Match Score:** 18.9%
-
-📍 **Location:** San Diego, CA, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, EC2, Glue, Redshift, Kubernetes, CI/CD, Git, Redshift, MySQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9e55d8f1eb8410b9)
-
----
-
-## 2. Software Engineer III - Java Backend @ BOK Financial
-**Match Score:** 17.8%
-
-📍 **Location:** Tulsa, OK, US USA
-
-🔑 **Keywords:** RAG, Copilot, Kinesis, Docker, Kubernetes, CI/CD, Terraform, Git, Kafka, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=69f26e792b98c94c)
-
----
-
-## 3. Digital S/W Eng Intm Analyst - Officer @ Citi
+## 1. Data Engineer III @ JPMorganChase
 **Match Score:** 15.6%
 
-📍 **Location:** Tampa, FL, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Jenkins, Git, MongoDB, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=eeb0f8c11885ae48)
-
----
-
-## 4. Senior Software Engineer @ Wells Fargo
-**Match Score:** 13.3%
-
 📍 **Location:** Columbus, OH, US USA
 
-🔑 **Keywords:** Generative AI, Synapse, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Databricks, Python, R
+🔑 **Keywords:** RAG, Glue, Athena, Kubernetes, CI/CD, Terraform, Git, Snowflake, PySpark, Kafka
 
-[Apply Here](https://www.indeed.com/viewjob?jk=eabd198cadf6b312)
-
----
-
-## 5. DevOps Senior Software Engineer @ Wells Fargo
-**Match Score:** 13.3%
-
-📍 **Location:** Concord, CA, US USA
-
-🔑 **Keywords:** Generative AI, GCP Vertex AI, Azure ML, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9d0a8985ab173bcc)
+[Apply Here](https://www.indeed.com/viewjob?jk=843894356ab92a82)
 
 ---
 
-## 6. Sr. Software Engineer - Search (REMOTE) @ DICK'S Sporting Goods
+## 2. CPU System Validation Architect @ AMD
 **Match Score:** 12.2%
 
-📍 **Location:** US USA
+📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, Kafka, R, Java, Scala
+🔑 **Keywords:** RAG, TensorFlow, PyTorch, spaCy, NLTK, CI/CD, NoSQL, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=84a58520eb1a7089)
+[Apply Here](https://www.indeed.com/viewjob?jk=377fc2a7cf056710)
 
 ---
 
-## 7. Software Development Engineer in Test (SDET I) @ LVT (LiveView Technologies)
+## 3. Software Engineer II @ JPMorganChase
+**Match Score:** 12.2%
+
+📍 **Location:** Palo Alto, CA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Git, Python, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d1e97823f26b6cfd)
+
+---
+
+## 4. Machine Learning Engineer II @ Uber
+**Match Score:** 12.2%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** Machine Learning Engineer, Git, Kafka, Cassandra, Python, R, Java, Scala, Optimization, Bayesian
+
+[Apply Here](https://www.indeed.com/viewjob?jk=73eadbcf00848c6f)
+
+---
+
+## 5. Machine Learning Engineer II @ Uber
+**Match Score:** 12.2%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** Machine Learning Engineer, Git, Kafka, Cassandra, Python, R, Java, Scala, Optimization, Bayesian
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6d6023aa8f0339c3)
+
+---
+
+## 6. Machine Learning Engineer II @ Uber
+**Match Score:** 12.2%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** Machine Learning Engineer, Git, Kafka, Cassandra, Python, R, Java, Scala, Optimization, Bayesian
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f808751afd2350f2)
+
+---
+
+## 7. Machine Learning Engineer II @ Uber
+**Match Score:** 12.2%
+
+📍 **Location:** Sunnyvale, CA, US USA
+
+🔑 **Keywords:** Machine Learning Engineer, Git, Kafka, Cassandra, Python, R, Java, Scala, Optimization, Bayesian
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6c3d672c84a4188e)
+
+---
+
+## 8. AIML Associate - DCL @ JPMorganChase
 **Match Score:** 11.1%
 
-📍 **Location:** American Fork, UT, US USA
+📍 **Location:** Jersey City, NJ, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, GitHub Actions, Git, Python, R, Java, Scala
+🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, Docker, Kubernetes, Python, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=178d4af05892c6b7)
+[Apply Here](https://www.indeed.com/viewjob?jk=b8541dd7149d7a05)
 
 ---
 
-## 8. Generative AI Senior Engineer for Guardrails and API Services @ Wells Fargo
+## 9. AIML Sr. Associate - DCL @ JPMorganChase
 **Match Score:** 11.1%
 
-📍 **Location:** Charlotte, NC, US USA
+📍 **Location:** Jersey City, NJ, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Kafka, Python, R, Java, Scala
+🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, Docker, Kubernetes, Python, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3e5c95e4c02f0263)
+[Apply Here](https://www.indeed.com/viewjob?jk=c739373fb5d752b6)
 
 ---
 
-## 9. Software Engineer, I @ Zebra Technologies
+## 10. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
 **Match Score:** 11.1%
 
-📍 **Location:** Lincolnshire, IL, US USA
+📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** RAG, Docker, Git, PostgreSQL, MongoDB, NoSQL, Python, SQL, R, Java
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=9a7e1c47eae592fb)
-
----
-
-## 10. Senior Software Engineer @ Liberty Mutual Insurance
-**Match Score:** 11.1%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** RAG, S3, Kubernetes, Git, Kafka, MySQL, MongoDB, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7a8ca0981290c2ba)
+[Apply Here](https://www.indeed.com/viewjob?jk=c9f159d315359abb)
 
 ---
 
-## 11. Senior Software Engineer @ Liberty Mutual Insurance
-**Match Score:** 11.1%
-
-📍 **Location:** Indianapolis, IN, US USA
-
-🔑 **Keywords:** RAG, S3, Kubernetes, Git, Kafka, MySQL, MongoDB, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8da8728e0bd436b6)
-
----
-
-## 12. Senior Software Engineer @ Liberty Mutual Insurance
+## 11. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
 **Match Score:** 11.1%
 
 📍 **Location:** Boston, MA, US USA
 
-🔑 **Keywords:** RAG, S3, Kubernetes, Git, Kafka, MySQL, MongoDB, SQL, R, Java
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=15db6e02c8f964c1)
+[Apply Here](https://www.indeed.com/viewjob?jk=a6072a91eeeca03b)
 
 ---
 
-## 13. Senior Software Engineer @ Liberty Mutual Insurance
+## 12. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
 **Match Score:** 11.1%
 
-📍 **Location:** Portsmouth, NH, US USA
+📍 **Location:** Miami, FL, US USA
 
-🔑 **Keywords:** RAG, S3, Kubernetes, Git, Kafka, MySQL, MongoDB, SQL, R, Java
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=31f2d15fc950de2e)
+[Apply Here](https://www.indeed.com/viewjob?jk=9abd594d1f62f5b3)
 
 ---
 
-## 14. Senior Software Engineer @ Liberty Mutual Insurance
+## 13. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
 **Match Score:** 11.1%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Detroit, MI, US USA
 
-🔑 **Keywords:** RAG, S3, Kubernetes, Git, Kafka, MySQL, MongoDB, SQL, R, Java
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=393a7e1ab1bfe7ea)
-
----
-
-## 15. Data Scientist @ MANTECH
-**Match Score:** 10.0%
-
-📍 **Location:** Tampa, FL, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Data Lake, Hadoop, Tableau, Power BI, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=322183339cb49125)
+[Apply Here](https://www.indeed.com/viewjob?jk=78ba172e8fc4a5fb)
 
 ---
 
-## 16. Data Scientist @ MANTECH
-**Match Score:** 10.0%
+## 14. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
 
-📍 **Location:** Tampa, FL, US USA
+📍 **Location:** Houston, TX, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Data Lake, Hadoop, Tableau, Power BI, Python, SQL, R
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=9061abb2dc3fb744)
-
----
-
-## 17. Senior Software Engineer @ Wells Fargo
-**Match Score:** 10.0%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** LangChain, S3, FastAPI, CI/CD, PostgreSQL, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e3ee6d1dfe0433a4)
+[Apply Here](https://www.indeed.com/viewjob?jk=da1f7e4ac2bccd6f)
 
 ---
 
-## 18. Specialist -Artificial Intelligence @ Tata Consultancy Services (TCS)
-**Match Score:** 10.0%
+## 15. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
+
+📍 **Location:** Summit, NJ, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8d421e5a7d5c1696)
+
+---
+
+## 16. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
+
+📍 **Location:** Durham, NC, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d1ca1187146e8137)
+
+---
+
+## 17. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=74a3d7835099d646)
+
+---
+
+## 18. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f83954958747b1a4)
+
+---
+
+## 19. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, Copilot, TensorFlow, PyTorch, Git, Python, R
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8075973aec6459f0)
+[Apply Here](https://www.indeed.com/viewjob?jk=63c99593a7157706)
 
 ---
 
-## 19. Specialist -Artificial Intelligence @ Tata Consultancy Services (TCS)
-**Match Score:** 10.0%
+## 20. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Denver, CO, US USA
 
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, Copilot, TensorFlow, PyTorch, Git, Python, R
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=32175977cd7251dd)
+[Apply Here](https://www.indeed.com/viewjob?jk=475350c334d31caa)
+
+---
+
+## 21. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8cdcbb6ea287579e)
+
+---
+
+## 22. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
+
+📍 **Location:** Minneapolis, MN, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=11a944799fae2de7)
+
+---
+
+## 23. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
+
+📍 **Location:** Philadelphia, PA, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ea2cd382123a3335)
+
+---
+
+## 24. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
+
+📍 **Location:** Nashville, TN, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d44d6bae1c957683)
+
+---
+
+## 25. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
+
+📍 **Location:** Brooklyn, NY, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1bce4a27d3f0540f)
+
+---
+
+## 26. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
+
+📍 **Location:** Washington, DC, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=405303e08b5056c6)
+
+---
+
+## 27. BCG Platinion | Senior AI Solution Architect @ Boston Consulting Group
+**Match Score:** 11.1%
+
+📍 **Location:** Pittsburgh, PA, US USA
+
+🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Git, Python, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a484b2a26068b06d)
+
+---
+
+## 28. Senior Marketing Data Analyst @ Red Hat
+**Match Score:** 11.1%
+
+📍 **Location:** Raleigh, NC, US USA
+
+🔑 **Keywords:** RAG, Kubernetes, Snowflake, Databricks, Tableau, Python, SQL, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=14695ca4eee60a9c)
 
 ---
 
