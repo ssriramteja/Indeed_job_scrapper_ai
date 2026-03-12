@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-12
-- **New Matches Found in Last Run:** 22
-- **Total Active Matches (Last 4 Days):** 639
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 643
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-12.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-12.xlsx)
 
@@ -17,6 +17,7 @@
 | **Suffolk Construction** | AI Engineer | Boston, MA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bdf01d968e498d3c) | 2026-03-12 |
 | **Capgemini** | Associate Data Engineer | Nashville, TN, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1215d222f0829a74) | 2026-03-12 |
 | **JPMorganChase** | Backend Java Software Engineer III | Palo Alto, CA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fba67a631e791b80) | 2026-03-12 |
+| **Trailhead Biosystems Inc.** | AI Engineer | Beachwood, OH, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=046e9fc9862574e5) | 2026-03-12 |
 | **Chewy** | Senior Software Engineer | Boston, MA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc956ee1692fe630) | 2026-03-12 |
 | **Beusa Energy** | Artificial Intelligence Machine Learning Engineer | The Woodlands, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1afb886e29207d11) | 2026-03-12 |
 | **Navat Technologies Pvt Ltd** | AWS Engineer - Remote - Contract | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20ff1920a00572de) | 2026-03-12 |
@@ -48,6 +49,7 @@
 | **Capgemini** | Cloud Data Engineer | Bridgewater, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c815831b07a9f2fa) | 2026-03-12 |
 | **Foot Locker** | Engineer, Striper Experience | Irving, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22b34515a4df838c) | 2026-03-12 |
 | **Logic, Inc.** | Senior Application Platform Architect - 6163848 | Saint Petersburg, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17f23620eb37b83f) | 2026-03-12 |
+| **Celonis** | Senior Applied AI Engineer (Value Engineering) - Public Sector | Redwood City, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2031b8bc315c3e1c) | 2026-03-12 |
 | **PDI** | Senior Digital Engineer | Woodcliff Lake, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=911bb6b38a29babb) | 2026-03-12 |
 | **Red Hat** | Senior Software Engineer, AI Inference | Boston, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05a9c07c5e1cda2b) | 2026-03-12 |
 | **CrowdStrike** | Sr. Engineer - Backend/Cloud, SCP (Hybrid) | Sunnyvale, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c198cc6170cc92b) | 2026-03-12 |
@@ -88,6 +90,8 @@
 | **Adobe** | Data Scientist, Lightroom | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dceb47382775f627) | 2026-03-12 |
 | **Capgemini** | AI/ML Engineer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c8c594c89955854) | 2026-03-12 |
 | **Publix** | Senior Data Engineer - Labor Management | Lakeland, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9834656ac2bda8ee) | 2026-03-12 |
+| **Tata Consultancy Services (TCS)** | Data Scientist | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e6ea55d42813786d) | 2026-03-12 |
+| **Autonomous Solutions** | AI Engineer IV - Operations | Lehi, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=892575ef34626b3a) | 2026-03-12 |
 | **Openkyber** | Cloud AI Consultant | AK, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb4f88eed34169f4) | 2026-03-11 |
 | **Capgemini** | Data Scientist | Nashville, TN, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4789de154dff59e1) | 2026-03-11 |
 | **Openkyber** | AI-Driven OSINT Analyst | AK, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c162c855a415e0aa) | 2026-03-11 |
