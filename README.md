@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-13
-- **New Matches Found in Last Run:** 13
-- **Total Active Matches (Last 4 Days):** 812
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 816
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-13.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-13.xlsx)
 
@@ -58,6 +58,7 @@
 | **GE HealthCare** | AI Analytics Engineer, AVS Digital Transformation | Chicago, IL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f0cc5503eaba49f) | 2026-03-13 |
 | **VSP Vision** | Internship, Agentic/Machine Learning Development | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=39fd0716d97211ef) | 2026-03-13 |
 | **Man Group** | Associate Software Engineer | Boston, MA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f28f85e84927f726) | 2026-03-13 |
+| **eBay** | Sr. AI Engineer | Austin, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=580bb2286bd63c0c) | 2026-03-13 |
 | **Tata Consultancy Services (TCS)** | Senior Engineer -Performance Testing- Sr Java Backend | Austin, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08553b1c36721c70) | 2026-03-13 |
 | **RELX Group** | Senior Software Engineer - LexisNexis | Raleigh, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f60f755c35383fa1) | 2026-03-13 |
 | **LexisNexis Legal & Professional** | Senior Software Engineer - LexisNexis | Raleigh, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a67ac5f9356155e) | 2026-03-13 |
@@ -96,6 +97,7 @@
 | **LangChain** | Solutions Architect (Dallas) | Dallas, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc56922d5df7f41c) | 2026-03-13 |
 | **LangChain** | Solutions Architect (Austin) | Austin, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a43fce5427236395) | 2026-03-13 |
 | **AmeriHealth Caritas** | Machine Learning Engineer Senior | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd2e47e45544341d) | 2026-03-13 |
+| **JPMorganChase** | Applied AI/ML - Senior Associate | Tampa, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=661cecce580f1c89) | 2026-03-13 |
 | **Omada Health** | Senior Software Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90045265c31b6c9a) | 2026-03-13 |
 | **Merck** | Sr. Specialist – Business Insights & Analytics, Advanced Analytics - US Vaccines & ID | Rahway, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=017f85d89cd3bfee) | 2026-03-13 |
 | **6 points** | Inventory and POS Revenue Engineer | Bloomington, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ab4e250f767fcd7) | 2026-03-13 |
@@ -145,6 +147,8 @@
 | **Ulta** | Sr IT Engineer Cloud Security | Bolingbrook, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c1df9c34d78ae7c) | 2026-03-13 |
 | **Robert Half** | Software Engineer III | San Ramon, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=afc251abc63cd910) | 2026-03-13 |
 | **Robert Half** | Software Engineer III (Contract Talent) | San Ramon, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=726e2954e5c38270) | 2026-03-13 |
+| **Qualitest** | COE - Data Scientist in QE | Baltimore, MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8612a7749b31e043) | 2026-03-13 |
+| **Concentrix** | Senior Databricks Architect | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c836fa214ed2bd2) | 2026-03-13 |
 | **LexisNexis Risk Solutions** | Senior Data Scientist III | Minneapolis, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05e42e8fa5e608d5) | 2026-03-13 |
 | **Dollar General** | SR SOFTWARE ENGINEER | Goodlettsville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70022e73cb3e5c35) | 2026-03-13 |
 | **AMD** | AI/ML Silicon Verification Solutions Engineer – Hardware | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f7032800899f070) | 2026-03-13 |
