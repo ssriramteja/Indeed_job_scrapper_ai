@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-15
-- **New Matches Found in Last Run:** 63
-- **Total Active Matches (Last 4 Days):** 680
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 683
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-15.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-15.xlsx)
 
@@ -50,6 +50,8 @@
 | **Deloitte** | Senior GenAI Engineer | Charlotte, NC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3608b10d3ee7ac63) | 2026-03-15 |
 | **Deloitte** | Senior GenAI Engineer | Huntsville, AL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80ce8f2f26492d67) | 2026-03-15 |
 | **Deloitte** | Senior GenAI Engineer | Chicago, IL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d635e4feba6e4a77) | 2026-03-15 |
+| **SportsBiz Group Inc** | Senior DevOps Engineer - Remote | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11d5b4bae86c5d93) | 2026-03-15 |
+| **SportsBiz Group Inc** | Senior DevOps Engineer - Remote | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8be363a36eab12f) | 2026-03-15 |
 | **Deloitte** | Data Foundations Engineer | San Jose, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05bc7b696fdd2052) | 2026-03-15 |
 | **Intuit** | Senior Data Scientist | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ed1b67c8a46f9d3) | 2026-03-15 |
 | **Intuit** | Senior Data Scientist | Mountain View, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=599e76c2c014f256) | 2026-03-15 |
@@ -57,6 +59,7 @@
 | **Skyworks Solutions** | Data Scientist | Irvine, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be89e65f4dd09bb7) | 2026-03-15 |
 | **Oteemo, Inc** | Sr. Full Stack Engineer | McLean, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9a5fda6b02839b4) | 2026-03-15 |
 | **PwC** | Risk Modeling Services Life - AI Senior Associate | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d35dfa8359cfdec) | 2026-03-15 |
+| **Hilton** | Senior AI Software Engineer | McLean, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ddb4c3092c7f453) | 2026-03-15 |
 | **AiGeniusGov** | Senior Terraform DevOps Engineer – Multi-Cloud (AWS/Azure/GCP) | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6340a0adf5e8b4c4) | 2026-03-15 |
 | **Reacher** | Full Stack Software Engineer Canada | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=704eff9d6844468e) | 2026-03-15 |
 | **Reacher** | Full Stack Software Engineer Latam | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b7d190309a599c81) | 2026-03-15 |
