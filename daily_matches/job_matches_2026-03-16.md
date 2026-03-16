@@ -1,29 +1,51 @@
 # 🎯 Daily Job Matches — 2026-03-16
 
-**Total Jobs Found:** 2
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Data Engineer & Architect @ Adobe
-**Match Score:** 16.7%
+## 1. Senior Backend Engineer @ Sun Group
+**Match Score:** 15.6%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** VA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Redshift, BigQuery, Kinesis, Snowflake, BigQuery, Redshift, Kafka, Python
+🔑 **Keywords:** Docker, Kubernetes, CI/CD, Git, Kafka, PostgreSQL, MySQL, MongoDB, NoSQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6fd769b82cca737f)
+[Apply Here](https://www.indeed.com/viewjob?jk=e1e43a65f53e347c)
 
 ---
 
-## 2. EverCommerce - Sr. BI Engineer @ Evercommerce
-**Match Score:** 11.1%
+## 2. Software Engineer II - Data / ETL @ JPMorganChase
+**Match Score:** 13.3%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** Data Lake, Hadoop, Tableau, Power BI, Python, SQL, R, Java, Scala, Optimization
+🔑 **Keywords:** RAG, CI/CD, Jenkins, Terraform, Git, Snowflake, Databricks, NoSQL, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=96fcb774adfa1d8f)
+[Apply Here](https://www.indeed.com/viewjob?jk=ec636208e5ebd53d)
+
+---
+
+## 3. Senior Automation Engineer @ TEEMA
+**Match Score:** 10.0%
+
+📍 **Location:** Phoenix, AZ, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Gemini, Databricks, NoSQL, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5357891576d1cc2a)
+
+---
+
+## 4. Senior Automation Engineer @ TEEMA
+**Match Score:** 10.0%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Gemini, Databricks, NoSQL, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c83697ea95747beb)
 
 ---
 

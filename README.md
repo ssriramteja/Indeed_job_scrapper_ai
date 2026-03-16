@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-16
-- **New Matches Found in Last Run:** 2
-- **Total Active Matches (Last 4 Days):** 505
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 509
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-16.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-16.xlsx)
 
@@ -14,13 +14,17 @@
 | **EY** | CT_NITRO Experimental AI Engineer | Alpharetta, GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3fecf1fa5246a7b8) | 2026-03-16 |
 | **Cayuse Holdings** | Sr Forward Deployed Engineer | US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c2d3ad3416a7e26) | 2026-03-16 |
 | **Adobe** | Senior Data Engineer & Architect | San Jose, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6fd769b82cca737f) | 2026-03-16 |
+| **Sun Group** | Senior Backend Engineer | VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1e43a65f53e347c) | 2026-03-16 |
 | **EY** | AI & Machine Learning Engineering Consultant - Life Sciences Sector - Senior - Consulting | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=230bad3331a7b81d) | 2026-03-16 |
 | **SAP** | Senior AI Developer | Palo Alto, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=957889215a16d70d) | 2026-03-16 |
 | **ClearlyRated** | Backend Platform Engineer | US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6018dcbcbcb04a3e) | 2026-03-16 |
 | **ClearlyRated** | AI/ML Engineer | US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5280bdd9d1f765d3) | 2026-03-16 |
+| **JPMorganChase** | Software Engineer II - Data / ETL | Plano, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec636208e5ebd53d) | 2026-03-16 |
 | **Icanio Technologies Inc** | Senior Agentic AI Engineer | Boston, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=308ad382c7e741a1) | 2026-03-16 |
 | **Honeywell** | Advanced Data Scientist | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ffb8646e3e7ed06) | 2026-03-16 |
 | **Evercommerce** | EverCommerce - Sr. BI Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96fcb774adfa1d8f) | 2026-03-16 |
+| **TEEMA** | Senior Automation Engineer | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5357891576d1cc2a) | 2026-03-16 |
+| **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c83697ea95747beb) | 2026-03-16 |
 | **Deloitte** | Data Operations Engineer | San Jose, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f93244101a55d1cf) | 2026-03-15 |
 | **Deloitte** | Senior GenAI Engineer | Detroit, MI, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4234777af4860d7d) | 2026-03-15 |
 | **Deloitte** | Senior GenAI Engineer | Tallahassee, FL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=36837c190166f32c) | 2026-03-15 |
