@@ -1,436 +1,238 @@
 # 🎯 Daily Job Matches — 2026-03-17
 
-**Total Jobs Found:** 39
+**Total Jobs Found:** 21
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. MLOps @ Openkyber
-**Match Score:** 21.1%
+## 1. Sr Data Engineer @ Deltek
+**Match Score:** 24.4%
 
-📍 **Location:** AK, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Hugging Face, FAISS, Pinecone, Prompt Engineering, FastAPI
+🔑 **Keywords:** RAG, S3, Glue, Redshift, BigQuery, Synapse, Data Lake, Kinesis, Dataflow, Terraform
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ddbe4c5dca694294)
-
----
-
-## 2. Kafka Real Time Analytics Engineer @ Openkyber
-**Match Score:** 17.8%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** MLflow, Docker, Kubernetes, CI/CD, Terraform, Git, Snowflake, Databricks, Kafka, Cassandra
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c3469bf400adaba5)
+[Apply Here](https://www.indeed.com/viewjob?jk=31ac562fdbccfcbb)
 
 ---
 
-## 3. Kafka Real Time Analytics Engineer @ Openkyber
-**Match Score:** 17.8%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** MLflow, Docker, Kubernetes, CI/CD, Terraform, Git, Snowflake, Databricks, Kafka, Cassandra
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0f82e84fba6f2d13)
-
----
-
-## 4. Kafka Real Time Analytics Engineer @ Openkyber
-**Match Score:** 17.8%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** MLflow, Docker, Kubernetes, CI/CD, Terraform, Git, Snowflake, Databricks, Kafka, Cassandra
-
-[Apply Here](https://www.indeed.com/viewjob?jk=435cfd216c0dbc26)
-
----
-
-## 5. Senior Data Engineer, Global @ Vantage Data Centers
+## 2. Senior Machine Learning Engineer – Generative AI (Remote) @ The Home Depot
 **Match Score:** 16.7%
 
-📍 **Location:** Denver, CO, US USA
+📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Synapse, Data Lake, CI/CD, Git, Snowflake, Databricks, PostgreSQL, Power BI
+🔑 **Keywords:** AI Engineer, Machine Learning Engineer, Generative AI, RAG, Prompt Engineering, BigQuery, CI/CD, BigQuery, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b0792aed4e33e1fc)
-
----
-
-## 6. Kafka Support Analyst @ Openkyber
-**Match Score:** 16.7%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** Redshift, Git, Snowflake, Databricks, Redshift, Kafka, Hadoop, MySQL, Cassandra, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8fb3549614f234b2)
+[Apply Here](https://www.indeed.com/viewjob?jk=9356b62004fa5a43)
 
 ---
 
-## 7. Streaming Data @ Openkyber
-**Match Score:** 15.6%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Data Lake, CI/CD, Snowflake, Databricks, PySpark, Kafka, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1bf44e9b8dd895de)
-
----
-
-## 8. Sr. Software Development Engineer @ ISPOT
+## 3. Data Engineer (No Sponsorship Available) @ Heritage Construction + Materials
 **Match Score:** 14.4%
 
-📍 **Location:** Bellevue, WA, US USA
+📍 **Location:** Indianapolis, IN, US USA
 
-🔑 **Keywords:** RAG, S3, Glue, Data Lake, CI/CD, Snowflake, MySQL, Python, SQL, R
+🔑 **Keywords:** RAG, Docker, CI/CD, Snowflake, Databricks, PySpark, Tableau, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6c574e4f3a8dfe2d)
+[Apply Here](https://www.indeed.com/viewjob?jk=8313f5120d5c6237)
 
 ---
 
-## 9. ML Platform Engineer @ Openkyber
+## 4. Senior Data Scientist @ Open Lending
 **Match Score:** 14.4%
 
-📍 **Location:** AK, US USA
+📍 **Location:** Irving, TX, US USA
 
-🔑 **Keywords:** AI Engineer, Machine Learning Engineer, LangChain, RAG, S3, EC2, Glue, Athena, Terraform, Python
+🔑 **Keywords:** Data Scientist, RAG, XGBoost, MLflow, Databricks, PySpark, Polars, Tableau, Power BI, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a246f2fce8506457)
+[Apply Here](https://www.indeed.com/viewjob?jk=980979d9074d5784)
 
 ---
 
-## 10. ML Platform Engineer @ Openkyber
+## 5. Senior Data Scientist @ Open Lending
 **Match Score:** 14.4%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** AI Engineer, Machine Learning Engineer, LangChain, RAG, S3, EC2, Glue, Athena, Terraform, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fbf17f38d746779a)
-
----
-
-## 11. Streaming Data @ Openkyber
-**Match Score:** 14.4%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** RAG, S3, Glue, Athena, Redshift, Data Lake, Terraform, Redshift, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2cd7396ffb6ba90c)
-
----
-
-## 12. Senior Data Scientist @ Surescripts
-**Match Score:** 14.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Copilot, Prompt Engineering, TensorFlow, PyTorch, Git, Snowflake, Databricks, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=66a598c2cd89c1c1)
-
----
-
-## 13. Cloud-Native MLOps Engineer @ Openkyber
-**Match Score:** 14.4%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, S3, Data Lake, Apache Airflow, CI/CD, Terraform, Hadoop, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a456d96d929a416c)
-
----
-
-## 14. Associate ML Infrastructure Engineer @ Openkyber
-**Match Score:** 13.3%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** RAG, S3, CI/CD, Terraform, Git, Databricks, Power BI, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d716d1e9dd6e4b0b)
-
----
-
-## 15. AI Platform Engineer @ Openkyber
-**Match Score:** 13.3%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** LangChain, RAG, LLaMA, FAISS, Snowflake, Kafka, Tableau, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=757126cb415fa4ea)
-
----
-
-## 16. ML Platform Engineer @ Openkyber
-**Match Score:** 13.3%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** AI Engineer, LangChain, RAG, S3, EC2, Glue, Athena, Terraform, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=838425ec33e5fff1)
-
----
-
-## 17. AI Platform Engineer @ Openkyber
-**Match Score:** 13.3%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** LangChain, RAG, LLaMA, FAISS, Snowflake, Kafka, Tableau, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f3b669fd4735a001)
-
----
-
-## 18. Senior Platform Engineer-AI @ Thomson Reuters
-**Match Score:** 13.3%
-
-📍 **Location:** Frisco, TX, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, PostgreSQL, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ec31862867bfb761)
-
----
-
-## 19. Sr. SW Engineer- Generative AI @ Visa
-**Match Score:** 13.3%
 
 📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** Generative AI, RAG, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD, Jenkins, Python, R
+🔑 **Keywords:** Data Scientist, RAG, XGBoost, MLflow, Databricks, PySpark, Polars, Tableau, Power BI, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b15ea5b7549b8351)
+[Apply Here](https://www.indeed.com/viewjob?jk=46dca6f38ea157d1)
 
 ---
 
-## 20. Machine Learning Engineer New @ nan
+## 6. Senior Data Engineer - Analytics @ RevSpring, Inc
+**Match Score:** 13.3%
+
+📍 **Location:** Columbus, OH, US USA
+
+🔑 **Keywords:** RAG, S3, Athena, Redshift, BigQuery, BigQuery, Redshift, Tableau, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c5b286e8aab1c0d5)
+
+---
+
+## 7. Senior Data Engineer - Analytics @ RevSpring, Inc
+**Match Score:** 13.3%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** RAG, S3, Athena, Redshift, BigQuery, BigQuery, Redshift, Tableau, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3ecf529675b29a2e)
+
+---
+
+## 8. Machine Learning Engineer @ nan
 **Match Score:** 12.2%
 
 📍 **Location:** Chantilly, VA, US USA
 
 🔑 **Keywords:** Machine Learning Engineer, Hadoop, PostgreSQL, MySQL, NoSQL, Tableau, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=57710bf99694ff8d)
+[Apply Here](https://www.indeed.com/viewjob?jk=ede5f0e821359409)
 
 ---
 
-## 21. AI Platform Engineer @ Openkyber
+## 9. Full Stack Engineer, Senior @ Blue Shield of California
 **Match Score:** 12.2%
 
-📍 **Location:** AK, US USA
+📍 **Location:** Oakland, CA, US USA
 
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, Copilot, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, Python, R
+🔑 **Keywords:** RAG, Docker, CI/CD, GitHub Actions, Terraform, Git, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f8000eecc255c25b)
-
----
-
-## 22. AI Platform Engineer @ Openkyber
-**Match Score:** 12.2%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, Copilot, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=200b55a5030b830e)
+[Apply Here](https://www.indeed.com/viewjob?jk=c00e725f72169245)
 
 ---
 
-## 23. AI/ML Engineer – Local LLM & Custom RAG Systems @ NEOnet
-**Match Score:** 12.2%
-
-📍 **Location:** Cuyahoga Falls, OH, US USA
-
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Kafka, Hadoop, Python, SQL, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=79aa27ac9c288f42)
-
----
-
-## 24. AI Engineer @ KNOTCH, INC.
-**Match Score:** 12.2%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AI Engineer, LangChain, RAG, LLaMA, Pinecone, Prompt Engineering, Git, Snowflake, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8dd10ce832f4515a)
-
----
-
-## 25. Spring/Spring Boot Architect @ Openkyber
+## 10. Data Engineer @ Goodwill Industries of Ky., Inc.
 **Match Score:** 11.1%
 
-📍 **Location:** AK, US USA
+📍 **Location:** Louisville, KY, US USA
 
-🔑 **Keywords:** RAG, S3, EC2, Kubernetes, CI/CD, NoSQL, Python, SQL, R, Java
+🔑 **Keywords:** RAG, Copilot, Synapse, Git, Power BI, Python, SQL, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e62470d61b3dfe4f)
+[Apply Here](https://www.indeed.com/viewjob?jk=6c96bce5537ab08e)
 
 ---
 
-## 26. AI Platform Engineer @ Openkyber
+## 11. Senior Cloud Security Engineer @ ServiceTitan
 **Match Score:** 11.1%
 
-📍 **Location:** AK, US USA
+📍 **Location:** CA, US USA
 
-🔑 **Keywords:** AI Engineer, Prompt Engineering, Kubernetes, AKS, CI/CD, Terraform, Python, R, Java, Scala
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Git, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=03037f396bed2071)
+[Apply Here](https://www.indeed.com/viewjob?jk=03ea3f0ee7726aea)
 
 ---
 
-## 27. AI Platform Engineer @ Openkyber
+## 12. Machine Learning Engineer II – Generative AI (Remote) @ The Home Depot
 **Match Score:** 11.1%
 
-📍 **Location:** AK, US USA
+📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** AI Engineer, Prompt Engineering, Kubernetes, AKS, CI/CD, Terraform, Python, R, Java, Scala
+🔑 **Keywords:** AI Engineer, Machine Learning Engineer, Generative AI, RAG, Prompt Engineering, CI/CD, Python, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b82dd62fa0e8493f)
+[Apply Here](https://www.indeed.com/viewjob?jk=b7591a2efbcb284e)
 
 ---
 
-## 28. Software Engineer - .Net @ Ensora Health
+## 13. Application Developer & Database Engineer @ nan
 **Match Score:** 11.1%
 
-📍 **Location:** Charlotte, NC, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Git, MongoDB, NoSQL, SQL, R, Scala
+🔑 **Keywords:** RAG, TensorFlow, PyTorch, MongoDB, Python, SQL, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=99374436e879f2d6)
-
----
-
-## 29. AI Engineer Intern @ Waters
-**Match Score:** 10.0%
-
-📍 **Location:** Milford, MA, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, RAG, TensorFlow, PyTorch, Python, SQL, R, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fda6bdf1c5291df4)
+[Apply Here](https://www.indeed.com/viewjob?jk=20577dc3fbb13487)
 
 ---
 
-## 30. DevOps Engineer @ Alarm.com
-**Match Score:** 10.0%
+## 14. (USA) Senior, Data Scientist - Digital Twin Systems Developer @ Sam's Club
+**Match Score:** 11.1%
 
-📍 **Location:** Lawrence, KS, US USA
+📍 **Location:** Bentonville, AR, US USA
 
-🔑 **Keywords:** RAG, CI/CD, Jenkins, Terraform, Git, Python, R, Java, Scala
+🔑 **Keywords:** Data Scientist, LangChain, RAG, TensorFlow, Git, Python, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2aa317c750470ba8)
-
----
-
-## 31. Python Architect @ Openkyber
-**Match Score:** 10.0%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** Copilot, FastAPI, Docker, Kubernetes, Git, PostgreSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3b2aa3971822bc3b)
+[Apply Here](https://www.indeed.com/viewjob?jk=03211c91f3b22020)
 
 ---
 
-## 32. Vector Database Engineer @ Openkyber
-**Match Score:** 10.0%
+## 15. RESEARCH PROGRAMMER II (SOFTWARE ENGINEER) - C. Wu Lab @ Scripps Research
+**Match Score:** 11.1%
 
-📍 **Location:** AK, US USA
+📍 **Location:** San Diego, CA, US USA
 
-🔑 **Keywords:** Generative AI, LangChain, FastAPI, CI/CD, PostgreSQL, Python, SQL, R, Optimization
+🔑 **Keywords:** RAG, S3, Docker, CI/CD, Git, MongoDB, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3353efb5f91eff0b)
-
----
-
-## 33. Kubernetes MLOps Engineer @ Openkyber
-**Match Score:** 10.0%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, Terraform, NoSQL, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8ab518c07e5c4bd4)
+[Apply Here](https://www.indeed.com/viewjob?jk=221139d1ca13c5ae)
 
 ---
 
-## 34. Vector Database Engineer @ Openkyber
-**Match Score:** 10.0%
+## 16. RESEARCH PROGRAMMER III - C. Wu Lab @ Scripps Research
+**Match Score:** 11.1%
 
-📍 **Location:** AK, US USA
+📍 **Location:** San Diego, CA, US USA
 
-🔑 **Keywords:** Generative AI, LangChain, FastAPI, CI/CD, PostgreSQL, Python, SQL, R, Optimization
+🔑 **Keywords:** RAG, S3, Docker, CI/CD, Git, MongoDB, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8aef487788fbe3b0)
-
----
-
-## 35. ML Platform Engineer @ Openkyber
-**Match Score:** 10.0%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** Generative AI, LangChain, RAG, LLaMA, Hugging Face, Prompt Engineering, Python, R, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=674b77e8965ca088)
+[Apply Here](https://www.indeed.com/viewjob?jk=cd81839948841963)
 
 ---
 
-## 36. Kubernetes MLOps Engineer @ Openkyber
+## 17. Senior Front-End Engineer @ Mochi Health
 **Match Score:** 10.0%
 
-📍 **Location:** AK, US USA
+📍 **Location:** San Francisco, CA, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, Terraform, NoSQL, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Docker, Kubernetes, Git, SQL, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b2b411ce63f39481)
+[Apply Here](https://www.indeed.com/viewjob?jk=9cb603e90c260feb)
 
 ---
 
-## 37. ML Platform Engineer @ Openkyber
+## 18. Sr. Backend Engineer @ Mochi Health
 **Match Score:** 10.0%
 
-📍 **Location:** AK, US USA
+📍 **Location:** San Francisco, CA, US USA
 
-🔑 **Keywords:** Generative AI, LangChain, RAG, LLaMA, Hugging Face, Prompt Engineering, Python, R, Optimization
+🔑 **Keywords:** RAG, Kubernetes, CI/CD, Terraform, Git, PostgreSQL, SQL, R, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=919e9963c156e59a)
+[Apply Here](https://www.indeed.com/viewjob?jk=9289a85d40da1d93)
 
 ---
 
-## 38. LLM Deployment Engineer @ Openkyber
+## 19. Senior Software Engineer- Enrichment @ RevSpring, Inc
 **Match Score:** 10.0%
 
-📍 **Location:** AK, US USA
+📍 **Location:** Oaks, PA, US USA
 
-🔑 **Keywords:** Generative AI, LangChain, RAG, LLaMA, Hugging Face, Prompt Engineering, Python, R, Optimization
+🔑 **Keywords:** LangChain, BigQuery, Docker, Git, BigQuery, NoSQL, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f80ce9f4fa83c827)
+[Apply Here](https://www.indeed.com/viewjob?jk=423a67caac16e54c)
 
 ---
 
-## 39. Intern @ EXL Service
+## 20. Senior Software Development Engineer in Test (SDET) @ nan
 **Match Score:** 10.0%
 
-📍 **Location:** US USA
+📍 **Location:** Bellevue, WA, US USA
 
-🔑 **Keywords:** Data Scientist, Git, Tableau, Power BI, Python, SQL, R, Scala, Optimization
+🔑 **Keywords:** RAG, Docker, CI/CD, Jenkins, Git, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=10e7254f043f98d7)
+[Apply Here](https://www.indeed.com/viewjob?jk=3ea96fc38c6bacb5)
+
+---
+
+## 21. Cheminformatics Data Scientist @ Lubrizol
+**Match Score:** 10.0%
+
+📍 **Location:** Wickliffe, OH, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, TensorFlow, XGBoost, Azure ML, Git, Python, R, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d28ac8f700721df7)
 
 ---
 
