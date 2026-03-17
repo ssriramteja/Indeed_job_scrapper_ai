@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-17
-- **New Matches Found in Last Run:** 14
-- **Total Active Matches (Last 4 Days):** 400
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 402
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-17.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-17.xlsx)
 
@@ -20,6 +20,7 @@
 | **TeraWatt Infrastructure** | Senior DevOps Engineer | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ac8657750172713) | 2026-03-17 |
 | **New York University** | AI Solutions Architect | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44061aea5dff945c) | 2026-03-17 |
 | **Hewlett Packard Enterprise | HPE** | AI/ML Engineer - Agentic | San Jose, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af5d15c7ab669f27) | 2026-03-17 |
+| **SS&C** | Senior AI Platform Engineer | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a9a3d5dba9944f59) | 2026-03-17 |
 | **SAP** | SAP Successfactors iXp Intern - Software Developer - SUMMER 2026 | San Ramon, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10eb17e618d5ca1d) | 2026-03-17 |
 | **Foundation Source** | Senior Software Engineer, (.NET) | Lehi, UT, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d566d00eb2e403d) | 2026-03-17 |
 | **JPMorganChase** | Compliance - Quant Modeling Senior Associate | Jersey City, NJ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20aa926eab32416e) | 2026-03-17 |
@@ -27,6 +28,7 @@
 | **Tapouts** | Senior Data Engineer | Venice, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bcb6f48928a08bed) | 2026-03-17 |
 | **HCA Healthcare** | Senior Data Engineer | Nashville, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee3c21dbe995c8b9) | 2026-03-17 |
 | **PENNYMAC** | Sr Eng, AI Platform | Westlake Village, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=339bfe8490029591) | 2026-03-17 |
+| **Optum** | Data Scientist | Minnetonka, MN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd7a43792394b59b) | 2026-03-17 |
 | **PitchBook** | Sr. Software Development Engineer, AI Enablement | Seattle, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d51db2029f8a1ddc) | 2026-03-17 |
 | **Tata Consultancy Services (TCS)** | Data Analytics & BI with Tableau | Seattle, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aeacb1d14bcd4d4c) | 2026-03-17 |
 | **SymphonyAI** | AI Platform Architect | Albany, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e727c510ae6ee71c) | 2026-03-17 |
