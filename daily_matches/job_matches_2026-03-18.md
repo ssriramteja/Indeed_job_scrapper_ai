@@ -1,95 +1,84 @@
 # 🎯 Daily Job Matches — 2026-03-18
 
-**Total Jobs Found:** 8
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Cloud Engineer @ Ncontracts
-**Match Score:** 23.3%
+## 1. Senior Data Scientist - Modeling and Analytics @ AAA Life Insurance Company
+**Match Score:** 17.8%
 
-📍 **Location:** US USA
+📍 **Location:** Livonia, MI, US USA
 
-🔑 **Keywords:** RAG, S3, EC2, Glue, Synapse, Data Lake, Docker, Kubernetes, AKS, CI/CD
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, TensorFlow, PyTorch, CI/CD, Git, Databricks, Tableau, Power BI
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4c5ffe3e0696e29a)
-
----
-
-## 2. Sr. Data Engineer @ come and see
-**Match Score:** 15.6%
-
-📍 **Location:** Colorado Springs, CO, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, XGBoost, LightGBM, Docker, Kubernetes, Git, Snowflake, Tableau, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bdfe211c3ab79af3)
+[Apply Here](https://www.indeed.com/viewjob?jk=3a2b77322b9e1a41)
 
 ---
 
-## 3. Analytics Engineer @ Ncontracts
-**Match Score:** 14.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Redshift, BigQuery, CI/CD, Git, Snowflake, Databricks, BigQuery, Redshift, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2b4fc9074f486fdc)
-
----
-
-## 4. Full Stack Engineer @ Citi
-**Match Score:** 14.4%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Jenkins, Git, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=64947efb2ec3dba4)
-
----
-
-## 5. Full Stack Engineer @ Knightscope, Inc.
-**Match Score:** 14.4%
-
-📍 **Location:** Sunnyvale, CA, US USA
-
-🔑 **Keywords:** RAG, Copilot, S3, CI/CD, Git, MySQL, MongoDB, NoSQL, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=586d05c6f70baaa1)
-
----
-
-## 6. Machine Learning Engineer, Responsible AI @ Zoom Communications
+## 2. Data Engineer - Sr. Consultant level @ Visa
 **Match Score:** 13.3%
 
-📍 **Location:** Seattle, WA, US USA
+📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, Generative AI, RAG, Hugging Face, PyTorch, CI/CD, Python, R, Java, Scala
+🔑 **Keywords:** TensorFlow, Docker, Kubernetes, CI/CD, Git, Kafka, Hadoop, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=832b6dc32fa4dd47)
+[Apply Here](https://www.indeed.com/viewjob?jk=41aec199d60a57ab)
 
 ---
 
-## 7. Data Engineer @ System Automation
+## 3. ML Architect @ Quantiphi
 **Match Score:** 11.1%
 
-📍 **Location:** Orlando, FL, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** CI/CD, Git, NoSQL, Tableau, Power BI, Python, SQL, R, Scala, Optimization
+🔑 **Keywords:** Generative AI, LangChain, RAG, Copilot, BigQuery, Git, BigQuery, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2297f51aadcda9dc)
+[Apply Here](https://www.indeed.com/viewjob?jk=e8752763e6582011)
 
 ---
 
-## 8. AI Application Engineer @ Larson Financial Group
+## 4. MLOps Engineer - Senior Associate @ JPMorganChase
 **Match Score:** 10.0%
 
-📍 **Location:** St. Louis, MO, US USA
+📍 **Location:** Jersey City, NJ, US USA
 
-🔑 **Keywords:** AKS, CI/CD, Git, NoSQL, Python, SQL, R, Java, Scala
+🔑 **Keywords:** Machine Learning Engineer, RAG, Docker, Kubernetes, Git, Python, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=037be576763d4360)
+[Apply Here](https://www.indeed.com/viewjob?jk=d827e60df0032828)
+
+---
+
+## 5. Senior Software Engineer - AI Platforms @ Novara
+**Match Score:** 10.0%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** Generative AI, LangChain, RAG, Prompt Engineering, CI/CD, SQL, R, Java, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eb84733b58c2b5b3)
+
+---
+
+## 6. Sr. Software Engineer @ Trane Technologies
+**Match Score:** 10.0%
+
+📍 **Location:** Saint Paul, MN, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, Docker, Kubernetes, CI/CD, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cf4b0d633b20148b)
+
+---
+
+## 7. Senior Systems and Network Automation Engineer @ Wecom Fiber
+**Match Score:** 10.0%
+
+📍 **Location:** Phoenix, AZ, US USA
+
+🔑 **Keywords:** Docker, Kubernetes, CI/CD, Jenkins, Terraform, Git, Kafka, Python, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=368ba395566c62e9)
 
 ---
 
