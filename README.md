@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-19
-- **New Matches Found in Last Run:** 6
-- **Total Active Matches (Last 4 Days):** 921
+- **New Matches Found in Last Run:** 7
+- **Total Active Matches (Last 4 Days):** 928
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-19.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-19.xlsx)
 
@@ -22,6 +22,7 @@
 | **Radial** | Software Engineer (ETL) | King of Prussia, PA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c9a7cc0e0aaef8e) | 2026-03-19 |
 | **Openkyber** | AI Application Developer | GA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81dac51ac780b98f) | 2026-03-19 |
 | **Charles Schwab** | Java Development Engineer | Southlake, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=044788dae086d6fb) | 2026-03-19 |
+| **Jackson National Life Insurance Company** | PART-TIME Strategic Support Associate, Data and Artificial Intelligence | Lansing, MI, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=479fc3779fa1d9b4) | 2026-03-19 |
 | **Liminal** | Cloud DevOps Engineer | Salt Lake City, UT, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ad05bfbb65cf4fe0) | 2026-03-19 |
 | **Deloitte** | Data Engineer - Project Delivery Analyst | Salt Lake City, UT, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99004f0ccb75bff8) | 2026-03-19 |
 | **Deloitte** | Data Engineer - Project Delivery Analyst | McLean, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b800e1dd513c62b0) | 2026-03-19 |
@@ -189,6 +190,7 @@
 | **Tech Scalerz** | Senior AI/ML Engineer / Data Scientist | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1cbad5d820211d0e) | 2026-03-19 |
 | **HiddenLevers** | Senior Data Scientist- Fractional | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8fd17bc1c30c5ee7) | 2026-03-19 |
 | **nan** | Sr Software Engineer - Live and Linear Tooling | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3813402781f4a5a6) | 2026-03-19 |
+| **Stefanini North America and APAC** | Data Scientist | San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47240e8a58c54b42) | 2026-03-19 |
 | **Deloitte** | Sr. Java Full Stack Developer | Inglewood, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03e3195d7242d5af) | 2026-03-19 |
 | **Deloitte** | Sr. Java Full Stack Developer | Hermitage, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eaf3ba20ae47386d) | 2026-03-19 |
 | **Deloitte** | Sr. Java Full Stack Developer | Rochester, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6ebc2db378f161ca) | 2026-03-19 |
@@ -299,6 +301,7 @@
 | **Hudson Manpower** | AWS Engineer (1-4 years) USC and GC | Buffalo Grove, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9546ca970dc1255f) | 2026-03-19 |
 | **Hudson Manpower** | AWS Engineer (1-4 years) USC and GC | Hoboken, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b246974ab3114f0) | 2026-03-19 |
 | **Hudson Manpower** | AWS Engineer (1-4 years) USC and GC | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43cc4a95014f1b4c) | 2026-03-19 |
+| **QuadCode** | Python Backend Platform Engineer (AI Software) | GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62a1668fabf84cd4) | 2026-03-19 |
 | **DONNELLEY FINANCIAL SOLUTIONS** | Senior Site Reliability Engineer - Cloud | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=587a58a211661f1e) | 2026-03-19 |
 | **Deloitte** | Junior Data Scientist - Government & Public Services | Arlington, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=942fd7f7e8b819ec) | 2026-03-19 |
 | **Sarnova HC, LLC** | Sr. eCommerce Engineer - Sarnova - Remote | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6e3925723844cdf5) | 2026-03-19 |
@@ -335,6 +338,9 @@
 | **Openkyber** | Generative AI Intern | GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49a1f0248c4ddbf5) | 2026-03-19 |
 | **CrowdStrike** | Snowflake Data Architect (Remote) | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=50af2306075e0747) | 2026-03-19 |
 | **Key Marketing Advantage** | Sr. SAS Modeler and Programmer | Newtown, CT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=118073b5d965fe4a) | 2026-03-19 |
+| **Gradient** | ML / AI Engineer | Renton, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ffd643a1e4a05c67) | 2026-03-19 |
+| **Honeywell** | Data Scientist II | Pittsford, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=269aac998435f13b) | 2026-03-19 |
+| **Best Buy** | Senior Decision Scientist – Fulfillment Analytics | Minneapolis, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=abb975b89646ed50) | 2026-03-19 |
 | **Wipro** | DEVELOPER L3 | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=232cfb094a1a508d) | 2026-03-19 |
 | **HireBridge Recruiting** | Machine Learning Engineer (Computer Vision & Robotics / AI) | CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43e8d87789c0115a) | 2026-03-19 |
 | **NVIDIA** | Infrastructure and Build Systems Engineer - New College Grad 2026 | Santa Clara, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d226e0d1e709587e) | 2026-03-19 |
@@ -485,6 +491,7 @@
 | **Youtube** | Content Partner Engineer, Youtube | San Bruno, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=67f85d2dbf7a13c6) | 2026-03-19 |
 | **Youtube** | Content Partner Engineer, Youtube | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9255c790c56d213e) | 2026-03-19 |
 | **JPMorganChase** | Data Science Senior Associate - Card Data & Analytics team | Wilmington, DE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3a46ad0f0c637af) | 2026-03-19 |
+| **Slip Robotics** | Full-Stack Engineer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=235773020d8ae10f) | 2026-03-19 |
 | **Capgemini** | Associate Data Scientist | Nashville, TN, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3972759b3173959f) | 2026-03-18 |
 | **Capgemini** | Data Scientist | Nashville, TN, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c2c1885d139b3f38) | 2026-03-18 |
 | **Capgemini** | Associate Data Scientist | Nashville, TN, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c70566192b1dea40) | 2026-03-18 |
