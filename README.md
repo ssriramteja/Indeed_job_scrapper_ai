@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-20
-- **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 899
+- **New Matches Found in Last Run:** 59
+- **Total Active Matches (Last 4 Days):** 958
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-20.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-20.xlsx)
 
@@ -16,6 +16,8 @@
 | **Credera** | Senior Architect, Data and GenAI | Chicago, IL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a1ae1a8b654886c) | 2026-03-20 |
 | **Azenta Life Sciences** | Senior Full Stack Software Engineer | Burlington, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9501e2e0c9d1ac39) | 2026-03-20 |
 | **Valley Bank** | Senior AI Engineer | Morristown, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3e532a67162d46ec) | 2026-03-20 |
+| **JPMorganChase** | Software Engineer III - Virtual Agent | Wilmington, DE, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eae9a81ad22115c8) | 2026-03-20 |
+| **TELEWORLD SOLUTIONS INC** | Software Engineer | Chantilly, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a761aeedea031f5) | 2026-03-20 |
 | **Nymbus, Inc.** | Full Stack Engineer | Jacksonville, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05ff6de2443447c8) | 2026-03-20 |
 | **McKesson** | Software Automation Engineer | VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b837f08c65db9890) | 2026-03-20 |
 | **Nymbus, Inc.** | Senior Engineer, Core Banking | Jacksonville, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aba5c8bfff271f8c) | 2026-03-20 |
@@ -30,6 +32,10 @@
 | **Sam's Club** | Software Engineer III - Full Stack | Bentonville, AR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e43328d92222919f) | 2026-03-20 |
 | **Marriott International** | FLEX Senior Software Engineer | Bethesda, MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69716f44837f15c2) | 2026-03-20 |
 | **AccuLynx** | QA Engineer | Beloit, WI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c0febea5d0bcbf0) | 2026-03-20 |
+| **JPMorganChase** | Global Services Data Scientist - Senior Associate | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dc1e4dcc78fd61e0) | 2026-03-20 |
+| **Boeing** | Senior Data & AI Platform Data Engineer | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=86f8075b573654a6) | 2026-03-20 |
+| **SAP** | Software Engineer - SAP SuccessFactors | Palo Alto, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2e0b0ce06ff46c4) | 2026-03-20 |
+| **ETS** | AI Engineer | Princeton, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3338e1824b6591d) | 2026-03-20 |
 | **Palmetto Clean Technology** | Senior Data Analyst | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f1ef15606b0e87d) | 2026-03-20 |
 | **American Airlines** | Engineer/Sr Engineer, IT Software - Quality Assurance | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b6151531a1a35f8) | 2026-03-20 |
 | **Airtable** | AI Analytics Engineer (AI & Analytics Platform) | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=52becbba6aaec44e) | 2026-03-20 |
@@ -47,6 +53,59 @@
 | **Fidelity Investments** | Senior Data Engineer - Oracle DBA - OCI | Westlake, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e599db25edc63644) | 2026-03-20 |
 | **Fidelity Investments** | Senior Data Engineer - Oracle DBA - OCI | Merrimack, NH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d75b05ba4615bbc0) | 2026-03-20 |
 | **Fidelity Investments** | Senior Data Engineer - Oracle DBA - OCI | Smithfield, RI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03ea7797a2adda23) | 2026-03-20 |
+| **AMD** | Silicon Verification Infrastructure Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=638ed017602f1a84) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a9566bdb288c7be2) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Des Moines, IA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09e740cc822f27d8) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Providence, RI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19943a1749f5eb10) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b002210756636d3) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Charleston, WV, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=64bc5731f170baa6) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Denver, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c27ca59aeb7d692f) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Sacramento, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=efb3b0417f856df4) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Dover, DE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49ad3c8a82595d5d) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=923ea9f1def1157f) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Augusta, ME, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bef60c3370a33e63) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Helena, MT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b1ff8a9df30c9a2d) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4f320e01bbcde10) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Springfield, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b33c6b32e4bcfc17) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Salem, OR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9185433bb9295a64) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Cheyenne, WY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d2813b9c1f4a1a3) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Madison, WI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb7baa4f071bb506) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Santa Fe, NM, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59a672b91ba76155) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Albany, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4eb0c7b6f4160a4e) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Olympia, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=017a48bdebaf233b) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Jackson, MS, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f001df5402760b32) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Trenton, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d279d089b4d8ae41) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5a469830a7acd8d2) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Columbia, SC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=089e5845e8dc2d78) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Harrisburg, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cccf3dac15c4178b) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Saint Paul, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4e5a2097527829d) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Oklahoma City, OK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5fe631d50ec5be8e) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=86cd457032c73fbf) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Carson City, NV, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=653cd96c5af9f2fa) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Tallahassee, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0aea96d4544e07a) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab70424f0d089cd3) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Montpelier, VT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=72e3bedd1dad63be) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Salt Lake City, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=044b6a4291f23a69) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Topeka, KS, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c0e9b9c1faf5e5c9) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Frankfort, KY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=882a278501b8e5f5) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Indianapolis, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4f3f1367678b255c) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Honolulu, HI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=853e17eba4c08c3a) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Hartford, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b1073a150381121) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Raleigh, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e74feda0941e7bf7) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Annapolis, MD, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=01c7a346e675ac19) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Bismarck, ND, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1be83753ec9ec17e) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Pierre, SD, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1fdc92fb91de10df) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Boise, ID, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bde97e48e43af4af) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Lansing, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f33e053ff6e7e94e) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Montgomery, AL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=443c7dd8f3df90c0) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Baton Rouge, LA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=281286c2cddab92c) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Concord, NH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd9de4c416f93915) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Little Rock, AR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9866f9221f7870c6) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Juneau, AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b002ee2168180be) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Lincoln, NE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d8adcaeda26da83) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Jefferson City, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73fbe0f0b36d2bb0) | 2026-03-20 |
+| **CVS Health** | Senior Machine Learning Engineer - Generative AI & Full-Stack Applications | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5a9d82e65d688d59) | 2026-03-20 |
+| **Adobe** | Sr Software Engineer, Enterprise GenAI | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6c0ce6c3f399b24) | 2026-03-20 |
 | **Tata Consultancy Services (TCS)** | Cloud Data Architect | Westlake Village, CA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5af157c666d12c35) | 2026-03-19 |
 | **American Airlines** | Engineer/ Sr Engineer, IT AI | Fort Worth, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5dca82b8d363fd2) | 2026-03-19 |
 | **The Hartford** | Sr Applied AI Machine Learning Engineer - Claims Data Science | Charlotte, NC, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a207649ab0be82e) | 2026-03-19 |
