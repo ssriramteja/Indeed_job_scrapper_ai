@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-20
-- **New Matches Found in Last Run:** 32
-- **Total Active Matches (Last 4 Days):** 894
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 899
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-20.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-20.xlsx)
 
@@ -29,6 +29,7 @@
 | **SEON** | Automation Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=23055e3b64d769c2) | 2026-03-20 |
 | **Sam's Club** | Software Engineer III - Full Stack | Bentonville, AR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e43328d92222919f) | 2026-03-20 |
 | **Marriott International** | FLEX Senior Software Engineer | Bethesda, MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69716f44837f15c2) | 2026-03-20 |
+| **AccuLynx** | QA Engineer | Beloit, WI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c0febea5d0bcbf0) | 2026-03-20 |
 | **Palmetto Clean Technology** | Senior Data Analyst | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f1ef15606b0e87d) | 2026-03-20 |
 | **American Airlines** | Engineer/Sr Engineer, IT Software - Quality Assurance | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b6151531a1a35f8) | 2026-03-20 |
 | **Airtable** | AI Analytics Engineer (AI & Analytics Platform) | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=52becbba6aaec44e) | 2026-03-20 |
@@ -42,6 +43,10 @@
 | **Cloud Software Group** | Application Development Engineer - Messaging Engineering | Naperville, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=53a9520d993e22f5) | 2026-03-20 |
 | **Cornell University** | Wildlife Health Lab Data Engineer | Ithaca, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2660e6da0c23c33f) | 2026-03-20 |
 | **EchoStar** | Software Engineer Intern - AI & Cloud | Littleton, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5492ad4f0786a90e) | 2026-03-20 |
+| **LATCH LLC** | 1154_Sr Systems Administrator (Power Platform/Azure) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b5f97a66bbda7bc) | 2026-03-20 |
+| **Fidelity Investments** | Senior Data Engineer - Oracle DBA - OCI | Westlake, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e599db25edc63644) | 2026-03-20 |
+| **Fidelity Investments** | Senior Data Engineer - Oracle DBA - OCI | Merrimack, NH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d75b05ba4615bbc0) | 2026-03-20 |
+| **Fidelity Investments** | Senior Data Engineer - Oracle DBA - OCI | Smithfield, RI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03ea7797a2adda23) | 2026-03-20 |
 | **Tata Consultancy Services (TCS)** | Cloud Data Architect | Westlake Village, CA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5af157c666d12c35) | 2026-03-19 |
 | **American Airlines** | Engineer/ Sr Engineer, IT AI | Fort Worth, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5dca82b8d363fd2) | 2026-03-19 |
 | **The Hartford** | Sr Applied AI Machine Learning Engineer - Claims Data Science | Charlotte, NC, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a207649ab0be82e) | 2026-03-19 |
