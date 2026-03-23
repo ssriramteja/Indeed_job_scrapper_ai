@@ -88,6 +88,28 @@
         "scrapped_date": "2026-03-23"
     },
     {
+        "title": "Agentic Solutions Developer",
+        "company": "MAS",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 14.4,
+        "matched_keywords": [
+            "AI Engineer",
+            "LangChain",
+            "RAG",
+            "LLaMA",
+            "FAISS",
+            "Pinecone",
+            "Prompt Engineering",
+            "Docker",
+            "Kubernetes",
+            "Python"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=799a4939da5328d7",
+        "description": "below is a **clean, high\\-signal, product\\-oriented job description** aligned with what you actually need: llm/agent systems \\+ python \\+ enterprise saas.\n\n**senior ai engineer (llms \\& agent systems)overview**\n\nwe are seeking a senior ai engineer to design and build production\\-grade agentic systems powered by large language models. this role focuses on developing intelligent automation capabilities within an enterprise saas platform, including multi\\-step agents, retrieval systems, and ai\\-driven workflows.\n\nyou will work at the intersection of applied ai and scalable software engineering\u2014turning cutting\\-edge llm capabilities into reliable, secure, and high\\-impact product features.\n\n**what you\u2019ll build**\n\n* multi\\-step ai agents that automate complex workflows and decision\\-making\n* llm\\-powered apis and services integrated into our saas platform\n* retrieval\\-augmented generation (rag) systems over structured and unstructured data\n* internal tooling for agent orchestration, evaluation, and monitoring\n* enterprise\\-grade ai features with strong performance, reliability, and security guarantees\n\n**responsibilities**\n\n* design and implement agentic systems using llms, tools, and structured workflows\n* build scalable backend services (primarily in python) to support ai\\-driven features\n* develop and optimize rag pipelines, including ingestion, indexing, and retrieval\n* integrate llm capabilities into production systems via apis and microservices\n* establish evaluation frameworks for agent performance, accuracy, and cost\n* implement guardrails, observability, and monitoring for ai systems in production\n* collaborate with product, engineering, and data teams to ship end\\-to\\-end solutions\n* continuously improve system performance, reliability, and cost efficiency\n\n**required experience**\n\n* strong proficiency in **python** (required)\n* hands\\-on experience building applications with **llms (openai, anthropic, etc.)**\n* experience designing or implementing **agentic workflows or autonomous systems**\n* familiarity with:\n* prompt engineering and tool/function calling\n* retrieval\\-augmented generation (rag)\n* vector databases (e.g., pinecone, weaviate, faiss)\n* experience building **production backend systems** (apis, services, pipelines)\n* experience with **cloud platforms** (aws, gcp, or azure)\n* strong software engineering fundamentals (testing, performance, scalability)\n\n**preferred experience**\n\n* experience with agent frameworks (langchain, llamaindex, crewai, autogen)\n* familiarity with async processing, task queues, and distributed systems\n* experience with docker/kubernetes or similar deployment environments\n* background in building **enterprise saas products**\n* experience with llm evaluation, observability, and cost optimization\n* exposure to security, compliance, or regulated data environments (e.g., soc2, hipaa)\n\n**what success looks like**\n\n* you can take an ambiguous workflow and turn it into a reliable agent\\-based system\n* your systems operate robustly in production with clear monitoring and guardrails\n* you balance model capability, latency, and cost effectively\n* you build reusable infrastructure\u2014not one\\-off prototypes\n\n**why this role**\n\n* direct impact on core platform capabilities and product differentiation\n* opportunity to shape how ai agents are deployed in real enterprise environments\n* work on real systems\u2014not demos or research prototypes\n\npay: $72,022\\.86 \\- $103,737\\.21 per year\n\nwork location: remote",
+        "scrapped_date": "2026-03-23"
+    },
+    {
         "title": "AI / Machine Learning Engineer",
         "company": "nan",
         "location": "Chicago, IL, US USA",
@@ -215,6 +237,384 @@
         ],
         "apply_link": "https://www.indeed.com/viewjob?jk=af74cd40e9546338",
         "description": "### **about the job**\n\n\nwe\u2019re seeking an agent engineer to design and build agentic features in our platform, including document understanding, advanced rag, and customer support automation. in this role, you will develop not only the agent components themselves, but also the friendli agent api, which serves as the core developer interface for building and extending agent applications. you will also build agent applications as production\\-ready examples of how agents can solve real\\-world problems.\n\n\nthese applications will be primarily written in python and will serve as reference implementations for our customers and community. we are looking for a hands\\-on engineer who is passionate about building agent systems and making ai easy for developers to adopt. the ideal candidate is comfortable creating agent applications that showcase what is possible, is curious about and experienced with open\\-source models, and enjoys turning them into reliable, high\\-impact features.\n\n### **key responsibilities**\n\n* design, build, and maintain agent apis and applications that deliver document understanding and other high\\-value features\n* evaluate and integrate open\\-source models to power production\\-ready agent features where possible\n* develop reference agent applications to showcase workflows and accelerate customer adoption\n* collaborate with backend and infrastructure teams to integrate agents with deployment, orchestration, and monitoring systems\n* ensure apis are robust, developer\\-friendly, and enterprise\\-ready through strong design principles and documentation\n* continuously improve the reliability, scalability, and performance of agent features in production\n\n### **qualifications**\n\n* 3\\+ years of experience in software engineering, preferably in backend, ml systems, or api development\n* bachelor\u2019s or master's degree in computer science, computer engineering, or equivalent\n* strong programming skills in python; experience with various python frameworks\n* solid understanding of llm workflows, agent patterns, or tool invocation systems\n* experience designing and delivering production apis\n* familiarity with open\\-source llms and multimodal models (huggingface, langchain, llamaindex, etc.)\n* strong foundations in cloud\\-native development\n\n### **preferred experience**\n\n* experience with document understanding pipelines (e.g., ocr, rag, summarization, structured extraction)\n* familiarity with kubernetes or container orchestration in production\n* built or contributed to agent frameworks, sdks, or clis\n* have worked in a startup or fast\\-paced environments with ownership and ambiguity\n* passion for developer experience and enabling ai adoption\n\n### **benefits**\n\n* flexible working hours\n* daily lunch and dinner provided; unlimited snacks and beverages\n* supportive and highly collaborative work environment\n* health check\\-up support and top\\-tier equipment/hardware support\n* a front\\-row seat to the generative ai infrastructure revolution\n* competitive compensation, startup equity, health insurance, and other benefits.\n\n### **about friendliai**\n\n\nfriendliai is building the world\u2019s best ai inference platform that makes large language and multi\\-modal models fast, efficient, and deployable at scale. we power high\\-throughput, low\\-latency ai workloads for organizations worldwide and integrate directly with hugging face, giving developers instant access to over 500,000 open\\-source models.\n\n\nwe are a small, fast\\-moving team doing work that matters at one of the most exciting moments in the history of technology. with our world\\-class inference engine, we are building a platform that the ai industry can actually rely on.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=a88d70cbd872dd34",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=8c9ca843965aa885",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=7da558975bfac95d",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=874ed609e05a7bfc",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=f38959bb559bfb98",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=6338c73031405538",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=36f1c9cdcacb3136",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=7b5a3910353244c4",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=43414fba14d62247",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=37cba859ef4d9fb1",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=dde68f50f77e5e76",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=08efe7ae7ed57a90",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=84e8b903de8f9821",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=a35e56d4b4e14ca9",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=1d5a13f7284fe6af",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=946598a19a640df8",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=f5de16df324629d7",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
+        "scrapped_date": "2026-03-23"
+    },
+    {
+        "title": "Machine Learning Engineer \u2013 Remote",
+        "company": "YO IT CONSULTING",
+        "location": "Remote, US USA",
+        "posted_at": "2026-03-23",
+        "score": 10.0,
+        "matched_keywords": [
+            "Machine Learning Engineer",
+            "LangChain",
+            "RAG",
+            "Gemini",
+            "Prompt Engineering",
+            "CI/CD",
+            "Python",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=4c00245e5543348a",
+        "description": "**job title:** ai/ml engineer\n\n\n**job type:** full\\-time\n\n\n**job summary:**\n\n\njoin our team as a ai/ml engineer and play a pivotal role in driving mission\\-critical government initiatives while also contributing to proprietary ai infrastructure, you\u2019ll harness advanced large language models (llms), retrieval\\-augmented generation (rag), and multi\\-agent orchestration to deliver secure, scalable, and impactful machine learning systems. you\u2019ll work closely with cross\\-functional experts, leveraging frontier ai platforms and the latest in agentic ai tooling.\n\n\n**key responsibilities:**\n\n\n* design, implement, and optimize ai/ml models particularly leveraging llms, rag, and prompt engineering for production grade applications.\n\n\n* develop and orchestrate multi\\-agent systems using frameworks such as langgraph and langchain.\n\n\n* integrate and deploy solutions on secure cloud environments, including aws govcloud, google govcloud, azure il5\\+, vertex ai, and aws bedrock.\n\n\n* build robust data pipelines, manage etl processes, and develop metadata catalogs and ontologies to ensure high\\-quality data for ai training and inference.\n\n\n* create and maintain rest apis and sdk integrations to facilitate seamless data and model interactions.\n\n\n* collaborate with product, security, and engineering teams to ensure best\\-in\\-class delivery, following secure coding and devops best practices (ci/cd).\n\n\n* document technical decisions and communicate complex concepts clearly to both technical and non\\-technical stakeholders.\n\n\n**required skills and qualifications:**\n\n\n* proficiency in python for ai/ml development, including experience with rest apis and sdk integration.\n\n\n* hands\\-on experience with llms, rag systems, and prompt engineering in production environments.\n\n\n* familiarity with multi\\-agent orchestration, tool use, and frameworks like langgraph and langchain.\n\n\n* deep understanding of cloud ai services (aws govcloud, google govcloud, azure il5\\+, vertex ai, aws bedrock).\n\n\n* background in building and maintaining data pipelines, ontologies, metadata catalogs, and etl processes.\n\n\n* strong grasp of secure coding and modern devops practices (ci/cd pipelines).\n\n\n* exceptional written and verbal communication skills for effective collaboration and documentation.\n\n\n**preferred qualifications:**\n\n\n* experience with ai/agentic platforms, such as anthropic for gov, openai enterprise, gemini enterprise, or grok enterprise.\n\n\n* knowledge of metadata catalog platforms (mcp) and advanced api development techniques.\n\n\n* prior exposure to government or highly regulated cloud environments and compliance standards.",
         "scrapped_date": "2026-03-23"
     },
     {

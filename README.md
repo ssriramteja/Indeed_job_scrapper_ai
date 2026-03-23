@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-23
-- **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 374
+- **New Matches Found in Last Run:** 19
+- **Total Active Matches (Last 4 Days):** 393
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-23.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-23.xlsx)
 
@@ -14,12 +14,31 @@
 | **Skyworks Solutions** | LLM/Machine Learning Engineering Summer Intern | Irvine, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4b2394c0f0453e3) | 2026-03-23 |
 | **Capgemini** | Associate Software Engineer | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ccb008b8926e48b) | 2026-03-23 |
 | **FriendliAI** | Software Engineer - Site Reliability | San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=715b1105e40c51bd) | 2026-03-23 |
+| **MAS** | Agentic Solutions Developer | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=799a4939da5328d7) | 2026-03-23 |
 | **nan** | AI / Machine Learning Engineer | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff8045f64f24fe43) | 2026-03-23 |
 | **Capgemini** | Software Engineer | Nashville, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e558de94bb1969ce) | 2026-03-23 |
 | **DNV KEMA Energy & Sustainability** | Senior Machine Learning Engineer - Energy | Oakland, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea8d61e353dcf3fe) | 2026-03-23 |
 | **Trimble** | Site Reliability Engineer - Machine Learning | Westminster, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4fa376cb1aac719) | 2026-03-23 |
 | **Press Ganey** | Data Scientist II | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9709ec31f7fa2177) | 2026-03-23 |
 | **FriendliAI** | Software Engineer – AI Agents | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af74cd40e9546338) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a88d70cbd872dd34) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c9ca843965aa885) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7da558975bfac95d) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=874ed609e05a7bfc) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f38959bb559bfb98) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6338c73031405538) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=36f1c9cdcacb3136) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7b5a3910353244c4) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43414fba14d62247) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37cba859ef4d9fb1) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dde68f50f77e5e76) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08efe7ae7ed57a90) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84e8b903de8f9821) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a35e56d4b4e14ca9) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d5a13f7284fe6af) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=946598a19a640df8) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5de16df324629d7) | 2026-03-23 |
+| **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c00245e5543348a) | 2026-03-23 |
 | **WebMD** | Associate Applied Technology Developer | Newark, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83ecb6209ed8605d) | 2026-03-22 |
 | **Mojo** | Full Stack Engineer | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0f1d3e8504a06a7) | 2026-03-22 |
 | **ESFM** | ANALYTICS ENGINEER-REMOTE | TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38159760e31a6501) | 2026-03-22 |
