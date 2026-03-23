@@ -2,7 +2,7 @@
 
 ### 📊 Latest Update: 2026-03-23
 - **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 369
+- **Total Active Matches (Last 4 Days):** 374
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-23.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-23.xlsx)
 
@@ -10,11 +10,16 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Capgemini** | Data Engineer | Nashville, TN, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20c3803f586deedc) | 2026-03-23 |
 | **Skyworks Solutions** | LLM/Machine Learning Engineering Summer Intern | Irvine, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4b2394c0f0453e3) | 2026-03-23 |
 | **Capgemini** | Associate Software Engineer | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ccb008b8926e48b) | 2026-03-23 |
+| **FriendliAI** | Software Engineer - Site Reliability | San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=715b1105e40c51bd) | 2026-03-23 |
 | **nan** | AI / Machine Learning Engineer | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff8045f64f24fe43) | 2026-03-23 |
 | **Capgemini** | Software Engineer | Nashville, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e558de94bb1969ce) | 2026-03-23 |
+| **DNV KEMA Energy & Sustainability** | Senior Machine Learning Engineer - Energy | Oakland, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea8d61e353dcf3fe) | 2026-03-23 |
+| **Trimble** | Site Reliability Engineer - Machine Learning | Westminster, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4fa376cb1aac719) | 2026-03-23 |
 | **Press Ganey** | Data Scientist II | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9709ec31f7fa2177) | 2026-03-23 |
+| **FriendliAI** | Software Engineer – AI Agents | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af74cd40e9546338) | 2026-03-23 |
 | **WebMD** | Associate Applied Technology Developer | Newark, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83ecb6209ed8605d) | 2026-03-22 |
 | **Mojo** | Full Stack Engineer | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0f1d3e8504a06a7) | 2026-03-22 |
 | **ESFM** | ANALYTICS ENGINEER-REMOTE | TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38159760e31a6501) | 2026-03-22 |
