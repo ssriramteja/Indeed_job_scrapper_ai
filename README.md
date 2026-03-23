@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-23
-- **New Matches Found in Last Run:** 19
-- **Total Active Matches (Last 4 Days):** 393
+- **New Matches Found in Last Run:** 32
+- **Total Active Matches (Last 4 Days):** 425
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-23.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-23.xlsx)
 
@@ -10,15 +10,45 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Bentley Systems** | AI Software Engineer | Exton, PA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8766b681045861f3) | 2026-03-23 |
 | **Capgemini** | Data Engineer | Nashville, TN, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20c3803f586deedc) | 2026-03-23 |
 | **Skyworks Solutions** | LLM/Machine Learning Engineering Summer Intern | Irvine, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4b2394c0f0453e3) | 2026-03-23 |
 | **Capgemini** | Associate Software Engineer | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ccb008b8926e48b) | 2026-03-23 |
 | **FriendliAI** | Software Engineer - Site Reliability | San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=715b1105e40c51bd) | 2026-03-23 |
 | **MAS** | Agentic Solutions Developer | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=799a4939da5328d7) | 2026-03-23 |
+| **Openkyber** | Kubernetes Security Engineer | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a7be29572b27f0f) | 2026-03-23 |
 | **nan** | AI / Machine Learning Engineer | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff8045f64f24fe43) | 2026-03-23 |
 | **Capgemini** | Software Engineer | Nashville, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e558de94bb1969ce) | 2026-03-23 |
 | **DNV KEMA Energy & Sustainability** | Senior Machine Learning Engineer - Energy | Oakland, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea8d61e353dcf3fe) | 2026-03-23 |
+| **Medica Services Company LLC** | Data Engineer III | Minnetonka, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47eccd8521d84b42) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Portland, OR, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=568d6169d76666f1) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Jersey City, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b05b3b46caa4257a) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Albuquerque, NM, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79fac182fa25939d) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Helena, MO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b5d55da591824b1) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Madison, WI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b65be6be8460bd78) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17e6aac4359b9fd3) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | North Andover, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c59949bd00d83e90) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | San Diego, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b8ef170ca8fbcbe) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Dallas, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=373d8c47a07bc6b1) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Phoenix, AZ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a84b0a6dbbfaaa46) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Las Vegas, NV, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f8368adff4982153) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Arlington, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=66f77cbc8591aaa1) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Medford, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb419979ad314a75) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Troy, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9322c1d0c3fbb74d) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Oakland, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=079310cd3af87092) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Irvine, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=40c0504d51145ec2) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Santa Clara, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=307370dbe3caf012) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Houston, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=becb707558951aa7) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4aff12f1bcf2fce) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Columbus, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6e88e9dd515938e3) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Des Moines, IA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f9314a3f9b0e1d8) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Oak Brook, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d66efbee602a7577) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Middletown, CT, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de57038afd5f7ffa) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4173afb3af02e847) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Miami, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dc0e5eb74e1013b2) | 2026-03-23 |
+| **DNV** | Senior Machine Learning Engineer - Energy | Portland, ME, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8be0210ffb983e8f) | 2026-03-23 |
 | **Trimble** | Site Reliability Engineer - Machine Learning | Westminster, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4fa376cb1aac719) | 2026-03-23 |
+| **Parahunt Global Solutions** | AI/ML Intern | Gruver, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2376b6c4753bdf2d) | 2026-03-23 |
 | **Press Ganey** | Data Scientist II | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9709ec31f7fa2177) | 2026-03-23 |
 | **FriendliAI** | Software Engineer – AI Agents | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af74cd40e9546338) | 2026-03-23 |
 | **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a88d70cbd872dd34) | 2026-03-23 |
@@ -39,6 +69,8 @@
 | **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=946598a19a640df8) | 2026-03-23 |
 | **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5de16df324629d7) | 2026-03-23 |
 | **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c00245e5543348a) | 2026-03-23 |
+| **RSHARMA** | Fircosoft Software Engineer – Fircosoft- Columbus, OH | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0fbbbc0264c2998) | 2026-03-23 |
+| **United States Steel** | IT, Cloud & AI | Osceola, AR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd84f3aefec029b0) | 2026-03-23 |
 | **WebMD** | Associate Applied Technology Developer | Newark, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83ecb6209ed8605d) | 2026-03-22 |
 | **Mojo** | Full Stack Engineer | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0f1d3e8504a06a7) | 2026-03-22 |
 | **ESFM** | ANALYTICS ENGINEER-REMOTE | TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38159760e31a6501) | 2026-03-22 |

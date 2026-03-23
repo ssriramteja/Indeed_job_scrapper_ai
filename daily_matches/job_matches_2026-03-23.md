@@ -1,216 +1,359 @@
 # 🎯 Daily Job Matches — 2026-03-23
 
-**Total Jobs Found:** 19
+**Total Jobs Found:** 32
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Agentic Solutions Developer @ MAS
+## 1. AI Software Engineer @ Bentley Systems
+**Match Score:** 18.9%
+
+📍 **Location:** Exton, PA, US USA
+
+🔑 **Keywords:** AI Engineer, LangChain, RAG, Gemini, Copilot, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8766b681045861f3)
+
+---
+
+## 2. Kubernetes Security Engineer @ Openkyber
 **Match Score:** 14.4%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** AK, US USA
 
-🔑 **Keywords:** AI Engineer, LangChain, RAG, LLaMA, FAISS, Pinecone, Prompt Engineering, Docker, Kubernetes, Python
+🔑 **Keywords:** Docker, Kubernetes, AKS, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Snowflake, Databricks
 
-[Apply Here](https://www.indeed.com/viewjob?jk=799a4939da5328d7)
-
----
-
-## 2. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a88d70cbd872dd34)
+[Apply Here](https://www.indeed.com/viewjob?jk=8a7be29572b27f0f)
 
 ---
 
-## 3. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 3. Data Engineer III @ Medica Services Company LLC
+**Match Score:** 12.2%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Minnetonka, MN, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
+🔑 **Keywords:** RAG, TensorFlow, PyTorch, Apache Airflow, Snowflake, Tableau, Power BI, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8c9ca843965aa885)
-
----
-
-## 4. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7da558975bfac95d)
+[Apply Here](https://www.indeed.com/viewjob?jk=47eccd8521d84b42)
 
 ---
 
-## 5. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 4. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Portland, OR, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=874ed609e05a7bfc)
-
----
-
-## 6. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f38959bb559bfb98)
+[Apply Here](https://www.indeed.com/viewjob?jk=568d6169d76666f1)
 
 ---
 
-## 7. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 5. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Jersey City, NJ, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6338c73031405538)
-
----
-
-## 8. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=36f1c9cdcacb3136)
+[Apply Here](https://www.indeed.com/viewjob?jk=b05b3b46caa4257a)
 
 ---
 
-## 9. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 6. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Albuquerque, NM, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7b5a3910353244c4)
-
----
-
-## 10. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=43414fba14d62247)
+[Apply Here](https://www.indeed.com/viewjob?jk=79fac182fa25939d)
 
 ---
 
-## 11. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 7. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Helena, MO, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=37cba859ef4d9fb1)
-
----
-
-## 12. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dde68f50f77e5e76)
+[Apply Here](https://www.indeed.com/viewjob?jk=2b5d55da591824b1)
 
 ---
 
-## 13. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 8. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Madison, WI, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=08efe7ae7ed57a90)
-
----
-
-## 14. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=84e8b903de8f9821)
+[Apply Here](https://www.indeed.com/viewjob?jk=b65be6be8460bd78)
 
 ---
 
-## 15. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 9. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a35e56d4b4e14ca9)
-
----
-
-## 16. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1d5a13f7284fe6af)
+[Apply Here](https://www.indeed.com/viewjob?jk=17e6aac4359b9fd3)
 
 ---
 
-## 17. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 10. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** North Andover, MA, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=946598a19a640df8)
-
----
-
-## 18. Machine Learning Engineer – Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f5de16df324629d7)
+[Apply Here](https://www.indeed.com/viewjob?jk=c59949bd00d83e90)
 
 ---
 
-## 19. Machine Learning Engineer – Remote @ YO IT CONSULTING
+## 11. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** San Diego, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2b8ef170ca8fbcbe)
+
+---
+
+## 12. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=373d8c47a07bc6b1)
+
+---
+
+## 13. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Phoenix, AZ, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a84b0a6dbbfaaa46)
+
+---
+
+## 14. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Las Vegas, NV, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f8368adff4982153)
+
+---
+
+## 15. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Arlington, VA, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=66f77cbc8591aaa1)
+
+---
+
+## 16. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Medford, MA, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bb419979ad314a75)
+
+---
+
+## 17. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Troy, NY, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9322c1d0c3fbb74d)
+
+---
+
+## 18. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Oakland, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=079310cd3af87092)
+
+---
+
+## 19. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Irvine, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=40c0504d51145ec2)
+
+---
+
+## 20. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Santa Clara, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=307370dbe3caf012)
+
+---
+
+## 21. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=becb707558951aa7)
+
+---
+
+## 22. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e4aff12f1bcf2fce)
+
+---
+
+## 23. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Columbus, OH, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6e88e9dd515938e3)
+
+---
+
+## 24. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Des Moines, IA, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9f9314a3f9b0e1d8)
+
+---
+
+## 25. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Oak Brook, IL, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d66efbee602a7577)
+
+---
+
+## 26. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Middletown, CT, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=de57038afd5f7ffa)
+
+---
+
+## 27. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4173afb3af02e847)
+
+---
+
+## 28. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Miami, FL, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dc0e5eb74e1013b2)
+
+---
+
+## 29. Senior Machine Learning Engineer - Energy @ DNV
+**Match Score:** 12.2%
+
+📍 **Location:** Portland, ME, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, MLflow, CI/CD, Git, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8be0210ffb983e8f)
+
+---
+
+## 30. AI/ML Intern @ Parahunt Global Solutions
+**Match Score:** 11.1%
+
+📍 **Location:** Gruver, TX, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, TensorFlow, Hadoop, Python, SQL, R, Java, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2376b6c4753bdf2d)
+
+---
+
+## 31. Fircosoft Software Engineer – Fircosoft- Columbus, OH @ RSHARMA
 **Match Score:** 10.0%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Columbus, OH, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, Python, R, Scala
+🔑 **Keywords:** Kubernetes, CI/CD, Jenkins, Kafka, SQL, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4c00245e5543348a)
+[Apply Here](https://www.indeed.com/viewjob?jk=a0fbbbc0264c2998)
+
+---
+
+## 32. IT, Cloud & AI @ United States Steel
+**Match Score:** 10.0%
+
+📍 **Location:** Osceola, AR, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, Hugging Face, TensorFlow, PyTorch, S3, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bd84f3aefec029b0)
 
 ---
 
