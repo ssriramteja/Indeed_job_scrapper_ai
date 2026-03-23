@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-23
-- **New Matches Found in Last Run:** 32
-- **Total Active Matches (Last 4 Days):** 425
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 430
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-23.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-23.xlsx)
 
@@ -10,6 +10,7 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mindset Care, Inc.** | A.I. Developer | Remote, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19124af0add103c3) | 2026-03-23 |
 | **Bentley Systems** | AI Software Engineer | Exton, PA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8766b681045861f3) | 2026-03-23 |
 | **Capgemini** | Data Engineer | Nashville, TN, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20c3803f586deedc) | 2026-03-23 |
 | **Skyworks Solutions** | LLM/Machine Learning Engineering Summer Intern | Irvine, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4b2394c0f0453e3) | 2026-03-23 |
@@ -47,8 +48,10 @@
 | **DNV** | Senior Machine Learning Engineer - Energy | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4173afb3af02e847) | 2026-03-23 |
 | **DNV** | Senior Machine Learning Engineer - Energy | Miami, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dc0e5eb74e1013b2) | 2026-03-23 |
 | **DNV** | Senior Machine Learning Engineer - Energy | Portland, ME, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8be0210ffb983e8f) | 2026-03-23 |
+| **SMX USA** | Data Scientist Microsoft Fabric & Azure Synapse (100% Remoto) | San Juan, PR, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a9a1c428568431f9) | 2026-03-23 |
 | **Trimble** | Site Reliability Engineer - Machine Learning | Westminster, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4fa376cb1aac719) | 2026-03-23 |
 | **Parahunt Global Solutions** | AI/ML Intern | Gruver, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2376b6c4753bdf2d) | 2026-03-23 |
+| **Zoom Communications** | AI Software Engineer | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ced8db3399560bd) | 2026-03-23 |
 | **Press Ganey** | Data Scientist II | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9709ec31f7fa2177) | 2026-03-23 |
 | **FriendliAI** | Software Engineer – AI Agents | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af74cd40e9546338) | 2026-03-23 |
 | **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a88d70cbd872dd34) | 2026-03-23 |
@@ -71,6 +74,8 @@
 | **YO IT CONSULTING** | Machine Learning Engineer – Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c00245e5543348a) | 2026-03-23 |
 | **RSHARMA** | Fircosoft Software Engineer – Fircosoft- Columbus, OH | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0fbbbc0264c2998) | 2026-03-23 |
 | **United States Steel** | IT, Cloud & AI | Osceola, AR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd84f3aefec029b0) | 2026-03-23 |
+| **Cloud Resources** | Senior AI/ML Engineer | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9752e4f115e95051) | 2026-03-23 |
+| **Wells Fargo** | Senior Specialty Software Engineer – Enterprise Generative AI Platform UI and Python Engineering | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe28579aea4d7255) | 2026-03-23 |
 | **WebMD** | Associate Applied Technology Developer | Newark, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83ecb6209ed8605d) | 2026-03-22 |
 | **Mojo** | Full Stack Engineer | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0f1d3e8504a06a7) | 2026-03-22 |
 | **ESFM** | ANALYTICS ENGINEER-REMOTE | TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38159760e31a6501) | 2026-03-22 |
