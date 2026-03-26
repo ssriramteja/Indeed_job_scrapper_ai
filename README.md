@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-26
-- **New Matches Found in Last Run:** 11
-- **Total Active Matches (Last 4 Days):** 660
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 664
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-26.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-26.xlsx)
 
@@ -12,6 +12,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Fanatics** | Software Engineer III | San Mateo, CA, US USA | 30.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d61a741a9a865097) | 2026-03-26 |
 | **BlackRock** | Forward Deploy Data Engineer-Associate | Atlanta, GA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34525f4e47bd513d) | 2026-03-26 |
+| **Indev** | Data Engineer | Washington, DC, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=beb67bf43c44dfc7) | 2026-03-26 |
 | **Univerus** | Product Support & Platform Engineer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1812ab21ac264af8) | 2026-03-26 |
 | **Robert E. Mason & Associates** | Senior Data Engineer | Wando, SC, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=734589cead82347f) | 2026-03-26 |
 | **SciPlay** | Gameplay Analyst | Austin, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a6ec3c629adbbaf3) | 2026-03-26 |
@@ -50,6 +51,8 @@
 | **Snowflake** | Software Engineer Intern (AI/ML) | MS/PhD - Summer 2026 | Menlo Park, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=24e4b4a4a40b46f3) | 2026-03-26 |
 | **GEICO** | Senior Machine Learning Engineer | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=95ded9f2441e8d33) | 2026-03-26 |
 | **GEICO** | Senior Machine Learning Engineer | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c01a327f492c5e4e) | 2026-03-26 |
+| **AGILYSYS, INC.** | Software Engineer - CRS | Alpharetta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1c352671e8dbbe5) | 2026-03-26 |
+| **Novelis** | Data Science Intern | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e149cd4b58c9f54f) | 2026-03-26 |
 | **Driscoll's** | AI/MLOps Architect - R&D IT (Onsite) | Watsonville, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5139b2e77cde6ee) | 2026-03-26 |
 | **Signature Performance** | AI Model Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dc586d0dd3cb5fac) | 2026-03-26 |
 | **Alvarez & Marsal** | Data Scientist, Generative & Agentic AI Solutions: Senior Consultant | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2fc65e7eb3340667) | 2026-03-26 |
@@ -67,6 +70,7 @@
 | **Micron Technology** | Senior Software Development Engineer, IT MFG & TPG | Boise, ID, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=838dd5a6e658b0f9) | 2026-03-26 |
 | **Intuit** | Senior Data Scientist - Data Foundation | San Diego, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca3c0444e26e4a13) | 2026-03-26 |
 | **Intuit** | Senior Data Scientist - Data Foundation | Mountain View, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98f5ee2b9206fc96) | 2026-03-26 |
+| **Ann & Robert H. Lurie Children's Hospital of Chicago** | Data Engineer (*Grant Funded) | River, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0be4284919556a7f) | 2026-03-26 |
 | **Southwest Airlines** | Solutions Architect - DAL | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2eee963dd0326535) | 2026-03-26 |
 | **MetLife** | Junior Software Engineer | Cary, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d846a54dacc21299) | 2026-03-26 |
 | **Schneider Electric** | AI Solutions Engineer - Intern | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a5ecc838ba46727) | 2026-03-26 |
