@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-27
-- **New Matches Found in Last Run:** 35
-- **Total Active Matches (Last 4 Days):** 632
+- **New Matches Found in Last Run:** 6
+- **Total Active Matches (Last 4 Days):** 638
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-27.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-27.xlsx)
 
@@ -12,6 +12,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Noblis** | Summer 2026 - AI and Data Summer Transportation Internship | Remote, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1dd5b9374409ee06) | 2026-03-27 |
 | **McCarthy Holdings** | Sr. AI Engineer | St. Louis, MO, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10c1c898197e57c0) | 2026-03-27 |
+| **GEICO** | Senior Engineer - Data | Seattle, WA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a76b23bc92692fef) | 2026-03-27 |
 | **Anika Systems** | Data Analyst | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54663b10957e30b4) | 2026-03-27 |
 | **Create Music Group** | Machine Learning Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0da64f6f9200570e) | 2026-03-27 |
 | **Create Music Group** | Machine Learning Engineer | Los Angeles, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f51222219df70241) | 2026-03-27 |
@@ -33,6 +34,7 @@
 | **AGILYSYS, INC.** | Intership - Software Engineer AI | Alpharetta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2530bd9c47a43dec) | 2026-03-27 |
 | **nan** | Full Stack Developer | Charlotte, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6bc1cc450f30679d) | 2026-03-27 |
 | **NTT DATA** | Azure Deployment Engineer & Coordinator | Plano, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b3ad714257a4ab8) | 2026-03-27 |
+| **NTT DATA** | Azure Deployment Engineer & Coordinator | Plano, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=66edde0eee044f22) | 2026-03-27 |
 | **ABAKA AI** | Machine Learning Engineer | Palo Alto, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3bebb033cf03bfd0) | 2026-03-27 |
 | **Caterpillar** | Autonomy Engineering Specialist | Mossville, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=554b6b55c1579c71) | 2026-03-27 |
 | **SAP** | SAP NS2 Sr. Cloud Infrastructure Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=951b296c49075533) | 2026-03-27 |
@@ -45,6 +47,10 @@
 | **Zoox** | Senior Software Development Engineer in Test - Verifiation And Validation | Foster City, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc99b8d2415f2af5) | 2026-03-27 |
 | **Technology Ventures** | Data/Modeling Engineer IV (AI Engineer) | Reston, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e04aa837d35fc41) | 2026-03-27 |
 | **Aera Technology** | Principle Data Scientist | Mountain View, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77bf19878a2226db) | 2026-03-27 |
+| **Ease Logistics Services LLC** | Data Engineer | Dublin, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fa1174e0c00dce1a) | 2026-03-27 |
+| **Peraton** | TEST ENGINEER | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19ffd8579c25846e) | 2026-03-27 |
+| **Lockheed Martin** | Ground Data Software Engineer - Early Career | Littleton, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=686b463f732f1fc3) | 2026-03-27 |
+| **TriWest Healthcare Alliance** | Data Scientist | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00516809ddff245c) | 2026-03-27 |
 | **Fanatics** | Software Engineer III | San Mateo, CA, US USA | 30.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d61a741a9a865097) | 2026-03-26 |
 | **Ronin Consulting** | Software Engineer | Franklin, TN, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00d9114936398c43) | 2026-03-26 |
 | **BlackRock** | Forward Deploy Data Engineer-Associate | Atlanta, GA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34525f4e47bd513d) | 2026-03-26 |
