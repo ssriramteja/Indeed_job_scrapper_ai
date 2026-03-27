@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-27
-- **New Matches Found in Last Run:** 19
-- **Total Active Matches (Last 4 Days):** 671
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 676
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-27.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-27.xlsx)
 
@@ -34,6 +34,7 @@
 | **nan** | Infrastructure Engineer (Backend) | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0be821cc97d69bf4) | 2026-03-27 |
 | **HCA Healthcare** | Senior Data Engineer - APIs | Nashville, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=734740ee36ff607d) | 2026-03-27 |
 | **AT&T** | Sr Data Scientist | Dallas, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38426988b285acce) | 2026-03-27 |
+| **Grafana Labs** | Senior Software Engineer - AI and Automation, Data & Analytics | USA | Remote | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80830d8b80c7598f) | 2026-03-27 |
 | **Ford Motor Company** | Software Engineer - Full Stack | Dearborn, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b284c7ccad57f5b1) | 2026-03-27 |
 | **Box** | Senior Software Engineer, Software Delivery | Redwood City, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14e59eb594f452a5) | 2026-03-27 |
 | **Celonis** | Senior Applied AI Engineer - Energy Industry | Houston, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5905cde7aa8928e) | 2026-03-27 |
@@ -61,6 +62,7 @@
 | **HCA Healthcare** | Consultant Analytical Engineer Expanse | Nashville, TN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a4e3fcf4a7d4de9e) | 2026-03-27 |
 | **Rivian and Volkswagen Group Technologies** | Sr Software Engineer, Fullstack (Developer Productivity) | Palo Alto, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4267dc9b6e685a7) | 2026-03-27 |
 | **Publix** | Data Analyst, Business Analysis and Reporting - Lakeland | Lakeland, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18433bb8892f8bce) | 2026-03-27 |
+| **GE Vernova** | Senior Engineer - GenAI Engineering | Cambridge, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=68a0f6931e6dd8c6) | 2026-03-27 |
 | **Realign** | Java AI Engineer-1 | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25588e83b445f6e2) | 2026-03-27 |
 | **Checkmarx** | Solutions Engineer Intern - Computer Science or related major | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e62983171df88b76) | 2026-03-27 |
 | **Skidmore, Owings & Merrill** | Data Engineer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f30cc04c7a5b1640) | 2026-03-27 |
@@ -84,6 +86,9 @@
 | **Capgemini** | Senior AI Engineer | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=881bb762adef678a) | 2026-03-27 |
 | **nan** | Software Architect | Powder Springs, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2cbc6b59d26185c0) | 2026-03-27 |
 | **Exact Sciences** | Senior ML Engineer | San Diego, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b109dae448b56c1) | 2026-03-27 |
+| **KBC Global** | R&D Senior Consultant (Senior Full Stack Developer) | Santa Fe, NM, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=528c901ad7f48fe6) | 2026-03-27 |
+| **Grady Health System** | Cloud Analytics Infrastructure Engineer-Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=36dd8ba29ee9494b) | 2026-03-27 |
+| **KPMG** | Engineer, Development Tax Technology | Atlanta Summer/Fall 2026 | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5a1e1b9a56352414) | 2026-03-27 |
 | **Fanatics** | Software Engineer III | San Mateo, CA, US USA | 30.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d61a741a9a865097) | 2026-03-26 |
 | **Ronin Consulting** | Software Engineer | Franklin, TN, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00d9114936398c43) | 2026-03-26 |
 | **BlackRock** | Forward Deploy Data Engineer-Associate | Atlanta, GA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34525f4e47bd513d) | 2026-03-26 |
