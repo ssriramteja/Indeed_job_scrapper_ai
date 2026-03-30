@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-30
-- **New Matches Found in Last Run:** 1
-- **Total Active Matches (Last 4 Days):** 408
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 411
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-30.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-30.xlsx)
 
@@ -27,6 +27,7 @@
 | **Realign** | AI Architect-2 | Edison, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89b89fa0c3d0a415) | 2026-03-30 |
 | **Realign** | AI Architect-2 | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d4888ccf620133d) | 2026-03-30 |
 | **Openkyber** | Kubernetes MLOps Engineer | IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3e369b21b51e562d) | 2026-03-30 |
+| **JPMorganChase** | Software Engineer III - Fullstack, Python, AWS, AI/ML | Plano, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c336e57cb127fed) | 2026-03-30 |
 | **Scotiabank** | Platform Engineer | Dallas, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96718ce206105693) | 2026-03-30 |
 | **Realign** | GenAI Engineer-5 | Santa Clara, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fc9271cdcb44b5e5) | 2026-03-30 |
 | **Openkyber** | OpenAM | NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5fd34e845dbfeb5e) | 2026-03-30 |
@@ -50,6 +51,8 @@
 | **Openkyber** | OpenAM | GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b66557efe66b4632) | 2026-03-30 |
 | **Keeper Security, Inc.** | Senior Software Engineer, Database Integrations (Go/React) New | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25d78b880ca885a3) | 2026-03-30 |
 | **Keeper Security** | Senior Software Engineer, Database Integrations (Go/React) | El Dorado Hills, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f74b5a3306cbb55e) | 2026-03-30 |
+| **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90a498e1d33bfb61) | 2026-03-30 |
+| **TEEMA** | Senior Automation Engineer | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b853e0838aff05c5) | 2026-03-30 |
 | **Openkyber** | Data Validation Engineer (ML) | NJ, US USA | 35.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0aa9d1342b93a57e) | 2026-03-29 |
 | **Carrier** | AI & Data Solution Architect | Atlanta, GA, US USA | 33.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e27010d95a9e3bd) | 2026-03-29 |
 | **Openkyber** | CrowdStrike Charlotte AI Engineer | GA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a04359062554215) | 2026-03-29 |
