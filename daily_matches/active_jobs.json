@@ -462,6 +462,28 @@
         "scrapped_date": "2026-03-30"
     },
     {
+        "title": "Data Engineer I",
+        "company": "Manus",
+        "location": "Augusta, GA, US USA",
+        "posted_at": "2026-03-27",
+        "score": 12.2,
+        "matched_keywords": [
+            "RAG",
+            "Synapse",
+            "Data Lake",
+            "CI/CD",
+            "Git",
+            "Databricks",
+            "PySpark",
+            "Kafka",
+            "Python",
+            "SQL"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=d7422317da3cb8cf",
+        "description": "**data engineer**\n\nmanus works across industries and value chains to accelerate the transition to bioalternatives \\- better performing and more sustainable versions of complex molecules traditionally sourced from plants, animals, or fossil fuels. our platform is proven to work across scales, bridging the valley of death between lab and manufacturing more efficiently and more reliably to deliver the benefits of synthetic biology today.\n\n\nthe **data engineer** will play a critical role in building the data backbone that connects manus\u2019 production\\-related systems, including operations, quality, supply chain, finance, maintenance, and laboratory functions. this augusta, ga\\-based role sits at the intersection of industrial ot systems (dcs, historians, lims, cmms) and modern cloud data platforms, with responsibility for discovering, structuring, and preparing data from heterogeneous on\\-prem and cloud sources. by transforming raw manufacturing and laboratory data into reliable, well\\-modeled datasets, the data engineer enables analytics, reporting, and future ai/ml applications across scale\\-up, routine manufacturing operations, and continuous improvement.\n\n\n**why work at manus:**\n\n\n* opportunity \u2013 for motivated, results\\-oriented team members, our growth creates opportunities for personal and professional advancement.\n* accountability \u2013 you are given the resources you need to succeed and the freedom to make it happen; in return, we hold each other accountable for our high expectations.\n* passion \u2013 we love what we do and enjoy working with others who feel the same way. we embrace the challenge and hard work that come with working on the cutting edge.\n\n\n**education and experience**\n\n\n* master\u2019s degree in **data science**, **computer science**, **information systems**, or related field\n* **1\\-2** year of industry experience.\n\n\n**core responsibilities**\n\n\n* **support data survey**\n\t+ map workflows, systems, data owners, and data flows across all production\\-related activities, including operations, quality, supply chain, finance, maintenance, labs, etc.\n\t+ document data types, formats, quality, retention, and access controls\n\t+ help classify data sources for the ingestion pipeline (real\\-time, batch, api, file\\-based)\n* **ingestion layer development**\n\t+ build connectors for on\\-prem systems\n\t+ develop ingestion jobs using python or etl tools\n\t+ implement kafka producers to stream data to the cloud warehouse\n\t+ work with the india team to ensure schema consistency and metadata requirements\n* **data cleaning \\& transformation**\n\t+ normalize datasets from multiple systems into standard schemas\n\t+ handle missing values, outliers, timestamp alignment, and unit harmonization\n\t+ apply mapping tables, reference data, and business rules\n\t+ prepare data for silver (data vault) and gold (star schema) layers\n* **assist warehouse modeling team**\n\t+ work with senior warehouse engineers in india to implement:\n\t\t- hubs, links, satellites (data vault 2\\.0\\)\n\t\t- dimension and fact tables\n\t\t- data quality checks (freshness, completeness, uniqueness)\n* **documentation \\& collaboration**\n\t+ maintain detailed documentation for ingestion pipelines\n\t+ work closely with manus operations, qa, engineering, and it\n\t+ provide weekly updates to the program lead\n**required technical skills**\n\n\n**programming \\& scripting**\n\n\n* strong **python** skills\n* working knowledge of **sql** (joins, window functions, ctes)\n* experience using pandas, pyspark, or similar tools for transformation\n\n\n**streaming \\& messaging**\n\n\n* understanding of **apache kafka**:\n\t+ producers/consumers\n\t+ topics, partitions, offset management\n\t+ kafka connectors (optional but preferred)\n\n**etl / elt \\& data integration**\n\n\n* experience with **batch ingestion** using:\n\t+ rest apis\n\t+ odbc/jdbc\n\t+ csv/json pipelines\n\t+ scheduled jobs\n* familiarity with **azure data factory**, airflow, or any orchestration tool is a plus\n\n\n**data modeling \\& architecture**\n\n\n* understanding of:\n\t+ bronze/silver/gold patterns (medallion architecture)\n\t+ data lake concepts\n\t+ data cleaning techniques\n\t+ slowly changing dimensions (scd) (optional)\n\n**cloud \\& devops exposure**\n\n\n**(nice to have)**\n\n\n* basic understanding of:\n\t+ azure storage\n\t+ event hubs\n\t+ synapse or databricks\n* git, ci/cd familiarity is a plus\n\n\n**soft skills**\n\n\n* strong communication \u2014 required for the data survey\n* curiosity and willingness to work across manufacturing \\+ biotech systems\n* ability to document findings clearly and consistently\n* collaborative mindset \u2014 must coordinate with geographically spread\\-out teams and willing to work in multiple time zones.",
+        "scrapped_date": "2026-03-30"
+    },
+    {
         "title": "Python Engineer-7",
         "company": "Realign",
         "location": "Alpharetta, GA, US USA",

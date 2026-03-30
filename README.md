@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-30
-- **New Matches Found in Last Run:** 39
-- **Total Active Matches (Last 4 Days):** 407
+- **New Matches Found in Last Run:** 1
+- **Total Active Matches (Last 4 Days):** 408
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-30.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-30.xlsx)
 
@@ -31,6 +31,7 @@
 | **Realign** | GenAI Engineer-5 | Santa Clara, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fc9271cdcb44b5e5) | 2026-03-30 |
 | **Openkyber** | OpenAM | NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5fd34e845dbfeb5e) | 2026-03-30 |
 | **Openkyber** | ML CI/CD Engineer | Washington, DC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7153ceccffe8d0e8) | 2026-03-30 |
+| **Manus** | Data Engineer I | Augusta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d7422317da3cb8cf) | 2026-03-30 |
 | **Realign** | Python Engineer-7 | Alpharetta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c5bbeb36eceb16a) | 2026-03-30 |
 | **Paramount** | Sr Software Engineer | Burbank, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0eb488d77c2381a) | 2026-03-30 |
 | **Openkyber** | SAP AI Business Services Consultant | GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=333e23c33708c05a) | 2026-03-30 |
