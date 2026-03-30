@@ -1,40 +1,73 @@
 # 🎯 Daily Job Matches — 2026-03-30
 
-**Total Jobs Found:** 3
+**Total Jobs Found:** 6
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Software Engineer III - Fullstack, Python, AWS, AI/ML @ JPMorganChase
-**Match Score:** 13.3%
+## 1. Software Engineer @ Global KTech
+**Match Score:** 15.6%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RAG, Prompt Engineering, S3, EC2, Docker, Kubernetes, CI/CD, Terraform, Python, R
+🔑 **Keywords:** Data Scientist, RAG, Redshift, CI/CD, Git, Snowflake, Redshift, PySpark, NoSQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8c336e57cb127fed)
-
----
-
-## 2. Senior Automation Engineer @ TEEMA
-**Match Score:** 10.0%
-
-📍 **Location:** Richmond, VA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Gemini, Databricks, NoSQL, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=90a498e1d33bfb61)
+[Apply Here](https://www.indeed.com/viewjob?jk=53641572c239d14d)
 
 ---
 
-## 3. Senior Automation Engineer @ TEEMA
-**Match Score:** 10.0%
+## 2. DevOps Engineer @ Vitol
+**Match Score:** 14.4%
 
-📍 **Location:** Phoenix, AZ, US USA
+📍 **Location:** Houston, TX, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Gemini, Databricks, NoSQL, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Pinecone, S3, MLflow, Docker, CI/CD, Jenkins, GitHub Actions, Terraform, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b853e0838aff05c5)
+[Apply Here](https://www.indeed.com/viewjob?jk=b912b59e0b8d6118)
+
+---
+
+## 3. UPS Digital Senior Machine Learning Engineer @ UPS
+**Match Score:** 14.4%
+
+📍 **Location:** Alpharetta, GA, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, Prompt Engineering, PyTorch, Keras, Git, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7f10efa8aff5991b)
+
+---
+
+## 4. UPS Digital Senior Machine Learning Engineer @ UPS
+**Match Score:** 14.4%
+
+📍 **Location:** Alpharetta, GA, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, Prompt Engineering, PyTorch, Keras, Git, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=db79d5032b499540)
+
+---
+
+## 5. Software Engineer - AI @ Cargill
+**Match Score:** 11.1%
+
+📍 **Location:** Wayzata, MN, US USA
+
+🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=382bc7a4f3341bc6)
+
+---
+
+## 6. Software Engineer - AI @ Cargill
+**Match Score:** 11.1%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fad1d4a13591a104)
 
 ---
 

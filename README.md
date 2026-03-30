@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-03-30
-- **New Matches Found in Last Run:** 3
-- **Total Active Matches (Last 4 Days):** 411
+- **New Matches Found in Last Run:** 6
+- **Total Active Matches (Last 4 Days):** 417
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-03-30.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-03-30.xlsx)
 
@@ -17,11 +17,15 @@
 | **Openkyber** | GCP AI Platform Engineer | GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7840d8e6726b09d1) | 2026-03-30 |
 | **Edurech Technoogy** | Data Scientist | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79fa139849b5cf5d) | 2026-03-30 |
 | **Openkyber** | OpenAM | GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a87ded3a052bfde1) | 2026-03-30 |
+| **Global KTech** | Software Engineer | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=53641572c239d14d) | 2026-03-30 |
 | **Realign** | Gen AI Engineer (Remote)-5 | Frederick, MD, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d8bc1328632ae82b) | 2026-03-30 |
 | **Openkyber** | SAP AI Business Services Consultant | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6eea039facef1d5) | 2026-03-30 |
 | **Openkyber** | AI Platform Engineer | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54fcd94862a30558) | 2026-03-30 |
 | **Openkyber** | GCP AI Platform Engineer | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=037a88873ec44a68) | 2026-03-30 |
 | **Openkyber** | Terraform MLOps Engineer | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20a8124f877384e7) | 2026-03-30 |
+| **Vitol** | DevOps Engineer | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b912b59e0b8d6118) | 2026-03-30 |
+| **UPS** | UPS Digital Senior Machine Learning Engineer | Alpharetta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f10efa8aff5991b) | 2026-03-30 |
+| **UPS** | UPS Digital Senior Machine Learning Engineer | Alpharetta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db79d5032b499540) | 2026-03-30 |
 | **Scotiabank** | Senior Platform Engineer | Dallas, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc80464c8d3d0b3c) | 2026-03-30 |
 | **Realign** | AI Architect-2 | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f845fbc27b08c01) | 2026-03-30 |
 | **Realign** | AI Architect-2 | Edison, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89b89fa0c3d0a415) | 2026-03-30 |
@@ -43,6 +47,8 @@
 | **Openkyber** | Airflow ML Engineer | CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d1c715f07cfc17f) | 2026-03-30 |
 | **Openkyber** | AI Infrastructure Engineer | Washington, DC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ddebdf27a40c7bfe) | 2026-03-30 |
 | **Realign** | Agentic QA Engineer / Generative AI & Agentic Systems (Contract & FTE)-6 | Dallas, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2e3176a480362dc4) | 2026-03-30 |
+| **Cargill** | Software Engineer - AI | Wayzata, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=382bc7a4f3341bc6) | 2026-03-30 |
+| **Cargill** | Software Engineer - AI | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fad1d4a13591a104) | 2026-03-30 |
 | **Realign** | GEN AI Engineer-7 | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4bdb57e02c9320a8) | 2026-03-30 |
 | **Realign** | GEN AI Engineer-7 | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b6da50d63ca884c) | 2026-03-30 |
 | **Openkyber** | AI Platform Engineer | OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a5f1c136f8c37ff) | 2026-03-30 |
