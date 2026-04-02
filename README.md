@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-02
-- **New Matches Found in Last Run:** 8
-- **Total Active Matches (Last 4 Days):** 1043
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 1045
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-02.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-02.xlsx)
 
@@ -46,6 +46,7 @@
 | **Wells Fargo** | Gen AI - Senior Software Automation Engineer | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=deab1c187227eda3) | 2026-04-02 |
 | **Vforce Infotech** | Generative AI Engineer | Edison, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5b38e17aa2f2e316) | 2026-04-02 |
 | **Disney Experiences** | Software Engineer | Orlando, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac338f6744153fa1) | 2026-04-02 |
+| **Consertus** | Junior Integration Developer | Guaynabo, PR, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=24e14330f4b7345b) | 2026-04-02 |
 | **Fortinet** | Junior Applied AI Engineer- HRIS | Sunnyvale, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19fc4813887bb16d) | 2026-04-02 |
 | **DriveTime Automotive Group** | Data Engineer | Tempe, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0520b2e91ff1af7) | 2026-04-02 |
 | **Elite Insurance Partners** | Senior Full-Stack Engineer | Tampa, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e90c9d8c33322ee5) | 2026-04-02 |
@@ -74,6 +75,7 @@
 | **Vantor** | Software Engineer, AI Agents & Generative AI | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=24ec59c5175b9e68) | 2026-04-02 |
 | **Canon** | QA Automation Engineer Intern | Irvine, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee036fb551737016) | 2026-04-02 |
 | **Micron Technology** | Intern - Computer Engineer, AI/ML/LLM | Richardson, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20dda6adbad060a5) | 2026-04-02 |
+| **Merck** | Specialist, Data Engineer (Hybrid - Rahway, NJ) | Rahway, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4770245cd0fab45f) | 2026-04-02 |
 | **TK Elevator** | Sr. AI-ML Engineer Data Analytics | Atlanta, GA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0be0a107da6326a2) | 2026-04-01 |
 | **Worth AI** | Data Platform Engineer | Atlanta, GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=766980d948b5a966) | 2026-04-01 |
 | **Worth AI** | Data Platform Engineer | Tampa, FL, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f31808d30684adc7) | 2026-04-01 |
