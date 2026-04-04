@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-04
-- **New Matches Found in Last Run:** 25
-- **Total Active Matches (Last 4 Days):** 530
+- **New Matches Found in Last Run:** 23
+- **Total Active Matches (Last 4 Days):** 553
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-04.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-04.xlsx)
 
@@ -10,10 +10,13 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **American Express** | Senior AI Engineer | Phoenix, AZ, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=170d4c1d3d53f45f) | 2026-04-04 |
 | **GESTURE** | Full Stack & AI Engineering Intern - Denver On-Site | Denver, CO, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a9bd7f54a3825f2) | 2026-04-04 |
+| **Parts Authority** | Senior Full Stack Developer (React) | US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f34688127cc2aa8a) | 2026-04-04 |
 | **Intone Networks** | AI Engineer | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a9869277c38af1c) | 2026-04-04 |
 | **Tata Consultancy Services (TCS)** | Engineer | Irving, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f937871abc0131b7) | 2026-04-04 |
 | **Millennium Systems International** | Quality Assurance Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1cb604cce16197b9) | 2026-04-04 |
+| **I4DM** | C2 SMART Integration Engineer (Data Tagging and Availability) | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d01c8b8d0caf9fe) | 2026-04-04 |
 | **Equifax** | Data Engineer | Alpharetta, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=60154e4c61c165c0) | 2026-04-04 |
 | **Equifax** | Data Engineer | Alpharetta, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=877c428e451eb94c) | 2026-04-04 |
 | **American Express** | Sr Software Engineer I - Global Servicing Technology | Phoenix, AZ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eb82a9de01e4b89c) | 2026-04-04 |
@@ -24,17 +27,37 @@
 | **American Express** | AI Engineer II | Phoenix, AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=455da78c98681620) | 2026-04-04 |
 | **WhiteWater Express Car Wash** | Business Intelligence (BI) Engineer | Houston, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=445f95617028d321) | 2026-04-04 |
 | **Swire Coca-Cola** | Senior Data Engineer | Draper, UT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=66405642daaaa86b) | 2026-04-04 |
+| **Eightfold** | Software Engineer - AI Agentic Product Dev Team (US) | Santa Clara, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd50de7c7c09c2ca) | 2026-04-04 |
 | **Cisco** | Software Engineer | Research Triangle Park, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7c98d14af7164f47) | 2026-04-04 |
 | **Cisco** | Software Engineer | Research Triangle Park, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff634a2dda844bc2) | 2026-04-04 |
 | **F5** | Senior Software Development Engineer | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c2a1b8821fbe2a2e) | 2026-04-04 |
 | **LTIMindtree** | .Net Full Stack developer | Bellevue, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=740dc49dc803bb6d) | 2026-04-04 |
+| **HealthEdge Software, Inc.** | Senior Software Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79050ec6925ece8b) | 2026-04-04 |
+| **HealthEdge Software, Inc.** | Senior Software Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5abe1c65278c5c5c) | 2026-04-04 |
 | **Ensono** | Senior DevOps Engineer-Public Cloud | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e887dd787bceb5c0) | 2026-04-04 |
 | **Crate and Barrel** | Senior Data Analyst, Marketing Channel Insights | Northbrook, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eef2e51637f51336) | 2026-04-04 |
 | **American Express** | Sr Software Engineer - Global Commercial Services Technology | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c815ee637f2a70bc) | 2026-04-04 |
+| **HCA Healthcare** | Senior Software Engineer | Nashville, TN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=68b3e994bb25291e) | 2026-04-04 |
+| **Dell Technologies** | AI Technical Partner Engineer | Hopkinton, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=413ec66594abf4e8) | 2026-04-04 |
+| **National Vision, Inc.** | Senior AI Engineer | Duluth, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b05020b2a0b488f7) | 2026-04-04 |
+| **Johnson Controls** | Junior Data Scientist | Milwaukee, WI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bdd8c74793b9456b) | 2026-04-04 |
+| **American Family Insurance** | Cloud MLOps Engineer (Hybrid) | Madison, WI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4413578d265ced61) | 2026-04-04 |
+| **American Family Insurance** | Cloud MLOps Engineer (Hybrid) | Eden Prairie, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a6838ae00e17b03) | 2026-04-04 |
+| **American Family Insurance** | Cloud MLOps Engineer (Hybrid) | Denver, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6e94e7777f29d75) | 2026-04-04 |
+| **American Family Insurance** | Cloud MLOps Engineer (Hybrid) | Keene, NH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ad1f726da18d47c) | 2026-04-04 |
+| **American Family Insurance** | Cloud MLOps Engineer (Hybrid) | Phoenix, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ceffca58a409922) | 2026-04-04 |
+| **American Family Insurance** | Cloud MLOps Engineer (Hybrid) | Minneapolis, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da5c98d22f34e1ef) | 2026-04-04 |
+| **American Family Insurance** | Cloud MLOps Engineer (Hybrid) | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09b0f25db2922813) | 2026-04-04 |
+| **American Family Insurance** | Cloud MLOps Engineer (Hybrid) | Saint Joseph, MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f6a7bf6d85b8f0f1) | 2026-04-04 |
+| **Red Oak Counseling, Ltd** | Full Stack Software Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=24174db2e70ef62c) | 2026-04-04 |
 | **Equifax** | Senior Site Reliability Engineer | Alpharetta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47ef67f6728a17b0) | 2026-04-04 |
 | **DTN** | Senior Full Stack Engineer, Digital Experience | TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1961685687c3dc1c) | 2026-04-04 |
 | **Magnite** | Engineer I, Automation and Custom Applications | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c052cc9d331c4364) | 2026-04-04 |
 | **Marriott International** | FLEX Customer 360, Senior Data Engineer | Bethesda, MD, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c72db296370799da) | 2026-04-04 |
+| **Allstate Insurance** | Data Scientist – Agentic AI (Enterprise Risk Management & AI Governance) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b9bd042710e4b5e3) | 2026-04-04 |
+| **AMD** | AI Models MAD - Model Automation and Dashboarding | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0743eaeac6dd269e) | 2026-04-04 |
+| **AMD** | Software Development Engineer, AI Open-Source Software | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2fc0e44941560982) | 2026-04-04 |
+| **New American Funding** | Software Development Engineer III | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=60039525165c27b0) | 2026-04-04 |
 | **The Data Sherpas** | Data Engineer - AWS (Snowflake) | Los Angeles, CA, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=66fc8bb22a057543) | 2026-04-03 |
 | **The Data Sherpas** | Data Engineer - AWS (Snowflake) | Philadelphia, PA, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7bcfb79ed1af62a) | 2026-04-03 |
 | **Klaviyo** | Senior AI Engineer, ARIA Team | Boston, MA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0592edfcbf764ee4) | 2026-04-03 |
