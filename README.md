@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-05
-- **New Matches Found in Last Run:** 8
-- **Total Active Matches (Last 4 Days):** 338
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 342
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-05.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-05.xlsx)
 
@@ -11,6 +11,8 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Zions Bancorporation** | Data Scientist (Applied AI Scientist) - Innovation Lab | Midvale, UT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ac4302abc692fa9) | 2026-04-05 |
+| **Optum** | Senior Software Engineer - Basking Ridge, NJ | Basking Ridge, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f8d86e637a87630) | 2026-04-05 |
+| **JPMorganChase** | Python Engineer, Senior Associate | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d1ed8d52cd0705a) | 2026-04-05 |
 | **Deloitte** | Java Full Stack Developer | Dallas, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=089f39014e9515e3) | 2026-04-05 |
 | **Deloitte** | Java Full Stack Developer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74bd96f5b78abfcf) | 2026-04-05 |
 | **Hasbro, Inc.** | Data Engineer | Renton, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7c4391cd5e19893) | 2026-04-05 |
@@ -18,6 +20,8 @@
 | **SAP** | SAP NS2 Senior HANA Cloud DevOps Engineer | Newtown Square, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ede3f75e70d4727e) | 2026-04-05 |
 | **Skyworks Solutions** | Digital Supply Chain Summer/Fall Co-Op | Irvine, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f9698d8e2445e3e1) | 2026-04-05 |
 | **DTN** | Software Engineer – AI Core Team | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=455f6256d9470cef) | 2026-04-05 |
+| **JPMorganChase** | Software Engineer III- Python / Numpy / Pandas | Jersey City, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=36ae5d9bdff33f02) | 2026-04-05 |
+| **JPMorganChase** | CCB Risk Program Associate | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=248e7ec87211dd21) | 2026-04-05 |
 | **American Express** | Senior AI Engineer | Phoenix, AZ, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=170d4c1d3d53f45f) | 2026-04-04 |
 | **GESTURE** | Full Stack & AI Engineering Intern - Denver On-Site | Denver, CO, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a9bd7f54a3825f2) | 2026-04-04 |
 | **Parts Authority** | Senior Full Stack Developer (React) | US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f34688127cc2aa8a) | 2026-04-04 |
