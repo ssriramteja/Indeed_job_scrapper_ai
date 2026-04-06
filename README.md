@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-06
-- **New Matches Found in Last Run:** 3
-- **Total Active Matches (Last 4 Days):** 213
+- **New Matches Found in Last Run:** 1
+- **Total Active Matches (Last 4 Days):** 214
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-06.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-06.xlsx)
 
@@ -11,6 +11,7 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Louis Vuitton** | SENIOR DATA SCIENTIST – ANALYTICS AND AI DATA | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d43c854614666aac) | 2026-04-06 |
+| **Louis Vuitton** | Senior Data Scientist – Analytics and AI Data | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=221623f7394c7927) | 2026-04-06 |
 | **nan** | Cloud Infrastructure Engineer | Arlington, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d120b25eec762a5) | 2026-04-06 |
 | **Instacart** | Senior Data Scientist II - AI for Analytics | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=78f4d247249e68b7) | 2026-04-06 |
 | **Zions Bancorporation** | Data Scientist (Applied AI Scientist) - Innovation Lab | Midvale, UT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ac4302abc692fa9) | 2026-04-05 |
