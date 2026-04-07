@@ -1,337 +1,634 @@
 # 🎯 Daily Job Matches — 2026-04-07
 
-**Total Jobs Found:** 30
+**Total Jobs Found:** 57
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Analytics Engineer (Platform - Financial Analytics) @ Coinbase
-**Match Score:** 22.2%
+## 1. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** MD, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f2b41d24203ba44f)
+
+---
+
+## 2. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** MN, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f634b4ab70d69f90)
+
+---
+
+## 3. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** WV, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=da0268326a099b77)
+
+---
+
+## 4. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** CA, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d4680a73e3d8aea7)
+
+---
+
+## 5. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** NE, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6a6d6e4bff6acbda)
+
+---
+
+## 6. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** SC, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=de9fdeb4d1c2f418)
+
+---
+
+## 7. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** NV, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=251ab2b4fe250967)
+
+---
+
+## 8. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** TX, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=49e29d9e05a38a90)
+
+---
+
+## 9. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** PA, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c41abc30f36a94cc)
+
+---
+
+## 10. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** MO, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fc18d2c932f87262)
+
+---
+
+## 11. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** NY, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b61165b09dc15b48)
+
+---
+
+## 12. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** VT, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0f33e21619692acd)
+
+---
+
+## 13. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** DE, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b3c95c37baddc933)
+
+---
+
+## 14. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** SD, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2cab45495358458c)
+
+---
+
+## 15. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** RI, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ef6070389e103495)
+
+---
+
+## 16. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** ME, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0f83ec2a54fa3dad)
+
+---
+
+## 17. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** CO, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=23ddceb84dc7ba33)
+
+---
+
+## 18. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** NC, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ec0b37af7b772907)
+
+---
+
+## 19. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** TX, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8a8dc954827abd36)
+
+---
+
+## 20. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** KY, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e424ea056f613fa8)
+
+---
+
+## 21. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** NJ, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6d921c90cdd34290)
+
+---
+
+## 22. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** KS, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9584ce624d6a847c)
+
+---
+
+## 23. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** Washington, DC, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a0bbca0b955f7e3d)
+
+---
+
+## 24. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** IL, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b2e9399b3f2ca167)
+
+---
+
+## 25. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** AL, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6f80645f01363206)
+
+---
+
+## 26. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** MA, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=291e92edf7c14075)
+
+---
+
+## 27. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** OH, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0c7742fa7a01f129)
+
+---
+
+## 28. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** NH, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=671c6d13e513d7f0)
+
+---
+
+## 29. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** MI, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=937d4aba18a16d77)
+
+---
+
+## 30. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** IA, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4b5100e2c95c3a17)
+
+---
+
+## 31. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** TN, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3ceb73dfb3dc698a)
+
+---
+
+## 32. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** AR, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6e6823cb9f7a8547)
+
+---
+
+## 33. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** ND, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=99568d10e0e02b48)
+
+---
+
+## 34. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** UT, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=358e73fd136e29cb)
+
+---
+
+## 35. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** MT, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2e41d3d630caa388)
+
+---
+
+## 36. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** NM, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bc87c66bc77f963c)
+
+---
+
+## 37. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** VA, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c1afc6e01fbd824c)
+
+---
+
+## 38. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7c7dc490f0c9920f)
+
+---
+
+## 39. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** FL, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0da052d6975aba64)
+
+---
+
+## 40. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** OR, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2756528dd5202908)
+
+---
+
+## 41. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** OK, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=053bc6cc2f377494)
+
+---
+
+## 42. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** IN, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=39a39fce46cb14ec)
+
+---
+
+## 43. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** AZ, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=69f0f8a3f2317fed)
+
+---
+
+## 44. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** WI, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c2ffc2d688ac6188)
+
+---
+
+## 45. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** WY, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1aa74fcd5c01cf38)
+
+---
+
+## 46. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** MS, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=75bf488e82874c4e)
+
+---
+
+## 47. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** CT, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cbee1519ba0e768c)
+
+---
+
+## 48. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** WA, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9051d80a4d4dd546)
+
+---
+
+## 49. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** ID, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5b675d1f3463d8c2)
+
+---
+
+## 50. Senior Software Development Engineer @ CVS Health
+**Match Score:** 18.9%
+
+📍 **Location:** LA, US USA
+
+🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Mistral, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fb09d7d6027a064e)
+
+---
+
+## 51. Senior Data Engineer @ CVS Health
+**Match Score:** 16.7%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, BigQuery, Dataflow, Docker, Kubernetes, CI/CD, Git, BigQuery, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9d7bd5ee5caf6d9e)
+
+---
+
+## 52. Software Engineer @ CVS Health
+**Match Score:** 12.2%
 
 📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Gemini, Copilot, Prompt Engineering, Data Lake, Kinesis, CI/CD, Git
+🔑 **Keywords:** RAG, Docker, Kubernetes, Git, Kafka, PostgreSQL, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a8ee9996259cb8cd)
-
----
-
-## 2. Senior AI Full Stack Engineer @ AmeriSave Mortgage
-**Match Score:** 17.8%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Data Scientist, LangChain, RAG, Mistral, Hugging Face, Pinecone, Prompt Engineering, FastAPI, Docker, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f2de324eee580b25)
+[Apply Here](https://www.indeed.com/viewjob?jk=fc8dbc075b687c41)
 
 ---
 
-## 3. Senior Systems Software Engineer, E-commerce AI Platform - GeForce NOW @ NVIDIA
-**Match Score:** 15.6%
-
-📍 **Location:** Santa Clara, CA, US USA
-
-🔑 **Keywords:** LangChain, RAG, LLaMA, Prompt Engineering, Docker, Kubernetes, CI/CD, NoSQL, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=20bfab57854e4686)
-
----
-
-## 4. Tech Anchor @ Ford Motor Company
-**Match Score:** 15.6%
-
-📍 **Location:** Dearborn, MI, US USA
-
-🔑 **Keywords:** RAG, BigQuery, Kubernetes, CI/CD, GitHub Actions, Git, BigQuery, Kafka, PostgreSQL, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c3343fdcb2c8d20e)
-
----
-
-## 5. Java Full Stack Engineer @ Fidelity TalentSource
-**Match Score:** 14.4%
-
-📍 **Location:** Westlake, TX, US USA
-
-🔑 **Keywords:** RAG, S3, Docker, Kubernetes, CI/CD, Git, Kafka, PostgreSQL, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8de97150c606b641)
-
----
-
-## 6. Machine Learning Engineer, Platform Integrations @ Twelve Labs
-**Match Score:** 13.3%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, FastAPI, Docker, Kubernetes, CI/CD, Snowflake, Databricks, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=216c7921fb0550ee)
-
----
-
-## 7. Software EngineerÂ - AI/ML @ Wipro
-**Match Score:** 13.3%
-
-📍 **Location:** Tampa, FL, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Prompt Engineering, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b21fc199087599f0)
-
----
-
-## 8. AWS Full Stack React Developer (Onsite Hybrid) @ NTT DATA
+## 53. AWS Full Stack React Developer (Onsite Hybrid) @ NTT DATA
 **Match Score:** 12.2%
 
 📍 **Location:** Atlanta, GA, US USA
 
 🔑 **Keywords:** RAG, S3, EC2, Docker, Kubernetes, CI/CD, Git, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8588279f5d9918c9)
+[Apply Here](https://www.indeed.com/viewjob?jk=e39392a5986a7e5f)
 
 ---
 
-## 9. Senior AI Engineer @ Menarini
-**Match Score:** 12.2%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, TensorFlow, PyTorch, Docker, Kubernetes, Databricks, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4735c396f39ae2f7)
-
----
-
-## 10. Software Engineer (hybrid onsite, Omaha NE) @ FNBO - First National Bank of Omaha
-**Match Score:** 12.2%
-
-📍 **Location:** Omaha, NE, US USA
-
-🔑 **Keywords:** Copilot, S3, Docker, Kubernetes, CI/CD, Git, MySQL, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9644ef646443f544)
-
----
-
-## 11. Cloud Data Engineer @ Tata Consultancy Services (TCS)
-**Match Score:** 11.1%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Glue, Redshift, Data Lake, CI/CD, Git, Redshift, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9dbde110bfeaa84c)
-
----
-
-## 12. Senior Data Engineer @ AMH
-**Match Score:** 11.1%
-
-📍 **Location:** Calabasas, CA, US USA
-
-🔑 **Keywords:** CI/CD, Databricks, Kafka, NoSQL, Tableau, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b14638ca94876de4)
-
----
-
-## 13. DevOps Engineer @ BioIntellisense
-**Match Score:** 11.1%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, CI/CD, GitHub Actions, Terraform, Git, Databricks, Python, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=43f3c57f8e963160)
-
----
-
-## 14. Application Developer, Consultant @ Blue Shield of California
-**Match Score:** 11.1%
-
-📍 **Location:** El Dorado Hills, CA, US USA
-
-🔑 **Keywords:** RAG, Docker, CI/CD, GitHub Actions, Terraform, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fdc29a015a3c272e)
-
----
-
-## 15. Data Science Engineer @ Adobe
+## 54. Machine Learning Engineer, AI Search - USDS @ TikTok
 **Match Score:** 11.1%
 
 📍 **Location:** San Jose, CA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Git, Databricks, Tableau, Power BI, Python, SQL, R, A/B Testing
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, Prompt Engineering, TensorFlow, PyTorch, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=47a4f92733ae0f00)
-
----
-
-## 16. IP Methodology and Automation Engineer @ Intel Corporation
-**Match Score:** 11.1%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** RAG, CI/CD, Jenkins, Git, NoSQL, Python, SQL, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5916115c591c8d1d)
+[Apply Here](https://www.indeed.com/viewjob?jk=2a1544bfe30d14cd)
 
 ---
 
-## 17. Machine Learning Engineer @ Avita Care Solutions
-**Match Score:** 11.1%
+## 55. DevOps Engineer, SambaSuite Platform @ SambaNova Systems
+**Match Score:** 10.0%
 
-📍 **Location:** US USA
+📍 **Location:** Palo Alto, CA, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, CI/CD, Git, Databricks, Python, SQL, R, Scala, Optimization
+🔑 **Keywords:** Generative AI, RAG, Dataflow, Docker, Kubernetes, CI/CD, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c837dde9f104de88)
-
----
-
-## 18. Software Engineer IV - Java/Retail POS @ AHOLD Delhaize
-**Match Score:** 11.1%
-
-📍 **Location:** Salisbury, NC, US USA
-
-🔑 **Keywords:** RAG, Data Lake, AKS, CI/CD, Git, Databricks, Kafka, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f5c23d584338e9d0)
+[Apply Here](https://www.indeed.com/viewjob?jk=b1beb4134de9fdc2)
 
 ---
 
-## 19. Software Engineer IV - Java/Retail POS @ AHOLD Delhaize
-**Match Score:** 11.1%
-
-📍 **Location:** Scarborough, ME, US USA
-
-🔑 **Keywords:** RAG, Data Lake, AKS, CI/CD, Git, Databricks, Kafka, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f0f62fd5be4e1824)
-
----
-
-## 20. Software Engineer IV - Java/Retail POS @ AHOLD Delhaize
-**Match Score:** 11.1%
-
-📍 **Location:** Quincy, MA, US USA
-
-🔑 **Keywords:** RAG, Data Lake, AKS, CI/CD, Git, Databricks, Kafka, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3cf75ebb17b4f23c)
-
----
-
-## 21. Software Engineer IV - Java/Retail POS @ AHOLD Delhaize
-**Match Score:** 11.1%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** RAG, Data Lake, AKS, CI/CD, Git, Databricks, Kafka, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=774ced732d07198d)
-
----
-
-## 22. AWS DevOps Engineer (Onsite Hybrid) @ NTT DATA
+## 56. AWS DevOps Engineer (Onsite Hybrid) @ NTT DATA
 **Match Score:** 10.0%
 
 📍 **Location:** Atlanta, GA, US USA
 
 🔑 **Keywords:** S3, EC2, Docker, Kubernetes, CI/CD, Git, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=aa1bca275295d625)
+[Apply Here](https://www.indeed.com/viewjob?jk=946c891d4fdb97c9)
 
 ---
 
-## 23. Data Scientist PennDnA @ Penn Medicine
+## 57. DevOps Engineer – Infrastructure as Code (IaC) @ KLA
 **Match Score:** 10.0%
 
-📍 **Location:** Philadelphia, PA, US USA
+📍 **Location:** Ann Arbor, MI, US USA
 
-🔑 **Keywords:** Data Scientist, TensorFlow, PyTorch, Git, NoSQL, Python, SQL, R, Scala
+🔑 **Keywords:** Data Scientist, RAG, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=215b935808996874)
-
----
-
-## 24. Sr. AI Engineer @ Blue Cross Blue Shield of Massachusetts
-**Match Score:** 10.0%
-
-📍 **Location:** Hingham, MA, US USA
-
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, TensorFlow, PyTorch, Docker, Kubernetes, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c8d156854dd429e6)
-
----
-
-## 25. AI Engineer @ Blue Cross Blue Shield of Massachusetts
-**Match Score:** 10.0%
-
-📍 **Location:** Hingham, MA, US USA
-
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, TensorFlow, PyTorch, Docker, Kubernetes, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4391f1e862218993)
-
----
-
-## 26. AI Product Owner @ Blue Cross Blue Shield of Massachusetts
-**Match Score:** 10.0%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, TensorFlow, PyTorch, Docker, Kubernetes, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=863e92ea49a1b65b)
-
----
-
-## 27. Solutions Architect @ Cisco
-**Match Score:** 10.0%
-
-📍 **Location:** Richardson, TX, US USA
-
-🔑 **Keywords:** RAG, CI/CD, Terraform, Git, Python, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cf2388d9f0f950ea)
-
----
-
-## 28. Software Engineer @ CRUSOE
-**Match Score:** 10.0%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** Docker, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=44d47e54455c534f)
-
----
-
-## 29. Software Engineer (L3) @ Twilio
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, Data Lake, Docker, Kubernetes, NoSQL, SQL, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5e8fce9d5bc7f06f)
-
----
-
-## 30. Senior ML Operations (MLOps) Engineer @ Eight Sleep
-**Match Score:** 10.0%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Kinesis, CI/CD, Kafka, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4add9c22eff2aac0)
+[Apply Here](https://www.indeed.com/viewjob?jk=19b4b603548ea27c)
 
 ---
 
