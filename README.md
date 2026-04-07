@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-07
-- **New Matches Found in Last Run:** 57
-- **Total Active Matches (Last 4 Days):** 231
+- **New Matches Found in Last Run:** 13
+- **Total Active Matches (Last 4 Days):** 244
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-07.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-07.xlsx)
 
@@ -63,16 +63,25 @@
 | **CVS Health** | Senior Software Development Engineer | LA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb09d7d6027a064e) | 2026-04-07 |
 | **AmeriSave Mortgage** | Senior AI Full Stack Engineer | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2de324eee580b25) | 2026-04-07 |
 | **CVS Health** | Senior Data Engineer | Austin, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d7bd5ee5caf6d9e) | 2026-04-07 |
+| **CLOUDSUFI** | SE-AI | US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b7588676e4b241a8) | 2026-04-07 |
 | **NVIDIA** | Senior Systems Software Engineer, E-commerce AI Platform - GeForce NOW | Santa Clara, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20bfab57854e4686) | 2026-04-07 |
 | **Ford Motor Company** | Tech Anchor | Dearborn, MI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3343fdcb2c8d20e) | 2026-04-07 |
+| **Oak Ridge National Laboratory** | AI Engineer II | Oak Ridge, TN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0bf78184131549d) | 2026-04-07 |
 | **Fidelity TalentSource** | Java Full Stack Engineer | Westlake, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8de97150c606b641) | 2026-04-07 |
 | **Twelve Labs** | Machine Learning Engineer, Platform Integrations | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=216c7921fb0550ee) | 2026-04-07 |
 | **Wipro** | Software EngineerÂ - AI/ML | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b21fc199087599f0) | 2026-04-07 |
+| **NYU Langone Health** | ML Engineer | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f03a531b79570462) | 2026-04-07 |
+| **Uber** | Sr Software Engineer Storage, Search, & Data Platforms | Seattle, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ce1800b3c8810aa1) | 2026-04-07 |
+| **Uber** | Sr Software Engineer Storage, Search, & Data Platforms | Sunnyvale, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d9e4545d6858ad8f) | 2026-04-07 |
+| **Uber** | Sr Software Engineer Storage, Search, & Data Platforms | Sunnyvale, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c4dac74825060f2) | 2026-04-07 |
+| **Uber** | Sr Software Engineer Storage, Search, & Data Platforms | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e182b7730b18ee4d) | 2026-04-07 |
 | **NTT DATA** | AWS Full Stack React Developer (Onsite Hybrid) | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8588279f5d9918c9) | 2026-04-07 |
 | **Menarini** | Senior AI Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4735c396f39ae2f7) | 2026-04-07 |
 | **FNBO - First National Bank of Omaha** | Software Engineer (hybrid onsite, Omaha NE) | Omaha, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9644ef646443f544) | 2026-04-07 |
 | **CVS Health** | Software Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fc8dbc075b687c41) | 2026-04-07 |
 | **NTT DATA** | AWS Full Stack React Developer (Onsite Hybrid) | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e39392a5986a7e5f) | 2026-04-07 |
+| **Mutual of Omaha** | Senior CI/CD Platform Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08a7c55f916bd0c5) | 2026-04-07 |
+| **JPMorganChase** | Applied AI ML Engineer-Sr. Associate | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fdcd481bb65ce7d3) | 2026-04-07 |
 | **Tata Consultancy Services (TCS)** | Cloud Data Engineer | Houston, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9dbde110bfeaa84c) | 2026-04-07 |
 | **AMH** | Senior Data Engineer | Calabasas, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b14638ca94876de4) | 2026-04-07 |
 | **BioIntellisense** | DevOps Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43f3c57f8e963160) | 2026-04-07 |
@@ -85,6 +94,10 @@
 | **AHOLD Delhaize** | Software Engineer IV - Java/Retail POS | Quincy, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3cf75ebb17b4f23c) | 2026-04-07 |
 | **AHOLD Delhaize** | Software Engineer IV - Java/Retail POS | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=774ced732d07198d) | 2026-04-07 |
 | **TikTok** | Machine Learning Engineer, AI Search - USDS | San Jose, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a1544bfe30d14cd) | 2026-04-07 |
+| **JPMorganChase** | Data Science Senior Associate - Card Data Analytics | Wilmington, DE, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ccc323f0ca9cc5f0) | 2026-04-07 |
+| **DS Technologies Inc** | Senior AI Architect / Data Scientist | New Brunswick, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=75909ef7a8cd4059) | 2026-04-07 |
+| **instrument** | Senior AI Engineer (Contract) | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e1d8fcacc8afbce) | 2026-04-07 |
+| **PNC Financial Services Group** | Data Scientist - Corporate & Institutional Banking | Pittsburgh, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9b0e943e48c3231f) | 2026-04-07 |
 | **NTT DATA** | AWS DevOps Engineer (Onsite Hybrid) | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa1bca275295d625) | 2026-04-07 |
 | **Penn Medicine** | Data Scientist PennDnA | Philadelphia, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=215b935808996874) | 2026-04-07 |
 | **Blue Cross Blue Shield of Massachusetts** | Sr. AI Engineer | Hingham, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8d156854dd429e6) | 2026-04-07 |
