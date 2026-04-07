@@ -1,172 +1,117 @@
 # 🎯 Daily Job Matches — 2026-04-07
 
-**Total Jobs Found:** 15
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Systems Engineer, UDS Data Management - East @ Dell Technologies
-**Match Score:** 24.4%
-
-📍 **Location:** MA, US USA
-
-🔑 **Keywords:** Data Scientist, LangChain, RAG, LLaMA, Prompt Engineering, TensorFlow, PyTorch, Redshift, BigQuery, Synapse
-
-[Apply Here](https://www.indeed.com/viewjob?jk=298a46f851ea7983)
-
----
-
-## 2. SR PLATFORM ENGINEER @ Newpage Digital Healthcare solutions
+## 1. Engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 16.7%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Edison, NJ, US USA
 
-🔑 **Keywords:** RAG, Data Lake, Kubernetes, AKS, CI/CD, GitHub Actions, Terraform, Git, Snowflake, Databricks
+🔑 **Keywords:** Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, Keras
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4e87bc52fd3cc8c6)
+[Apply Here](https://www.indeed.com/viewjob?jk=7cf2652e8399caea)
 
 ---
 
-## 3. AI Systems Engineer (OpenClaw / Automation / DevOps) @ nan
+## 2. AI/ML Engineer @ Fustis LLC
+**Match Score:** 15.6%
+
+📍 **Location:** Reston, VA, US USA
+
+🔑 **Keywords:** AI Engineer, Generative AI, RAG, Prompt Engineering, TensorFlow, PyTorch, AWS SageMaker, S3, EC2, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cc91885a86b9bf62)
+
+---
+
+## 3. Systems Analyst 3 (Databricks Administrator) - 26-03494 @ NavitasPartners
+**Match Score:** 14.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, S3, Data Lake, MLflow, CI/CD, Terraform, Databricks, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d9ea863f4f9492f8)
+
+---
+
+## 4. Systems Analyst 3 (Databricks Administrator) - 26-03494 @ NavitasPartners
+**Match Score:** 14.4%
+
+📍 **Location:** Georgetown, TX, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, S3, Data Lake, MLflow, CI/CD, Terraform, Databricks, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1569defd5f50c3a3)
+
+---
+
+## 5. Systems Analyst 3 (Databricks Administrator) - 26-03494 @ NavitasPartners
+**Match Score:** 14.4%
+
+📍 **Location:** Cedar Park, TX, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, S3, Data Lake, MLflow, CI/CD, Terraform, Databricks, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=402ecae3cd52bd44)
+
+---
+
+## 6. Systems Analyst 3 (Databricks Administrator) - 26-03494 @ NavitasPartners
+**Match Score:** 14.4%
+
+📍 **Location:** Round Rock, TX, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, S3, Data Lake, MLflow, CI/CD, Terraform, Databricks, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ac4db862200c432b)
+
+---
+
+## 7. Senior Java Developer @ United States Cold Storage
 **Match Score:** 13.3%
 
-📍 **Location:** Austin, TX, US USA
+📍 **Location:** Camden, NJ, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, Terraform, MySQL, Python, SQL, R
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Kafka, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8e05c881b8548e84)
-
----
-
-## 4. Software Engineer, New College Grad - 2026, Atlanta @ Visa
-**Match Score:** 12.2%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** LLaMA, Gemini, Copilot, Prompt Engineering, Git, MySQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d93df3e7b5517b95)
+[Apply Here](https://www.indeed.com/viewjob?jk=e69cc4d6409de612)
 
 ---
 
-## 5. Software Engineer, New College Grad - 2026, Highlands Ranch, CO @ Visa
-**Match Score:** 12.2%
-
-📍 **Location:** Highlands Ranch, CO, US USA
-
-🔑 **Keywords:** LLaMA, Gemini, Copilot, Prompt Engineering, Git, MySQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=42391d5c41880a67)
-
----
-
-## 6. Software Engineer, New College Grad - 2026, Bellevue, WA @ Visa
-**Match Score:** 12.2%
-
-📍 **Location:** Bellevue, WA, US USA
-
-🔑 **Keywords:** LLaMA, Gemini, Copilot, Prompt Engineering, Git, MySQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d50018a74a1e91a4)
-
----
-
-## 7. Software Engineer, New College Grad - 2026, Foster City @ Visa
-**Match Score:** 12.2%
-
-📍 **Location:** Foster City, CA, US USA
-
-🔑 **Keywords:** LLaMA, Gemini, Copilot, Prompt Engineering, Git, MySQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8e1a3ec2535d29a6)
-
----
-
-## 8. Software Engineer, New College Grad - 2026, Austin, TX @ Visa
-**Match Score:** 12.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** LLaMA, Gemini, Copilot, Prompt Engineering, Git, MySQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1dec8bac87a9e320)
-
----
-
-## 9. Data Scientist Intern @ ProVation
+## 8. Data Engineer @ Ryan Companies US, Inc.
 **Match Score:** 12.2%
 
 📍 **Location:** Minneapolis, MN, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, Tableau, Power BI, Matplotlib, Seaborn, Python, SQL
+🔑 **Keywords:** Data Scientist, RAG, BigQuery, Dataflow, Apache Airflow, CI/CD, BigQuery, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8e40b84f045800ac)
-
----
-
-## 10. Data Scientist Intern @ ProVation
-**Match Score:** 12.2%
-
-📍 **Location:** Minneapolis, MN, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, Tableau, Power BI, Matplotlib, Seaborn, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=09deb759b3af5090)
+[Apply Here](https://www.indeed.com/viewjob?jk=0c2d695977c000b8)
 
 ---
 
-## 11. Software Quality Engineer - San Jose, CA @ Elekta
+## 9. AI Hardware Design Engineer @ Koya Consulting
 **Match Score:** 11.1%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** Santa Clara, CA, US USA
 
-🔑 **Keywords:** RAG, CI/CD, Jenkins, GitHub Actions, Git, Python, SQL, R, Java, Scala
+🔑 **Keywords:** Generative AI, RAG, TensorFlow, PyTorch, Docker, Kubernetes, Git, Python, R, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8af71e9cc8f145e5)
-
----
-
-## 12. MLOps engineer @ Luxoft
-**Match Score:** 11.1%
-
-📍 **Location:** Irvine, CA, US USA
-
-🔑 **Keywords:** Data Scientist, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD, Databricks, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=738683bfcbbfefdb)
+[Apply Here](https://www.indeed.com/viewjob?jk=1f9f283673c25287)
 
 ---
 
-## 13. Machine Learning Engineer- AI Data Platform (Minneapolis, MN) @ MOBE LLC
+## 10. Fircosoft Software Engineer – Screening/ V5/V6/ CONTINUITY- Jersey City, NJ @ RSHARMA
 **Match Score:** 10.0%
 
-📍 **Location:** Minneapolis, MN, US USA
+📍 **Location:** Jersey City, NJ, US USA
 
-🔑 **Keywords:** AI Engineer, Machine Learning Engineer, RAG, AWS SageMaker, MLflow, Apache Airflow, Git, R, Scala
+🔑 **Keywords:** Kubernetes, CI/CD, Jenkins, Kafka, SQL, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c7ea5cc55750c700)
-
----
-
-## 14. Machine Learning Engineer- AI Data Platform (Reno, NV) @ MOBE LLC
-**Match Score:** 10.0%
-
-📍 **Location:** Reno, NV, US USA
-
-🔑 **Keywords:** AI Engineer, Machine Learning Engineer, RAG, AWS SageMaker, MLflow, Apache Airflow, Git, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7188b184a382ca79)
-
----
-
-## 15. Associate Data Scientist, New College Grad - 2026 @ Visa
-**Match Score:** 10.0%
-
-📍 **Location:** Foster City, CA, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Prompt Engineering, Tableau, Power BI, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2c9ac059c9ef24f3)
+[Apply Here](https://www.indeed.com/viewjob?jk=a95ea7e83fc5317a)
 
 ---
 
