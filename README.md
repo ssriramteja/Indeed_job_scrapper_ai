@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-08
-- **New Matches Found in Last Run:** 50
-- **Total Active Matches (Last 4 Days):** 344
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 349
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-08.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-08.xlsx)
 
@@ -27,6 +27,7 @@
 | **DPR Construction** | MLOps Engineer | Raleigh-Durham, NC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8514be2799f487ec) | 2026-04-08 |
 | **Deloitte** | Cloud Engineer - Project Delivery Senior Analyst | Dallas, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c14f18134cb0d544) | 2026-04-08 |
 | **Deloitte** | Cloud Engineer - Project Delivery Specialist | Dallas, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c3e095228ad1f72) | 2026-04-08 |
+| **Zebra Technologies** | Agentic AI/ Edge Computing SW Engineer | Holtsville, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1b35fbc6e0f065e) | 2026-04-08 |
 | **Altius Technologies Inc** | Python Backend Developer | GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=24178bc6aa9ab86e) | 2026-04-08 |
 | **Gallagher** | Data Engineer Associate - Contract | Rolling Meadows, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ac457f6ebff7fa5) | 2026-04-08 |
 | **Adobe** | Sr Machine Learning Engineer 5 -- AEP, Agentic System | San Jose, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49460dd83fc22933) | 2026-04-08 |
@@ -60,6 +61,10 @@
 | **Global Tax Network** | Senior Software Developer III | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a0eee380bdedd6c) | 2026-04-08 |
 | **OtterSoft** | Predictive Data Analytics & Machine Learning Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e853059a7dfb5d3) | 2026-04-08 |
 | **DPR Construction** | Sr Full Stack Developer - HUB | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32f0c027ddbba94d) | 2026-04-08 |
+| **IT Search Corp** | Certified NVIDIA AI Infrastructure & Kubernetes Platform Engineer | Miami, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e262aed548e90d8) | 2026-04-08 |
+| **NTT DATA** | Data Engineer | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13ca5a9085e4ba28) | 2026-04-08 |
+| **Ibotta** | Analytics Engineer, Feature Engineering | Denver, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62068a6428147556) | 2026-04-08 |
+| **Diverse Agile Solutions** | Senior IT DevSecOps Engineer | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a792d18781a0ae9e) | 2026-04-08 |
 | **Dell Technologies** | Senior Systems Engineer, UDS Data Management - East | MA, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=298a46f851ea7983) | 2026-04-07 |
 | **Sigma Computing** | Technical Recruiter - AI Engineering | San Francisco, CA, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97f05de2af000d3d) | 2026-04-07 |
 | **Coinbase** | Senior Analytics Engineer (Platform - Financial Analytics) | New York, NY, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a8ee9996259cb8cd) | 2026-04-07 |
