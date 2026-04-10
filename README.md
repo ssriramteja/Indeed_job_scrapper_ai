@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-10
-- **New Matches Found in Last Run:** 18
-- **Total Active Matches (Last 4 Days):** 694
+- **New Matches Found in Last Run:** 16
+- **Total Active Matches (Last 4 Days):** 710
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-10.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-10.xlsx)
 
@@ -10,6 +10,8 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Global Payments** | DevOps Engineer (AI/ML) | Columbus, GA, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c0583eb15ac45170) | 2026-04-10 |
+| **Global Payments** | DevOps Engineer (AI/ML) | Alpharetta, GA, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58e0b50be31f6904) | 2026-04-10 |
 | **Keysight Technologies** | Machine Learning Engineer | Colorado Springs, CO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=606b381a203e9c44) | 2026-04-10 |
 | **nan** | Senior Software and Integrations Engineer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be70c6be9df15447) | 2026-04-10 |
 | **NTT DATA** | Data Scientist | Camden, NJ, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c3639e1ca81b020) | 2026-04-10 |
@@ -35,6 +37,10 @@
 | **GitHub** | Senior Data Engineer, Revenue Intelligence | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fbd118d6be25a868) | 2026-04-10 |
 | **NTT DATA** | Multi-Cloud SQL/Oracle Database Administrator (DBA) | Austin, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7518086fa359e2be) | 2026-04-10 |
 | **Openkyber** | AI Integration Engineer (Java + AI) | TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a0a23fabb87369f) | 2026-04-10 |
+| **Smile Digital Health** | Senior DataOps Engineer | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a43d8e0d307a2b20) | 2026-04-10 |
+| **Global Payments** | AI Support Engineer (II+) | Alpharetta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=480fc48b094aaac8) | 2026-04-10 |
+| **Global Payments** | AI Support Engineer (II+) | Columbus, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=456b8596f0d88ee9) | 2026-04-10 |
+| **NTT DATA** | MLOps Engineer | Plano, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ec04fe2a39313ff) | 2026-04-10 |
 | **Social Impact** | Full-Stack Platform Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e35a4a7eaaadb3e6) | 2026-04-10 |
 | **UC San Diego Health** | Intel. Automation Engineer - Data Sci. & Analytics | San Diego, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47da559fd246b0c2) | 2026-04-10 |
 | **National Debt Relief** | DevOps & Cloud Architect | US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c31d00420456e43) | 2026-04-10 |
@@ -46,6 +52,8 @@
 | **Openkyber** | AI Integration Engineer (Java + AI) | HI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=61859efe066d7fac) | 2026-04-10 |
 | **Openkyber** | AI Integration Engineer (Java + AI) | HI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7bd5de39a297655) | 2026-04-10 |
 | **Data Surge** | Full Stack Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=831b9a194e58c913) | 2026-04-10 |
+| **Optum** | Associate Software Engineer | Eden Prairie, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d5638c393c38c555) | 2026-04-10 |
+| **My Desk** | DevOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d58c8737e52387b9) | 2026-04-10 |
 | **PDS Health** | Sr Full Stack Developer | Irvine, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=354b312dbee3197d) | 2026-04-10 |
 | **Viasat** | Software Engineer - E2E DevOps Services | OR, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=495ceb6db2c7f2f7) | 2026-04-10 |
 | **University of Tennessee Health Science Center** | Post-Doctoral Research Associate: Department of Industrial and Systems Engineering - UTK | Knoxville, TN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00e73228de40db1a) | 2026-04-10 |
@@ -63,6 +71,9 @@
 | **nan** | Senior Data Engineer | Boston, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09cd4db2f9c6e6e1) | 2026-04-10 |
 | **Coinbase** | Senior Software Engineer - Data Platform | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6abe95e0e290b9c2) | 2026-04-10 |
 | **VieMed, LLC** | AI/ML Solutions Analyst | Lafayette, LA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=815304123b72d21c) | 2026-04-10 |
+| **Fidelity TalentSource** | Sr. Full Stack Engineer | Jersey City, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77f3f1a9fe5bd877) | 2026-04-10 |
+| **Tech Interacts Inc** | Software Engineer 4 - (Java Developer) (AI‑Enabled Development) | Charlotte, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a7b99f154f63c3f) | 2026-04-10 |
+| **Rio Tinto** | Specialist Data Engineering | Salt Lake City, UT, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=12141d827aef2872) | 2026-04-10 |
 | **LTIMindtree** | AWS Cloud Data Developer with Node.js | Raritan, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1083974ac88918fe) | 2026-04-10 |
 | **Meltwater** | Machine Learning Engineer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3fabdc7f2a61b700) | 2026-04-10 |
 | **Xsolis** | Senior Cloud Security Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d85f1f5c2406d8b) | 2026-04-10 |
@@ -78,6 +89,8 @@
 | **NTT DATA** | Senior Java Full Stack Engineer (w/Angular 16+) - Onsite Hybrid | Merrimack, NH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf90fab769614217) | 2026-04-10 |
 | **Hex Technologies** | AI Research Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1a01863f643fa66) | 2026-04-10 |
 | **Hex Technologies** | Software Engineer, Fullstack | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4477f31d5223f875) | 2026-04-10 |
+| **NTT DATA** | Pentaho BI SME | San Juan, PR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=565631a2f4f36e37) | 2026-04-10 |
+| **Chess.com** | Database Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dbfa35adc5a9ae23) | 2026-04-10 |
 | **Grove Safety** | Embedded Firmware Engineer | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f9e9d625c9c1d5d) | 2026-04-10 |
 | **Concentrix** | Senior AI Solutions Engineer | Bellevue, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4149db7e66a4a7f) | 2026-04-10 |
 | **SAS** | Software Development Engineer in Test (Emerging Careers) | Cary, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d02216001b6d66a) | 2026-04-10 |
@@ -105,6 +118,9 @@
 | **nan** | Software Enginner | Great Neck, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=75ead41f5108aaef) | 2026-04-10 |
 | **Total Quality Logistics (TQL)** | Data Architect - Paid Relocation to Cincinnati | Cincinnati, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c40e1674aa706aac) | 2026-04-10 |
 | **Global Payments** | Software Engineer - Development and Product Support (On-site-Hybrid 3 days in Alpharetta or Atlanta, Georgia Only) | Alpharetta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=976a75f332680b22) | 2026-04-10 |
+| **YouDecide** | Jr Backend Software Engineer | Glen Allen, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74f3e545688e9b28) | 2026-04-10 |
+| **NTT DATA** | AI Search Engineer | TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1b361235c74598d) | 2026-04-10 |
+| **Core & Main** | Data Engineer II | St. Louis, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=57136340cc4fdeeb) | 2026-04-10 |
 | **MAP International** | Data Analyst Engineer | Brunswick, GA, US USA | 30.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3d2cecf0a7dedfc) | 2026-04-09 |
 | **Realign** | Cloud Data Architect-7 | West Lake, LA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be1742daf9769f6b) | 2026-04-09 |
 | **Realign** | Cloud Data Architect-7 | TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a051cca67a16e478) | 2026-04-09 |
