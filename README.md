@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-10
-- **New Matches Found in Last Run:** 17
-- **Total Active Matches (Last 4 Days):** 674
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 676
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-10.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-10.xlsx)
 
@@ -50,6 +50,7 @@
 | **7-Eleven** | Sr AI Security Engineer | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03c42902c0bf3d6c) | 2026-04-10 |
 | **NTT DATA** | Systems Integration | TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee3e5429ee3772bd) | 2026-04-10 |
 | **Capital One** | Senior Associate, Data Scientist | McLean, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=224ead127502bc58) | 2026-04-10 |
+| **Sorcero** | Sr. Data Analyst, Medical Analytics (Remote) | Washington, DC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a859f3d984cde7ec) | 2026-04-10 |
 | **LTIMindtree** | AWS Cloud Data Developer with Node.js | Raritan, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1083974ac88918fe) | 2026-04-10 |
 | **Meltwater** | Machine Learning Engineer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3fabdc7f2a61b700) | 2026-04-10 |
 | **Xsolis** | Senior Cloud Security Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d85f1f5c2406d8b) | 2026-04-10 |
@@ -85,6 +86,7 @@
 | **Magnite** | Data Scientist (PHD Required) | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b00262d8acd361bd) | 2026-04-10 |
 | **CRDF Global** | Artificial Intelligence (AI) Intern | Arlington, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b43b61ed056385f) | 2026-04-10 |
 | **Comcast** | Sr. Data Analyst-Xumo | Irvine, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ab26beda1e73349) | 2026-04-10 |
+| **Greenville-Spartanburg International Airport** | Data Strategist | Greer, SC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd859599928d7193) | 2026-04-10 |
 | **MAP International** | Data Analyst Engineer | Brunswick, GA, US USA | 30.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3d2cecf0a7dedfc) | 2026-04-09 |
 | **Realign** | Cloud Data Architect-7 | West Lake, LA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be1742daf9769f6b) | 2026-04-09 |
 | **Realign** | Cloud Data Architect-7 | TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a051cca67a16e478) | 2026-04-09 |
