@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-12
-- **New Matches Found in Last Run:** 15
-- **Total Active Matches (Last 4 Days):** 491
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 495
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-12.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-12.xlsx)
 
@@ -10,6 +10,7 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Blue Cross and Blue Shield of Minnesota** | Senior AI Engineer | Eagan, MN, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a49a54c48156d9f6) | 2026-04-12 |
 | **Openkyber** | AWS Network Engineer | GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e68aed4fb5428da) | 2026-04-12 |
 | **Openkyber** | Okta | NJ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8389dc038a61799a) | 2026-04-12 |
 | **Openkyber** | Okta | GA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=229a363c5f9abe92) | 2026-04-12 |
@@ -18,9 +19,12 @@
 | **GEICO** | Senior Engineer - Applied AI (Java) | Seattle, WA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e515a5d806b8ccd) | 2026-04-12 |
 | **GEICO** | Senior Engineer - Applied AI (Java) | Palo Alto, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e50beaa16a5c382a) | 2026-04-12 |
 | **GEICO** | Senior Engineer - Applied AI (Java) | Bethesda, MD, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e5fc52ccc594b09) | 2026-04-12 |
+| **Dexmate** | Senior Software Engineer, AI Platform | Santa Clara, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d4de601df807639) | 2026-04-12 |
+| **Edurech Technoogy** | Data Scientist | California City, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9093fc6773f5624b) | 2026-04-12 |
 | **Larouche Raymond Firme-Conseil en Ressources Humaines Inc.** | Senior Consultant Azure AI Solutions Architect | Houston, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15c38867b28c314f) | 2026-04-12 |
 | **Openkyber** | Fortinet SD-WAN Engineer | IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98393b868b60735c) | 2026-04-12 |
 | **nan** | data scientist | Los Angeles, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b9b8e71e0ba83ff5) | 2026-04-12 |
+| **Infotron** | Data Scientist / ML Engineer | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7c74baff6b81028) | 2026-04-12 |
 | **Invesco** | Adv Eng, SIP | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d8ad016ffd21593) | 2026-04-12 |
 | **Openkyber** | Network IoT Engineer | IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30b261f736a09186) | 2026-04-12 |
 | **THRAD** | Applied Scientist | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=803c2aa38744679d) | 2026-04-12 |
