@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-13
-- **New Matches Found in Last Run:** 10
-- **Total Active Matches (Last 4 Days):** 276
+- **New Matches Found in Last Run:** 6
+- **Total Active Matches (Last 4 Days):** 282
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-13.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-13.xlsx)
 
@@ -20,10 +20,14 @@
 | **Mirion** | Sr. Data Engineer, Data Platform | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56369bdeadc2da7f) | 2026-04-13 |
 | **SAP** | SAP NS2 Sr. DevOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c08fc820fe10f7ed) | 2026-04-13 |
 | **Robert Half** | Software Engineer III | San Ramon, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f47248faf88df34) | 2026-04-13 |
+| **NTT DATA** | Sys. Integration Sr. Specialist Advisor | Plano, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1aca172869e592e8) | 2026-04-13 |
+| **Metropolitan Commercial Bank** | Applied AI Analyst | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ab997fd1b22f1b7) | 2026-04-13 |
 | **NTT DATA** | Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee60578e0abfdb96) | 2026-04-13 |
 | **NTT DATA** | Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c2444333527505cd) | 2026-04-13 |
 | **Poshmark** | Data Scientist I | Redwood City, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3770706b5e510729) | 2026-04-13 |
 | **NAVA TECH LLC** | Jr. Data Scientist | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=29085cf561343601) | 2026-04-13 |
+| **NTT DATA** | Data Engineer | Dallas, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0d2d5c730a41756c) | 2026-04-13 |
+| **Wellmark Blue Cross and Blue Shield** | Platform Engineer - Artificial Intelligence Platform Team | Des Moines, IA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2cf7f53f7fa0f650) | 2026-04-13 |
 | **Kedrion Biopharma** | Sr. AI & Data Science Analyst | Fort Lee, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7168e60aa12e407a) | 2026-04-13 |
 | **Adobe** | AI Context Engineer | Lehi, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f84c1822d5830ffb) | 2026-04-13 |
 | **Inqud** | Quality Assurance Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eff66a4b2084d643) | 2026-04-13 |
@@ -32,6 +36,8 @@
 | **Precisely** | Senior Sales Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9da9855aff29b6b4) | 2026-04-13 |
 | **Precisely** | Sales Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c0e3648f8e322ab4) | 2026-04-13 |
 | **Enzo Tech Group** | Junior BI Developer | Newtown Square, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63ab818b4f18638c) | 2026-04-13 |
+| **FICO** | Technical Support Engineer II-Scores Software Team | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=06d799b72694d188) | 2026-04-13 |
+| **InvoiceCloud** | GTM Engineer | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e592443b1efad79e) | 2026-04-13 |
 | **Blue Cross and Blue Shield of Minnesota** | Senior AI Engineer | Eagan, MN, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a49a54c48156d9f6) | 2026-04-12 |
 | **Openkyber** | AWS Network Engineer | GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e68aed4fb5428da) | 2026-04-12 |
 | **Openkyber** | Okta | NJ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8389dc038a61799a) | 2026-04-12 |
