@@ -1,62 +1,40 @@
 # 🎯 Daily Job Matches — 2026-04-13
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 3
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Cloud Architect, ML/AI @ DoiT
-**Match Score:** 20.0%
+## 1. DevOps Engineer @ SwapsTech
+**Match Score:** 15.6%
 
-📍 **Location:** Boston, MA, US USA
+📍 **Location:** Charlotte, NC, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, S3, Glue, Redshift
+🔑 **Keywords:** RAG, S3, EC2, Kubernetes, CI/CD, Jenkins, Terraform, Git, MySQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2c7df305cb5baa7b)
-
----
-
-## 2. GenAI Data Scientist, Commercial, Supply Chain & Trading @ ExxonMobil
-**Match Score:** 14.4%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, LangChain, RAG, Copilot, Prompt Engineering, TensorFlow, PyTorch, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2519af0b61a9f3f1)
+[Apply Here](https://www.indeed.com/viewjob?jk=4012ccd366ad2714)
 
 ---
 
-## 3. SAP NS2 Sr. DevOps Engineer @ SAP
-**Match Score:** 13.3%
+## 2. Site Reliability Engineer @ NTT DATA
+**Match Score:** 11.1%
 
 📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** Generative AI, RAG, S3, EC2, Docker, Kubernetes, CI/CD, Terraform, Git, Python
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c08fc820fe10f7ed)
-
----
-
-## 4. Software Engineer III @ Robert Half
-**Match Score:** 12.2%
-
-📍 **Location:** San Ramon, CA, US USA
-
-🔑 **Keywords:** RAG, Glue, CI/CD, Jenkins, Git, PostgreSQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9f47248faf88df34)
+[Apply Here](https://www.indeed.com/viewjob?jk=ee60578e0abfdb96)
 
 ---
 
-## 5. Sr. AI & Data Science Analyst @ Kedrion Biopharma
+## 3. AI Context Engineer @ Adobe
 **Match Score:** 10.0%
 
-📍 **Location:** Fort Lee, NJ, US USA
+📍 **Location:** Lehi, UT, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Tableau, Power BI, Python, SQL, R, Scala, Optimization
+🔑 **Keywords:** LangChain, RAG, Hugging Face, TensorFlow, PyTorch, Git, Python, R, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7168e60aa12e407a)
+[Apply Here](https://www.indeed.com/viewjob?jk=f84c1822d5830ffb)
 
 ---
 
