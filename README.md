@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-15
-- **New Matches Found in Last Run:** 21
-- **Total Active Matches (Last 4 Days):** 473
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 477
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-15.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-15.xlsx)
 
@@ -15,6 +15,7 @@
 | **The Hartford** | Sr. Full Stack AI Engineer | Hartford, CT, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a7de03320b3d487) | 2026-04-15 |
 | **The Hartford** | Sr. Full Stack AI Engineer | Charlotte, NC, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df1418000450ecdb) | 2026-04-15 |
 | **The Hartford** | Sr. Full Stack AI Engineer | Chicago, IL, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6df75aab0012c038) | 2026-04-15 |
+| **Qode** | Data Engineer/Data Scientist | Tampa, FL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a711c2fcb36b6cf) | 2026-04-15 |
 | **Fivetran** | Solution Architect, Enterprise | Remote, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f33106731db1775) | 2026-04-15 |
 | **Fivetran** | Solution Architect, Enterprise | Remote, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90d356ab99a57489) | 2026-04-15 |
 | **Fivetran** | Solution Architect, Enterprise | Remote, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15664632526fabdb) | 2026-04-15 |
@@ -123,6 +124,7 @@
 | **Herbalife** | Prompt Engineer, AI | Los Angeles, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43ca1d9e93dfbc5f) | 2026-04-15 |
 | **JPMorganChase** | Applied AI ML, Senior Associate - Sales Science | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00164ad494631eaf) | 2026-04-15 |
 | **Purchasing Platform** | Apprentice, Software Engineering | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ac86cc35b3bbfff) | 2026-04-15 |
+| **MacroHealth** | Senior Data Analyst | Kirkland, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05733d6196b41ce1) | 2026-04-15 |
 | **Innovien Solutions** | Data Analytics Engineer – Nearshore | Farmington, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b592511b7d510b12) | 2026-04-15 |
 | **Truist** | Software Engineer III (Python) | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=315022e4b3ce9807) | 2026-04-15 |
 | **AMD** | Sr. Software Development Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa0f1f4e4d8f0b86) | 2026-04-15 |
@@ -154,6 +156,8 @@
 | **Liberty Mutual Insurance** | Senior Data Engineer | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=656d1c14c0006f5a) | 2026-04-15 |
 | **Liberty Mutual Insurance** | Senior Data Engineer | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bbe105af0a765589) | 2026-04-15 |
 | **Medica Services Company LLC** | Data Scientist II (ML Operations) | Minnetonka, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ebee47f987309774) | 2026-04-15 |
+| **HARVEY** | GTM Systems Admin, Growth | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=172c994a5d508b22) | 2026-04-15 |
+| **Tenet Advisors, LLC** | Senior Software Engineer | Savannah, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec1771429282d515) | 2026-04-15 |
 | **AmeriLife** | Data Scientist | Clearwater, FL, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d10f6b2d0d1b341d) | 2026-04-14 |
 | **Photon** | Data Scientist - Gen AI ML - Tampa/Irving/ Mississauga | Tampa, FL, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e961f4b0a084d70d) | 2026-04-14 |
 | **Photon** | Sr Data Scientist - Gen AI ML - Irving | Irving, TX, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b125e259df80f94) | 2026-04-14 |
