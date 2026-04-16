@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-16
-- **New Matches Found in Last Run:** 7
-- **Total Active Matches (Last 4 Days):** 625
+- **New Matches Found in Last Run:** 12
+- **Total Active Matches (Last 4 Days):** 637
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-16.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-16.xlsx)
 
@@ -55,6 +55,7 @@
 | **Fairstead** | Senior Full Stack Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e07cdac563547591) | 2026-04-16 |
 | **CardioOne** | Senior Software Engineer | CO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34653b24bff70a46) | 2026-04-16 |
 | **CCG** | Senior Consultant - AI | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f46f80c9b10c44b7) | 2026-04-16 |
+| **SolidWorks** | AI Software Engineer | Waltham, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5ddcce261de4223) | 2026-04-16 |
 | **nan** | Senior Frontend Engineer (Angular) – Healthcare SaaS | Davie, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5bd61450e2dc54ae) | 2026-04-16 |
 | **Caterpillar** | Data Engineer, Cat Digital Data & AI | Peoria, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=699bf154d150027f) | 2026-04-16 |
 | **SAP** | SAP NS2 Sr. Cloud Infrastructure Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=534a16e97b1661e8) | 2026-04-16 |
@@ -84,6 +85,17 @@
 | **Vantor** | Software Engineer, AI Agents & Generative AI | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=517f59607c7b8677) | 2026-04-16 |
 | **Vantor** | Software Engineer, AI Agents & Generative AI | Westminster, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1ea5fef7575bcc5) | 2026-04-16 |
 | **Kaiser Permanente** | IT Applications Engineer IV, Database | Pleasanton, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a7b3c5be82dc98c) | 2026-04-16 |
+| **Unissant** | Enterprise Data Architect | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a00da07441b7a67f) | 2026-04-16 |
+| **Accenture** | Trading, Investment & Optimization - QuantAI Engineer | San Diego, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a6e5c65a2d8ba5d) | 2026-04-16 |
+| **Accenture** | Trading, Investment & Optimization - QuantAI Engineer | Arlington, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=04bb93d772070c3d) | 2026-04-16 |
+| **Accenture** | Trading, Investment & Optimization - QuantAI Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cbc714a19e6c1ebb) | 2026-04-16 |
+| **Accenture** | Trading, Investment & Optimization - QuantAI Engineer | Morristown, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b1d2dfd6373f16c8) | 2026-04-16 |
+| **Accenture** | Trading, Investment & Optimization - QuantAI Engineer | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e084b16c556e5f19) | 2026-04-16 |
+| **Accenture** | Trading, Investment & Optimization - QuantAI Engineer | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d02bf32e84c638e2) | 2026-04-16 |
+| **Accenture** | Trading, Investment & Optimization - QuantAI Engineer | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f9cd0af0e96d9ec) | 2026-04-16 |
+| **Accenture** | Trading, Investment & Optimization - QuantAI Engineer | Culver City, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e52ec7da9b82ca61) | 2026-04-16 |
+| **Accenture** | Trading, Investment & Optimization - QuantAI Engineer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=68efd4386bb58a32) | 2026-04-16 |
+| **SolidWorks** | AI Software Engineer | Waltham, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6622ed69cb516901) | 2026-04-16 |
 | **The Hartford** | Sr. Full Stack AI Engineer | Columbus, OH, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=574e10b9b787dc54) | 2026-04-15 |
 | **The Hartford** | Sr. Full Stack AI Engineer | New York, NY, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac615cac5200efc9) | 2026-04-15 |
 | **The Hartford** | Sr. Full Stack AI Engineer | Hartford, CT, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a7de03320b3d487) | 2026-04-15 |
