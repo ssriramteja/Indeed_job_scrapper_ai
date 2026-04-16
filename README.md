@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-16
-- **New Matches Found in Last Run:** 11
-- **Total Active Matches (Last 4 Days):** 591
+- **New Matches Found in Last Run:** 9
+- **Total Active Matches (Last 4 Days):** 600
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-16.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-16.xlsx)
 
@@ -10,7 +10,9 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **SS&C** | Senior ML Engineer - Agentic AI | Waltham, MA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ee08a694c71ee91) | 2026-04-16 |
 | **Panasonic Automotive** | AI Architect | Farmington Hills, MI, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11ce688bd126a002) | 2026-04-16 |
+| **JPMorganChase** | Software Engineer III - Python AI/ML | Jersey City, NJ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f10776c57396ef8) | 2026-04-16 |
 | **Guidewire** | Software Engineer III (AI/ML) | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=556295f00aa1a8a3) | 2026-04-16 |
 | **UMB Financial Corporation** | AI Intern | Kansas City, MO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9383cdfd64b1ba21) | 2026-04-16 |
 | **ExxonMobil** | Data Scientist, Upstream Development | Spring, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f78a5b56aee27cd1) | 2026-04-16 |
@@ -21,11 +23,13 @@
 | **SAP** | SAP Successfactors iXp Intern - AI Software Developer - SUMMER 2026 | San Ramon, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d358fdd58499f32) | 2026-04-16 |
 | **Smart Data Solutions** | Data Architecture Intern | Plano, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d67805e12d384da2) | 2026-04-16 |
 | **Intel Corporation** | I Software Engineer – Agentic AI System | Santa Clara, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6ccf85218a75e306) | 2026-04-16 |
+| **JPMorganChase** | Software Engineer III – Cloud Platform Engineering - Python / AWS | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb199efc831c0dc4) | 2026-04-16 |
 | **World Bank Group** | Associate IT Officer, Data and Information Management (Associate Data Engineer) | Washington, DC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a40cff6b5df03cd) | 2026-04-16 |
 | **REPLY** | Data Engineer | Atlanta, KS, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9a02726d78410b5) | 2026-04-16 |
 | **CrowdStrike** | Sr. Software Engineer - Data Infrastructure | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df9f48d9232b00bf) | 2026-04-16 |
 | **Adobe** | Senior Software Development Engineer | San Jose, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=deb135bf06a2110e) | 2026-04-16 |
 | **Intel Corporation** | Senior AI Software Engineer – Agentic AI System | Santa Clara, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1365263f5673e988) | 2026-04-16 |
+| **Red Hat** | Senior Software Engineer | Raleigh, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea65e6049e72fa4a) | 2026-04-16 |
 | **BNY** | Database Automation Developer (contract) | Jersey City, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=78a015d8ecbb3c7f) | 2026-04-16 |
 | **nan** | ML & AI Engineer | Huntersville, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fecd1b0fc18b0931) | 2026-04-16 |
 | **BLOC Resources, LLC** | Data Engineer 4 | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d9e13379e16ee4b4) | 2026-04-16 |
@@ -33,6 +37,8 @@
 | **Intel Corporation** | Senior Infrastructure and DevOps Engineer | Hillsboro, OR, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cb732e7f93887b62) | 2026-04-16 |
 | **Intel Corporation** | Senior Infrastructure and DevOps Engineer | Hillsboro, OR, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=48d522e316145fcc) | 2026-04-16 |
 | **Intel Corporation** | Senior Infrastructure and DevOps Engineer | Hillsboro, OR, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a7749a2f7e0fcb46) | 2026-04-16 |
+| **JPMorganChase** | Software Engineer III - Gen AI, Java Full stack | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=407e02536674fcbf) | 2026-04-16 |
+| **JPMorganChase** | Software Engineer III | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe1513252d7f11af) | 2026-04-16 |
 | **nan** | Senior Frontend Engineer (Angular) – Healthcare SaaS | Davie, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5bd61450e2dc54ae) | 2026-04-16 |
 | **Caterpillar** | Data Engineer, Cat Digital Data & AI | Peoria, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=699bf154d150027f) | 2026-04-16 |
 | **SAP** | SAP NS2 Sr. Cloud Infrastructure Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=534a16e97b1661e8) | 2026-04-16 |
@@ -50,6 +56,9 @@
 | **Core & Main** | Data Engineer II | OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5e2495e00e0060d) | 2026-04-16 |
 | **Logic, Inc.** | Trading, Investment & Optimization - QuantAI Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69bdda83744afdf3) | 2026-04-16 |
 | **Magna International** | Jr. Full Stack Developer, Smart Factory Solutions | Troy, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99aa0a766ae6eb0a) | 2026-04-16 |
+| **Tata Consultancy Services (TCS)** | Data Scientist / Advanced Analytics Specialist | Auburn Hills, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a2475f489bb4ebe) | 2026-04-16 |
+| **Mayer Brown LLP** | Architect: Enterprise Data | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ced77385e81a71b8) | 2026-04-16 |
+| **Keysight Technologies** | R&D Firmware Engineer | Santa Rosa, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c2aa43f8b9bb66da) | 2026-04-16 |
 | **The Hartford** | Sr. Full Stack AI Engineer | Columbus, OH, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=574e10b9b787dc54) | 2026-04-15 |
 | **The Hartford** | Sr. Full Stack AI Engineer | New York, NY, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac615cac5200efc9) | 2026-04-15 |
 | **The Hartford** | Sr. Full Stack AI Engineer | Hartford, CT, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a7de03320b3d487) | 2026-04-15 |
