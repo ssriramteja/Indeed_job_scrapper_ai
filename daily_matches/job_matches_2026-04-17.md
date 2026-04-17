@@ -5,102 +5,102 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer @ nan
-**Match Score:** 17.8%
+## 1. Databricks Senior Architect @ Primoris Services Corporation
+**Match Score:** 20.0%
 
-📍 **Location:** Reston, VA, US USA
+📍 **Location:** Dallas, TX, US USA
 
-🔑 **Keywords:** Generative AI, RAG, BigQuery, Data Lake, Dataflow, Snowflake, Databricks, BigQuery, Kafka, PostgreSQL
+🔑 **Keywords:** RAG, Redshift, BigQuery, Synapse, CI/CD, Terraform, Snowflake, Databricks, BigQuery, Redshift
 
-[Apply Here](https://www.indeed.com/viewjob?jk=21d0748d1f5a35c3)
-
----
-
-## 2. Senior Back End JS Developer @ Ciklum
-**Match Score:** 16.7%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Generative AI, BigQuery, Docker, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, BigQuery, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4297081d7551674e)
+[Apply Here](https://www.indeed.com/viewjob?jk=b59ebfd8c1dc1985)
 
 ---
 
-## 3. AI/ML Engineer - Local to Dallas - Face to Face Interview in Dallas,TX @ FirstNet Global
-**Match Score:** 16.7%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, RAG, Hugging Face, Pinecone, Prompt Engineering, S3, EC2, FastAPI, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ee7a7f31721ffc30)
-
----
-
-## 4. Data and AI Scientist @ Philips
+## 2. Senior Data Engineer/ Architecture (ADF & Databricks) @ United Vein & Vascular Centers
 **Match Score:** 12.2%
 
-📍 **Location:** Cambridge, MA, US USA
+📍 **Location:** Tampa, FL, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, Prompt Engineering, TensorFlow, PyTorch, CI/CD, Git, Python
+🔑 **Keywords:** RAG, Synapse, CI/CD, GitHub Actions, Git, Databricks, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a9087c01d26abe93)
+[Apply Here](https://www.indeed.com/viewjob?jk=7a9e3b0a9c943d41)
 
 ---
 
-## 5. Innovation Software Engineer L3 @ Frontdoor
+## 3. Senior Forward-Deployed Engineer @ Cohere Health
+**Match Score:** 12.2%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** S3, Terraform, Git, PostgreSQL, MongoDB, NoSQL, Python, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cb64897e01ace612)
+
+---
+
+## 4. Cloud Application Development Engineer @ Intel Corporation
 **Match Score:** 11.1%
 
-📍 **Location:** Phoenix, AZ, US USA
+📍 **Location:** Hillsboro, OR, US USA
 
-🔑 **Keywords:** RAG, Prompt Engineering, Docker, Kubernetes, CI/CD, Git, Python, SQL, R, Java
+🔑 **Keywords:** RAG, Kubernetes, CI/CD, Git, Snowflake, Databricks, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c1c6238e4345d574)
+[Apply Here](https://www.indeed.com/viewjob?jk=34d4cf06a4d58d99)
 
 ---
 
-## 6. Artificial Intelligence (AI) Developer – Dynamics Contact Center Solutions @ Intone Networks
+## 5. Senior Software Engineer – Backend @ CaseGuard
 **Match Score:** 11.1%
 
-📍 **Location:** Harrisburg, PA, US USA
+📍 **Location:** Arlington, VA, US USA
 
-🔑 **Keywords:** RAG, Copilot, Hugging Face, TensorFlow, PyTorch, spaCy, NLTK, Kafka, Python, R
+🔑 **Keywords:** S3, EC2, Docker, Kubernetes, Terraform, NoSQL, SQL, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ea1438a3749cfbee)
+[Apply Here](https://www.indeed.com/viewjob?jk=cbb676fb8407e921)
 
 ---
 
-## 7. Data Scientist, Generative & Agentic AI Solutions: Senior Consultant @ Alvarez & Marsal
+## 6. Machine Learning Engineer @ Reyes Coca-Cola Bottling
 **Match Score:** 11.1%
 
-📍 **Location:** Washington, DC, US USA
+📍 **Location:** Niles, IL, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, PyTorch, EC2, FastAPI, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, CI/CD, Terraform, Git, Snowflake, Databricks, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c9d5668f5e68d199)
+[Apply Here](https://www.indeed.com/viewjob?jk=c8c9edf8ff72cde8)
 
 ---
 
-## 8. Data Scientist, Generative & Agentic AI Solutions @ Alvarez & Marsal
+## 7. Senior Software Engineer – Backend New @ CaseGuard
 **Match Score:** 11.1%
 
-📍 **Location:** Washington, DC, US USA
+📍 **Location:** Arlington, VA, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, PyTorch, EC2, FastAPI, Python, SQL, R
+🔑 **Keywords:** S3, EC2, Docker, Kubernetes, Terraform, NoSQL, SQL, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=9aacbffbde2a611b)
+[Apply Here](https://www.indeed.com/viewjob?jk=e5dbcba31adbe291)
 
 ---
 
-## 9. Data Scientist III @ Kaiser Permanente
+## 8. Senior Cloud Engineer AI @ BMO Financial Group
 **Match Score:** 10.0%
 
-📍 **Location:** Pleasanton, CA, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, AKS, Python, SQL, R, Scala, Optimization
+🔑 **Keywords:** RAG, Prompt Engineering, Glue, Hadoop, NoSQL, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=132f905b876b6514)
+[Apply Here](https://www.indeed.com/viewjob?jk=552def578ffb19f8)
+
+---
+
+## 9. Sr Analyst - Scheduling Analytics @ Frontier Airlines
+**Match Score:** 10.0%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** RAG, Snowflake, Databricks, Tableau, Power BI, Python, SQL, R, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cf4f00929ccd08ed)
 
 ---
 
