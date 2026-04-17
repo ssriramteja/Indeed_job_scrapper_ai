@@ -1,260 +1,106 @@
 # 🎯 Daily Job Matches — 2026-04-17
 
-**Total Jobs Found:** 23
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Enterprise Cybersecurity Data Scientist @ Booz Allen Hamilton
-**Match Score:** 14.4%
+## 1. Data Engineer @ nan
+**Match Score:** 17.8%
 
-📍 **Location:** McLean, VA, US USA
+📍 **Location:** Reston, VA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, CI/CD, Git, Databricks, Tableau, Power BI, Seaborn, Python, SQL
+🔑 **Keywords:** Generative AI, RAG, BigQuery, Data Lake, Dataflow, Snowflake, Databricks, BigQuery, Kafka, PostgreSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0a5c935b32c7ce15)
+[Apply Here](https://www.indeed.com/viewjob?jk=21d0748d1f5a35c3)
 
 ---
 
-## 2. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 2. Senior Back End JS Developer @ Ciklum
+**Match Score:** 16.7%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
+🔑 **Keywords:** Generative AI, BigQuery, Docker, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, BigQuery, PostgreSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=61c9645fcdf8d390)
-
----
-
-## 3. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a8a5ebdf2f0ec8f7)
+[Apply Here](https://www.indeed.com/viewjob?jk=4297081d7551674e)
 
 ---
 
-## 4. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 3. AI/ML Engineer - Local to Dallas - Face to Face Interview in Dallas,TX @ FirstNet Global
+**Match Score:** 16.7%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
+🔑 **Keywords:** AI Engineer, Data Scientist, RAG, Hugging Face, Pinecone, Prompt Engineering, S3, EC2, FastAPI, Docker
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a2548ff027a81733)
-
----
-
-## 5. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7392f3cd1cd74e9a)
+[Apply Here](https://www.indeed.com/viewjob?jk=ee7a7f31721ffc30)
 
 ---
 
-## 6. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 4. Data and AI Scientist @ Philips
+**Match Score:** 12.2%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Cambridge, MA, US USA
 
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, Prompt Engineering, TensorFlow, PyTorch, CI/CD, Git, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=25179c617991dbcd)
-
----
-
-## 7. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=130195ef368d1229)
+[Apply Here](https://www.indeed.com/viewjob?jk=a9087c01d26abe93)
 
 ---
 
-## 8. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 5. Innovation Software Engineer L3 @ Frontdoor
+**Match Score:** 11.1%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Phoenix, AZ, US USA
 
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
+🔑 **Keywords:** RAG, Prompt Engineering, Docker, Kubernetes, CI/CD, Git, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=54fcabc84a90db57)
-
----
-
-## 9. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c114d76aa4b24e64)
+[Apply Here](https://www.indeed.com/viewjob?jk=c1c6238e4345d574)
 
 ---
 
-## 10. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 6. Artificial Intelligence (AI) Developer – Dynamics Contact Center Solutions @ Intone Networks
+**Match Score:** 11.1%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Harrisburg, PA, US USA
 
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
+🔑 **Keywords:** RAG, Copilot, Hugging Face, TensorFlow, PyTorch, spaCy, NLTK, Kafka, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=59c6380629340cd8)
-
----
-
-## 11. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e1758bd8035a2b67)
+[Apply Here](https://www.indeed.com/viewjob?jk=ea1438a3749cfbee)
 
 ---
 
-## 12. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 7. Data Scientist, Generative & Agentic AI Solutions: Senior Consultant @ Alvarez & Marsal
+**Match Score:** 11.1%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Washington, DC, US USA
 
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, PyTorch, EC2, FastAPI, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=17736e9e8558c607)
-
----
-
-## 13. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7dca4ecbf7cbe0e0)
+[Apply Here](https://www.indeed.com/viewjob?jk=c9d5668f5e68d199)
 
 ---
 
-## 14. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
+## 8. Data Scientist, Generative & Agentic AI Solutions @ Alvarez & Marsal
+**Match Score:** 11.1%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Washington, DC, US USA
 
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, PyTorch, EC2, FastAPI, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=256d33a5d00d52e4)
-
----
-
-## 15. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8219098cfc006d4d)
+[Apply Here](https://www.indeed.com/viewjob?jk=9aacbffbde2a611b)
 
 ---
 
-## 16. Data Engineer - Remote @ YO IT CONSULTING
+## 9. Data Scientist III @ Kaiser Permanente
 **Match Score:** 10.0%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Pleasanton, CA, US USA
 
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, AKS, Python, SQL, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0128e468ee5d06c9)
-
----
-
-## 17. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6927b6904048dc5a)
-
----
-
-## 18. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=55c6599af17ff8a4)
-
----
-
-## 19. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f9742a9041a5dfa5)
-
----
-
-## 20. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=020d180f72161f5a)
-
----
-
-## 21. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0bdccba70743b503)
-
----
-
-## 22. Data Engineer - Remote @ YO IT CONSULTING
-**Match Score:** 10.0%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** RAG, PostgreSQL, MySQL, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2d9f5e68e43cfeb6)
-
----
-
-## 23. Consultant, Machine Learning Engineer @ Dell Technologies
-**Match Score:** 10.0%
-
-📍 **Location:** Round Rock, TX, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, Docker, Kubernetes, CI/CD, Python, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f0752c814a66bf53)
+[Apply Here](https://www.indeed.com/viewjob?jk=132f905b876b6514)
 
 ---
 
