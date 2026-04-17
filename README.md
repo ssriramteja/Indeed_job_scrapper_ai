@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-17
-- **New Matches Found in Last Run:** 12
-- **Total Active Matches (Last 4 Days):** 742
+- **New Matches Found in Last Run:** 23
+- **Total Active Matches (Last 4 Days):** 765
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-17.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-17.xlsx)
 
@@ -78,6 +78,7 @@
 | **HCA Healthcare** | Senior Data Engineer | Nashville, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7421e24a70553f85) | 2026-04-17 |
 | **Intrado** | Senior Software Engineer | Longmont, CO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34c58d501fbb2c3c) | 2026-04-17 |
 | **JPMorganChase** | Software Engineer III – Cloud Quality Engineering – Java / AWS | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0fcc7311aad8bf06) | 2026-04-17 |
+| **Booz Allen Hamilton** | Enterprise Cybersecurity Data Scientist | McLean, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a5c935b32c7ce15) | 2026-04-17 |
 | **Deloitte** | Deloitte Cyber Fullstack Engineer Consultant | Morristown, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ada4a1f952be76e) | 2026-04-17 |
 | **Deloitte** | Deloitte Cyber Fullstack Engineer Consultant | Minneapolis, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=684438207f8ff675) | 2026-04-17 |
 | **Deloitte** | Deloitte Cyber Fullstack Engineer Consultant | Portland, OR, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c40cb05f11805da) | 2026-04-17 |
@@ -183,6 +184,28 @@
 | **GEICO** | Senior Engineer - Full-Stack (API/Software Development/Microservices) | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f0b551f679c7a68) | 2026-04-17 |
 | **Gen Digital Inc.** | Software Engineer Intern | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=739259f946595822) | 2026-04-17 |
 | **E-Space** | Sr. AI / Embedded ML Engineer | Saratoga, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80fd9183764f3538) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=61c9645fcdf8d390) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a8a5ebdf2f0ec8f7) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a2548ff027a81733) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7392f3cd1cd74e9a) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25179c617991dbcd) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=130195ef368d1229) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54fcabc84a90db57) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c114d76aa4b24e64) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59c6380629340cd8) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1758bd8035a2b67) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17736e9e8558c607) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7dca4ecbf7cbe0e0) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=256d33a5d00d52e4) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8219098cfc006d4d) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0128e468ee5d06c9) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6927b6904048dc5a) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=55c6599af17ff8a4) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f9742a9041a5dfa5) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=020d180f72161f5a) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0bdccba70743b503) | 2026-04-17 |
+| **YO IT CONSULTING** | Data Engineer - Remote | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d9f5e68e43cfeb6) | 2026-04-17 |
+| **Dell Technologies** | Consultant, Machine Learning Engineer | Round Rock, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f0752c814a66bf53) | 2026-04-17 |
 | **SS&C** | Senior ML Engineer - Agentic AI | Waltham, MA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ee08a694c71ee91) | 2026-04-16 |
 | **Panasonic Automotive** | AI Architect | Farmington Hills, MI, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11ce688bd126a002) | 2026-04-16 |
 | **Photon** | Sr Data Scientist - Gen AI ML - Irving | Irving, TX, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b7f2473ba4deec16) | 2026-04-16 |
