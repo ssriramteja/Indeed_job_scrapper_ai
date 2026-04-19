@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-19
-- **New Matches Found in Last Run:** 33
-- **Total Active Matches (Last 4 Days):** 520
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 523
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-19.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-19.xlsx)
 
@@ -10,6 +10,7 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **JPMorganChase** | Software Engineer III - Databricks / IAM | Plano, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2aaafa9ff6580061) | 2026-04-19 |
 | **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Pittsburgh, PA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=581a90bdd18bb399) | 2026-04-19 |
 | **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f8b1f5f9166b713) | 2026-04-19 |
 | **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Detroit, MI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0515a0bc8f6f1e11) | 2026-04-19 |
@@ -43,6 +44,8 @@
 | **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Kansas City, MO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5720f5caa8ca8d63) | 2026-04-19 |
 | **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Sacramento, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30932a7fdbb20d57) | 2026-04-19 |
 | **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Costa Mesa, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc72ec26bd8c9ccd) | 2026-04-19 |
+| **nan** | Founding AI Engineer | Cambridge, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a17a986e704bcbb) | 2026-04-19 |
+| **Blue Cross and Blue Shield of Minnesota** | Senior Enterprise Data Analyst | Eagan, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ba35a561d664a15) | 2026-04-19 |
 | **Micron Technology** | Sr Data Scientist | Boise, ID, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c69e0cd00bf5d75b) | 2026-04-18 |
 | **American Airlines** | Engineer/ Sr Engineer, IT AI | Fort Worth, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd18edcb36ac9a04) | 2026-04-18 |
 | **Personify Health** | Sr Cloud Data Architect | Remote, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b2e55d4c15c9b5aa) | 2026-04-18 |
