@@ -1,73 +1,62 @@
 # 🎯 Daily Job Matches — 2026-04-20
 
-**Total Jobs Found:** 6
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Business Analyst Sr @ Blue Origin
+## 1. Senior DevOps Engineer @ Duetto Research
 **Match Score:** 16.7%
-
-📍 **Location:** FL, US USA
-
-🔑 **Keywords:** RAG, TensorFlow, MLflow, CI/CD, Git, Databricks, PySpark, Tableau, Power BI, Seaborn
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0150b99a3b3fea86)
-
----
-
-## 2. GenAI Engineer | Washington, DC | Job # 5139 @ Accenture Federal Services
-**Match Score:** 16.7%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, RAG, Gemini, FAISS, Pinecone, ChromaDB, Prompt Engineering, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b26ab2609fca8f7e)
-
----
-
-## 3. DevOps and Software Lab Engineer @ Applied Materials
-**Match Score:** 11.1%
-
-📍 **Location:** Chandler, AZ, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Git, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bc42b99c26c9b761)
-
----
-
-## 4. Senior Software Engineer - Mobile @ Rev
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, SQL, R, Java, Scala, Optimization, A/B Testing
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b79c0f2cf017e775)
-
----
-
-## 5. Senior Software Engineer - Mobile @ Rev
-**Match Score:** 10.0%
 
 📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, SQL, R, Java, Scala, Optimization, A/B Testing
+🔑 **Keywords:** RAG, S3, EC2, Docker, CI/CD, Jenkins, GitHub Actions, Terraform, Git, MongoDB
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2823e0104c70eef8)
+[Apply Here](https://www.indeed.com/viewjob?jk=39c3deaa7a8471b3)
 
 ---
 
-## 6. AI Algorithm Developer @ Applied Materials
+## 2. Senior Specialty Software Engineer - Capital Markets Reference Data @ Wells Fargo
+**Match Score:** 14.4%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** RAG, Prompt Engineering, CI/CD, GitHub Actions, Git, PySpark, Kafka, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f19a6e4f42a1dcfd)
+
+---
+
+## 3. Software Engineer (Mid-Senior) - Multiple Openings @ Better Planet
+**Match Score:** 12.2%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** LangChain, RAG, FastAPI, Git, MySQL, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=73416cf86e21464a)
+
+---
+
+## 4. Senior Software Engineer @ NiCE
 **Match Score:** 10.0%
 
-📍 **Location:** Santa Clara, CA, US USA
+📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Keras, Python, R, Scala, Optimization, Bayesian
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, Git, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0ae7d87b3840a5f0)
+[Apply Here](https://www.indeed.com/viewjob?jk=5afa505414f90384)
+
+---
+
+## 5. Specialist, Technology Engineer (Cloud Engineer) @ Nationwide Mutual Insurance Company
+**Match Score:** 10.0%
+
+📍 **Location:** Columbus, OH, US USA
+
+🔑 **Keywords:** RAG, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Python, R, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb)
 
 ---
 
