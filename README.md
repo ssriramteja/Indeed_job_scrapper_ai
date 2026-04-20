@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-20
-- **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 385
+- **New Matches Found in Last Run:** 6
+- **Total Active Matches (Last 4 Days):** 391
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-20.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-20.xlsx)
 
@@ -10,21 +10,27 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Alkami Technology** | Sr. Data Engineer | Remote, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c9c766989d27507) | 2026-04-20 |
 | **eLink Design** | AI Software Engineer (Full-Stack) | Lexington, KY, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=284ca0ae0026bd9d) | 2026-04-20 |
 | **Blue Origin** | Business Analyst Sr | FL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0150b99a3b3fea86) | 2026-04-20 |
 | **Accenture Federal Services** | GenAI Engineer | Washington, DC | Job # 5139 | Washington, DC, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b26ab2609fca8f7e) | 2026-04-20 |
 | **Duetto Research** | Senior DevOps Engineer | Austin, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=39c3deaa7a8471b3) | 2026-04-20 |
+| **Ford Motor Company** | Compute - New | India Hook, SC, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cdd485f349c9813e) | 2026-04-20 |
 | **Cielo** | AI Engineer (React UI) - Remote US | Wauwatosa, WI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e67add270aac4c5) | 2026-04-20 |
 | **Wells Fargo** | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f19a6e4f42a1dcfd) | 2026-04-20 |
 | **Better Planet** | Software Engineer (Mid-Senior) - Multiple Openings | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73416cf86e21464a) | 2026-04-20 |
 | **Data and Analytic Solutions, Inc.** | SENIOR DATA ANALYST / TABLEAU DEVELOPER | Washington, DC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=592957d84c7c4f25) | 2026-04-20 |
 | **Protiviti** | Senior AI Engineer | Menlo Park, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=286720047d49b635) | 2026-04-20 |
 | **Applied Materials** | DevOps and Software Lab Engineer | Chandler, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bc42b99c26c9b761) | 2026-04-20 |
+| **Skyworks Solutions** | AI and Machine Learning Intern (May-Aug '26) | Irvine, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c90f90963ae9ee6) | 2026-04-20 |
 | **Rev** | Senior Software Engineer - Mobile | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b79c0f2cf017e775) | 2026-04-20 |
 | **Rev** | Senior Software Engineer - Mobile | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2823e0104c70eef8) | 2026-04-20 |
 | **Applied Materials** | AI Algorithm Developer | Santa Clara, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ae7d87b3840a5f0) | 2026-04-20 |
 | **NiCE** | Senior Software Engineer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5afa505414f90384) | 2026-04-20 |
 | **Nationwide Mutual Insurance Company** | Specialist, Technology Engineer (Cloud Engineer) | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=48d6c6cf47d4b3fb) | 2026-04-20 |
+| **Alphanumeric Systems Inc** | Software Engineer | VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7dfccdbdeb3334ea) | 2026-04-20 |
+| **RZR Global Inc.** | Machine Learning Engineer | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=04ec2f769f209544) | 2026-04-20 |
+| **Qode** | Senior Talent Acquisition Specialist | Pittsburgh, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e284c7fddcc12ecd) | 2026-04-20 |
 | **JPMorganChase** | Software Engineer III - Databricks / IAM | Plano, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2aaafa9ff6580061) | 2026-04-19 |
 | **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Pittsburgh, PA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=581a90bdd18bb399) | 2026-04-19 |
 | **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f8b1f5f9166b713) | 2026-04-19 |
