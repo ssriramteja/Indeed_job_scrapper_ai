@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-21
-- **New Matches Found in Last Run:** 28
-- **Total Active Matches (Last 4 Days):** 235
+- **New Matches Found in Last Run:** 11
+- **Total Active Matches (Last 4 Days):** 246
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-21.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-21.xlsx)
 
@@ -18,17 +18,25 @@
 | **Charles Schwab** | Java Engineer - Workplace Services Engineering | Austin, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8100e5877860b55b) | 2026-04-21 |
 | **NVIDIA** | Senior DevOps Engineer | Santa Clara, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f41f6be104426dc) | 2026-04-21 |
 | **ExxonMobil** | Data Scientist, Commercial Analytics | Spring, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=343be0a011ed23f4) | 2026-04-21 |
+| **Adobe** | Software Development Engineer | Seattle, WA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f85aef5c7b6e68f) | 2026-04-21 |
 | **MarketBridge** | Senior Devops Engineer | Washington, DC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=225e04a822997236) | 2026-04-21 |
+| **LangChain** | Solutions Architect (Remote) | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8754e8d3551b49b0) | 2026-04-21 |
 | **Kohlberg Kravis Roberts & Co.** | Reinsurance Data Engineer New | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56a86f8f8ea85f81) | 2026-04-21 |
 | **VNS Health** | Data, Analytics and AI Platform Engineer | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d3dca5ca9c21a095) | 2026-04-21 |
 | **Blue Shield of California** | Full Stack Engineer, Senior | Oakland, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ad0aa11b03bcee2) | 2026-04-21 |
 | **Rev Agency** | Python Vue Full Stack Developer | Westbury, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=998830b6711c09f9) | 2026-04-21 |
+| **Minerva** | Data Engineer | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed82e0ddad246dda) | 2026-04-21 |
 | **Qualcomm** | Machine Learning Engineer - Generative AI | San Diego, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=26df1a544eb82911) | 2026-04-21 |
+| **Guidewire** | Senior Engineer, AI Platform - Business Technology | San Mateo, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a783290fd5509d9) | 2026-04-21 |
 | **Cyera** | Senior Fullstack Engineer - US | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8be9543103312b81) | 2026-04-21 |
 | **Caterpillar** | Senior Perception Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f7b37c4490f2e69) | 2026-04-21 |
 | **ServiceLink** | Software Engineer - Full Stack, Information Technology | Plano, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4262c033bb0929f8) | 2026-04-21 |
 | **Cologix, Inc** | Software Engineer, AI | Dallas, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac9f634fa04ee03d) | 2026-04-21 |
 | **insitro.com** | Senior Software Engineer | South San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22b8d3007b62ff4e) | 2026-04-21 |
+| **GE HealthCare** | AI Engineer | Bellevue, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5464981dff92414f) | 2026-04-21 |
+| **Okta** | Platform Engineer - PAM Core | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8affe155552045a) | 2026-04-21 |
+| **CVS Health** | Senior Data Scientist - Agentic AI & Decision Intelligence | Wellesley, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=45a35f0784ab52b8) | 2026-04-21 |
+| **Mattel, Inc.** | Senior Data Analyst- Business Analytics & AI | El Segundo, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa67e54d436bc01b) | 2026-04-21 |
 | **Cirrus Logic** | Summer Intern, Embedded Machine Learning Engineer (AI/ML) | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63f8fba26a73471a) | 2026-04-21 |
 | **Kiewit Corporation** | Data Analyst - Kiewit Infrastructure Engineers | Lone Tree, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9af49541c38e843d) | 2026-04-21 |
 | **Cirrus Logic** | Summer Intern, Embedded Machine Learning Engineer (AI/ML) | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58a970a2214897ca) | 2026-04-21 |
@@ -38,6 +46,9 @@
 | **Information Technology Senior Management Forum** | Senior Data Platform Engineer (Data and Analytics Cloud Engineer) | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=02b2daf69bfa211e) | 2026-04-21 |
 | **Continued** | AI Engineer (Remote) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be8eb3d7fca68368) | 2026-04-21 |
 | **University of Pittsburgh** | Sr Data Analyst | Pittsburgh, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=36350d677bd0b22a) | 2026-04-21 |
+| **Adobe** | Software Development Engineer | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30de852eaf2dbcd8) | 2026-04-21 |
+| **Hewlett Packard Enterprise | HPE** | Senior Application Security Engineer | Alpharetta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84af24884d8c2311) | 2026-04-21 |
+| **GRP Solutions** | Artificial Intelligence Engineer | Texas City, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a5fe084cebe89c0) | 2026-04-21 |
 | **Alkami Technology** | Sr. Data Engineer | Remote, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c9c766989d27507) | 2026-04-20 |
 | **JPMorganChase** | Software Engineer III - Machine Learning Platform | New York, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb9997a7eee60c24) | 2026-04-20 |
 | **JPMorganChase** | Software Engineer III - Python AI/ML | Jersey City, NJ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5b6c9a9373ca32f5) | 2026-04-20 |
