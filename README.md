@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-21
-- **New Matches Found in Last Run:** 10
-- **Total Active Matches (Last 4 Days):** 260
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 263
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-21.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-21.xlsx)
 
@@ -23,6 +23,7 @@
 | **Adobe** | Software Development Engineer | Seattle, WA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f85aef5c7b6e68f) | 2026-04-21 |
 | **MarketBridge** | Senior Devops Engineer | Washington, DC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=225e04a822997236) | 2026-04-21 |
 | **LangChain** | Solutions Architect (Remote) | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8754e8d3551b49b0) | 2026-04-21 |
+| **BirdEye Inc India** | Software Fullstack Engineer | Palo Alto, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a8a8e0919415865) | 2026-04-21 |
 | **Kohlberg Kravis Roberts & Co.** | Reinsurance Data Engineer New | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56a86f8f8ea85f81) | 2026-04-21 |
 | **VNS Health** | Data, Analytics and AI Platform Engineer | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d3dca5ca9c21a095) | 2026-04-21 |
 | **Blue Shield of California** | Full Stack Engineer, Senior | Oakland, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ad0aa11b03bcee2) | 2026-04-21 |
@@ -45,6 +46,8 @@
 | **Hermeus** | AI DevOps / Platform Engineer | Los Angeles, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=623f9a35a70c68ae) | 2026-04-21 |
 | **Goldman Sachs** | Senior AI Engineer, Global Banking & Markets, RIA Engineering | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bc401ce0ff1b7af4) | 2026-04-21 |
 | **Openkyber** | PingOne Cloud Engineer | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fa27147966b86ffa) | 2026-04-21 |
+| **Meltwater** | Software Engineer - Machine Learning | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=038eede1aae64fff) | 2026-04-21 |
+| **nan** | Data Engineer | Mesa, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=707ff3ea38954494) | 2026-04-21 |
 | **Cirrus Logic** | Summer Intern, Embedded Machine Learning Engineer (AI/ML) | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63f8fba26a73471a) | 2026-04-21 |
 | **Kiewit Corporation** | Data Analyst - Kiewit Infrastructure Engineers | Lone Tree, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9af49541c38e843d) | 2026-04-21 |
 | **Cirrus Logic** | Summer Intern, Embedded Machine Learning Engineer (AI/ML) | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58a970a2214897ca) | 2026-04-21 |
