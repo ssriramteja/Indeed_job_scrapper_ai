@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-21
-- **New Matches Found in Last Run:** 11
-- **Total Active Matches (Last 4 Days):** 246
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 250
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-21.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-21.xlsx)
 
@@ -28,6 +28,8 @@
 | **Minerva** | Data Engineer | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed82e0ddad246dda) | 2026-04-21 |
 | **Qualcomm** | Machine Learning Engineer - Generative AI | San Diego, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=26df1a544eb82911) | 2026-04-21 |
 | **Guidewire** | Senior Engineer, AI Platform - Business Technology | San Mateo, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a783290fd5509d9) | 2026-04-21 |
+| **FreshDirect** | GCP Data Cloud Architect with AI | Woodbridge, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=41f37c9c95ba03e4) | 2026-04-21 |
+| **Oak Ridge National Laboratory** | Research Software Engineer | Oak Ridge, TN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5dcd461a7083269) | 2026-04-21 |
 | **Cyera** | Senior Fullstack Engineer - US | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8be9543103312b81) | 2026-04-21 |
 | **Caterpillar** | Senior Perception Engineer | Pittsburgh, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f7b37c4490f2e69) | 2026-04-21 |
 | **ServiceLink** | Software Engineer - Full Stack, Information Technology | Plano, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4262c033bb0929f8) | 2026-04-21 |
@@ -37,6 +39,8 @@
 | **Okta** | Platform Engineer - PAM Core | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8affe155552045a) | 2026-04-21 |
 | **CVS Health** | Senior Data Scientist - Agentic AI & Decision Intelligence | Wellesley, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=45a35f0784ab52b8) | 2026-04-21 |
 | **Mattel, Inc.** | Senior Data Analyst- Business Analytics & AI | El Segundo, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa67e54d436bc01b) | 2026-04-21 |
+| **JPMorganChase** | Software Engineer II - Platform Engineer/Databricks | Jersey City, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c06059acfed7a424) | 2026-04-21 |
+| **Hermeus** | AI DevOps / Platform Engineer | Los Angeles, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=623f9a35a70c68ae) | 2026-04-21 |
 | **Cirrus Logic** | Summer Intern, Embedded Machine Learning Engineer (AI/ML) | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63f8fba26a73471a) | 2026-04-21 |
 | **Kiewit Corporation** | Data Analyst - Kiewit Infrastructure Engineers | Lone Tree, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9af49541c38e843d) | 2026-04-21 |
 | **Cirrus Logic** | Summer Intern, Embedded Machine Learning Engineer (AI/ML) | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58a970a2214897ca) | 2026-04-21 |
