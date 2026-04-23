@@ -1,15 +1,97 @@
 # 🚀 Indeed Job Scraper AI
 
-### 📊 Latest Update: 2026-04-22
-- **New Matches Found in Last Run:** 13
-- **Total Active Matches (Last 4 Days):** 670
-- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-22.md)
-- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-22.xlsx)
+### 📊 Latest Update: 2026-04-23
+- **New Matches Found in Last Run:** 82
+- **Total Active Matches (Last 4 Days):** 716
+- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-23.md)
+- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-23.xlsx)
 
 #### 🎯 Rolling Window: Matches from last 4 days
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Houston, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0672f1d449c9d9e2) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Austin, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96a88c14093ccdaf) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Arlington, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14f80cb5b125e7cc) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | McLean, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca6623928abe2730) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Morristown, NJ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=46e364170a7ee29f) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Seattle, WA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e67913bb063b4e1) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Milwaukee, WI, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03e6278fa86f66b6) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Richmond, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a417258c27e6884b) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | San Antonio, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=68ff6a6e54c5bb38) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Cleveland, OH, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b864420111578783) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Baltimore, MD, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90020927d62d9e32) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Raleigh, NC, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e6445ef98b11402a) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Chicago, IL, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63c85699934dff6e) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Costa Mesa, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=26b24994302869a9) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Philadelphia, PA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=06b0116b71837d13) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Colorado Springs, CO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8120526ad261b6a4) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | New York, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=71be0c8c221ee567) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Indianapolis, IN, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee059ac44d2277d6) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Pittsburgh, PA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af1a0c944d7d687c) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Davenport, IA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a757acecac7ae896) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Hartford, CT, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=46cdcaa9c274907d) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Rochester, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c545200255ccd75) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | San Francisco, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99c6d56e1e9ecbd9) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Portland, OR, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec2268853b5e3d32) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Boston, MA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc317ad96269ff6c) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Mechanicsburg, PA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c59791ffa8037e0) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | New Orleans, LA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=93c00120a22fd95f) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Gilbert, AZ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5fd76a0505c1f45) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Dallas, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=52bda57a7eae91d3) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Cincinnati, OH, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d79924b7c683266) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Las Vegas, NV, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18b51a17582c12e7) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Denver, CO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c239cf58c8fa1c71) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Charlotte, NC, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d5a42ec359480e0d) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Boca Raton, FL, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ed6224d65d164cb) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Columbus, OH, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ffcd6c03d59f6052) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Stamford, CT, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ddc6dd123946c0df) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Kansas City, MO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b026195b5394344) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Lake Mary, FL, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ffe2cd40b6dd0e7) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Nashville, TN, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2581b6e435257226) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Detroit, MI, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de24f7419929c1bf) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Los Angeles, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5380c72e36e9ef3d) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Jericho, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43d4c68e7e9e2fef) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Miami, FL, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a8557481e61c905) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Hermitage, TN, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af8a69205565050f) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Jersey City, NJ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfedec5986433f19) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Jacksonville, FL, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dadc73e392f990d3) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Memphis, TN, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df6f8697322180c6) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Atlanta, GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b407a88f3a1f87f8) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Dayton, OH, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ce6e6d7e4f41a3e8) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Princeton, NJ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1662c7096eaa5c34) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Louisville, KY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9b54c062fe208581) | 2026-04-23 |
+| **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Minneapolis, MN, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ca77008309e43be) | 2026-04-23 |
+| **Ford Motor Company** | Cloud Solution Architect | US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=791722433bb787f5) | 2026-04-23 |
+| **Customized Energy Solutions** | Senior Software Engineer (Cloud & Data Platforms) | Philadelphia, PA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14e471621c544ca6) | 2026-04-23 |
+| **The Hartford** | Associate Data and AI Engineer | Hartford, CT, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=718af7ca01e94aee) | 2026-04-23 |
+| **The Hartford** | Associate Data and AI Engineer | Columbus, OH, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10c4f60d661f5f00) | 2026-04-23 |
+| **The Hartford** | Associate Data and AI Engineer | Charlotte, NC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f971eeb79a21180) | 2026-04-23 |
+| **The Hartford** | Associate Data and AI Engineer | Chicago, IL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cfbf52f31ea2e787) | 2026-04-23 |
+| **Bisnow** | AI Engineer | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98ee2ade355c8550) | 2026-04-23 |
+| **Kitsap Credit Union** | Software Engineer III | Bremerton, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=150b9708ae649096) | 2026-04-23 |
+| **Beyondsoft** | AI Engineer | WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=584e769321c76736) | 2026-04-23 |
+| **Ware Malcomb** | Senior Software Engineer, Platform & Product | Irvine, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aed0adf2e92986f6) | 2026-04-23 |
+| **Sam's Club** | Senior, Data Scientist | Bentonville, AR, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4237522a1d6721a2) | 2026-04-23 |
+| **SecureAuth** | Sales Engineer | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4d9b3c3863a83ed3) | 2026-04-23 |
+| **PeerSpace** | Senior Data Scientist | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fdff4c85213c03f6) | 2026-04-23 |
+| **Hudson IT and Manpower** | Sr. AI Agent / Generative AI Engineer position, Chicago, IL (Hybrid) | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5a2cdb93bb7b34c9) | 2026-04-23 |
+| **Whatnot** | Software Engineer, Machine Learning Infrastructure | Los Angeles, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea78e324bf8e4704) | 2026-04-23 |
+| **Whatnot** | Software Engineer, Machine Learning Infrastructure | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2db96764f51cf6d2) | 2026-04-23 |
+| **Whatnot** | Software Engineer, Machine Learning Infrastructure | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d31f41040bb04ccf) | 2026-04-23 |
+| **Whatnot** | Software Engineer, Machine Learning Infrastructure | Los Angeles, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=46c536011540c2a1) | 2026-04-23 |
+| **Whatnot** | Software Engineer, Machine Learning Infrastructure | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37b6c3a83f0bd9f7) | 2026-04-23 |
+| **Quantiphi** | Network Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79a3b9ba6b86ac7d) | 2026-04-23 |
+| **Ally Financial** | Senior Software Engineer - Ally.ai Platform | Charlotte, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c81be6e5662f22de) | 2026-04-23 |
+| **Skykline Career** | Data Scientist | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3e9ea284de290827) | 2026-04-23 |
+| **RXO** | Senior Software Engineer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fbae6e9d4958e43f) | 2026-04-23 |
+| **GitHub** | Software Engineer III, Monolith Systems | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b26be3b9d2e99454) | 2026-04-23 |
+| **DriveTime Automotive Group** | Senior Data Engineer - Remote | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1de30f12b78fca01) | 2026-04-23 |
+| **DriveTime Automotive Group** | Senior Data Engineer - Remote | Tempe, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b88b23e7d0b05c8f) | 2026-04-23 |
+| **University of Utah** | Senior Machine Learning Engineer | Salt Lake City, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=53c3a1861f5b96a1) | 2026-04-23 |
+| **W. L. Gore & Associates** | IT Infrastructure & Cloud Engineer | Elkton, MD, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f919fb4ce76a8a74) | 2026-04-23 |
+| **Paramount Streaming** | Software Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a9b981b06ab1d51) | 2026-04-23 |
+| **Ralliant** | IT Systems Engineer - Fabric & Power Platform | Raleigh, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e412d92f5cf206f0) | 2026-04-23 |
 | **American Airlines** | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b36e588b24926dd) | 2026-04-22 |
 | **NTT DATA** | AI Engineer - Insurance Domain - HYBRID | Warren, NJ, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31b5a55badae894d) | 2026-04-22 |
 | **NTT DATA** | AI Engineer - Insurance Domain - HYBRID | Warren, NJ, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aeda85e53ae1234a) | 2026-04-22 |
@@ -644,42 +726,6 @@
 | **Holland & Knight** | IT AI Innovation Engineer | Brandon, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f120a08f681fa24f) | 2026-04-20 |
 | **JPMorganChase** | Data Engineer III - Python / AWS / SQL | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47737cefdf9cb799) | 2026-04-20 |
 | **Snowflake** | Senior Forward Deployed Engineer - SnowConvert AI | Menlo Park, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b5b2dd5e50c4ad3) | 2026-04-20 |
-| **JPMorganChase** | Software Engineer III - Databricks / IAM | Plano, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2aaafa9ff6580061) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Pittsburgh, PA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=581a90bdd18bb399) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f8b1f5f9166b713) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Detroit, MI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0515a0bc8f6f1e11) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Tempe, AZ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=319834b7078dd7bb) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Boston, MA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7e0324e85c38bd3) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Nashville, TN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=57c9b599b447afe5) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Houston, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f28e52ff13e41e1) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | McLean, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58139b01da447c8f) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | San Diego, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31eec55a78c92958) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b0f988614f7900ce) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Charlotte, NC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a807c5f465bc533) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Philadelphia, PA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f6e4c14a86247c39) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Atlanta, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a4a86499506fa74) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Cincinnati, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6100f68b5c571107) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | San Jose, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0268fc51d43f46f1) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Indianapolis, IN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fa3c42c0c29c6fa2) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Chicago, IL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7d5d2a222e1191b) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Denver, CO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=82adfa3031e04de5) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Miami, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d2c75248cd428f27) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17b8084c714b559f) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Austin, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fcafea5b6bbcba68) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Cleveland, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2431b916dd05bb6d) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Morristown, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=417ad0055f64f195) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | St. Louis, MO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c473356bf1ce359a) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Tampa, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=790b89847a38e08e) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Los Angeles, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c51f57e34f8284d) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Minneapolis, MN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a673fb5b1b7d2bd9) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Columbus, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=42748f4cfe75c84a) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Seattle, WA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed4c16311ad8ab4d) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Stamford, CT, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f0128cd132590c80) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Kansas City, MO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5720f5caa8ca8d63) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Sacramento, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30932a7fdbb20d57) | 2026-04-19 |
-| **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Costa Mesa, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc72ec26bd8c9ccd) | 2026-04-19 |
-| **nan** | Founding AI Engineer | Cambridge, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a17a986e704bcbb) | 2026-04-19 |
-| **Blue Cross and Blue Shield of Minnesota** | Senior Enterprise Data Analyst | Eagan, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ba35a561d664a15) | 2026-04-19 |
 
 ---
 
