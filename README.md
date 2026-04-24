@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-24
-- **New Matches Found in Last Run:** 20
-- **Total Active Matches (Last 4 Days):** 952
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 957
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-24.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-24.xlsx)
 
@@ -76,6 +76,7 @@
 | **JPMorganChase** | Software Engineer III - Big Data Pyspark, Java And AWS | Wilmington, DE, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=92ccc9ae466ace7c) | 2026-04-24 |
 | **Openkyber** | Java API Gateway Developer | AK, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=825e1da1e53f7539) | 2026-04-24 |
 | **Openkyber** | Java API Gateway Developer | AK, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0615a052696ffb78) | 2026-04-24 |
+| **Calabrio** | Engineer, Software | US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f67526228c2d8ea) | 2026-04-24 |
 | **Socure** | Data Scientist II - Big Data R&D, Identity Graph & KYC | Carson City, NV, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6859308e43774778) | 2026-04-24 |
 | **Concord USA** | AI Engineer | Dallas-Fort Worth, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a32d52a982f1d22) | 2026-04-24 |
 | **Caris Life Sciences** | Application Scientist - Digital Pathology | Phoenix, AZ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=249f2368c59e1e5a) | 2026-04-24 |
@@ -90,6 +91,9 @@
 | **AMD** | Senior Cloud Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca4d209e381e858e) | 2026-04-24 |
 | **American Express** | AI Engineer II | Phoenix, AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c306a339ac7569f) | 2026-04-24 |
 | **East Harbor** | AI Operator / Engineer | Miami, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ba9dbe2198fbe39a) | 2026-04-24 |
+| **Optum** | Python Software Engineer | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a8243a564207213c) | 2026-04-24 |
+| **University of Alabama** | Development Operations Engineer I | Tuscaloosa, AL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94077e631f4537b0) | 2026-04-24 |
+| **University of Alabama** | Development Operations Engineer I | Tuscaloosa, AL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d9af03ec88b79f1) | 2026-04-24 |
 | **Huron Consulting Group** | Fullstack Engineer - AI Capability Center (Remote) | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a588cd5aa5b5a7b) | 2026-04-24 |
 | **Foot Locker** | Senior Platform Engineer, Observability | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9326828f8e09a8c8) | 2026-04-24 |
 | **Oak Street Health, part of CVS Health** | Data Scientist (Decision Sciences Team) | AL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c61ba9300bc8a8f7) | 2026-04-24 |
@@ -154,6 +158,7 @@
 | **Openkyber** | AI Application Architect | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da2c0daf1aaa4429) | 2026-04-24 |
 | **BDIPlus** | Senior Event Streaming Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3d7d7d17e07dc955) | 2026-04-24 |
 | **FULLTHROTTLE** | SQL/ETL Developer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c80ee59a9e4fa6ba) | 2026-04-24 |
+| **Zoom Communications** | Senior Software Engineer | San Jose, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=995dfe3cc7599f4e) | 2026-04-24 |
 | **eBay** | Full Stack Engineer, Batch Operations | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e05d25284fdf864) | 2026-04-24 |
 | **SponsorUnited** | Software Engineering Intern | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ab60f31545b2c9c) | 2026-04-24 |
 | **MetLife** | Assistant Database Reliability Engineer | Cary, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54e260e9d5d3946a) | 2026-04-24 |
