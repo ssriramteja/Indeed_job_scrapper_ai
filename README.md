@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-24
-- **New Matches Found in Last Run:** 138
-- **Total Active Matches (Last 4 Days):** 918
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 923
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-24.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-24.xlsx)
 
@@ -14,6 +14,7 @@
 | **Humana** | Sr Data Engineer - AI | New York, NY, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0fcd15cbd7eca85e) | 2026-04-24 |
 | **Humana** | Sr Data Engineer - AI | Washington, DC, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=decac87a41515867) | 2026-04-24 |
 | **Humana** | Sr Data Engineer - AI | Tampa, FL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7dac16853e3a0a45) | 2026-04-24 |
+| **Robert E. Mason & Associates** | AI Engineer | Charlotte, NC, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=841c5d40dc8dd444) | 2026-04-24 |
 | **Deloitte** | Deloitte Cyber Forward Deployed Engineer/Senior Consultant | Hermitage, TN, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90c464e383e34580) | 2026-04-24 |
 | **Deloitte** | Deloitte Cyber Forward Deployed Engineer/Senior Consultant | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4886c7943d95fde) | 2026-04-24 |
 | **Deloitte** | Deloitte Cyber Forward Deployed Engineer/Senior Consultant | Richmond, VA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bf2cd6ff1af9152f) | 2026-04-24 |
@@ -81,6 +82,7 @@
 | **Suffolk Construction** | Site AI Engineer | Las Vegas, NV, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0703e81fbc55d324) | 2026-04-24 |
 | **AMD** | Senior Cloud Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca4d209e381e858e) | 2026-04-24 |
 | **American Express** | AI Engineer II | Phoenix, AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c306a339ac7569f) | 2026-04-24 |
+| **East Harbor** | AI Operator / Engineer | Miami, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ba9dbe2198fbe39a) | 2026-04-24 |
 | **Huron Consulting Group** | Fullstack Engineer - AI Capability Center (Remote) | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a588cd5aa5b5a7b) | 2026-04-24 |
 | **Foot Locker** | Senior Platform Engineer, Observability | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9326828f8e09a8c8) | 2026-04-24 |
 | **Oak Street Health, part of CVS Health** | Data Scientist (Decision Sciences Team) | AL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c61ba9300bc8a8f7) | 2026-04-24 |
@@ -139,6 +141,8 @@
 | **eBay** | Full Stack Engineer, Batch Operations | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e05d25284fdf864) | 2026-04-24 |
 | **SponsorUnited** | Software Engineering Intern | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ab60f31545b2c9c) | 2026-04-24 |
 | **MetLife** | Assistant Database Reliability Engineer | Cary, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54e260e9d5d3946a) | 2026-04-24 |
+| **California State Personnel Board** | INFORMATION TECHNOLOGY SPECIALIST I | CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1133298756b1fd23) | 2026-04-24 |
+| **Upstart** | Senior Data Scientist | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14474a4ec1e81991) | 2026-04-24 |
 | **Berkshire Hathaway Direct Insurance Company** | Senior DevOps Engineer | Omaha, NE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fef096b1b6b717ff) | 2026-04-24 |
 | **Booz Allen Hamilton** | DevOps Engineer, Mid | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56d1a74e8f56f3dd) | 2026-04-24 |
 | **Intercontinental Exchange** | Engineer II | Jacksonville, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fefed6d2b771a06b) | 2026-04-24 |
@@ -148,6 +152,7 @@
 | **Citizens** | Sr Data Scientist- Wealth Management & Private Banking | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=119a705243d137e1) | 2026-04-24 |
 | **Hertz** | Sr Revenue Data Analyst | Estero, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25be9f65915b5dd5) | 2026-04-24 |
 | **DigitalOcean** | Senior Forward Deployed Engineer (AI/ML) | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56c429c7b03ea5c2) | 2026-04-24 |
+| **Yale University** | Full Stack Engineer | New Haven, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a2e7e1336575ef22) | 2026-04-24 |
 | **Cognizant** | Software Engineer- Agentic AI & DevOps (Remote) | Dallas, TX, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=983cd52a5aa42147) | 2026-04-23 |
 | **JPMorganChase** | Software Engineer III - AI/ML | Plano, TX, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e288d00b33f48efe) | 2026-04-23 |
 | **Deloitte** | Deloitte Cyber Fullstack Senior Engineer/Senior Consultant | Houston, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0672f1d449c9d9e2) | 2026-04-23 |
