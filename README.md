@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-26
-- **New Matches Found in Last Run:** 156
-- **Total Active Matches (Last 4 Days):** 806
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 809
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-26.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-26.xlsx)
 
@@ -14,6 +14,9 @@
 | **Openkyber** | AI Application Architect | TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ea6d77e96b96335) | 2026-04-26 |
 | **Openkyber** | Backend Software Engineer (Python) | AL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6325226098b53d8c) | 2026-04-26 |
 | **Openkyber** | AI Application Architect | CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f510815207394b27) | 2026-04-26 |
+| **GEICO** | Distinguished Engineer, AI Applications | Palo Alto, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08352ca04517b65c) | 2026-04-26 |
+| **GEICO** | Distinguished Engineer, AI Applications | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ad7eb1df5205c60) | 2026-04-26 |
+| **GEICO** | Distinguished Engineer, AI Applications | Seattle, WA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fd2610911e1527cb) | 2026-04-26 |
 | **Openkyber** | AI Integration Engineer (Java + AI) | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58e46008e082a2c5) | 2026-04-26 |
 | **Openkyber** | Security Backend Engineer (Python) | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a5cd842269d8636) | 2026-04-26 |
 | **Openkyber** | AI Application Architect | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=71483a2ee3003980) | 2026-04-26 |
