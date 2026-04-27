@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-27
-- **New Matches Found in Last Run:** 6
-- **Total Active Matches (Last 4 Days):** 563
+- **New Matches Found in Last Run:** 14
+- **Total Active Matches (Last 4 Days):** 577
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-27.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-27.xlsx)
 
@@ -10,10 +10,18 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Carrier** | AI & Data Solution Architect | GA, US USA | 33.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b75279cc7e23ce8) | 2026-04-27 |
 | **Openkyber** | AI Integration Engineer (Java + AI) | GA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4ff70697f7c7e8d) | 2026-04-27 |
 | **Compass Group USA** | SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) | Charlotte, NC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b9ca9d67a5eb74a0) | 2026-04-27 |
+| **Openkyber** | AWS API Engineer | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dcce665f3a3b0fee) | 2026-04-27 |
 | **Openkyber** | AI Application Architect | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77bc67350b6fe349) | 2026-04-27 |
 | **nan** | AI-agent engineer | Seattle, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58187031da864ba5) | 2026-04-27 |
+| **Goldman Sachs** | Asset & Wealth Management-Full Stack Engineer-Associate-Dallas | Dallas, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9aac95b8620ff52b) | 2026-04-27 |
+| **WinWire** | Technical Architect - Data & Analytics | Newport Beach, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=668b3d9240bad8b3) | 2026-04-27 |
+| **Openkyber** | AWS API Engineer | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5edebdec5daaa4e1) | 2026-04-27 |
+| **Wells Fargo** | Senior Specialty Software Engineer - Capital Markets Reference Data | Charlotte, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37db4c0b07afe64d) | 2026-04-27 |
+| **Humana** | Senior Data Engineer | Nashville, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ba4f4cd3ad0ce6f5) | 2026-04-27 |
+| **Humana** | Senior Data Engineer | Louisville, KY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f06821a24e8c6950) | 2026-04-27 |
 | **AXIOM** | Platform Engineer | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab406fdc25efa811) | 2026-04-27 |
 | **Fidelity Investments** | Senior Software Engineer - Python APIs | Westlake, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f063f9c882ccc12) | 2026-04-27 |
 | **Fidelity Investments** | Senior Software Engineer - Python APIs | Jersey City, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a00e6d7208f216f0) | 2026-04-27 |
@@ -21,8 +29,14 @@
 | **Fidelity Investments** | Senior Cloud and AI Infrastructure Engineer | Merrimack, NH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fd43b753ced7eda4) | 2026-04-27 |
 | **Openkyber** | Java Trainer / Mentor / Educator | NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=327bd44a5b9fe387) | 2026-04-27 |
 | **AXIOM** | Data Analyst | Arlington, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0f8df951309470c) | 2026-04-27 |
+| **Laurate LLC** | Python Developer | Alpharetta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=60a64e3d33dcdbbf) | 2026-04-27 |
+| **Openkyber** | Identity AI / ML Engineer | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7cf10fec99dc5b34) | 2026-04-27 |
+| **Openkyber** | Identity AI / ML Engineer | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=443a2031f17f5a0e) | 2026-04-27 |
+| **Openkyber** | AI Systems Administrator | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5f46c435f5923e4) | 2026-04-27 |
 | **Openkyber** | AI Application Architect | GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=723f07902d0a1dbd) | 2026-04-27 |
 | **Openkyber** | AI Application Architect | GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13e352cab8992d2c) | 2026-04-27 |
+| **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2092bc701501e519) | 2026-04-27 |
+| **Openkyber** | Identity AI / ML Engineer | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a4d3c4afd567d4dc) | 2026-04-27 |
 | **Openkyber** | Python | MA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=55187d9137ae191d) | 2026-04-26 |
 | **Openkyber** | AI Application Architect | TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ea6d77e96b96335) | 2026-04-26 |
 | **Openkyber** | Backend Software Engineer (Python) | AL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6325226098b53d8c) | 2026-04-26 |
