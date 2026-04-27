@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-27
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 557
+- **New Matches Found in Last Run:** 6
+- **Total Active Matches (Last 4 Days):** 563
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-27.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-27.xlsx)
 
@@ -11,9 +11,15 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Openkyber** | AI Integration Engineer (Java + AI) | GA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4ff70697f7c7e8d) | 2026-04-27 |
+| **Compass Group USA** | SR. DATA ENGINEER THREAT MANAGEMENT DATA & ANALYTICS (HYBRID-CHARLOTTE, NC) | Charlotte, NC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b9ca9d67a5eb74a0) | 2026-04-27 |
 | **Openkyber** | AI Application Architect | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77bc67350b6fe349) | 2026-04-27 |
+| **nan** | AI-agent engineer | Seattle, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58187031da864ba5) | 2026-04-27 |
 | **AXIOM** | Platform Engineer | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab406fdc25efa811) | 2026-04-27 |
+| **Fidelity Investments** | Senior Software Engineer - Python APIs | Westlake, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f063f9c882ccc12) | 2026-04-27 |
+| **Fidelity Investments** | Senior Software Engineer - Python APIs | Jersey City, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a00e6d7208f216f0) | 2026-04-27 |
 | **Openkyber** | Java Trainer / Mentor / Educator | IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=615df761a4f7bebe) | 2026-04-27 |
+| **Fidelity Investments** | Senior Cloud and AI Infrastructure Engineer | Merrimack, NH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fd43b753ced7eda4) | 2026-04-27 |
+| **Openkyber** | Java Trainer / Mentor / Educator | NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=327bd44a5b9fe387) | 2026-04-27 |
 | **AXIOM** | Data Analyst | Arlington, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0f8df951309470c) | 2026-04-27 |
 | **Openkyber** | AI Application Architect | GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=723f07902d0a1dbd) | 2026-04-27 |
 | **Openkyber** | AI Application Architect | GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13e352cab8992d2c) | 2026-04-27 |
