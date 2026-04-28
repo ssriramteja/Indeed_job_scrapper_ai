@@ -1,172 +1,128 @@
 # 🎯 Daily Job Matches — 2026-04-28
 
-**Total Jobs Found:** 15
+**Total Jobs Found:** 11
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Software Engineer @ Gappify
+## 1. Senior Software Engineer - Platform & Integrations @ Seismic
+**Match Score:** 16.7%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AI Engineer, RAG, Copilot, Docker, Kubernetes, CI/CD, Terraform, Git, Snowflake, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cca2fb47a24092c1)
+
+---
+
+## 2. SW/Agentic Engineer, Early Career @ Viasat
+**Match Score:** 15.6%
+
+📍 **Location:** Carlsbad, CA, US USA
+
+🔑 **Keywords:** Generative AI, LangChain, RAG, LLaMA, Gemini, Docker, Kubernetes, Terraform, Git, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=54066ace05109456)
+
+---
+
+## 3. Senior Specialty Software Engineer - Capital Markets Reference Data @ Wells Fargo
+**Match Score:** 14.4%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** RAG, Prompt Engineering, CI/CD, GitHub Actions, Git, PySpark, Kafka, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f0e85b21f1fb3187)
+
+---
+
+## 4. Applications Program Analyst @ Visa
 **Match Score:** 13.3%
 
-📍 **Location:** San Ramon, CA, US USA
+📍 **Location:** Foster City, CA, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git, NoSQL, SQL, R
+🔑 **Keywords:** Generative AI, RAG, TensorFlow, PyTorch, Docker, Kubernetes, Jenkins, Git, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=30d37540247c479f)
+[Apply Here](https://www.indeed.com/viewjob?jk=c3da39e418826fb3)
 
 ---
 
-## 2. Senior Software Engineer - Django/Python @ ATG
+## 5. Associate AI Engineer / AI Engineer @ Applied Systems
 **Match Score:** 13.3%
 
-📍 **Location:** North Little Rock, AR, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** S3, Docker, CI/CD, GitHub Actions, Terraform, Git, PostgreSQL, Python, SQL, R
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, RAG, BigQuery, Git, BigQuery, Tableau, Power BI, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e959c5c2ece017ba)
+[Apply Here](https://www.indeed.com/viewjob?jk=41a535507585dd6f)
 
 ---
 
-## 3. Senior Software Engineer - Django/Python @ ATG
+## 6. Associate AI Engineer / AI Engineer @ Applied Systems
 **Match Score:** 13.3%
 
-📍 **Location:** Phoenix, AZ, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** S3, Docker, CI/CD, GitHub Actions, Terraform, Git, PostgreSQL, Python, SQL, R
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, RAG, BigQuery, Git, BigQuery, Tableau, Power BI, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=df9a48331ce93c56)
-
----
-
-## 4. Backend Engineer @ Pansophic Learning
-**Match Score:** 13.3%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** S3, EC2, Docker, CI/CD, Git, PostgreSQL, MongoDB, NoSQL, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=186a44966b498912)
+[Apply Here](https://www.indeed.com/viewjob?jk=fb0293a3422506f5)
 
 ---
 
-## 5. Backend Engineer @ Pansophic Learning
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** S3, EC2, Docker, CI/CD, Git, PostgreSQL, MongoDB, NoSQL, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=44f5a74b17141f9d)
-
----
-
-## 6. Backend Engineer @ Pansophic Learning
-**Match Score:** 13.3%
-
-📍 **Location:** Tysons Corner, VA, US USA
-
-🔑 **Keywords:** S3, EC2, Docker, CI/CD, Git, PostgreSQL, MongoDB, NoSQL, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0c61fbc863b2f656)
-
----
-
-## 7. Machine Learning Engineer, Monetization & Decision Systems @ Quizlet
-**Match Score:** 12.2%
-
-📍 **Location:** Denver, NY, US USA
-
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, PyTorch, XGBoost, LightGBM, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d051a2cb03b6990b)
-
----
-
-## 8. Software Engineer I @ Cox Automotive
-**Match Score:** 12.2%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Terraform, Git, NoSQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c91fb1173ff23885)
-
----
-
-## 9. Software Engineer I @ Cox Automotive
-**Match Score:** 12.2%
-
-📍 **Location:** Burlington, VT, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Terraform, Git, NoSQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=adfbfb113d4a2bb4)
-
----
-
-## 10. Software Engineer I @ Cox Automotive
-**Match Score:** 12.2%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Terraform, Git, NoSQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=97a469c545b3f102)
-
----
-
-## 11. Machine Learning Engineer @ FIT:MATCH.AI
-**Match Score:** 12.2%
-
-📍 **Location:** Fort Lauderdale, FL, US USA
-
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, TensorFlow, PyTorch, Keras, Docker, Kubernetes, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c736a647fce4c9ed)
-
----
-
-## 12. Senior Software Engineer (Full Stack Java/React) - Commissions Platform - HYBRID @ GEICO
+## 7. Senior Product Associate-Data Platform @ JPMorganChase
 **Match Score:** 11.1%
 
-📍 **Location:** Bethesda, MD, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** RAG, Copilot, Prompt Engineering, CI/CD, Git, NoSQL, SQL, R, Java, Scala
+🔑 **Keywords:** Generative AI, RAG, S3, Data Lake, Git, Snowflake, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f93af729588ee4ac)
-
----
-
-## 13. Senior Software Engineer (Full Stack Java/React) - Commissions Platform - HYBRID @ GEICO
-**Match Score:** 11.1%
-
-📍 **Location:** Richardson, TX, US USA
-
-🔑 **Keywords:** RAG, Copilot, Prompt Engineering, CI/CD, Git, NoSQL, SQL, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6f14e14d98832164)
+[Apply Here](https://www.indeed.com/viewjob?jk=53da743c89a3c74e)
 
 ---
 
-## 14. AI Architect @ Aroha Technologies
+## 8. Solutions Architect @ Revstar
 **Match Score:** 11.1%
+
+📍 **Location:** TX, US USA
+
+🔑 **Keywords:** Generative AI, RAG, S3, Glue, Redshift, Data Lake, Redshift, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7ddd609e45b7c084)
+
+---
+
+## 9. Solutions Architect @ Revstar
+**Match Score:** 11.1%
+
+📍 **Location:** AZ, US USA
+
+🔑 **Keywords:** Generative AI, RAG, S3, Glue, Redshift, Data Lake, Redshift, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6cb6bbaef0ba5ef7)
+
+---
+
+## 10. Solutions Architect @ Revstar
+**Match Score:** 11.1%
+
+📍 **Location:** FL, US USA
+
+🔑 **Keywords:** Generative AI, RAG, S3, Glue, Redshift, Data Lake, Redshift, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7ea0d12996c496b4)
+
+---
+
+## 11. Engineer (AI Driven Software Engineering, Java, Spring Boot, AWS) Remote @ Mutual of Omaha
+**Match Score:** 10.0%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RAG, S3, Glue, MLflow, Databricks, PySpark, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Kafka, MongoDB, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7f7113fe3fafcf1f)
-
----
-
-## 15. AI Analyst- Construction Technology @ VIVA Railings LLC
-**Match Score:** 10.0%
-
-📍 **Location:** Lewisville, TX, US USA
-
-🔑 **Keywords:** Data Scientist, Docker, Kubernetes, CI/CD, NoSQL, SQL, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0980ade5cd298a13)
+[Apply Here](https://www.indeed.com/viewjob?jk=cea557739367886c)
 
 ---
 
