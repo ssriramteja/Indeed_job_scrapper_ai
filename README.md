@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-29
-- **New Matches Found in Last Run:** 43
-- **Total Active Matches (Last 4 Days):** 641
+- **New Matches Found in Last Run:** 11
+- **Total Active Matches (Last 4 Days):** 652
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-29.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-29.xlsx)
 
@@ -20,6 +20,7 @@
 | **JPMorganChase** | Software Engineer III - Python/AWS/Kafka | Jersey City, NJ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4746654ac02162e7) | 2026-04-29 |
 | **JPMorganChase** | Machine Learning Engineer – Document Digitization (LLMs)-Senior Associate | Jersey City, NJ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cb22b5fd6ba5a411) | 2026-04-29 |
 | **JPMorganChase** | Senior AWS Engineer - ML | Houston, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f410f9011272b97) | 2026-04-29 |
+| **CloudGeometry** | AI Developer | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=494b669d4a90f93c) | 2026-04-29 |
 | **Visa** | Software Development Engineer- Product Reliability Engineering | Austin, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56f3e1e9f656a621) | 2026-04-29 |
 | **Lockheed Martin** | AI Full Stack Engineer – Agentic Systems & Ontology | Bethesda, MD, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd7d7368e404924f) | 2026-04-29 |
 | **Lockheed Martin** | AI Full Stack Engineer – Agentic Systems & Ontology | Bethesda, MD, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=87e977599d57a075) | 2026-04-29 |
@@ -35,6 +36,7 @@
 | **Visa** | Senior Software Engineer | Austin, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f9baea6a8489959) | 2026-04-29 |
 | **JPMorganChase** | Cloud Infrastructure Engineer III | Columbus, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6994e257c5b37ab4) | 2026-04-29 |
 | **AMD** | AI & DevOps Software Development Engineer | San Jose, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f6ff015e222f1d1) | 2026-04-29 |
+| **General Motors (GM)** | Software Developer - Used Car Marketplace | Austin, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ed2aa63753dfb4c) | 2026-04-29 |
 | **Riot Games** | Senior Software Engineer - Publishing Platform, Social: Behavior Evaluation and Moderation | Los Angeles, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=407767f0445fd355) | 2026-04-29 |
 | **Riot Games** | Senior Software Engineer - Publishing Platform, Social: Behavior Evaluation and Moderation | Seattle, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c20129389c006a02) | 2026-04-29 |
 | **Equifax** | Senior Software Engineer - Backend (Java) | Alpharetta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2213405e0bc35e97) | 2026-04-29 |
@@ -47,6 +49,7 @@
 | **JPMorganChase** | Applied AI/ML - Senior Associate | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1923a19d1e487938) | 2026-04-29 |
 | **JPMorganChase** | Compliance - Applied AI/ML Senior Associate | Jersey City, NJ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c9555a4f977d02c6) | 2026-04-29 |
 | **JPMorganChase** | Software Engineer III – Cloud Quality Engineering – Java / AWS | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7fa91431b3f9389c) | 2026-04-29 |
+| **GEICO** | Sr. Software Engineer | Bethesda, MD, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af03499a4d1674ae) | 2026-04-29 |
 | **Parallel Domain** | Senior Site Reliability Engineer | Pacific, MO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0fb764d6d9f3687d) | 2026-04-29 |
 | **Deloitte** | Data Analytics Consultant - Data Lake | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4670bab8b7f5915b) | 2026-04-29 |
 | **Ingevity** | Data Engineer | North Charleston, SC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=16901eb9125326fa) | 2026-04-29 |
@@ -84,6 +87,9 @@
 | **JPMorganChase** | Applied AI/ML - Senior Associate | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7283f1a0d16c594b) | 2026-04-29 |
 | **JPMorganChase** | Software Engineer III- Python/PySpark | Jersey City, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e02e62d3136c61c7) | 2026-04-29 |
 | **JPMorganChase** | Python Engineer, Senior Associate | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b88929d02f381224) | 2026-04-29 |
+| **Revstar** | Full Stack Web Developer | TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=934468e669a4c3eb) | 2026-04-29 |
+| **Revstar** | Full Stack Web Developer | AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b3b92c71d4ed281) | 2026-04-29 |
+| **Revstar** | Full Stack Web Developer | FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e87bd4ec5626fc3) | 2026-04-29 |
 | **PNM** | IT Data Platform Data Engineer (2 Openings) | Albuquerque, NM, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5b8dc4289e41437b) | 2026-04-29 |
 | **Caterpillar** | Senior Data Scientist - Artificial Intelligence R&D | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df64769902cbcb90) | 2026-04-29 |
 | **GoodRx** | Software Engineer III | CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=229fe3d74e04ef06) | 2026-04-29 |
@@ -114,6 +120,8 @@
 | **JPMorganChase** | Software Engineer III - Infrastructure, Cloud, DevOps | Plano, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7c26f1497a9a648) | 2026-04-29 |
 | **JPMorganChase** | Sr Associate - Devops Engineer - CIB | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96fc16ade5a65ebc) | 2026-04-29 |
 | **JPMorganChase** | AIML Sr. Associate - DCL | Jersey City, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=573b3cad20b78128) | 2026-04-29 |
+| **Gen II Fund Services** | Software Engineer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80226d6fbecc470c) | 2026-04-29 |
+| **AT&T** | Senior Advanced Analytics | El Segundo, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f8340f2d811ad9a) | 2026-04-29 |
 | **BuyWander** | Senior Software Engineer (Search & Personalization) | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=feb2eb26cf0fd44a) | 2026-04-29 |
 | **Qualitest** | Data Architect | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=636200b9f169089b) | 2026-04-29 |
 | **Royal Caribbean Group** | Senior Engineer, AIOps | Miami, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb5b78badf306d8b) | 2026-04-29 |
@@ -129,6 +137,9 @@
 | **Keysight Technologies** | R&D Test Software Engineer | Santa Rosa, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=264c67cc2fc164d1) | 2026-04-29 |
 | **JPMorganChase** | Investment Risk & Analytics - Quant Modeling Senior Associate | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c9e947c122eedad) | 2026-04-29 |
 | **JPMorganChase** | Data Science Senior Associate - Card Data & Analytics team | Wilmington, DE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=595f0aa7ef50553f) | 2026-04-29 |
+| **American Electric Power** | APIM Platform Engineer | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47bac77667df2f3b) | 2026-04-29 |
+| **Capital One** | Senior Associate, Data Scientist - Audit Data Science | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77da88c9d06df850) | 2026-04-29 |
+| **skyline career** | Data Scientist | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9911d696f52afa7c) | 2026-04-29 |
 | **Ansell** | Senior AI Engineer | US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ddfd90d1833c2dcd) | 2026-04-28 |
 | **Corebridge** | Data Engineer - Snowflake | Houston, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d3afad6ecd5a25a2) | 2026-04-28 |
 | **Advantest** | Data Science AI/ML Engineer | Somerset, NJ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=711af4b890604e66) | 2026-04-28 |
