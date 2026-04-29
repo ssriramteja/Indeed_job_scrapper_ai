@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-29
-- **New Matches Found in Last Run:** 72
-- **Total Active Matches (Last 4 Days):** 594
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 598
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-29.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-29.xlsx)
 
@@ -59,6 +59,8 @@
 | **Deloitte** | Data Analytics Senior Consultant - Data Lake | Raleigh, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=42b11eaaacb71156) | 2026-04-29 |
 | **Deloitte** | Data Analytics Senior Consultant - Data Lake | Sacramento, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bfc1825d0a82ef99) | 2026-04-29 |
 | **Deloitte** | Data Analytics Senior Consultant - Data Lake | Los Angeles, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=75ddf8488621832b) | 2026-04-29 |
+| **U.S. Bank** | Software Engineer 2 (ASP.Net, JavaScript) | Hopkins, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d9b425be97561359) | 2026-04-29 |
+| **U.S. Bank** | Software Engineer 2 (ASP.Net, JavaScript) | Irving, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ddd31656372be17d) | 2026-04-29 |
 | **PNM** | IT Data Platform Data Engineer (2 Openings) | Albuquerque, NM, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5b8dc4289e41437b) | 2026-04-29 |
 | **Caterpillar** | Senior Data Scientist - Artificial Intelligence R&D | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df64769902cbcb90) | 2026-04-29 |
 | **GoodRx** | Software Engineer III | CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=229fe3d74e04ef06) | 2026-04-29 |
@@ -67,6 +69,8 @@
 | **mSupply** | Senior Engineer, Data | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea0932849bb0db18) | 2026-04-29 |
 | **NTT DATA** | Azure AI Platform Engineer | Plano, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2271f71f6ae94335) | 2026-04-29 |
 | **VivSoft technologies** | Application Software Developer (Full Stack Developer) | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70e774dd2a6574f3) | 2026-04-29 |
+| **Plaid** | Analytics Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11db7fe908a5e013) | 2026-04-29 |
+| **Keytronic** | AI Engineer | Spokane Valley, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b515489c29ca0dd2) | 2026-04-29 |
 | **PHOENIX BIOINFORMATICS** | Full Stack Software Engineer | Newark, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1fda7c3c450c1251) | 2026-04-29 |
 | **NavitasPartners** | AI/ML Software Engineer (LLM, RAG & Automation) - SWENGG 26-04739 | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d20289a5e0fbadcc) | 2026-04-29 |
 | **Cadent** | Associate Data Scientist | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80e08e2f472d6e31) | 2026-04-29 |
