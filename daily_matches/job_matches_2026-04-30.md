@@ -1,348 +1,909 @@
 # 🎯 Daily Job Matches — 2026-04-30
 
-**Total Jobs Found:** 31
+**Total Jobs Found:** 82
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AI Engineer @ Metropolitan Commercial Bank
-**Match Score:** 28.9%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, LLaMA, Prompt Engineering, TensorFlow, PyTorch, Keras
-
-[Apply Here](https://www.indeed.com/viewjob?jk=25250927f01c87fd)
-
----
-
-## 2. Software Engineer, Full Stack - AI (Chicago) @ Fitch Group
-**Match Score:** 17.8%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AI Engineer, RAG, Copilot, S3, Glue, FastAPI, CI/CD, Git, Snowflake, PySpark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d4bb35a3533f1ee6)
-
----
-
-## 3. Engineering & Quality - Software Engineer, Full Stack - AI @ Fitch Group
-**Match Score:** 17.8%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AI Engineer, RAG, Copilot, S3, Glue, FastAPI, CI/CD, Git, Snowflake, PySpark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cf6b928dd59e0c41)
-
----
-
-## 4. Forward-Deployed Data Scientist II @ Braze
-**Match Score:** 17.8%
+## 1. Senior Software Engineer – Python / PySpark (Mainframe Modernization) (contract) @ Wells Fargo
+**Match Score:** 23.3%
 
 📍 **Location:** San Francisco, CA, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, TensorFlow, XGBoost, CatBoost, Keras, Kubernetes, CI/CD, Terraform
+🔑 **Keywords:** LangChain, S3, Glue, Redshift, Data Lake, FastAPI, Kubernetes, CI/CD, Jenkins, GitHub Actions
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6050c9d7e9e4663e)
+[Apply Here](https://www.indeed.com/viewjob?jk=015fe1a494f266bf)
 
 ---
 
-## 5. Forward-Deployed Data Scientist II @ Braze
+## 2. Senior Engineer - Agentic AI @ Tata Consultancy Services (TCS)
+**Match Score:** 21.1%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** AI Engineer, LangChain, RAG, Pinecone, Prompt Engineering, TensorFlow, PyTorch, FastAPI, Docker, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5daf8f72a4fd9ab6)
+
+---
+
+## 3. AI Engineer / Data Scientist @ Vibotek LLC
+**Match Score:** 18.9%
+
+📍 **Location:** St. Louis, MO, US USA
+
+🔑 **Keywords:** AI Engineer, Data Scientist, LLaMA, Gemini, Copilot, S3, Docker, Kubernetes, CI/CD, Git
+
+[Apply Here](https://www.indeed.com/viewjob?jk=08d6323e8d4d4853)
+
+---
+
+## 4. Artificial Intelligence - AI Architect @ Pellera Technologies
 **Match Score:** 17.8%
 
-📍 **Location:** Austin, TX, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, TensorFlow, XGBoost, CatBoost, Keras, Kubernetes, CI/CD, Terraform
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, FAISS, Pinecone, Prompt Engineering, TensorFlow, PyTorch
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3646206d4fca8b7e)
+[Apply Here](https://www.indeed.com/viewjob?jk=9a3d30d5e319287f)
 
 ---
 
-## 6. Forward-Deployed Data Scientist II @ Braze
+## 5. Artificial Intelligence - AI Architect @ Pellera Technologies
 **Match Score:** 17.8%
 
-📍 **Location:** Chicago, IL, US USA
+📍 **Location:** US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, TensorFlow, XGBoost, CatBoost, Keras, Kubernetes, CI/CD, Terraform
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, FAISS, Pinecone, Prompt Engineering, TensorFlow, PyTorch
 
-[Apply Here](https://www.indeed.com/viewjob?jk=cb7fc938c9d80265)
+[Apply Here](https://www.indeed.com/viewjob?jk=0a2673c495261449)
 
 ---
 
-## 7. Forward-Deployed Data Scientist II @ Braze
+## 6. Senior Machine Learning Engineer (Remote) @ The Home Depot
 **Match Score:** 17.8%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Tallahassee, FL, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, TensorFlow, XGBoost, CatBoost, Keras, Kubernetes, CI/CD, Terraform
+🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Gensim, BigQuery, CI/CD, Git, BigQuery, NoSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e853103e53ab09ef)
-
----
-
-## 8. Software Engineer, Identity and Access Management @ Fitch Group
-**Match Score:** 16.7%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** LangChain, RAG, LLaMA, Copilot, Prompt Engineering, Kubernetes, CI/CD, GitHub Actions, Git, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fd39762b7995bcd8)
+[Apply Here](https://www.indeed.com/viewjob?jk=fdbdb16275078800)
 
 ---
 
-## 9. Senior Data Engineer @ Credera
-**Match Score:** 16.7%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, Git, Kafka, Hadoop, MySQL, MongoDB, Cassandra, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a2859c21fcc6b9b6)
-
----
-
-## 10. Senior Data Engineer @ Credera
-**Match Score:** 16.7%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, Git, Kafka, Hadoop, MySQL, MongoDB, Cassandra, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9e65ae12c9231691)
-
----
-
-## 11. Senior Data Engineer @ Credera
-**Match Score:** 16.7%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, Git, Kafka, Hadoop, MySQL, MongoDB, Cassandra, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=deb9ad8464ceb6e6)
-
----
-
-## 12. Senior Data Engineer @ Credera
-**Match Score:** 16.7%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, Git, Kafka, Hadoop, MySQL, MongoDB, Cassandra, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0faede29102fb7e1)
-
----
-
-## 13. Sr. Data Engineer @ Intelligent Medical Objects
-**Match Score:** 15.6%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** Data Scientist, S3, EC2, CI/CD, Terraform, Git, Databricks, Tableau, Power BI, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c4869d3a6ac24136)
-
----
-
-## 14. Software Engineer (Apps) @ WD
+## 7. Full Stack Data Engineer @ nan
 **Match Score:** 14.4%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** Morrisville, NC, US USA
 
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Kubernetes, Jenkins, Git, Kafka, MySQL, MongoDB, Python
+🔑 **Keywords:** RAG, BigQuery, CI/CD, Git, Snowflake, BigQuery, MySQL, Tableau, Power BI, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3c6c0fdf55419fe1)
+[Apply Here](https://www.indeed.com/viewjob?jk=de10d304d09880c3)
 
 ---
 
-## 15. Software Development in Test (SDET III) @ LVT (LiveView Technologies)
+## 8. DevOps Engineer @ Marsh McLennan Agency
 **Match Score:** 14.4%
 
-📍 **Location:** American Fork, UT, US USA
+📍 **Location:** White Plains, NY, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git, MongoDB, NoSQL, Python
+🔑 **Keywords:** Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, MySQL, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f788c85d6ae79fd9)
+[Apply Here](https://www.indeed.com/viewjob?jk=b6594661d6157820)
 
 ---
 
-## 16. Senior Software Engineer, AI @ Fitch Group
+## 9. Platform Engineer @ Cityblock Health
 **Match Score:** 14.4%
 
-📍 **Location:** Chicago, IL, US USA
+📍 **Location:** US USA
 
-🔑 **Keywords:** Generative AI, LangChain, RAG, LLaMA, TensorFlow, PyTorch, MLflow, FastAPI, Docker, Kubernetes
+🔑 **Keywords:** RAG, Copilot, BigQuery, CI/CD, GitHub Actions, Terraform, Git, BigQuery, PostgreSQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=898eeb6efd9d40c8)
+[Apply Here](https://www.indeed.com/viewjob?jk=76d763c610ac1510)
 
 ---
 
-## 17. Software Engineer I – AI Assistant Framework, ArcGIS Enterprise @ Esri
+## 10. Full Stack, Data & Analytics Engineer @ SCAN Health Plan
 **Match Score:** 14.4%
 
-📍 **Location:** Redlands, CA, US USA
+📍 **Location:** Long Beach, CA, US USA
 
-🔑 **Keywords:** RAG, FastAPI, Docker, CI/CD, Jenkins, GitHub Actions, Git, PostgreSQL, Python, SQL
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, RAG, Cortex, Snowflake, Databricks, PySpark, Tableau, Power BI
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2546eaf4a3e50baf)
+[Apply Here](https://www.indeed.com/viewjob?jk=6b0db4093988ff3c)
 
 ---
 
-## 18. Data Scientist @ Stellantis
+## 11. Marketing Data Scientist, Measurement & Modeling @ Fleetpride
 **Match Score:** 14.4%
 
-📍 **Location:** Auburn Hills, MI, US USA
+📍 **Location:** Irving, TX, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, XGBoost, LightGBM, CI/CD, Snowflake, Databricks, PySpark, Power BI, Python
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, BigQuery, Git, BigQuery, Power BI, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8391d1c18c025a89)
+[Apply Here](https://www.indeed.com/viewjob?jk=529e29eaf69cc617)
 
 ---
 
-## 19. Senior AI Product Engineer | Growth and Transformation @ Red Ventures
+## 12. Solution Architect - Agentic AI & Data @ Tata Consultancy Services (TCS)
 **Match Score:** 13.3%
 
-📍 **Location:** Charlotte, NC, US USA
+📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** AI Engineer, LangChain, RAG, Prompt Engineering, CI/CD, GitHub Actions, Terraform, Git, Kafka, Python
+🔑 **Keywords:** Generative AI, LangChain, RAG, Hugging Face, Prompt Engineering, Data Lake, CI/CD, NoSQL, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=428aea251223d821)
+[Apply Here](https://www.indeed.com/viewjob?jk=4e691105221837bb)
 
 ---
 
-## 20. Data Platform Architect (Snowflake) @ Coastal
+## 13. Solution Architect - Agentic AI & Data BFSI Industry @ Tata Consultancy Services (TCS)
+**Match Score:** 13.3%
+
+📍 **Location:** Edison, NJ, US USA
+
+🔑 **Keywords:** Generative AI, LangChain, RAG, Hugging Face, Prompt Engineering, Data Lake, CI/CD, NoSQL, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1d65a3008f896bd3)
+
+---
+
+## 14. Senior Software Engineer @ Omada Health
+**Match Score:** 13.3%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, PostgreSQL, MySQL, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=02f1a08365eebef5)
+
+---
+
+## 15. Solutions Architect @ Nerdio
 **Match Score:** 13.3%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Data Lake, Git, Snowflake, Databricks, Tableau, Python, SQL
+🔑 **Keywords:** AI Engineer, RAG, Copilot, Docker, CI/CD, GitHub Actions, Git, PostgreSQL, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=58854506afe876e4)
+[Apply Here](https://www.indeed.com/viewjob?jk=90c972610e28a907)
 
 ---
 
-## 21. Software Engineer II, ML Ops @ Generate Biomedicines
+## 16. Specialist Software Developer B2B Commerce @ McKesson
 **Match Score:** 12.2%
 
-📍 **Location:** Somerville, MA, US USA
+📍 **Location:** Richmond, VA, US USA
 
-🔑 **Keywords:** Data Scientist, Copilot, Redshift, Kubernetes, CI/CD, Redshift, PostgreSQL, Python, SQL, R
+🔑 **Keywords:** Generative AI, RAG, Docker, Kubernetes, CI/CD, Git, Kafka, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0ed0e8d914cf2fc3)
-
----
-
-## 22. Solutions Engineer @ Numa
-**Match Score:** 11.1%
-
-📍 **Location:** Bozeman, MT, US USA
-
-🔑 **Keywords:** RAG, Prompt Engineering, Tableau, Power BI, Python, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f9f4f2ed5d680066)
+[Apply Here](https://www.indeed.com/viewjob?jk=83c63e4abd182019)
 
 ---
 
-## 23. Associate AWS Cloud Migration Engineer @ Bespin Global
-**Match Score:** 11.1%
+## 17. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Barrington, RI, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5e8028d0d5b1df65)
+
+---
+
+## 18. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Caldwell, ID, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a5cdda50be7be595)
+
+---
+
+## 19. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Marion, IA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c871627a5fbd7d46)
+
+---
+
+## 20. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Birmingham, AL, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=129e7c3974efc5f3)
+
+---
+
+## 21. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Newmarket, NH, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ed8aea93c76f0472)
+
+---
+
+## 22. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Phoenix, AZ, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7559827bdb57a0fb)
+
+---
+
+## 23. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Frankfort, KY, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=74277bcbbe107636)
+
+---
+
+## 24. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Portland, OR, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=12cae2ae25e8b014)
+
+---
+
+## 25. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Rehoboth Beach, DE, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6306faf8c94f493a)
+
+---
+
+## 26. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Liberty, MO, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6e0abbf2db2329d7)
+
+---
+
+## 27. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Greenville, SC, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fddf6b2cd77b36d0)
+
+---
+
+## 28. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Nashville, TN, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6232b3c854695d12)
+
+---
+
+## 29. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Portland, ME, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2acdbfef72fe8382)
+
+---
+
+## 30. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Tulsa, OK, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=667feb24362ea298)
+
+---
+
+## 31. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Fargo, ND, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dd95cb5f129ba4a3)
+
+---
+
+## 32. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Provo, UT, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=27fe3748b4c6e9ac)
+
+---
+
+## 33. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Harrisburg, PA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=96e55f69edf8e710)
+
+---
+
+## 34. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Newport, MI, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7f877d29517d1e8c)
+
+---
+
+## 35. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Hudson, WI, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=578051612c793f74)
+
+---
+
+## 36. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Annapolis, MD, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a2a751d1b4654154)
+
+---
+
+## 37. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
 
 📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** Copilot, S3, EC2, Terraform, Git, PostgreSQL, MySQL, Python, SQL, R
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f3c6637d314836da)
+[Apply Here](https://www.indeed.com/viewjob?jk=720d2d19c637dbd7)
 
 ---
 
-## 24. Senior Software Engineer @ Fluke
+## 38. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Baton Rouge, LA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7d3ec8a3acdaf608)
+
+---
+
+## 39. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Jacksonville, FL, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9bcde40daa1b5a67)
+
+---
+
+## 40. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Las Vegas, NV, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b19225c5d43f5354)
+
+---
+
+## 41. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Indianapolis, IN, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a9eda53066f047cc)
+
+---
+
+## 42. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Omaha, NE, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1d2b852deb59b35a)
+
+---
+
+## 43. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Dayton, MN, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8ebd8c576a7f84b5)
+
+---
+
+## 44. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Richland, WA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3c43ffb9dc8728db)
+
+---
+
+## 45. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Derby, CT, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0deee98ca536f71b)
+
+---
+
+## 46. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=48cbf9152cf68ba9)
+
+---
+
+## 47. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Monrovia, CA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5c245b04f72dbcaf)
+
+---
+
+## 48. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Clinton, MS, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3c0ae7ba24ecce9d)
+
+---
+
+## 49. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Watson, AR, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=937b2de1fa924199)
+
+---
+
+## 50. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4fb756925d51a6b1)
+
+---
+
+## 51. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Tyler, TX, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=589226c2de6af70c)
+
+---
+
+## 52. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Boulder, CO, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1721b2eddbb95215)
+
+---
+
+## 53. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Stafford, VA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=85f8c3b8c340ef19)
+
+---
+
+## 54. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Overland Park, KS, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7e411377c0061c4f)
+
+---
+
+## 55. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Columbus, OH, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=193365b70ef7abc6)
+
+---
+
+## 56. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Missoula, MT, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5fb5e93fe4c3b2ad)
+
+---
+
+## 57. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Parlin, NJ, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9b8a979d87a9e8d2)
+
+---
+
+## 58. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Albuquerque, NM, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8adc97440a91f562)
+
+---
+
+## 59. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Medway, MA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5260f1234c40edbb)
+
+---
+
+## 60. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Indianapolis, IN, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f2191c8bc4701830)
+
+---
+
+## 61. SDET- Payments & Telehealth @ Ensora Health
+**Match Score:** 12.2%
+
+📍 **Location:** Pierre, SD, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, GitHub Actions, Git, MySQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6c6b9c845547786b)
+
+---
+
+## 62. AI Platform Engineer @ Great American Insurance Group
+**Match Score:** 12.2%
+
+📍 **Location:** Cincinnati, OH, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, Pinecone, Prompt Engineering, Kubernetes, CI/CD, Terraform, Git, Python, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=26f70104d9111875)
+
+---
+
+## 63. Senior Software Engineer – Cloud Engineering & FinOps @ General Motors (GM)
+**Match Score:** 12.2%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d576082b1c56db5c)
+
+---
+
+## 64. Senior DevOps Engineer @ Zoom Communications
+**Match Score:** 12.2%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** S3, EC2, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Python, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=467517a4a9d5a827)
+
+---
+
+## 65. Senior DevOps Engineer - Kubernetes @ FICO
+**Match Score:** 12.2%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RAG, S3, EC2, Kubernetes, CI/CD, Terraform, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0656c0ad796ae71d)
+
+---
+
+## 66. Consultant Analytical Engineer Expanse @ HCA Healthcare
 **Match Score:** 11.1%
 
-📍 **Location:** Everett, WA, US USA
+📍 **Location:** Nashville, TN, US USA
 
-🔑 **Keywords:** RAG, S3, EC2, CI/CD, PostgreSQL, Python, SQL, R, Java, Scala
+🔑 **Keywords:** RAG, Redshift, Redshift, Hadoop, Tableau, Power BI, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=de9989cbbb09da95)
+[Apply Here](https://www.indeed.com/viewjob?jk=876ab4f30e6dcf55)
 
 ---
 
-## 25. Senior Software Engineer @ Shipt
+## 67. Software Engineer | Infrastructure | Government @ Gecko Robotics
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** RAG, Docker, CI/CD, GitHub Actions, Terraform, Git, Python, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ec38365c22e7be8d)
+
+---
+
+## 68. Software Engineer | Infrastructure | Government @ Gecko Robotics
+**Match Score:** 11.1%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** RAG, Docker, CI/CD, GitHub Actions, Terraform, Git, Python, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1c66812735b42a64)
+
+---
+
+## 69. Site Reliability Engineer @ Visa
+**Match Score:** 11.1%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git, Python, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c14f672c98afd19d)
+
+---
+
+## 70. Data Scientist II @ Honeywell
+**Match Score:** 11.1%
+
+📍 **Location:** Pittsford, NY, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Tableau, Power BI, Matplotlib, Python, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6b0e815fda68f793)
+
+---
+
+## 71. AI Analyst - Finance Technology @ Victaulic
+**Match Score:** 11.1%
+
+📍 **Location:** PA, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Copilot, Prompt Engineering, Cortex, Snowflake, Python, SQL, R, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=abbc07673832f61b)
+
+---
+
+## 72. Senior Software Engineer – Data Product APIs @ LocaliQ
 **Match Score:** 10.0%
 
-📍 **Location:** Minneapolis, MN, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Gemini, CI/CD, Git, Kafka, Python, SQL, R, Java, Scala
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=54f9fcd23bd2eaba)
+[Apply Here](https://www.indeed.com/viewjob?jk=0532bb0b7078fc32)
 
 ---
 
-## 26. Senior Data Engineer @ K Health
+## 73. Senior Software Engineer – Data Product APIs @ USA TODAY Co.
+**Match Score:** 10.0%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8807311fbfef226d)
+
+---
+
+## 74. Senior Software Engineer – Data Product APIs @ USA TODAY Co.
+**Match Score:** 10.0%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e5822dcce000fd7b)
+
+---
+
+## 75. Senior Software Engineer – Data Product APIs @ LocaliQ
+**Match Score:** 10.0%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b312af6879027a5e)
+
+---
+
+## 76. Senior Full Stack Software Engineer @ Acrisure LLC
+**Match Score:** 10.0%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** RAG, BigQuery, Dataflow, Kubernetes, Git, BigQuery, Python, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1e7ff5bddbfce18c)
+
+---
+
+## 77. Software Engineer | Infrastructure @ Gecko Robotics
+**Match Score:** 10.0%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** RAG, Docker, CI/CD, GitHub Actions, Terraform, Git, Python, R, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c73f48532742c596)
+
+---
+
+## 78. Test & Reliability Engineer @ Gecko Robotics
+**Match Score:** 10.0%
+
+📍 **Location:** Pittsburgh, PA, US USA
+
+🔑 **Keywords:** RAG, Docker, CI/CD, Jenkins, GitHub Actions, Git, Python, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ab89f9b47f06f813)
+
+---
+
+## 79. Software Engineer | Infrastructure @ Gecko Robotics
 **Match Score:** 10.0%
 
 📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Kubernetes, CI/CD, Git, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Docker, CI/CD, GitHub Actions, Terraform, Git, Python, R, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7d22a7fc8af4ba9f)
+[Apply Here](https://www.indeed.com/viewjob?jk=90eedf854f2d5865)
 
 ---
 
-## 27. Senior Site Reliability Engineer II @ Waystar
+## 80. AI NATIVE SOFTWARE ENGINEER @ Intone Networks
 **Match Score:** 10.0%
 
-📍 **Location:** Louisville, KY, US USA
+📍 **Location:** Cleveland, OH, US USA
 
-🔑 **Keywords:** RAG, Kubernetes, Apache Airflow, CI/CD, Terraform, Kafka, Python, R, Scala
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6fa53cf983e1a6d0)
-
----
-
-## 28. Senior Cloud Platform Engineer (R-19149) @ Dun & Bradstreet
-**Match Score:** 10.0%
-
-📍 **Location:** Jacksonville, FL, US USA
-
-🔑 **Keywords:** Docker, Kubernetes, CI/CD, Jenkins, Terraform, Python, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cb41c4b9d93e0f98)
+[Apply Here](https://www.indeed.com/viewjob?jk=435439b76755400f)
 
 ---
 
-## 29. Full Stack Software Engineer @ Eli Lilly
-**Match Score:** 10.0%
-
-📍 **Location:** Indianapolis, IN, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, Python, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b34891601e8f94ce)
-
----
-
-## 30. Data Scientist - Space Intelligence @ The Home Depot
+## 81. AI/ML Developer II (Remote) @ The Home Depot
 **Match Score:** 10.0%
 
 📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, BigQuery, BigQuery, Tableau, Python, SQL, R, Optimization
+🔑 **Keywords:** BigQuery, CI/CD, Git, BigQuery, NoSQL, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6d9a1c8111c1535c)
+[Apply Here](https://www.indeed.com/viewjob?jk=fb663396a5bc1b79)
 
 ---
 
-## 31. Associate Data Scientist - Space Intelligence @ The Home Depot
+## 82. Information Technology (IT) Intern (AI and ITSM) - Remote @ Apotheco Pharmacy Group
 **Match Score:** 10.0%
 
-📍 **Location:** Atlanta, GA, US USA
+📍 **Location:** Short Hills, NJ, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, BigQuery, BigQuery, Tableau, Python, SQL, R, Optimization
+🔑 **Keywords:** Generative AI, TensorFlow, PyTorch, Git, Hadoop, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2b88aba39c21bd34)
+[Apply Here](https://www.indeed.com/viewjob?jk=db7eebf6d7758930)
 
 ---
 

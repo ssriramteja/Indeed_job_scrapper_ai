@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-04-30
-- **New Matches Found in Last Run:** 31
-- **Total Active Matches (Last 4 Days):** 805
+- **New Matches Found in Last Run:** 82
+- **Total Active Matches (Last 4 Days):** 887
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-04-30.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-04-30.xlsx)
 
@@ -13,12 +13,15 @@
 | **General Motors (GM)** | AV Safety Engineering Analytics AI/ML Engineer (GPSSC) | Remote, US USA | 28.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=675259892fa0b51c) | 2026-04-30 |
 | **Metropolitan Commercial Bank** | AI Engineer | New York, NY, US USA | 28.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25250927f01c87fd) | 2026-04-30 |
 | **General Motors (GM)** | AI/ML Data Scientist (GPSSC) | Warren, MI, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3733618642dbd3f) | 2026-04-30 |
+| **Wells Fargo** | Senior Software Engineer – Python / PySpark (Mainframe Modernization) (contract) | San Francisco, CA, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=015fe1a494f266bf) | 2026-04-30 |
+| **Tata Consultancy Services (TCS)** | Senior Engineer - Agentic AI | Atlanta, GA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5daf8f72a4fd9ab6) | 2026-04-30 |
 | **Openkyber** | Machine Learning Threat Intelligence Engineer | AK, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=02ff0b4b24920c72) | 2026-04-30 |
 | **PDS Health** | Sr Engineer, AI Solutions | Irvine, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ffff09002cee6d4) | 2026-04-30 |
 | **RELX Group** | Senior Machine Learning Engineer III ***Raleigh, NC*** | Raleigh, NC, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=35085eed81ec8943) | 2026-04-30 |
 | **LexisNexis Legal & Professional** | Senior Machine Learning Engineer III ***Raleigh, NC*** | Raleigh, NC, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70897e01c57b5008) | 2026-04-30 |
 | **Openkyber** | GenAI Threat Intelligence Analyst | AK, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5efecdb56da9cdd1) | 2026-04-30 |
 | **Openkyber** | Machine Learning Threat Intelligence Engineer | AK, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=36a73b40629cc484) | 2026-04-30 |
+| **Vibotek LLC** | AI Engineer / Data Scientist | St. Louis, MO, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08d6323e8d4d4853) | 2026-04-30 |
 | **CVS Health** | Senior Software Development Engineer | MA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb97e11dedc46f7e) | 2026-04-30 |
 | **Pellera Technologies** | Artificial Intelligence - AI Architect | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9915fb51c50be337) | 2026-04-30 |
 | **Pellera Technologies** | Artificial Intelligence - AI Architect | US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=098a368550354f0d) | 2026-04-30 |
@@ -31,6 +34,9 @@
 | **Braze** | Forward-Deployed Data Scientist II | Austin, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3646206d4fca8b7e) | 2026-04-30 |
 | **Braze** | Forward-Deployed Data Scientist II | Chicago, IL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cb7fc938c9d80265) | 2026-04-30 |
 | **Braze** | Forward-Deployed Data Scientist II | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e853103e53ab09ef) | 2026-04-30 |
+| **Pellera Technologies** | Artificial Intelligence - AI Architect | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a3d30d5e319287f) | 2026-04-30 |
+| **Pellera Technologies** | Artificial Intelligence - AI Architect | US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a2673c495261449) | 2026-04-30 |
+| **The Home Depot** | Senior Machine Learning Engineer (Remote) | Tallahassee, FL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fdbdb16275078800) | 2026-04-30 |
 | **Chewy** | Software Engineer II | Bellevue, WA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0b54324d4bccebe) | 2026-04-30 |
 | **Chewy** | Software Engineer II | Boston, MA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=45cec5906abac43f) | 2026-04-30 |
 | **Openkyber** | Infrastructure-as-Code (IaC) Engineer | AK, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca35900639cbe443) | 2026-04-30 |
@@ -66,6 +72,11 @@
 | **Fitch Group** | Senior Software Engineer, AI | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=898eeb6efd9d40c8) | 2026-04-30 |
 | **Esri** | Software Engineer I – AI Assistant Framework, ArcGIS Enterprise | Redlands, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2546eaf4a3e50baf) | 2026-04-30 |
 | **Stellantis** | Data Scientist | Auburn Hills, MI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8391d1c18c025a89) | 2026-04-30 |
+| **nan** | Full Stack Data Engineer | Morrisville, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de10d304d09880c3) | 2026-04-30 |
+| **Marsh McLennan Agency** | DevOps Engineer | White Plains, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6594661d6157820) | 2026-04-30 |
+| **Cityblock Health** | Platform Engineer | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76d763c610ac1510) | 2026-04-30 |
+| **SCAN Health Plan** | Full Stack, Data & Analytics Engineer | Long Beach, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6b0db4093988ff3c) | 2026-04-30 |
+| **Fleetpride** | Marketing Data Scientist, Measurement & Modeling | Irving, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=529e29eaf69cc617) | 2026-04-30 |
 | **Mayo Clinic** | Associate Software Engineer | Rochester, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8081ee3f40d7d31c) | 2026-04-30 |
 | **Aires** | Senior Software Engineer | Pittsburgh, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1cb4e9cb29fe1df7) | 2026-04-30 |
 | **Eclypsium** | Sr. DevOps Engineer | Portland, OR, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=746eae080f33e9b0) | 2026-04-30 |
@@ -75,6 +86,10 @@
 | **General Motors (GM)** | AV Safety Engineering Analytics Simulation Engineer (GPSSC) | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=759f2d176cc08b7e) | 2026-04-30 |
 | **Red Ventures** | Senior AI Product Engineer | Growth and Transformation | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=428aea251223d821) | 2026-04-30 |
 | **Coastal** | Data Platform Architect (Snowflake) | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58854506afe876e4) | 2026-04-30 |
+| **Tata Consultancy Services (TCS)** | Solution Architect - Agentic AI & Data | Atlanta, GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e691105221837bb) | 2026-04-30 |
+| **Tata Consultancy Services (TCS)** | Solution Architect - Agentic AI & Data BFSI Industry | Edison, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d65a3008f896bd3) | 2026-04-30 |
+| **Omada Health** | Senior Software Engineer | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=02f1a08365eebef5) | 2026-04-30 |
+| **Nerdio** | Solutions Architect | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90c972610e28a907) | 2026-04-30 |
 | **Humana** | Senior Data Scientist - Growth AI | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=418833ef95702c14) | 2026-04-30 |
 | **Booz Allen Hamilton** | Generative AI Engineer | Ashburn, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f0da976c95f354ad) | 2026-04-30 |
 | **Gen Digital Inc.** | Senior Backend Engineer - MoneyLion | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5243fde3ff4e011) | 2026-04-30 |
@@ -93,6 +108,56 @@
 | **G-P** | AI, Intern | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5fcef722b57cbbff) | 2026-04-30 |
 | **General Motors (GM)** | Sr. Engagement Strategist, Marketing Applied Sciences | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a99bed4176097fbb) | 2026-04-30 |
 | **Generate Biomedicines** | Software Engineer II, ML Ops | Somerville, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ed0e8d914cf2fc3) | 2026-04-30 |
+| **McKesson** | Specialist Software Developer B2B Commerce | Richmond, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83c63e4abd182019) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Barrington, RI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e8028d0d5b1df65) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Caldwell, ID, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5cdda50be7be595) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Marion, IA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c871627a5fbd7d46) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Birmingham, AL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=129e7c3974efc5f3) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Newmarket, NH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed8aea93c76f0472) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Phoenix, AZ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7559827bdb57a0fb) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Frankfort, KY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74277bcbbe107636) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Portland, OR, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=12cae2ae25e8b014) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Rehoboth Beach, DE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6306faf8c94f493a) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Liberty, MO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6e0abbf2db2329d7) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Greenville, SC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fddf6b2cd77b36d0) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Nashville, TN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6232b3c854695d12) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Portland, ME, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2acdbfef72fe8382) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Tulsa, OK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=667feb24362ea298) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Fargo, ND, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd95cb5f129ba4a3) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Provo, UT, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27fe3748b4c6e9ac) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Harrisburg, PA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96e55f69edf8e710) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Newport, MI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f877d29517d1e8c) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Hudson, WI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=578051612c793f74) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Annapolis, MD, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a2a751d1b4654154) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=720d2d19c637dbd7) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Baton Rouge, LA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d3ec8a3acdaf608) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Jacksonville, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9bcde40daa1b5a67) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Las Vegas, NV, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b19225c5d43f5354) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Indianapolis, IN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a9eda53066f047cc) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Omaha, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d2b852deb59b35a) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Dayton, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ebd8c576a7f84b5) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Richland, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c43ffb9dc8728db) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Derby, CT, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0deee98ca536f71b) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=48cbf9152cf68ba9) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Monrovia, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c245b04f72dbcaf) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Clinton, MS, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c0ae7ba24ecce9d) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Watson, AR, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=937b2de1fa924199) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Charlotte, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4fb756925d51a6b1) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Tyler, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=589226c2de6af70c) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Boulder, CO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1721b2eddbb95215) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Stafford, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85f8c3b8c340ef19) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Overland Park, KS, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e411377c0061c4f) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Columbus, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=193365b70ef7abc6) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Missoula, MT, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5fb5e93fe4c3b2ad) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Parlin, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9b8a979d87a9e8d2) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Albuquerque, NM, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8adc97440a91f562) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Medway, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5260f1234c40edbb) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Indianapolis, IN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2191c8bc4701830) | 2026-04-30 |
+| **Ensora Health** | SDET- Payments & Telehealth | Pierre, SD, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c6b9c845547786b) | 2026-04-30 |
+| **Great American Insurance Group** | AI Platform Engineer | Cincinnati, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=26f70104d9111875) | 2026-04-30 |
+| **General Motors (GM)** | Senior Software Engineer – Cloud Engineering & FinOps | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d576082b1c56db5c) | 2026-04-30 |
+| **Zoom Communications** | Senior DevOps Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=467517a4a9d5a827) | 2026-04-30 |
+| **FICO** | Senior DevOps Engineer - Kubernetes | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0656c0ad796ae71d) | 2026-04-30 |
 | **Itential** | Software Development Engineer II - Automation | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80989db114bfdfcc) | 2026-04-30 |
 | **PAR Technology** | Software Engineer | IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6ccfc23b7ece84d) | 2026-04-30 |
 | **General Dynamics Information Technology** | Full Stack Developer | IN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=88385e70bf0d2e8f) | 2026-04-30 |
@@ -118,6 +183,12 @@
 | **Numa** | Solutions Engineer | Bozeman, MT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f9f4f2ed5d680066) | 2026-04-30 |
 | **Bespin Global** | Associate AWS Cloud Migration Engineer | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f3c6637d314836da) | 2026-04-30 |
 | **Fluke** | Senior Software Engineer | Everett, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de9989cbbb09da95) | 2026-04-30 |
+| **HCA Healthcare** | Consultant Analytical Engineer Expanse | Nashville, TN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=876ab4f30e6dcf55) | 2026-04-30 |
+| **Gecko Robotics** | Software Engineer | Infrastructure | Government | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec38365c22e7be8d) | 2026-04-30 |
+| **Gecko Robotics** | Software Engineer | Infrastructure | Government | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c66812735b42a64) | 2026-04-30 |
+| **Visa** | Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c14f672c98afd19d) | 2026-04-30 |
+| **Honeywell** | Data Scientist II | Pittsford, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6b0e815fda68f793) | 2026-04-30 |
+| **Victaulic** | AI Analyst - Finance Technology | PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=abbc07673832f61b) | 2026-04-30 |
 | **HYPER SOLUTIONS** | AI Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d6cf2843671035af) | 2026-04-30 |
 | **California State University** | Junior Data Operations Development Engineer | CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5f260e7e3d81d7d) | 2026-04-30 |
 | **Alliance Laundry** | Engineering Business Analyst | Ripon, WI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19b17863daa1a5dd) | 2026-04-30 |
@@ -162,6 +233,17 @@
 | **Eli Lilly** | Full Stack Software Engineer | Indianapolis, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b34891601e8f94ce) | 2026-04-30 |
 | **The Home Depot** | Data Scientist - Space Intelligence | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d9a1c8111c1535c) | 2026-04-30 |
 | **The Home Depot** | Associate Data Scientist - Space Intelligence | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b88aba39c21bd34) | 2026-04-30 |
+| **LocaliQ** | Senior Software Engineer – Data Product APIs | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0532bb0b7078fc32) | 2026-04-30 |
+| **USA TODAY Co.** | Senior Software Engineer – Data Product APIs | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8807311fbfef226d) | 2026-04-30 |
+| **USA TODAY Co.** | Senior Software Engineer – Data Product APIs | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5822dcce000fd7b) | 2026-04-30 |
+| **LocaliQ** | Senior Software Engineer – Data Product APIs | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b312af6879027a5e) | 2026-04-30 |
+| **Acrisure LLC** | Senior Full Stack Software Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e7ff5bddbfce18c) | 2026-04-30 |
+| **Gecko Robotics** | Software Engineer | Infrastructure | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c73f48532742c596) | 2026-04-30 |
+| **Gecko Robotics** | Test & Reliability Engineer | Pittsburgh, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab89f9b47f06f813) | 2026-04-30 |
+| **Gecko Robotics** | Software Engineer | Infrastructure | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90eedf854f2d5865) | 2026-04-30 |
+| **Intone Networks** | AI NATIVE SOFTWARE ENGINEER | Cleveland, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=435439b76755400f) | 2026-04-30 |
+| **The Home Depot** | AI/ML Developer II (Remote) | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb663396a5bc1b79) | 2026-04-30 |
+| **Apotheco Pharmacy Group** | Information Technology (IT) Intern (AI and ITSM) - Remote | Short Hills, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db7eebf6d7758930) | 2026-04-30 |
 | **General Motors (GM)** | AI/ML Data Scientist (GPSSC) | Warren, MI, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=178a3edf86886b28) | 2026-04-29 |
 | **Datalink Networks Inc.** | AI Engineer | Valencia, CA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8fa2a7970470f14c) | 2026-04-29 |
 | **Tata Consultancy Services (TCS)** | Data scientist | Charlotte, NC, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5bfed15cc40a8e20) | 2026-04-29 |
