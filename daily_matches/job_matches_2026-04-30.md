@@ -1,128 +1,117 @@
 # 🎯 Daily Job Matches — 2026-04-30
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 10
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer @ Blue Orange Digital
+## 1. Senior Machine Learning Engineer III ***Raleigh, NC*** @ RELX Group
+**Match Score:** 18.9%
+
+📍 **Location:** Raleigh, NC, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, LangChain, RAG, Gemini, S3, Docker, Kubernetes, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=35085eed81ec8943)
+
+---
+
+## 2. Senior Machine Learning Engineer III ***Raleigh, NC*** @ LexisNexis Legal & Professional
+**Match Score:** 18.9%
+
+📍 **Location:** Raleigh, NC, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, LangChain, RAG, Gemini, S3, Docker, Kubernetes, CI/CD, Jenkins
+
+[Apply Here](https://www.indeed.com/viewjob?jk=70897e01c57b5008)
+
+---
+
+## 3. Senior Software Development Engineer @ CVS Health
+**Match Score:** 17.8%
+
+📍 **Location:** MA, US USA
+
+🔑 **Keywords:** RAG, Kubernetes, AKS, CI/CD, Jenkins, GitHub Actions, Terraform, Git, PostgreSQL, MongoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fb97e11dedc46f7e)
+
+---
+
+## 4. HYBRID: Full-Stack x AI Automation Engineer @ SourceCo
 **Match Score:** 15.6%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RAG, Data Lake, CI/CD, Terraform, Git, Snowflake, Databricks, Tableau, Power BI, Python
+🔑 **Keywords:** RAG, Gemini, Prompt Engineering, S3, EC2, CI/CD, Git, MongoDB, NoSQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8b7e79accc7c2528)
-
----
-
-## 2. Senior Data Engineer @ Blue Orange Digital
-**Match Score:** 14.4%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** RAG, CI/CD, Git, Snowflake, Databricks, Tableau, Power BI, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fb853658114af880)
+[Apply Here](https://www.indeed.com/viewjob?jk=e5b21c30af01c5b3)
 
 ---
 
-## 3. Senior Business Data Analyst @ Blue Orange Digital
-**Match Score:** 14.4%
+## 5. Sr. DevOps Engineer @ Eclypsium
+**Match Score:** 13.3%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Portland, OR, US USA
 
-🔑 **Keywords:** Copilot, Redshift, BigQuery, Git, Snowflake, Databricks, BigQuery, Redshift, Tableau, Power BI
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Git, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3188efd79bf1e92f)
+[Apply Here](https://www.indeed.com/viewjob?jk=746eae080f33e9b0)
 
 ---
 
-## 4. Databricks Engineer @ Applied Technology Services
+## 6. PySpark Data Engineer III - Python/Java/SQL @ JPMorganChase
 **Match Score:** 12.2%
 
-📍 **Location:** Adelphi, MD, US USA
+📍 **Location:** Boston, MA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, S3, Data Lake, MLflow, Snowflake, Databricks, Python, SQL, R
+🔑 **Keywords:** LangChain, RAG, CI/CD, Databricks, PySpark, Kafka, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=88d5142fe158dffb)
-
----
-
-## 5. Senior Software Engineer (C#/SQL) - Plex @ Rockwell Automation
-**Match Score:** 12.2%
-
-📍 **Location:** Mayfield Heights, OH, US USA
-
-🔑 **Keywords:** RAG, Gemini, Copilot, Docker, Kubernetes, CI/CD, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e79d1470a0b337d6)
+[Apply Here](https://www.indeed.com/viewjob?jk=37079c463898c2dd)
 
 ---
 
-## 6. Full Stack Engineer @ Index Analytics LLC
+## 7. Senior Software Engineer - Python - AI Platform @ HEB
 **Match Score:** 11.1%
 
-📍 **Location:** Windsor Mill, MD, US USA
+📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** Redshift, Jenkins, Git, Redshift, PostgreSQL, Python, SQL, R, Java, Scala
+🔑 **Keywords:** RAG, Kubernetes, CI/CD, Terraform, Git, Kafka, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4204825a3f07bee4)
-
----
-
-## 7. Full Stack Engineer @ Index Analytics LLC
-**Match Score:** 11.1%
-
-📍 **Location:** Windsor Mill, MD, US USA
-
-🔑 **Keywords:** Redshift, Jenkins, Git, Redshift, PostgreSQL, Python, SQL, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=796d6aa417695ab4)
+[Apply Here](https://www.indeed.com/viewjob?jk=a91ebd3753be4d7e)
 
 ---
 
-## 8. Senior Machine Learning Engineer, Content Engineering @ Paramount Streaming
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, FAISS, Pinecone, Git, Python, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9d276de9194c9c27)
-
----
-
-## 9. Sr. SDET (Senior Software Development Engineer in Test, Middleware) @ Subway
+## 8. Site Reliability Engineer @ Armor
 **Match Score:** 10.0%
 
-📍 **Location:** Shelton, CT, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** RAG, Copilot, CI/CD, GitHub Actions, Git, Python, R, Java, Scala
+🔑 **Keywords:** RAG, Copilot, Kubernetes, CI/CD, Terraform, Git, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d03a534a15ff6662)
-
----
-
-## 10. Sr. SDET (Senior Software Development Engineer in Test, Middleware) @ Subway
-**Match Score:** 10.0%
-
-📍 **Location:** Shelton, CT, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, GitHub Actions, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6d58a01f5c2560de)
+[Apply Here](https://www.indeed.com/viewjob?jk=19bc2fde31ea0812)
 
 ---
 
-## 11. Senior DevOps Engineer @ The AES Group
+## 9. Mgr Software Engineering @ RELX Group
 **Match Score:** 10.0%
 
-📍 **Location:** Seattle, WA, US USA
+📍 **Location:** Alpharetta, GA, US USA
 
-🔑 **Keywords:** Docker, Kubernetes, CI/CD, Terraform, Databricks, Python, R, Scala, Optimization
+🔑 **Keywords:** RAG, Copilot, Prompt Engineering, Synapse, Databricks, Power BI, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ad9aa1d67dcf5a1a)
+[Apply Here](https://www.indeed.com/viewjob?jk=a02d5f5b9c258176)
+
+---
+
+## 10. Artificial Intelligence Intern @ nan
+**Match Score:** 10.0%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, TensorFlow, Hadoop, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3210fc5e11721889)
 
 ---
 
