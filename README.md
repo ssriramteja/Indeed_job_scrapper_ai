@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-01
-- **New Matches Found in Last Run:** 8
-- **Total Active Matches (Last 4 Days):** 956
+- **New Matches Found in Last Run:** 33
+- **Total Active Matches (Last 4 Days):** 989
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-01.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-01.xlsx)
 
@@ -11,12 +11,17 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Visa** | Software Engineer - Sr. Consultant level | Bellevue, WA, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e8679bcf047d6c3e) | 2026-05-01 |
+| **Omada Health** | Senior Software Engineer, Data Engineering | San Francisco, CA, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98dbeaca2ef62c98) | 2026-05-01 |
 | **Accenture** | Artificial Intelligence/Machine Learning Data Engineer | Morristown, NJ, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f6f11467cb82584) | 2026-05-01 |
 | **Accenture** | Artificial Intelligence/Machine Learning Data Engineer | Charlotte, NC, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c9ce81a6707266dd) | 2026-05-01 |
 | **American Express** | Sr Software Engineer II - Enterprise Architecture | Atlanta, GA, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f6bd0f139eec27a7) | 2026-05-01 |
 | **EY** | AI Developer - Senior - A&I - Financial Services - Consulting - NYC, Charlotte, Dallas | New York, NY, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b189ba2f7b20d0b) | 2026-05-01 |
 | **WEX Inc.** | Senior Software Engineer (C#/.NET & AI) | Chicago, IL, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=93c21b258a08bd24) | 2026-05-01 |
 | **Syncreon Consulting** | AI Engineer/Data Scientist with Healthcare Payment Integrity Platform - Windsurf or GitHub Copilot or Cursor Experience | St. Louis, MO, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=708ef42ee72ebd1f) | 2026-05-01 |
+| **Openkyber** | Kubernetes Engineer | AK, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f09eaf9518abf0e) | 2026-05-01 |
+| **Openkyber** | Cloud Support Associate | AK, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=39dc124339eab650) | 2026-05-01 |
+| **Openkyber** | AWS Network Engineer | AK, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dc5cd30ba1545c61) | 2026-05-01 |
+| **Openkyber** | AWS Network Engineer | AK, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6622c031669892fa) | 2026-05-01 |
 | **ITC Federal** | AI/ML Engineer – Data & Full-Stack Solutions | Fairfax, VA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ce30a23eaa64abcd) | 2026-05-01 |
 | **American Express** | Data Engineer II _ Big Data, GCP _EDAI | Phoenix, AZ, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d725c4b26e048534) | 2026-05-01 |
 | **EY** | Service Delivery Center, AI & Data, Machine Learning Engineer (MLE) - Senior | Manayunk, PA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f7e3e3c0589ff3b) | 2026-05-01 |
@@ -25,6 +30,7 @@
 | **USAA** | Senior Marketing Data Scientist | San Antonio, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ff7e89119e4b376) | 2026-05-01 |
 | **nan** | AI/ML Platform Engineer | Alexandria, VA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22f86c064f397503) | 2026-05-01 |
 | **nan** | Software Engineer II | Seattle, WA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1869e5a8847d426e) | 2026-05-01 |
+| **Openkyber** | AWS Technical Apprentice / Trainee | AK, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2223f947ee98de60) | 2026-05-01 |
 | **Trane Technologies** | Senior Data Engineer | Minneapolis, MN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f483db2edc8cb83a) | 2026-05-01 |
 | **Charles Schwab** | Sr JAVA Software Engineer | Austin, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b96bb20d48ee624a) | 2026-05-01 |
 | **Deloitte** | GenAI Solution Engineer (Databricks AI/Snowflake AI pref'd) | Houston, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5c449cb4c336ec2) | 2026-05-01 |
@@ -67,6 +73,14 @@
 | **Openkyber** | Cloud AI Application Administrator | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ffb82821f25251e0) | 2026-05-01 |
 | **Openkyber** | AWS Network Engineer | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c780397359b6f81c) | 2026-05-01 |
 | **Openly** | Senior Backend Engineer (Remote, US) | Boston, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2353cb4c2ecb06b9) | 2026-05-01 |
+| **Consumer Reports** | Senior Full Stack Software Engineer (AI Applications) | Los Angeles, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c96afc5adffc5ff2) | 2026-05-01 |
+| **Consumer Reports** | Senior Full Stack Software Engineer (AI Applications) | Boston, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=724bc484c5990c53) | 2026-05-01 |
+| **Consumer Reports** | Senior Full Stack Software Engineer (AI Applications) | San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1acfb3f2cd34f77f) | 2026-05-01 |
+| **Consumer Reports** | Senior Full Stack Software Engineer (AI Applications) | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec355e4e62de03ae) | 2026-05-01 |
+| **Consumer Reports** | Senior Full Stack Software Engineer (AI Applications) | Austin, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2b6288dd8aefa12) | 2026-05-01 |
+| **Openkyber** | AWS Systems Engineer | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b9534b4cb92adc6) | 2026-05-01 |
+| **Openkyber** | AWS Technical Apprentice / Trainee | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c2c0a53f632484cb) | 2026-05-01 |
+| **Nordstrom** | Software Engineer 2 — Data Platform Enablement (Hybrid - Seattle, WA) | Seattle, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=862af0113851f60e) | 2026-05-01 |
 | **Shutterfly** | Senior Software Engineer I | Tempe, AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3fb2c61efa0e40b0) | 2026-05-01 |
 | **Shutterfly** | Senior Software Engineer I | Fort Mill, SC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c355f0dd8f5834b8) | 2026-05-01 |
 | **ExxonMobil** | Data Scientist, Reinforcement Learning | Spring, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e492b45417eea8ed) | 2026-05-01 |
@@ -113,6 +127,8 @@
 | **Openkyber** | DevOps/AI Ops Administrator | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8d16d894b5774b8) | 2026-05-01 |
 | **Openkyber** | AI Application Architect | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c049f920a5f229f) | 2026-05-01 |
 | **Openkyber** | Azure Network Engineer | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05c347498a9f2ed5) | 2026-05-01 |
+| **Openkyber** | Junior Cloud Engineer | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b71e56e3d482e1d8) | 2026-05-01 |
+| **Openkyber** | Senior SRE | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd467fdd92806914) | 2026-05-01 |
 | **Shutterfly** | Software Engineer II | Fort Mill, SC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=06897093f03f634b) | 2026-05-01 |
 | **Shutterfly** | Software Engineer II | Tempe, AZ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a699135137752b3a) | 2026-05-01 |
 | **Deloitte** | Agentic Delivery Engineer | Morristown, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e88dc96229fab5fd) | 2026-05-01 |
@@ -171,6 +187,13 @@
 | **Steifman LLP** | AI Platform Support Engineer | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e7fe89c9128b371) | 2026-05-01 |
 | **The Walt Disney Company** | Data Engineer - Performance Management | Lake Buena Vista, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b85eeb0fd5a3a862) | 2026-05-01 |
 | **Openkyber** | AI Application Architect | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1735188270c06e18) | 2026-05-01 |
+| **NTT DATA** | Azure AI Platform Engineer - Remote Role | Plano, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e51b13499a8486c) | 2026-05-01 |
+| **Openkyber** | Cloud Infrastructure Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=505fbe53799f259a) | 2026-05-01 |
+| **Openkyber** | AWS Systems Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=047af074cf3c1d18) | 2026-05-01 |
+| **Openkyber** | AWS Cloud Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c5b06678237c00c) | 2026-05-01 |
+| **Openkyber** | Senior Cloud Migration Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=93321e0d50904658) | 2026-05-01 |
+| **Openkyber** | AWS Technical Apprentice / Trainee | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a20cc6812a2ccb13) | 2026-05-01 |
+| **SEACORP** | Senior AI/ML Engineer | Middletown, RI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1665a0774a663eda) | 2026-05-01 |
 | **Deloitte** | Agentic Delivery Senior Engineer | Morristown, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6db23e247c6c3d3) | 2026-05-01 |
 | **Deloitte** | Agentic Delivery Senior Engineer | Dayton, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a6f1009f5094283) | 2026-05-01 |
 | **Deloitte** | Agentic Delivery Senior Engineer | Colorado Springs, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=701e45e1296f80d4) | 2026-05-01 |
@@ -230,6 +253,11 @@
 | **Salesforce** | Software Engineering SMTS | Redwood City, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=393bce2ff49f8f76) | 2026-05-01 |
 | **Openkyber** | Multi-Cloud Networking Engineer | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5089f26e49e819d7) | 2026-05-01 |
 | **Edurech Technoogy** | Machine Learning Engineer | Santa Clara, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19a23f9fb948e505) | 2026-05-01 |
+| **Openkyber** | Junior Cloud Networking Technician | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e73f6230be428620) | 2026-05-01 |
+| **Openkyber** | AWS Database Engineer / Cloud DBA | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0dd996702bf636c6) | 2026-05-01 |
+| **Openkyber** | AWS API Engineer | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4bf3d349d655acca) | 2026-05-01 |
+| **Caris Life Sciences** | Data Scientist - Innovation - PhD (Irving, TX) | Irving, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1925481add4e5a44) | 2026-05-01 |
+| **Purple Wave Auction** | Senior Software Engineer - Android | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43e1268f478abf6c) | 2026-05-01 |
 | **Boeing** | Senior Software Developer | Everett, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d3051edf213a4b8c) | 2026-05-01 |
 | **nan** | JUNIOR SOFTWARE ENGINEER | New Hyde Park, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c928927f86c5bdaa) | 2026-05-01 |
 | **SkyWater Technology Foundry** | Senior Dev Ops Engineer | Bloomington, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13bfee40249f3478) | 2026-05-01 |
@@ -248,6 +276,11 @@
 | **Optum** | Senior Quality Engineer | Plymouth, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84d603a90c06d3c1) | 2026-05-01 |
 | **GE Vernova** | AI/ML Implementation Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=837c2c0fee538b8f) | 2026-05-01 |
 | **Otomeshan technology** | Cybersecurity Engineer | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be5f68fc6ca68fb7) | 2026-05-01 |
+| **Openkyber** | AWS Systems Engineer | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8af5a18bee19fa8a) | 2026-05-01 |
+| **Openkyber** | AWS Systems Engineer | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=119269e5158f89e8) | 2026-05-01 |
+| **BridgeNexus Technologies Inc** | AI NATIVE SOFTWARE ENGINEER | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97c9d3d43ea6b325) | 2026-05-01 |
+| **Tesla** | Data Engineer | Fremont, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c0c6ccf57790590) | 2026-05-01 |
+| **Harvard University** | Senior Data Scientist, HBS AI Institute | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ccf10488804eb6ce) | 2026-05-01 |
 | **General Motors (GM)** | AV Safety Engineering Analytics AI/ML Engineer (GPSSC) | Remote, US USA | 28.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=675259892fa0b51c) | 2026-04-30 |
 | **Metropolitan Commercial Bank** | AI Engineer | New York, NY, US USA | 28.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25250927f01c87fd) | 2026-04-30 |
 | **General Motors (GM)** | AI/ML Data Scientist (GPSSC) | Warren, MI, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3733618642dbd3f) | 2026-04-30 |
