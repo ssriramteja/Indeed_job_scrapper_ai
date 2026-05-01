@@ -1,106 +1,95 @@
 # 🎯 Daily Job Matches — 2026-05-01
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 8
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AI Developer - Senior - A&I - Financial Services - Consulting - NYC, Charlotte, Dallas @ EY
-**Match Score:** 24.4%
+## 1. Senior Software Engineer (C#/.NET & AI) @ WEX Inc.
+**Match Score:** 23.3%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, TensorFlow, PyTorch, AWS SageMaker, Redshift, BigQuery, Synapse, Docker
+🔑 **Keywords:** LangChain, RAG, LLaMA, Pinecone, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3b189ba2f7b20d0b)
+[Apply Here](https://www.indeed.com/viewjob?jk=93c21b258a08bd24)
 
 ---
 
-## 2. Senior Marketing Data Scientist @ USAA
+## 2. AI/ML Platform Engineer @ nan
 **Match Score:** 16.7%
 
-📍 **Location:** San Antonio, TX, US USA
+📍 **Location:** Alexandria, VA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, BigQuery, Git, Snowflake, Databricks, BigQuery, NoSQL, Tableau, Power BI
+🔑 **Keywords:** Prompt Engineering, TensorFlow, PyTorch, Keras, S3, EC2, FastAPI, Docker, Kubernetes, Terraform
 
-[Apply Here](https://www.indeed.com/viewjob?jk=1ff7e89119e4b376)
+[Apply Here](https://www.indeed.com/viewjob?jk=22f86c064f397503)
 
 ---
 
-## 3. FSO LABS - AI Developer Senior - Bay Area @ EY
+## 3. Sr Data Engineer @ Client Resources, Inc.
 **Match Score:** 13.3%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** Omaha, NE, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, Kafka, Hadoop, NoSQL, Power BI, Python, SQL
+🔑 **Keywords:** S3, Glue, Athena, Redshift, CI/CD, Redshift, Kafka, PostgreSQL, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=1d75a18fe3bc2126)
+[Apply Here](https://www.indeed.com/viewjob?jk=d1e155aced1efdff)
 
 ---
 
-## 4. FSO Audit LABS - Kubernetes DevOps Engineer - Senior - Bay Area @ EY
+## 4. Senior Data Engineer @ Wells Fargo
 **Match Score:** 12.2%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** San Francisco, CA, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, GitHub Actions, Git, Python, R, Scala
+🔑 **Keywords:** RAG, BigQuery, Apache Airflow, CI/CD, Terraform, Git, BigQuery, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e7fd2619d1f1cba2)
+[Apply Here](https://www.indeed.com/viewjob?jk=5f72c641c65b5a61)
 
 ---
 
-## 5. Consulting - Tech Consulting - FinTech - FSO, Blockchain and AI Engineering - Senior @ EY
+## 5. Software Engineer III - Automation Engineering @ JPMorganChase
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** AI Engineer, RAG, Docker, Kubernetes, AKS, Terraform, Git, R, Java, Scala
+🔑 **Keywords:** RAG, Copilot, Kubernetes, CI/CD, Terraform, Git, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4d62863766448c8b)
+[Apply Here](https://www.indeed.com/viewjob?jk=75ea03c43826f238)
 
 ---
 
-## 6. FSO Audit LABS - Applications System Engineer - Senior - Bay Area @ EY
+## 6. Software Engineering SMTS @ Salesforce
 **Match Score:** 11.1%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** Redwood City, CA, US USA
 
-🔑 **Keywords:** RAG, AKS, NoSQL, Tableau, Power BI, Python, SQL, R, Java, Scala
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, Copilot, Kubernetes, PySpark, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4b0aff29719ea167)
-
----
-
-## 7. Software Development Engineer II @ Blue Origin
-**Match Score:** 10.0%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** RAG, CI/CD, Terraform, Git, NoSQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ecb4fb6963810c90)
+[Apply Here](https://www.indeed.com/viewjob?jk=393bce2ff49f8f76)
 
 ---
 
-## 8. FinTech - AI Finance - Front-end Software Developer - Senior @ EY
+## 7. AI Engineer (LLM) @ State Farm
 **Match Score:** 10.0%
 
-📍 **Location:** Chicago, IL, US USA
+📍 **Location:** Bloomington, IL, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, AKS, Git, Python, R, Scala, Optimization
+🔑 **Keywords:** AI Engineer, RAG, Copilot, CI/CD, Git, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b2b5e9b7201bab03)
+[Apply Here](https://www.indeed.com/viewjob?jk=26f733e4569669b1)
 
 ---
 
-## 9. AI Data Science Summer Associate @ Tempus
+## 8. Data Science Senior Associate - Card Data & Analytics @ JPMorganChase
 **Match Score:** 10.0%
 
-📍 **Location:** Chicago, IL, US USA
+📍 **Location:** Wilmington, DE, US USA
 
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, XGBoost, Matplotlib, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Prompt Engineering, Git, Hadoop, Tableau, Python, SQL, R, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8a89c505e2b3887c)
+[Apply Here](https://www.indeed.com/viewjob?jk=0c2bc679b5fdf632)
 
 ---
 
