@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-03
-- **New Matches Found in Last Run:** 13
-- **Total Active Matches (Last 4 Days):** 736
+- **New Matches Found in Last Run:** 1
+- **Total Active Matches (Last 4 Days):** 737
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-03.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-03.xlsx)
 
@@ -15,6 +15,7 @@
 | **Openkyber** | Senior GCP Kubernetes Engineer | AK, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44bf0f9c23ef7ab5) | 2026-05-03 |
 | **Openkyber** | AI Application Architect | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=393116d7c03fb80f) | 2026-05-03 |
 | **Openkyber** | GCP Support Associate | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0f29f41f0a76287) | 2026-05-03 |
+| **Guidewire** | Data Engineer (DataOps & Infrastructure Focus) | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6125421c57f16e3e) | 2026-05-03 |
 | **Wolters Kluwer** | Senior DevOps Engineer | Saint Cloud, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5564e741df81f16a) | 2026-05-03 |
 | **Openkyber** | AI Application Architect | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4f50be5ebddbfdcc) | 2026-05-03 |
 | **JPMorganChase** | AI Agents Applied Engineer - Senior Associate | Brooklyn, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22e0831520cef182) | 2026-05-03 |
