@@ -5,25 +5,25 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Data Engineer @ Growth Protocol
-**Match Score:** 17.8%
+## 1. Back-End Software Developer @ Oak Ridge National Laboratory
+**Match Score:** 13.3%
 
-📍 **Location:** US USA
+📍 **Location:** Oak Ridge, TN, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, MLflow, FastAPI, Docker, GitHub Actions, Terraform, Git, Snowflake, Databricks
+🔑 **Keywords:** RAG, FastAPI, Docker, Kubernetes, CI/CD, Git, PostgreSQL, NoSQL, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=73f78f46255a670f)
+[Apply Here](https://www.indeed.com/viewjob?jk=f2c9a1441fd4ec20)
 
 ---
 
-## 2. Solution Engineer @ Matrix International Financial Services
-**Match Score:** 11.1%
+## 2. Senior Product Associate - CARD DATA OWNERS @ JPMorganChase
+**Match Score:** 12.2%
 
-📍 **Location:** US USA
+📍 **Location:** Wilmington, DE, US USA
 
-🔑 **Keywords:** RAG, Gemini, Prompt Engineering, Docker, Kubernetes, Git, Python, SQL, R, Java
+🔑 **Keywords:** Generative AI, RAG, S3, Data Lake, Git, Snowflake, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=69c818141f7c2040)
+[Apply Here](https://www.indeed.com/viewjob?jk=a8d135304ef368d9)
 
 ---
 
