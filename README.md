@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-04
-- **New Matches Found in Last Run:** 2
-- **Total Active Matches (Last 4 Days):** 483
+- **New Matches Found in Last Run:** 25
+- **Total Active Matches (Last 4 Days):** 508
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-04.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-04.xlsx)
 
@@ -10,15 +10,40 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Openkyber** | Junior Cloud Automation Engineer | GA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1612776e805e54c) | 2026-05-04 |
+| **Openkyber** | Cloud Support Engineer | GA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eaaf7c2a648f0705) | 2026-05-04 |
 | **Growth Protocol** | Senior Data Engineer | US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73f78f46255a670f) | 2026-05-04 |
+| **Agivant Technologies** | Senior Data Scientist | Sherman Oaks, CA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b088c9082407ec84) | 2026-05-04 |
+| **Openkyber** | DevOps Architect | GA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e44cf21cb97515cf) | 2026-05-04 |
+| **Openkyber** | Cloud Support Associate | CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f94722145b4f2019) | 2026-05-04 |
+| **Openkyber** | Junior Cloud Automation Engineer | GA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=72607660bad0675a) | 2026-05-04 |
 | **Mattel, Inc.** | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e22eed84f3a0e5a) | 2026-05-04 |
 | **Mattel, Inc.** | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54329e26a8f1201c) | 2026-05-04 |
+| **Rebel** | Senior Full Stack Engineer | US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00588f8665b4c11d) | 2026-05-04 |
+| **Openkyber** | Senior Cloud Operations Engineer | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=21777f31aa4e15fc) | 2026-05-04 |
+| **Openkyber** | Senior Cloud Disaster Recovery Architect | WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5a30ab82b34b6466) | 2026-05-04 |
+| **Openkyber** | Infrastructure Engineer (Cloud Focus) | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=913dc1f0ef2502d9) | 2026-05-04 |
+| **Openkyber** | Kubernetes Engineer | WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ddf6f51fef293c8) | 2026-05-04 |
+| **Openkyber** | Kubernetes Engineer | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7d56ecc6fc275b6) | 2026-05-04 |
 | **Oak Ridge National Laboratory** | Back-End Software Developer | Oak Ridge, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2c9a1441fd4ec20) | 2026-05-04 |
 | **JPMorganChase** | Senior Product Associate - CARD DATA OWNERS | Wilmington, DE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a8d135304ef368d9) | 2026-05-04 |
+| **The Voleon Group** | Senior Cluster Site Reliability Engineer | Berkeley, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=68a45157511d01d9) | 2026-05-04 |
+| **Uber** | Scientist II - Reservations | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22830778fbb9fbd5) | 2026-05-04 |
 | **Amgen** | Senior Data Scientist | Thousand Oaks, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d365d77aac9d7c7) | 2026-05-04 |
 | **Matrix International Financial Services** | Solution Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69c818141f7c2040) | 2026-05-04 |
+| **MUFG** | Data Integration Analyst | Tempe, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c6b490e9093e1fb3) | 2026-05-04 |
+| **The Voleon Group** | Software Engineer, DevOps | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=39ee11ff37277c6b) | 2026-05-04 |
+| **The Voleon Group** | Senior Linux Infrastructure Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1df0dc0d6ff95795) | 2026-05-04 |
+| **Openkyber** | Senior Platform Engineer | GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca46fd03c73ce22e) | 2026-05-04 |
+| **Equus Computer Systems** | Software Engineer II | City of Industry, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=917465a6c5df167b) | 2026-05-04 |
 | **SES** | Intern Data Scientist | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee328749120b1dc5) | 2026-05-04 |
 | **Amgen** | Sr Data Scientist | Thousand Oaks, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0bac0c2dec6fe3b6) | 2026-05-04 |
+| **Daimler Truck North America** | Software Engineer – AI & Industrial Applications | Cleveland, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4f203c7802bc3193) | 2026-05-04 |
+| **BSI Financial Services** | Software Engineering / Data Science Intern | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99ae275d5381f8d9) | 2026-05-04 |
+| **ClinDCast LLC** | AI Engineer | Warren, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1769c749d29778e8) | 2026-05-04 |
+| **Openkyber** | Kubernetes Engineer | CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6502a676b677e356) | 2026-05-04 |
+| **Openkyber** | Kubernetes Engineer | IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=289ddda237a35ed8) | 2026-05-04 |
+| **nan** | Research Scientist 5G NR and 6G | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1489cd8bfd124930) | 2026-05-04 |
 | **Openkyber** | AI Application Architect | AK, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27ca12ec8e3403ed) | 2026-05-03 |
 | **Openkyber** | AI Application Architect | AK, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f110f42052fd5fe3) | 2026-05-03 |
 | **Openkyber** | Senior GCP Kubernetes Engineer | AK, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44bf0f9c23ef7ab5) | 2026-05-03 |
