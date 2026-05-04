@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-04
-- **New Matches Found in Last Run:** 25
-- **Total Active Matches (Last 4 Days):** 508
+- **New Matches Found in Last Run:** 93
+- **Total Active Matches (Last 4 Days):** 601
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-04.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-04.xlsx)
 
@@ -10,25 +10,98 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Blue Photon** | Software Engineer | Shelby, MI, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff88f005d63b8626) | 2026-05-04 |
 | **Openkyber** | Junior Cloud Automation Engineer | GA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1612776e805e54c) | 2026-05-04 |
 | **Openkyber** | Cloud Support Engineer | GA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eaaf7c2a648f0705) | 2026-05-04 |
+| **Openkyber** | PingOne Cloud Engineer | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30e1948be295dcc1) | 2026-05-04 |
+| **Openkyber** | Junior Cloud Engineer | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56ccf65ff48d085d) | 2026-05-04 |
 | **Growth Protocol** | Senior Data Engineer | US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73f78f46255a670f) | 2026-05-04 |
 | **Agivant Technologies** | Senior Data Scientist | Sherman Oaks, CA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b088c9082407ec84) | 2026-05-04 |
+| **Mobilunity** | Strong Middle Data Scientist (Part-time) | US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=670a4f82148bab8c) | 2026-05-04 |
 | **Openkyber** | DevOps Architect | GA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e44cf21cb97515cf) | 2026-05-04 |
 | **Openkyber** | Cloud Support Associate | CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f94722145b4f2019) | 2026-05-04 |
 | **Openkyber** | Junior Cloud Automation Engineer | GA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=72607660bad0675a) | 2026-05-04 |
+| **Openkyber** | Junior Automation Engineer (Cloud) | AK, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=812b6e434aab8990) | 2026-05-04 |
+| **Openkyber** | Cloud Support Associate | AK, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32d18419724cd3ba) | 2026-05-04 |
 | **Mattel, Inc.** | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e22eed84f3a0e5a) | 2026-05-04 |
 | **Mattel, Inc.** | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54329e26a8f1201c) | 2026-05-04 |
 | **Rebel** | Senior Full Stack Engineer | US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00588f8665b4c11d) | 2026-05-04 |
+| **Verint Systems Inc.** | Sr. Engineer, Software | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d2f794524fd07d4) | 2026-05-04 |
+| **Fidelity Investments** | Senior Data Engineer | Westlake, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e54c3f102344248) | 2026-05-04 |
+| **Prophecy** | Agentic-Workflow MLE | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f77d1b6e188a130b) | 2026-05-04 |
+| **Prophecy** | Agentic-Workflow MLE (Pipeline) | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=846aaea452c65fef) | 2026-05-04 |
 | **Openkyber** | Senior Cloud Operations Engineer | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=21777f31aa4e15fc) | 2026-05-04 |
 | **Openkyber** | Senior Cloud Disaster Recovery Architect | WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5a30ab82b34b6466) | 2026-05-04 |
 | **Openkyber** | Infrastructure Engineer (Cloud Focus) | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=913dc1f0ef2502d9) | 2026-05-04 |
 | **Openkyber** | Kubernetes Engineer | WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ddf6f51fef293c8) | 2026-05-04 |
 | **Openkyber** | Kubernetes Engineer | GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7d56ecc6fc275b6) | 2026-05-04 |
+| **Openkyber** | OpenAM | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c9c3f737864e384) | 2026-05-04 |
+| **Openkyber** | AWS Technical Apprentice / Trainee | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f095b443e497d6af) | 2026-05-04 |
+| **Openkyber** | AWS Technical Apprentice / Trainee | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ad8bcaa8fa27acf0) | 2026-05-04 |
+| **Qode** | Data Engineer | San Diego, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=709c18d442014735) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Seattle, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1771d08147d48b57) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Kirkland, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bc636c225a3b0d08) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Nashville, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a50fc1fd9ca90a3e) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Redmond, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96b8ed1d172d9b21) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b0d04c5be30ba114) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Detroit, MI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1a671ccb2726283) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Herndon, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f221630efd504e3) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Beaverton, OR, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5bc2d513a8e5b667) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Milwaukee, WI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5f25f1e33197c2f) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Pittsburgh, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c6ae4864018e645) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Cincinnati, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=745c91a67f5c0012) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Arlington, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c77a8b7e9ecd77b5) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Minneapolis, MN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d7adac687752794) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Cleveland, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cba193ac6d97ccbc) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Irving, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7507f69c19e474b) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Charlotte, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a649dc00d49772be) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Oklahoma City, OK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09b7c533aa9e21c7) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Carmel, IN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80e409a84823432c) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Philadelphia, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a233fead74765805) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Columbus, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79d47a75d49031cb) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ddaf778d2ea07d1) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Austin, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3211deb36c26aaa9) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Albany, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81e0393507a109a1) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Saint Petersburg, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f9850b5f75c020c4) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Morristown, NJ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d37ff9d3778876f) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | St. Louis, MO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe6846c5c54476b7) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Raleigh, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97ed7174a6ea4bd1) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9785a20aecf8c4de) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Overland Park, KS, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4f134df25935ad9a) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Des Moines, IA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32ace5e9fcbc7f44) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59568162ab93d7d2) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Boston, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10a4b86bc11b9674) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Miami, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=524aa93a3570e54f) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | San Diego, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d665d4a1825fc4fa) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b9773846c6c6ee8f) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Mountain View, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca1cf78f3eb8423c) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Walnut Creek, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3924b6e60e9d7c59) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Culver City, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f461788fecb2b2f) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Bentonville, AR, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=46111a2e5b3eb086) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Denver, CO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31390c647cdb4e1f) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Scottsdale, AZ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a05edd7bd552cee) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Irvine, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2705dc7ab469fca5) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Sacramento, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=646a2aafce7cad2f) | 2026-05-04 |
+| **Accenture** | Technical Commerce & AI Consultant | Agentic Commerce | Hartford, CT, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f9cb337dbc254290) | 2026-05-04 |
 | **Oak Ridge National Laboratory** | Back-End Software Developer | Oak Ridge, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2c9a1441fd4ec20) | 2026-05-04 |
+| **Qode** | AI Engineer | San Diego, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9ab2c35e170c6bf) | 2026-05-04 |
+| **Qode** | Senior AI Engineer | San Diego, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a0b2da90611b7f4) | 2026-05-04 |
+| **Heygen** | Backend Engineer | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=423ca554834f103a) | 2026-05-04 |
 | **JPMorganChase** | Senior Product Associate - CARD DATA OWNERS | Wilmington, DE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a8d135304ef368d9) | 2026-05-04 |
 | **The Voleon Group** | Senior Cluster Site Reliability Engineer | Berkeley, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=68a45157511d01d9) | 2026-05-04 |
 | **Uber** | Scientist II - Reservations | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22830778fbb9fbd5) | 2026-05-04 |
+| **Openkyber** | Okta IAM Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=12437ed8f934c208) | 2026-05-04 |
+| **Openkyber** | AWS API Gateway Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=583898b799180afb) | 2026-05-04 |
+| **Openkyber** | AWS Technical Apprentice / Trainee | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=feb3059078a0901f) | 2026-05-04 |
+| **Pindrop** | Senior Software Engineer - Capture | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=40faec2ccdd7f2df) | 2026-05-04 |
+| **Pindrop** | Senior Software Engineer - Capture | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cef5340a7e060723) | 2026-05-04 |
+| **Humana** | Senior DevOps Platform Engineer | Arlington, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f88bce0a152f0cfa) | 2026-05-04 |
+| **Humana** | Senior DevOps Platform Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ace6137fa8decf52) | 2026-05-04 |
+| **Humana** | Senior DevOps Platform Engineer | Frisco, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fd4b7cc82ae2d8aa) | 2026-05-04 |
+| **Humana** | Senior DevOps Platform Engineer | Tampa, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aeec6a5322ee7f9a) | 2026-05-04 |
+| **Humana** | Senior DevOps Platform Engineer | Washington, DC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cde9cc897292db86) | 2026-05-04 |
+| **Humana** | Senior DevOps Platform Engineer | Louisville, KY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8057aa6b94b62cf3) | 2026-05-04 |
+| **Openkyber** | OpenAM | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6144f7e9ae450f13) | 2026-05-04 |
 | **Amgen** | Senior Data Scientist | Thousand Oaks, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d365d77aac9d7c7) | 2026-05-04 |
 | **Matrix International Financial Services** | Solution Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69c818141f7c2040) | 2026-05-04 |
 | **MUFG** | Data Integration Analyst | Tempe, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c6b490e9093e1fb3) | 2026-05-04 |
@@ -36,6 +109,11 @@
 | **The Voleon Group** | Senior Linux Infrastructure Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1df0dc0d6ff95795) | 2026-05-04 |
 | **Openkyber** | Senior Platform Engineer | GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca46fd03c73ce22e) | 2026-05-04 |
 | **Equus Computer Systems** | Software Engineer II | City of Industry, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=917465a6c5df167b) | 2026-05-04 |
+| **Tms Llc** | Hiring: NLP Architect – Generative AI & Conversational Intelligence | 15+ Years of Exp. | Remote | Myrtle Point, OR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f9165e901d9215a) | 2026-05-04 |
+| **Beta Technologies** | Semantic Data Engineer | Digital Operations | South Burlington, VT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d6de05e95a1a1c2) | 2026-05-04 |
+| **STERIS** | Enterprise Data Modeler / Data Architect | Mentor, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a87bcde3a06ac6f) | 2026-05-04 |
+| **Openkyber** | AWS Technical Apprentice / Trainee | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=176701077a642772) | 2026-05-04 |
+| **Chess.com** | Database Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5a14d40ff745332) | 2026-05-04 |
 | **SES** | Intern Data Scientist | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee328749120b1dc5) | 2026-05-04 |
 | **Amgen** | Sr Data Scientist | Thousand Oaks, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0bac0c2dec6fe3b6) | 2026-05-04 |
 | **Daimler Truck North America** | Software Engineer – AI & Industrial Applications | Cleveland, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4f203c7802bc3193) | 2026-05-04 |
@@ -44,6 +122,21 @@
 | **Openkyber** | Kubernetes Engineer | CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6502a676b677e356) | 2026-05-04 |
 | **Openkyber** | Kubernetes Engineer | IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=289ddda237a35ed8) | 2026-05-04 |
 | **nan** | Research Scientist 5G NR and 6G | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1489cd8bfd124930) | 2026-05-04 |
+| **Thinking Machines** | Software Engineer, Data Infrastructure | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f1dba196bac0927) | 2026-05-04 |
+| **Thinking Machines** | Infrastructure Engineer, Security | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5a184a130661a3b7) | 2026-05-04 |
+| **Thinking Machines** | Software Engineer, Developer Productivity, AI Tools | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=952300d208ec7e6c) | 2026-05-04 |
+| **Radiant Security** | Senior AI Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=634af8f4d27319ca) | 2026-05-04 |
+| **Openkyber** | Senior SRE | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c8e1794c0bb9b75) | 2026-05-04 |
+| **Openkyber** | Senior SRE | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=53e1260adba3967e) | 2026-05-04 |
+| **Upstart** | Infrastructure Security Engineer | Ohio, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89bb06907c547325) | 2026-05-04 |
+| **Visa** | Software Engineer - Sr Consultant level | Foster City, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a391d284bead1fe) | 2026-05-04 |
+| **Upstart** | Infrastructure Security Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a8299653e2a51a05) | 2026-05-04 |
+| **RecruitIQ** | AI/ML Engineer | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22fdfae74b047784) | 2026-05-04 |
+| **Heygen** | Software Engineer, Data | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05813bd035198afe) | 2026-05-04 |
+| **Heygen** | Software Engineer, AI Compute Infrastructure | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54e6a55634c338ee) | 2026-05-04 |
+| **Heygen** | Backend Engineer - Infrastructure | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54b65be9c33e9ae7) | 2026-05-04 |
+| **Veeam Software** | Sr. Data Analyst | OR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a8ee797f8522e230) | 2026-05-04 |
+| **GPS Services, Inc.** | Data Scientist, Digital Product Analytics | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f21cb391b30035b) | 2026-05-04 |
 | **Openkyber** | AI Application Architect | AK, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27ca12ec8e3403ed) | 2026-05-03 |
 | **Openkyber** | AI Application Architect | AK, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f110f42052fd5fe3) | 2026-05-03 |
 | **Openkyber** | Senior GCP Kubernetes Engineer | AK, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44bf0f9c23ef7ab5) | 2026-05-03 |
