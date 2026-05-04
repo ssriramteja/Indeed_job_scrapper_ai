@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-04
-- **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 479
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 481
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-04.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-04.xlsx)
 
@@ -10,9 +10,11 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Growth Protocol** | Senior Data Engineer | US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73f78f46255a670f) | 2026-05-04 |
 | **Mattel, Inc.** | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e22eed84f3a0e5a) | 2026-05-04 |
 | **Mattel, Inc.** | Solutions Architect - Cloud Data Warehousing (GCP) | El Segundo, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54329e26a8f1201c) | 2026-05-04 |
 | **Amgen** | Senior Data Scientist | Thousand Oaks, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d365d77aac9d7c7) | 2026-05-04 |
+| **Matrix International Financial Services** | Solution Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69c818141f7c2040) | 2026-05-04 |
 | **SES** | Intern Data Scientist | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee328749120b1dc5) | 2026-05-04 |
 | **Amgen** | Sr Data Scientist | Thousand Oaks, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0bac0c2dec6fe3b6) | 2026-05-04 |
 | **Openkyber** | AI Application Architect | AK, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27ca12ec8e3403ed) | 2026-05-03 |
