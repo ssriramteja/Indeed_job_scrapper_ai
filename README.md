@@ -1,15 +1,85 @@
 # 🚀 Indeed Job Scraper AI
 
-### 📊 Latest Update: 2026-05-05
-- **New Matches Found in Last Run:** 44
-- **Total Active Matches (Last 4 Days):** 560
-- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-05.md)
-- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-05.xlsx)
+### 📊 Latest Update: 2026-05-06
+- **New Matches Found in Last Run:** 70
+- **Total Active Matches (Last 4 Days):** 526
+- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-06.md)
+- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-06.xlsx)
 
 #### 🎯 Rolling Window: Matches from last 4 days
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **nan** | MLOps Engineer | Arlington, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56f1aa48ba26ae3c) | 2026-05-06 |
+| **nan** | Software Engineer, Cloud Infrastructure (Multiple Seniority Levels) | San Carlos, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=07cee960b10bf15e) | 2026-05-06 |
+| **Tata Consultancy Services (TCS)** | GEN AI Engineer | Irving, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b9c53d5cd25730c6) | 2026-05-06 |
+| **Paramount Streaming** | Senior Software Engineer, Internal Tools and Automation | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6824c35bf6da31c7) | 2026-05-06 |
+| **Kroll Inc.** | Senior Data Engineer | US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d56048c057634cd1) | 2026-05-06 |
+| **Commence** | Sr Site Reliability Engineer | Leesburg, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9093ede7f2269db2) | 2026-05-06 |
+| **Clayco** | Senior Cloud Engineer | St. Louis, MO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=61cc49187bd6e01d) | 2026-05-06 |
+| **Optum** | Software Engineer | Eden Prairie, MN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59b0741fc1cd4e53) | 2026-05-06 |
+| **SAP** | SAP Procurement AI Architect - Multiple Locations | Newtown Square, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c90d2c37bde64123) | 2026-05-06 |
+| **Miami Marlins** | Senior DevOps Engineer | Miami, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff87deef607d5450) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Seattle, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34c37a226b547d01) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Cleveland, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7d77afce6f60e6f) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | St. Louis, MO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=225c5a8131dc6595) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=301dbd1e2eb0bb70) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d88e7121c2db79d6) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Dallas, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18d3f9fdcfa07035) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d2d16258cfd6718) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Philadelphia, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5be8f9b4535b406c) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=26ef52c65261360a) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Pittsburgh, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f9240b7b96545a4d) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | McLean, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=42ae72f7d4a97700) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Tempe, AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dab5b1b68cc6402c) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Arlington, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fde8d1831ca7f9b7) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Minneapolis, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a056659ad4aebd2) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Nashville, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5402962c321dcba) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Detroit, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f45ad39ec1fe503a) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Kansas City, MO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=86cfc919b4ccc768) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Houston, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c9a866cff6a0e3bd) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Morristown, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab68f1e4ba82ad10) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Atlanta, GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df163d5906a30146) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Cincinnati, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f0c32c0bdf67710) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Columbus, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25f63312ec2e267e) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Miami, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be379ec08f5c5e6f) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Stamford, CT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8deeb1ab1ebcdccd) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Indianapolis, IN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=92aa87419ba8e5df) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da334d3b3eda0eb4) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Los Angeles, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c314e6df20a4157) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Denver, CO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b90a165cff732e70) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | San Diego, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=26bc98921360165c) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5359f322821abe9) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Sacramento, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=562ea8307dd5c91d) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Costa Mesa, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70a64e543cdeb49a) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed3e28c9a543299a) | 2026-05-06 |
+| **Deloitte** | GCP Cloud Analytics Engineer - Senior Consultant | San Jose, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1735f01363643535) | 2026-05-06 |
+| **Cotality** | Sr. Professional, Software Engineering (Python) | Irvine, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83e013cc49a29087) | 2026-05-06 |
+| **Outfront Media** | Summer Intern, Platform Engineering | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2aa35bb9483f10ad) | 2026-05-06 |
+| **Grewal Orthopedic and Spine Care** | Software Engineer | Westbury, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e8bd407ba2f9ea9) | 2026-05-06 |
+| **Cox Automotive** | Software Engineer I | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0fcc7dda5d387b66) | 2026-05-06 |
+| **Uber** | Software Engineer II ML, Merchant Intel 8 | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a1337e38606840b) | 2026-05-06 |
+| **CoStar Group** | Homes.com - Machine Learning Engineer | Arlington, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab5f62045beddd6f) | 2026-05-06 |
+| **Telit Cinterion** | Junior AI Software Developer | Boca Raton, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ddbe84b56cb2ec3) | 2026-05-06 |
+| **Lenovo** | AI DevOps Sr Engineer | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f409c856b4c563e) | 2026-05-06 |
+| **nan** | Senior Frontend Engineer (Angular)-Healthcare SaaS | Davie, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=68dd619e4c05c18d) | 2026-05-06 |
+| **Outreach.io** | Senior Software Engineer, Analytics Platform | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=75142c7c06e36bb4) | 2026-05-06 |
+| **Okta** | Senior Database Reliability Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cbbb39a8933e2416) | 2026-05-06 |
+| **PRA Group** | AI Developer / Associate AI Engineer (Generative AI Focus) | Charlotte, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c9f71bb9fcc0fc8) | 2026-05-06 |
+| **Revelation Pharma** | Machine Learning Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14382dfad9c48404) | 2026-05-06 |
+| **Chickasaw Nation Industries** | AI Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=46073e5fc43d1883) | 2026-05-06 |
+| **PlayStation** | Software Engineer II | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a80c7c46eef5bb4f) | 2026-05-06 |
+| **Victory Live** | Senior Software Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1c259f0b00d1299) | 2026-05-06 |
+| **Mattel, Inc.** | Data Engineer II, Mobile Game Analytics | El Segundo, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=087868e735e87a06) | 2026-05-06 |
+| **Radians** | SENIOR AI ENGINEER (ONSITE ROLE) | Memphis, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c6d173b29bad95d) | 2026-05-06 |
+| **Commence** | Data Analyst | Leesburg, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6dbe3f5b8d12f8c7) | 2026-05-06 |
+| **NiCE** | Senior Software Engineer (AWS, Java, AI Agents) | Sandy, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c553c257813fcd05) | 2026-05-06 |
+| **Breezeline** | Data Scientist | Quincy, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c92aa612bf73822f) | 2026-05-06 |
+| **Mondelēz International** | Scientist, Modelling & Simulation | East Hanover, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=effffe1e2e5fe164) | 2026-05-06 |
+| **MojoTech** | Software Architect | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69acad0e9f77b2e8) | 2026-05-06 |
+| **Arm** | Senior Finance Data Analyst | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d95ff99e35f2c65) | 2026-05-06 |
+| **Visa** | Senior Data Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9872f4b017a1b905) | 2026-05-06 |
+| **Bumble** | Senior Software Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d5a63985baf7428) | 2026-05-06 |
 | **Skyventure Management LLC** | Full Stack Engineer | Austin, TX, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2cf4e196f6f8959b) | 2026-05-05 |
 | **Amcor** | AI Full Stack Engineer | Deerfield, IL, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1275c892f53f1ddf) | 2026-05-05 |
 | **Brillio LLC** | Java Developer – R01564833 | Chicago, IL, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e57e3274f3d1a497) | 2026-05-05 |
@@ -466,110 +536,6 @@
 | **Growth Protocol** | Forward Deployed Engineer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fa353bc610802c7a) | 2026-05-03 |
 | **Openkyber** | GCP AI Platform Engineer | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ad6c0ae45d10b9b2) | 2026-05-03 |
 | **General Dynamics Information Technology** | Senior Cloud Engineer - NAVSUP OIS - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd256b803c4afebd) | 2026-05-03 |
-| **Tata Consultancy Services (TCS)** | Senior Data Scientist | Pleasanton, CA, US USA | 33.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc7603e03c6d973d) | 2026-05-02 |
-| **McKinsey & Company** | Senior Data Engineer I - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=509812e56f8aee53) | 2026-05-02 |
-| **Deloitte** | Databricks Data Architect | Tampa, FL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74449deb9c0c3d9c) | 2026-05-02 |
-| **Deloitte** | Databricks Data Architect | Nashville, TN, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed9492994c623133) | 2026-05-02 |
-| **ElementSkill** | Agentic AI Architect | US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=87dcf7166c991b47) | 2026-05-02 |
-| **Openkyber** | AI Integration Engineer (Java + AI) | AK, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63e4780a404c7463) | 2026-05-02 |
-| **Blue Origin** | Software Development Engineer III | Seattle, WA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ad2ef58f346a3ce) | 2026-05-02 |
-| **Inter-American Development Bank** | IDB Invest - Data Engineer (Sr Officer) Officer | Washington, DC, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=975f0416f1286d47) | 2026-05-02 |
-| **Proterial** | Data Scientist I or II (MAD-BS-OR) | Hillsboro, OR, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8a720f35ff3f2b2) | 2026-05-02 |
-| **VaaridaTech** | Agentic AI-Senior Engineer | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=681aad112795edb7) | 2026-05-02 |
-| **Tampa Electric Company** | Enterprise Analytics Data Engineer | Tampa, FL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a9cff16df0771caf) | 2026-05-02 |
-| **JPMorganChase** | Software Engineer III - PySpark/AWS | Wilmington, DE, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee6714b6afaed3b1) | 2026-05-02 |
-| **J&B Medical** | DevOps Engineer Live Streaming- Wixom, MI | Wixom, MI, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=823e57252a5543a0) | 2026-05-02 |
-| **Tata Consultancy Services (TCS)** | Senior AI Business Consultant | Delray Beach, FL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ccb936d65f6a46c) | 2026-05-02 |
-| **Dr. Berg Nutritionals** | Senior Data Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c3ced295cf725df) | 2026-05-02 |
-| **Disney Experiences** | Sr Full Stack Software Engineer | Orlando, FL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7160da80c4aa5c1b) | 2026-05-02 |
-| **Openkyber** | Cloud AI Application Administrator | AK, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18ebfd30511cd60d) | 2026-05-02 |
-| **General Motors (GM)** | Sr. Software Engineer - AI Engineering and Productivity | Austin, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=678daaae3aea7ce1) | 2026-05-02 |
-| **The Walt Disney Company** | Sr Full Stack Software Engineer | Orlando, FL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=957c98b575d28f5a) | 2026-05-02 |
-| **Goldman Sachs** | Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - New York | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a9368e0faa9912b) | 2026-05-02 |
-| **Goldman Sachs** | Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - Dallas | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=01fbe5367f7e4246) | 2026-05-02 |
-| **Basis** | Sr Software Engineer, Applications | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6718e8631b0d7a54) | 2026-05-02 |
-| **RS21: A Data Science and Visualization Company** | Core Developer, Full Stack | Albuquerque, NM, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af1de6fc24a613b9) | 2026-05-02 |
-| **Openkyber** | Senior DevOps Engineer (GCP) | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=abcb767c36c64a35) | 2026-05-02 |
-| **CenterWell** | Data Scientist - LLM, Agentic AI & Predictive Modeling | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=82339426dfe9c861) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Cincinnati, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e860fcc4c94d6d4) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Nashville, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7067080d6e07c8f3) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Seattle, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b9725dda41b26951) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Austin, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0d1ce4396f502c4c) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Pittsburgh, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9aad35591fe3637b) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Morristown, NJ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=485d9362fec2efa2) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Dallas, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=076dc7d37ecd84b4) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Philadelphia, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=608d211579ba455d) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Tempe, AZ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f187af07a1cb6245) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Cleveland, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a925391d8a6edf40) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=109a6a5bacc8621c) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | McLean, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6772d28fdf0b189a) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | San Jose, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58c41e88c1971000) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Minneapolis, MN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49997c79b23be02f) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d98ee98d5bfcf9d) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Detroit, MI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=774f87e665d21c9c) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Denver, CO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfc89a8f43bde62f) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Charlotte, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94aff22e96326642) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Sacramento, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80bfce4e39830c30) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Tampa, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10bd28821350d25a) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | St. Louis, MO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3e1d44d1e0404b6) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e6072f6f6f29b5d2) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Stamford, CT, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a3b6706f5bd74b0) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Indianapolis, IN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20ee77db334f5ef9) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Kansas City, MO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea139063ea80a8f1) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Costa Mesa, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5808657aeae8aab) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | San Diego, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51ed3780e0bd82d7) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Miami, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=65f20ec94d3f0499) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Boston, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c0047965fc120080) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0d2d1377bcdeb6d) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=23b259a8f7075b74) | 2026-05-02 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Los Angeles, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a6e81432a843a50) | 2026-05-02 |
-| **ＡＮＧＥＬ** | Senior DevOps Engineer | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00bf282bd55e88fa) | 2026-05-02 |
-| **Applied Materials** | 2026 NCG - IT Solutions Management (Bachelor's) | Santa Clara, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ff61820a18d80a6) | 2026-05-02 |
-| **Ford Motor Company** | Machine Learning and AI Developer | Dearborn, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af2737472fe58d92) | 2026-05-02 |
-| **Suffolk Construction** | Site AI Engineer | Charlotte Amalie, VI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c97929cd3c8537a6) | 2026-05-02 |
-| **Suffolk Construction** | Site AI Engineer | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fa5df1f0f4eb4708) | 2026-05-02 |
-| **Adobe** | Machine Learning Engineer 4 | San Jose, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=458a4d023941f46a) | 2026-05-02 |
-| **SAP** | Senior Java Engineer - Search Platform | Palo Alto, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e88a1a6638b80a7a) | 2026-05-02 |
-| **Openkyber** | AI Application Architect | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b57504d4cd793d31) | 2026-05-02 |
-| **Mutual of Omaha** | AI Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a77b463203f22c1) | 2026-05-02 |
-| **City of Cleveland, OH** | AI Architect | Cleveland, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de247868a0e92d59) | 2026-05-02 |
-| **ＡＮＧＥＬ** | Data Scientist | Provo, UT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fa085f4150be3525) | 2026-05-02 |
-| **NetCentrics** | AI Forward Deployed Engineer (FDE) | Herndon, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6124bf65eb741f81) | 2026-05-02 |
-| **Fabric Health** | Senior Site Reliability Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c306a5c14ab5b6b9) | 2026-05-02 |
-| **Foot Locker** | Senior Power BI Engineer | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b66c894d8ffd2eff) | 2026-05-02 |
-| **VaaridaTech** | Agentic AI & Data -Solution Architect with Presales Experience | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cfe5d5e372245a73) | 2026-05-02 |
-| **Blue Origin** | Software Engineer III - Applied AI | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ac13636394e250f) | 2026-05-02 |
-| **CAI (Computer Aid, Inc.)** | Senior Data Scientist | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31668075a85c02a3) | 2026-05-02 |
-| **CAI (Computer Aid, Inc.)** | Data Scientist | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5cc45b69de4dc4e4) | 2026-05-02 |
-| **Target** | Sr Data Analyst - Digital and Ecommerce (Statistics/Math, A/B testing, Power BI) | Minneapolis, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b33c13d7669fbe88) | 2026-05-02 |
-| **Tessera Labs** | Software Engineer, Backend | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfac418b5cd8c6bb) | 2026-05-02 |
-| **Tango Technology, Inc.** | Senior Analytics Engineer | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14295ecca47496e3) | 2026-05-02 |
-| **Openkyber** | Senior Cloud Automation Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=005efcc9b62d1e43) | 2026-05-02 |
-| **Openkyber** | AI Model Deployment Administrator | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8d6fac9d17960e9) | 2026-05-02 |
-| **Openkyber** | Junior GCP Cloud Engineer | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aaef7c2760cd17b6) | 2026-05-02 |
-| **Openkyber** | AI Application Architect | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44e8029aedb9d462) | 2026-05-02 |
-| **Salesforce** | Production Support Engineering LMTS | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22e98610bfa81cc9) | 2026-05-02 |
-| **Numa** | Solutions Engineer | Arizona City, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=030c3c211f96e6d0) | 2026-05-02 |
-| **Numa** | Solutions Engineer | Utah Junction, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ed659c448be8624) | 2026-05-02 |
-| **Numa** | Solutions Engineer | Colorado Springs, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97f946569d2b6f8e) | 2026-05-02 |
-| **LVT (LiveView Technologies)** | Machine Learning Engineer III | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1665fe72d2eecd9) | 2026-05-02 |
-| **Strategic Education, Inc.** | Data Scientist II, Advanced Analytics | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27ba860510457d79) | 2026-05-02 |
-| **Dynamointellect Private Limited** | Senior Python Developer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1328570d417e91ae) | 2026-05-02 |
-| **Openkyber** | Junior GCP Cloud Engineer | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=538f06a2c6f51b78) | 2026-05-02 |
-| **Disney Experiences** | Senior Human Resources Decision Science Consultant | Anaheim, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1382ef1bb31c017) | 2026-05-02 |
-| **WellSky** | Sr. Data Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13a045f55db8c293) | 2026-05-02 |
-| **Intuitive (Intuitive Surgical)** | Agentic AI Developer | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a459d735f7da6234) | 2026-05-02 |
-| **Bezos Academy** | Senior Software Engineer – AI Applications | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97531392399cd4de) | 2026-05-02 |
-| **Bezos Academy** | Senior Software Engineer – AI Applications | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d69585651be5ee40) | 2026-05-02 |
-| **Bezos Academy** | Senior Software Engineer – AI Applications | Louisville, KY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c265d2fcd6c7b08a) | 2026-05-02 |
-| **Bezos Academy** | Senior Software Engineer – AI Applications | Miami, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4fe314d7c45bdc3d) | 2026-05-02 |
-| **Bezos Academy** | Senior Software Engineer – AI Applications | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b57e447d834a9dcf) | 2026-05-02 |
-| **Bezos Academy** | Senior Software Engineer – AI Applications | Orlando, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf3173bf4c6d455e) | 2026-05-02 |
-| **Bezos Academy** | Senior Software Engineer – AI Applications | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec8f596dec7c0691) | 2026-05-02 |
-| **Openkyber** | AI Integration Engineer (Java + AI) | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ae685ce0555d2a81) | 2026-05-02 |
-| **JPMorganChase** | Software Engineer III (Full Stack) – API Platform | Palo Alto, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9569805885bbf4d2) | 2026-05-02 |
-| **RHP Properties** | Corporate- AI Engineer | Farmington Hills, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a397971266345fbb) | 2026-05-02 |
-| **Clinical Care Options LLC** | Associate Data & Analytics Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13564543da011952) | 2026-05-02 |
 
 ---
 
