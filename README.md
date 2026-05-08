@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-08
-- **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 907
+- **New Matches Found in Last Run:** 99
+- **Total Active Matches (Last 4 Days):** 1006
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-08.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-08.xlsx)
 
@@ -10,7 +10,10 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Openkyber** | Kubernetes Operations Engineer | AK, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=72afaba96f57d60e) | 2026-05-08 |
+| **Openkyber** | AWS Systems Engineer | AK, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81fe8958cd4a14a2) | 2026-05-08 |
 | **Ford Motor Company** | Full Stack Software Engineer, AI Integration | Dearborn, MI, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=624a180836a37e71) | 2026-05-08 |
+| **NTT Global Data Centers Americas, Inc.** | AI Technical Architect - Onsite | Auburn Hills, MI, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7327c0bf569365fa) | 2026-05-08 |
 | **GALAXY** | Derivatives Engineer | New York, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5fb021bee91d230) | 2026-05-08 |
 | **nan** | MLOps Engineer | Arlington, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e256491381390022) | 2026-05-08 |
 | **nan** | MLOps Engineer | Arlington, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31b534428b0f5a04) | 2026-05-08 |
@@ -21,12 +24,16 @@
 | **nan** | Artificial Intelligence Integration Engineer | Arlington, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a129185acbd0492) | 2026-05-08 |
 | **Ford Motor Company** | Data Engineer- Full Stack | US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c94f6b732ffad456) | 2026-05-08 |
 | **Hearth & Home Technologies** | AI Solution Analyst/Developer | Lakeville, MN, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44bc644ff107f2ad) | 2026-05-08 |
+| **Openkyber** | Junior Automation Engineer (Cloud) | AK, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5335254820a6db07) | 2026-05-08 |
 | **Openkyber** | Junior Automation Engineer (Cloud) | GA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=23fd00a4507ab066) | 2026-05-08 |
+| **Openkyber** | AWS Systems Engineer | AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=587fb03845771fd7) | 2026-05-08 |
 | **Otairo.ai** | Senior AI Solution Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d40333fe6a0ebeb0) | 2026-05-08 |
 | **Salesforce** | Software Engineer (Backend) - MTS | Redwood City, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b691898c1cbce1f) | 2026-05-08 |
 | **Pattern** | Senior Data Engineer | Lehi, UT, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4055b22190d144e0) | 2026-05-08 |
 | **Openkyber** | Junior Automation Engineer (Cloud) | IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4ebde076d2f48a0) | 2026-05-08 |
 | **JPMorganChase** | Site Reliability Engineer III | Jersey City, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=39123815bfb490a9) | 2026-05-08 |
+| **Openkyber** | Kubernetes Administrator | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d34578ddc24426b1) | 2026-05-08 |
+| **Openkyber** | Senior Kubernetes Security Engineer | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38faaa7e75d7656a) | 2026-05-08 |
 | **Palo Alto Networks** | Chronosphere Sales Specialist | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eb135d3bc1e4d5f8) | 2026-05-08 |
 | **Kyocera Document Solutions** | Senior Software Engineer- Backend | Concord, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be3ec9162ad222f8) | 2026-05-08 |
 | **Deloitte** | GenAI Data Scientist | Lake Mary, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43c7efbb4efe2fa8) | 2026-05-08 |
@@ -35,10 +42,14 @@
 | **Deloitte** | GenAI Data Scientist | Mechanicsburg, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27e419130b9fabdc) | 2026-05-08 |
 | **Deloitte** | GenAI Data Scientist | Mechanicsburg, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8dea8e1bf49b0b6f) | 2026-05-08 |
 | **Deloitte** | GenAI Data Scientist | Gilbert, AZ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cbf4d05afaf86d47) | 2026-05-08 |
+| **Brightgrove** | SENIOR PYTHON SOFTWARE ENGINEER | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ac0a3b244a9e118) | 2026-05-08 |
+| **Openkyber** | Platform Engineer | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=78d7d81277bb81ba) | 2026-05-08 |
+| **Openkyber** | AWS Technical Apprentice / Trainee | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c43b6c07f7a10c25) | 2026-05-08 |
 | **Sequoia Financial Group** | Data Scientist | Cleveland, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=60030b4bdf983eb3) | 2026-05-08 |
 | **Sequoia Financial Group** | Data Scientist | Dublin, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ce53528ac40f5d51) | 2026-05-08 |
 | **Sequoia Financial Group** | Data Scientist | Mayfield Heights, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a5c889fe44a36ed) | 2026-05-08 |
 | **NOV** | Senior Data Scientist | Houston, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f68aa85a5e2fb315) | 2026-05-08 |
+| **KAYAK** | Senior Data Engineer | Concord, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=590a93b85ac25dec) | 2026-05-08 |
 | **Rocket 55** | Data Engineer (Analytics) | Minneapolis, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=450a9e8397744651) | 2026-05-08 |
 | **OrangeAI** | Founding Product Designer | Naples, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de8acdb2ac2aff1a) | 2026-05-08 |
 | **nan** | Senior Data Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b77406dba702df20) | 2026-05-08 |
@@ -53,6 +64,11 @@
 | **nan** | Data Scientist, Growth & Measurement | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d596de1b93140484) | 2026-05-08 |
 | **Global Software Resources** | Data Scientist – Transmission ROW Risk Analytics | Dublin, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de4935dd718f61e0) | 2026-05-08 |
 | **CoBank** | Senior Software Engineer, Full Stack | Greenwood Village, CO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a00c6df2acb90b04) | 2026-05-08 |
+| **Analog Devices** | Senior AI Application Engineer | Wilmington, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5001197e96c3947) | 2026-05-08 |
+| **nan** | Senior Software Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ab9df159e473dcf) | 2026-05-08 |
+| **Openkyber** | Senior SRE (Kubernetes) | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2d3d34de1eead8b) | 2026-05-08 |
+| **Openkyber** | Cloud Support Associate | AK, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0077323c8678a550) | 2026-05-08 |
+| **Abercrombie & Fitch** | Senior Engineer, Supply Chain Systems (Remote) | Columbus, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c89ce135bb4639d) | 2026-05-08 |
 | **Qualcomm** | Senior Software Engineer – Edge AI/GenAI & Multimedia | San Diego, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=423d73308bd1ad66) | 2026-05-08 |
 | **NVIDIA** | Senior Systems Data Engineer, Financial Transactions and Automation - GeForce NOW | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d44146696368c097) | 2026-05-08 |
 | **IDC Research Inc.** | AI Engineer-Memory Retrieval | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=768001b13845c82f) | 2026-05-08 |
@@ -64,6 +80,9 @@
 | **Rocket Software** | Senior Software Engineer (C, C++, Linux, Rest API) | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9469e0cd63d5176e) | 2026-05-08 |
 | **The Walt Disney Company** | Sr Analyst-Advanced Analytics & BI | Celebration, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e476093767a3bff4) | 2026-05-08 |
 | **Nationwide Mutual Insurance Company** | Engineer, Software Engineer - Entry Level - Java, Angular, or Python | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b79944ab8184c058) | 2026-05-08 |
+| **Disney Experiences** | Sr Analyst-Advanced Analytics & BI | Celebration, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f43f5d7e9941863d) | 2026-05-08 |
+| **LTIMindtree** | Java Backend Developer - GCP, GraphQL | Cincinnati, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=234380b23def2cb2) | 2026-05-08 |
+| **Openkyber** | Senior DevOps Engineer (Kubernetes) | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d89c117f1e086cd) | 2026-05-08 |
 | **New Classrooms Innovation Partners Inc** | Senior QA Engineer / SDET | Jersey City, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=456b9250ee924554) | 2026-05-08 |
 | **Boeing** | Senior Data & AI Platform Cloud Operations Developer | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18c9382cc38e8b63) | 2026-05-08 |
 | **CCC Intelligent Solutions** | AI Enablement Intern | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5471b4651b285947) | 2026-05-08 |
@@ -81,6 +100,86 @@
 | **SmarterDx** | Senior Data Scientist | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=760b3abe0905b05f) | 2026-05-08 |
 | **Intone Networks** | L1 SRE Operations Engineer | Dallas-Fort Worth, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f389d60ba30d07cb) | 2026-05-08 |
 | **JPMorganChase** | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2032a94f0b2c0e2c) | 2026-05-08 |
+| **GRP Solutions** | Artificial Intelligence Engineer | Texas City, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5718b5011d7465dc) | 2026-05-08 |
+| **Openkyber** | Senior DevOps Engineer (Kubernetes) | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=087ab144e97379ba) | 2026-05-08 |
+| **Openkyber** | Kubernetes CI/CD Engineer | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c41dfe228e3f8361) | 2026-05-08 |
+| **Openkyber** | Senior Kubernetes Engineer | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c6de2fd4f79b0a84) | 2026-05-08 |
+| **Openkyber** | SRE (Kubernetes) | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=474158839a7b550a) | 2026-05-08 |
+| **Openkyber** | Cloud Support Engineer (Containers) | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85f537fcf871abc5) | 2026-05-08 |
+| **Openkyber** | Kubernetes Security Engineer | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05932e2bdc0b6ca7) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Portland, OR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e4bedeadb55550d) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Minneapolis, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a86bba0f9e4d818a) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea2dfcc5c2adecc9) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Little Rock, AR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=312f9634917652f9) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2cc625ea8822cae5) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Las Vegas, NV, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ce3a0c657a123463) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Florham Park, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7313777d2d9eb264) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Kansas City, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c4ea4454f747410) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Birmingham, AL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c385e203695a4a7a) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Fayetteville, AR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=854b0c53a4ee03d0) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d6086f59372b3530) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Pittsburgh, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3d617c884b1f41e1) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Detroit, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43ecfe71c9420e92) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea6ec48d315038e5) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Irvine, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=87eef8af4e5557fd) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Miami, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d341008fd89dae92) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=229cba137d57807d) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Des Moines, IA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1beeee280545a4d8) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d7c5fa3bce450556) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Grand Rapids, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=39294e745bb0f76e) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=099eae4c40f6e37a) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | St. Louis, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8b3487536b109ec4) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bf8e9b8c0b8558b5) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Philadelphia, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bc69adc96717a25b) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Jacksonville, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d06666a52e7fc592) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ecda4cdbf490425) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Hartford, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f0a2dcd15f470402) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6327e7fe9d7e389) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | San Antonio, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74ba52ae4f8a2948) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Silicon Valley, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fbc65af7ca7077af) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Oklahoma City, OK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34c7afec89e4cb86) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Tulsa, OK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6b8ababc6fedb2ad) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Louisville, KY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=288f1b14b9bb2946) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d18340c211b5a5bb) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Rosemont, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3116efa3360df29b) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Salt Lake City, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd8868954104ab1a) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Sacramento, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=021a87e205105721) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Columbia, SC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1324ebe201b47273) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Indianapolis, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d8031393f02e75e) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Raleigh, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=267faf1cf944de29) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Cincinnati, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9920f2d7a66255a2) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | New Orleans, LA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=53b67630c6031bfc) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Buffalo, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19ee213f40ffe54c) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Toledo, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79c4f92ed2837ac5) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1524086009e62a0f) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Milwaukee, WI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=836957d4e3d33df1) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Greensboro, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6aa08ddbf345b08f) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Cleveland, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32bfc34ec0227321) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | San Diego, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c27f63fd3045d980) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c9dbc57cdeef363) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Fort Worth, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22ae5eff4ade28e9) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Denver, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cdcdad718d96daf2) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d29995435c8e01c) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f1de2e5b6c4e8454) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9dbf8d7f23ad6f59) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Albany, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb1832eaee344341) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ce1b38552a00163) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Baltimore, MD, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0d51ebec341742b3) | 2026-05-08 |
+| **PwC** | GenAI Python Systems Engineer – Senior Associate | Stamford, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e0e31c997112ecb) | 2026-05-08 |
+| **Humana** | Senior Software Engineer – Full Stack | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f4cb6c46f58f623) | 2026-05-08 |
+| **Humana** | Senior Software Engineer – Full Stack | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=957d0ddcede82e51) | 2026-05-08 |
+| **Humana** | Senior Software Engineer – Full Stack | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ae973243ac5d4d3) | 2026-05-08 |
+| **Humana** | Senior Software Engineer – Full Stack | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac399ba01940b3ea) | 2026-05-08 |
+| **Humana** | Senior Software Engineer – Full Stack | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e6640e136af1cb10) | 2026-05-08 |
+| **Humana** | Senior Software Engineer – Full Stack | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d6113d33d84562ec) | 2026-05-08 |
+| **Humana** | Senior Software Engineer – Full Stack | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff0ae847d39bf95f) | 2026-05-08 |
+| **Humana** | Senior Software Engineer – Full Stack | Fort Lauderdale, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2cb18569154c4f78) | 2026-05-08 |
+| **Humana** | Senior Software Engineer – Full Stack | Louisville, KY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4d4620045731c558) | 2026-05-08 |
+| **Humana** | Senior Software Engineer – Full Stack | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=07f9536f10547f6d) | 2026-05-08 |
+| **Humana** | Senior Software Engineer – Full Stack | NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e24f3c7fd05843c) | 2026-05-08 |
+| **Humana** | Senior Software Engineer – Full Stack | Fort Lauderdale, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f663ce546826dc53) | 2026-05-08 |
+| **Accenture** | AI Native Software Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31565d669802996c) | 2026-05-08 |
+| **AMOT Controls** | AI & Data Analytics Co-op/Intern | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa36c8dc5013838e) | 2026-05-08 |
 | **Mastercard** | AI Engineer | St. Louis, MO, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=24e6c09a79e3dceb) | 2026-05-07 |
 | **Openkyber** | ML Infrastructure Architect | KY, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5942a6a495e31ed1) | 2026-05-07 |
 | **NTT DATA** | Technical Architect - AI | Auburn Hills, MI, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c95a4d7ac3a5fbfd) | 2026-05-07 |
