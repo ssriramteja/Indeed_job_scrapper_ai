@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-09
-- **New Matches Found in Last Run:** 55
-- **Total Active Matches (Last 4 Days):** 1038
+- **New Matches Found in Last Run:** 37
+- **Total Active Matches (Last 4 Days):** 1075
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-09.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-09.xlsx)
 
@@ -12,13 +12,21 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Keysight Technologies** | Machine Learning Engineer | Colorado Springs, CO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac992d12306d7243) | 2026-05-09 |
 | **Nucleusteq** | Data Engineer + Gen AI (In-Person @ NYC) | New York, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32f5af10a0a7af6f) | 2026-05-09 |
+| **Lakeview Loan Servicing** | Data Engineer | New York, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=66a4800f2fbccdc3) | 2026-05-09 |
+| **Lakeview Loan Servicing** | Data Engineer, Mortgage Servicing | New York, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=75c41866a1b74cb7) | 2026-05-09 |
 | **Stanford University** | AI Engineer | Redwood City, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79249e7989055f0c) | 2026-05-09 |
 | **General Motors (GM)** | Senior Data Engineer | Austin, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f44f93d98783e436) | 2026-05-09 |
 | **Schneider Electric** | Expert, Cloud Database Engineer | Nashville, TN, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f3fe0d680994e3e) | 2026-05-09 |
 | **NextGen Federal Systems** | Generative AI Engineer | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=402a8cbe67e1b3aa) | 2026-05-09 |
+| **Performacentric** | Fractional/Part-Time CTO | Indianapolis, IN, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=668daa117d5cd90c) | 2026-05-09 |
+| **Performacentric** | Fractional CTO- Chicago | Chicago, IL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bbb61f67fa9a3b09) | 2026-05-09 |
+| **Performacentric** | Fractional/Part-Time CTO | Fort Wayne, IN, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18922cc00f47c2b7) | 2026-05-09 |
 | **Chewy** | Data Scientist II | Richardson, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0942c31426070e80) | 2026-05-09 |
+| **National Council on Aging** | Data Engineer | Arlington, VA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47ecdb3ec5b7a62d) | 2026-05-09 |
+| **HelioCampus** | Data Scientist I | Bethesda, MD, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=40710e09e7c21122) | 2026-05-09 |
 | **nan** | Senior AI Research Engineer | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d90027fd020cb014) | 2026-05-09 |
 | **Sono Bello** | Data Engineer | Bellevue, WA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca29527e5a6209f1) | 2026-05-09 |
+| **Chewy** | Data Scientist III | Boston, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec5d6d0295586b6a) | 2026-05-09 |
 | **Hunter Douglas** | AI Data Scientist | Atlanta, GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=683eef206a8ca84c) | 2026-05-09 |
 | **Hunter Douglas** | AI Data Scientist | Broomfield, CO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7fd3b3c9eb487e3c) | 2026-05-09 |
 | **Fujitsu** | Research InternÂ - GHAI-3 | Santa Clara, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28cb67ed5160ea12) | 2026-05-09 |
@@ -30,11 +38,17 @@
 | **Hendrickson** | AI Intern | Woodridge, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=676c56d27c469638) | 2026-05-09 |
 | **Cloudelligent** | Sr. AWS DevOps Engineer- Kubernetes Expertise | Dallas, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=606de80ba3576b50) | 2026-05-09 |
 | **Cloudelligent** | Sr. AWS DevOps Engineer- Kubernetes Expertise | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=600823f79b18dde8) | 2026-05-09 |
+| **JPMorganChase** | Senior Software Engineer - Java/Cloud/AI/ML | Plano, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de820db84e60fd44) | 2026-05-09 |
+| **MD Anderson Cancer Center** | Senior Machine Learning Engineer - Healthcare | Houston, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=589534468e92c6da) | 2026-05-09 |
+| **Chewy** | Data Scientist III | Bellevue, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea571945534d0f4a) | 2026-05-09 |
+| **CrowdStrike** | Engineer III, SDET - AI Detection and Response (AIDR) (Hybrid) | Sunnyvale, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6baf774b1b56a4a3) | 2026-05-09 |
 | **Nokia** | Machine Learning Test Capability Eng. | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea85e9be561e29b0) | 2026-05-09 |
 | **Apply Digital** | Senior DevOps Engineer (Talent Pipeline) | AR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b57708f8d3c4737) | 2026-05-09 |
 | **FinQuery** | Sr. AI Systems Engineer | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=158d195c174f1b74) | 2026-05-09 |
 | **eBay** | Data Science - Analyst 3 | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34d415480076106c) | 2026-05-09 |
 | **TEAK** | Senior Backend Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63855bcc751daa0b) | 2026-05-09 |
+| **The Walt Disney Company** | Senior Software Engineer, Emerging Technology | Burbank, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a1eea3b935fcd9c) | 2026-05-09 |
+| **Omnicell** | Engineer IV, Site Reliability | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c62872785b033cfa) | 2026-05-09 |
 | **PropertyPilot** | Senior Data Engineer | Manasquan, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d9a8000eeb7bf0b7) | 2026-05-09 |
 | **Rivian and Volkswagen Group Technologies** | Senior Software Release Automation Engineer | Irvine, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c79d50d9e169954) | 2026-05-09 |
 | **Zelis Healthcare** | Senior .Net Full Stack Software Engineer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bebfe5a85a780b93) | 2026-05-09 |
@@ -65,6 +79,29 @@
 | **Clearwater Analytics (CWAN)** | Sr. Software Development Engineer | Boise, ID, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4cde0addac86462a) | 2026-05-09 |
 | **Litera** | Senior Data Engineer | Denver, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd9c362111594082) | 2026-05-09 |
 | **DZYNE Technologies LLC.** | Data Science Intern | Fairfax, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0a326a34a79f6c4) | 2026-05-09 |
+| **JPMorganChase** | Data Scientist Associate - Payments | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=816bd099ab46e879) | 2026-05-09 |
+| **Lakeview Loan Servicing** | Backend Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98900424ffd4451b) | 2026-05-09 |
+| **ECG Management Consultants** | Healthcare Data Analyst or Senior Data Analyst, Analytics Hub | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ef86042740fa345) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=acd6020d304f8274) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a968c51f077ce01b) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Fort Lauderdale, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d29c6cb5a640f955) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=068ebfae4530aaee) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Fort Lauderdale, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e231e1672de64f27) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f26c66c9dcab70b1) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eccaf065ef4262dd) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0bd26ebbfb7d1f13) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1f5d907f6163029) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa795a4386fc054f) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Fort Lauderdale, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9697d9ebfbba3ebe) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3acf7e6c406f831f) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ab230c037c30eae) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13bf4805e2f0b5d6) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=12ddf94be7b9459a) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Fort Lauderdale, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af6176f596736374) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17edad0fcd1ed4d6) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ce6e42b8aa0d150) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | Louisville, KY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20e7716fba751697) | 2026-05-09 |
+| **Humana** | Senior Cloud Architect - Kubernetes | NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eefc6cec4372930d) | 2026-05-09 |
 | **Southern Company** | Data Engineer I or II | Birmingham, AL, US USA | 31.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=432940e5c429b71c) | 2026-05-08 |
 | **Southern Company** | Data Engineer I or II | Atlanta, GA, US USA | 31.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94efcb73c0d62620) | 2026-05-08 |
 | **Citi** | Junior Generative AI Application Developer | New York, NY, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b0a243477a745eb9) | 2026-05-08 |
