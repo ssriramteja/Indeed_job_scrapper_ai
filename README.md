@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-10
-- **New Matches Found in Last Run:** 7
-- **Total Active Matches (Last 4 Days):** 826
+- **New Matches Found in Last Run:** 10
+- **Total Active Matches (Last 4 Days):** 836
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-10.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-10.xlsx)
 
@@ -10,13 +10,23 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **nan** | Senior Cloud Software Engineer (Full-Stack) | Anchorage, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ffaa98384834f1f2) | 2026-05-10 |
+| **Openkyber** | Python | AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=850bbd121eda6f31) | 2026-05-10 |
 | **Left Main REI** | Backend/AI Engineer | Charlotte, NC, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6eaa1cbe99589993) | 2026-05-10 |
 | **Universe Force Group** | Software & AI Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b1a7cdcfd58fbfd7) | 2026-05-10 |
+| **Openkyber** | Backend (Python) | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ef373ef8fdb9f17) | 2026-05-10 |
 | **Capgemini** | Java Full Stack Developer | Atlanta, GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=72936513a7ba9da0) | 2026-05-10 |
+| **nan** | Statistical Modeling & NPW-PTSD Framework Intern | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e92b0d3de23b3f8) | 2026-05-10 |
+| **Openkyber** | Senior Python Developer | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8797983cc7729f69) | 2026-05-10 |
 | **DNS Solutions Inc.** | Senior Data Scientist | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b75e83c838d157e6) | 2026-05-10 |
+| **Openkyber** | Senior API Engineer (Python) | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bad259f06e93f7fa) | 2026-05-10 |
 | **PARAMOUNT** | Senior Technical Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=12eda1f03832c35e) | 2026-05-10 |
 | **PARAMOUNT** | Senior Technical Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b0be68f0e6578a7) | 2026-05-10 |
 | **Lithium Consulting LLC** | Job Title: Senior AI, ML, Cybersecurity & Engineering Talent | Remote | $180K+ Base | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90f55901056738e9) | 2026-05-10 |
+| **KlearNow** | Senior AI Engineer | CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6ddb293aa1487550) | 2026-05-10 |
+| **Orion180 Insurance Services, LLC** | Senior Insurance Data Analyst | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a285fb0b75cbb5d) | 2026-05-10 |
+| **nan** | Observatory Data Analyst Intern | Brockton, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=191523c6f29afce9) | 2026-05-10 |
+| **Bessemer Trust** | Equity Intern | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e206bd88f02e0071) | 2026-05-10 |
 | **Keysight Technologies** | Machine Learning Engineer | Colorado Springs, CO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac992d12306d7243) | 2026-05-09 |
 | **Nucleusteq** | Data Engineer + Gen AI (In-Person @ NYC) | New York, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32f5af10a0a7af6f) | 2026-05-09 |
 | **Lakeview Loan Servicing** | Data Engineer | New York, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=66a4800f2fbccdc3) | 2026-05-09 |
