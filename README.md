@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-11
-- **New Matches Found in Last Run:** 12
-- **Total Active Matches (Last 4 Days):** 492
+- **New Matches Found in Last Run:** 18
+- **Total Active Matches (Last 4 Days):** 510
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-11.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-11.xlsx)
 
@@ -11,17 +11,35 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Openkyber** | API Threat Intelligence Analyst | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=640ad2341149d2bc) | 2026-05-11 |
+| **Openkyber** | Software Development (Python) | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d0d3f0e671eca1f) | 2026-05-11 |
+| **Openkyber** | Software Development (Python) | AK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c572e92f87a5b7a6) | 2026-05-11 |
+| **Openkyber** | FastAPI | AK, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=198650efa916c502) | 2026-05-11 |
 | **Openkyber** | API Threat Intelligence Analyst | AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0de03440ff246ea3) | 2026-05-11 |
 | **ExxonMobil** | Data Scientist, Upstream Operations | Spring, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3e8491745c79c989) | 2026-05-11 |
 | **Openkyber** | GenAI Threat Intelligence Analyst | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8cca72527ec2047e) | 2026-05-11 |
+| **Lime** | Senior MLOps & Data Systems Engineer | US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=55e97637d29d64b4) | 2026-05-11 |
+| **Openkyber** | FastAPI | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e2f0b56014f96906) | 2026-05-11 |
+| **Openkyber** | GenAI Threat Intelligence Analyst | AK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=35fd08830bd17a38) | 2026-05-11 |
 | **Openkyber** | API Threat Intelligence Analyst | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5bb3f8181d837d9) | 2026-05-11 |
+| **Adobe** | Software Development Engineer | San Jose, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b111e44c034f266) | 2026-05-11 |
+| **Openkyber** | Senior API Engineer (Python) | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b8df2488699249b) | 2026-05-11 |
+| **Openkyber** | Backend Software Engineer (Python) | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=92240e7a4713a4e4) | 2026-05-11 |
+| **Openkyber** | FastAPI | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d12b4b8806a0c858) | 2026-05-11 |
+| **Openkyber** | FastAPI | AK, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=423d9a27a81d9caf) | 2026-05-11 |
 | **Openkyber** | AI-Driven Threat Intelligence Analyst | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4ed8572a19856a3) | 2026-05-11 |
+| **Openkyber** | Senior API Engineer (Python) | AK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=102de2a4bff314d8) | 2026-05-11 |
+| **Spotify** | Machine Learning Engineer I, Personalization , Minesweeper | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c6545cfbb56510c6) | 2026-05-11 |
 | **Openkyber** | GenAI Threat Intelligence Analyst | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=39c3acfa986460bf) | 2026-05-11 |
 | **Openkyber** | GenAI Threat Intelligence Analyst | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ba83bcdfa03dd30) | 2026-05-11 |
 | **nan** | Agentic AI Engineer | McLean, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a9dfac0ff4100021) | 2026-05-11 |
 | **nan** | Agentic AI Engineer | Bethesda, MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90654b39198e1e31) | 2026-05-11 |
+| **Circadia Health** | Mobile Developer (iOS and Android) | El Segundo, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4efa4ca5474a180) | 2026-05-11 |
+| **nan** | Senior ML/LLM Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=95797850b6f3ee05) | 2026-05-11 |
 | **Openkyber** | AI-Driven Threat Intelligence Analyst | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=41a23ccfada2a87f) | 2026-05-11 |
 | **Arcadis** | Data Scientist | Orlando, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fcb9b564908ed680) | 2026-05-11 |
+| **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=caae71a4490a41e4) | 2026-05-11 |
+| **LVIS** | Senior Backend / Full-Stack Software Engineer | Palo Alto, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b1b33145c76b5d91) | 2026-05-11 |
+| **Openkyber** | Threat Intelligence | AK, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8fa8814de70f45eb) | 2026-05-11 |
 | **nan** | Senior Cloud Software Engineer (Full-Stack) | Anchorage, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ffaa98384834f1f2) | 2026-05-10 |
 | **Openkyber** | Python | AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=850bbd121eda6f31) | 2026-05-10 |
 | **Left Main REI** | Backend/AI Engineer | Charlotte, NC, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6eaa1cbe99589993) | 2026-05-10 |
