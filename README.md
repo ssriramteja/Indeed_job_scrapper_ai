@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-14
-- **New Matches Found in Last Run:** 13
-- **Total Active Matches (Last 4 Days):** 580
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 583
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-14.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-14.xlsx)
 
@@ -65,6 +65,7 @@
 | **Capital One** | Senior Software Engineer, Back End (Global Payment Network) | Houston, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=42cb2235e928c1aa) | 2026-05-14 |
 | **TikTok** | Senior Data Analyst, Global Scaled Growth | San Jose, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c7d5cf500a5a35b) | 2026-05-14 |
 | **Mutual of Omaha** | Data Scientist | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9388af12e6c1cbb9) | 2026-05-14 |
+| **Snowflake** | Senior AI/ML Architect, Applied Field Engineering | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ee38a91bb7a00d3) | 2026-05-14 |
 | **BULLISH GLOBAL** | Senior Software Engineer, CoinDesk Media | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e868307b482a1eb) | 2026-05-14 |
 | **Palo Alto Networks** | AI Financial Analyst | Santa Clara, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c8a49abba7d87e2) | 2026-05-14 |
 | **JLL** | Sr. Data Engineer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0cc65472d28a3800) | 2026-05-14 |
@@ -74,6 +75,8 @@
 | **Illumio** | Sr. Security Data Scientist | Sunnyvale, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a4c3b4f437b4e397) | 2026-05-14 |
 | **EchoStar** | Senior AI Platform Engineer | Englewood, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f6853815a5710a2) | 2026-05-14 |
 | **JPMorganChase** | Data Science Senior Associate - Card Data & Analytics | Wilmington, DE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aef8c9ea7df32c71) | 2026-05-14 |
+| **nan** | Senior Software Engineer - Java | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d01d7a6b9f146106) | 2026-05-14 |
+| **CVS Health** | Senior Data Engineer | Albany, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8369c074d102201) | 2026-05-14 |
 | **OMG Technology** | Data Scientist (Raleigh, NC - Hybrid) | Raleigh, NC, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=93adc6e2c58559ea) | 2026-05-13 |
 | **The Hartford** | Sr. Full Stack AI Engineer | Chicago, IL, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=380cf25a1caed88b) | 2026-05-13 |
 | **The Hartford** | Sr. Full Stack AI Engineer | Hartford, CT, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a7e9d4486acb8678) | 2026-05-13 |
