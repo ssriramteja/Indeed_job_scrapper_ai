@@ -2,7 +2,7 @@
 
 ### 📊 Latest Update: 2026-05-17
 - **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 438
+- **Total Active Matches (Last 4 Days):** 442
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-17.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-17.xlsx)
 
@@ -11,9 +11,13 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **BV Teck** | Python Developer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80b4ec4ddf5614d5) | 2026-05-17 |
+| **NTT DATA** | Linux Systems Engineer | Salt Lake City, UT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97dd13894809f36a) | 2026-05-17 |
 | **Optimal Inc.** | Machine Learning Engineer - PhD or PhD Candidate (Near Completion) | Warren, MI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5b6f3eb63ee19d0) | 2026-05-17 |
+| **KT2i Inc** | Senior Full Stack Engineer | Irvine, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=405ba8f351065941) | 2026-05-17 |
 | **CVS Health** | AI Engineer - Microsoft Power Platform | CT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80b5a390cb7a511c) | 2026-05-17 |
+| **Rotolo Consultants, Inc. (RCI)** | Agentic Engineer | Slidell, LA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f6c98bd561aaaf8b) | 2026-05-17 |
 | **Quanta Infrastructure Solutions Group** | AI Architect | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dcc30e320d0b67bf) | 2026-05-17 |
+| **NTT DATA** | GCP Cloud Engineer - REMOTE in US | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb25af9e8a46ee93) | 2026-05-17 |
 | **RealPage Inc** | AI Engineer (DFW Hybrid) | Richardson, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44b6307f2370f7ba) | 2026-05-16 |
 | **JPMorganChase** | AI Software Engineer III- PySpark, Python, AWS | Jersey City, NJ, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=222754f51ea12be7) | 2026-05-16 |
 | **Tata Consultancy Services (TCS)** | Senior Engineer - Agentic AI | Troy, MI, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3de44fa63b4b67d2) | 2026-05-16 |

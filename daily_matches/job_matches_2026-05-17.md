@@ -5,47 +5,47 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Python Developer @ BV Teck
+## 1. Linux Systems Engineer @ NTT DATA
 **Match Score:** 13.3%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Salt Lake City, UT, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, S3, Glue, CI/CD, PostgreSQL, Python, SQL
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, Git, NoSQL, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=80b4ec4ddf5614d5)
+[Apply Here](https://www.indeed.com/viewjob?jk=97dd13894809f36a)
 
 ---
 
-## 2. Machine Learning Engineer - PhD or PhD Candidate (Near Completion) @ Optimal Inc.
+## 2. Senior Full Stack Engineer @ KT2i Inc
 **Match Score:** 12.2%
 
-📍 **Location:** Warren, MI, US USA
+📍 **Location:** Irvine, CA, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Keras, Docker, Git, Python, R, Scala
+🔑 **Keywords:** RAG, S3, EC2, CI/CD, Git, MySQL, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b5b6f3eb63ee19d0)
+[Apply Here](https://www.indeed.com/viewjob?jk=405ba8f351065941)
 
 ---
 
-## 3. AI Engineer - Microsoft Power Platform @ CVS Health
+## 3. Agentic Engineer @ Rotolo Consultants, Inc. (RCI)
 **Match Score:** 11.1%
 
-📍 **Location:** CT, US USA
+📍 **Location:** Slidell, LA, US USA
 
-🔑 **Keywords:** AI Engineer, RAG, Copilot, Prompt Engineering, CI/CD, Python, R, Java, Scala, Optimization
+🔑 **Keywords:** RAG, Prompt Engineering, Cortex, CI/CD, GitHub Actions, Git, PostgreSQL, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=80b5a390cb7a511c)
+[Apply Here](https://www.indeed.com/viewjob?jk=f6c98bd561aaaf8b)
 
 ---
 
-## 4. AI Architect @ Quanta Infrastructure Solutions Group
+## 4. GCP Cloud Engineer - REMOTE in US @ NTT DATA
 **Match Score:** 10.0%
 
-📍 **Location:** Houston, TX, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** RAG, Copilot, Prompt Engineering, CI/CD, Python, SQL, R, Java, Scala
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=dcc30e320d0b67bf)
+[Apply Here](https://www.indeed.com/viewjob?jk=fb25af9e8a46ee93)
 
 ---
 
