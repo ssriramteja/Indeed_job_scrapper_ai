@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-18
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 283
+- **New Matches Found in Last Run:** 11
+- **Total Active Matches (Last 4 Days):** 294
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-18.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-18.xlsx)
 
@@ -10,10 +10,21 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **BV Teck** | Hadoop Developer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f5602fabde512ac) | 2026-05-18 |
+| **BV Teck** | Hadoop Developer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9772886a5282fba2) | 2026-05-18 |
 | **M-TECH SYSTEMS** | Senior Software Engineer - Agentic AI - Python Expert | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e0c27160d37deec) | 2026-05-18 |
+| **American Airlines** | Engineer/Sr Engineer, IT Software | Tulsa, OK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af679155705e54bf) | 2026-05-18 |
+| **BV Teck** | Python Developer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=870c831c3d1ab7ff) | 2026-05-18 |
 | **GEICO** | Sr. Software Engineer - Applied AI | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c8a6b1a80e94746) | 2026-05-18 |
 | **Boeing** | Senior Cloud Solutions Architect | North Charleston, SC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c6b7f11613741a49) | 2026-05-18 |
+| **JPMorganChase** | Applied AI ML Engineer-Senior Associate | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=126d85a333193194) | 2026-05-18 |
+| **Paramount Streaming** | Machine Learning Engineer, Presentation and Visual Optimization | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9bb2ee0f5051de55) | 2026-05-18 |
+| **Nexla** | Software Engineer, Connectors Framework | California City, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c609559a48fe285a) | 2026-05-18 |
+| **Nesa Software Pvt Ltd** | Senior Data Scientist | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a91281e2ae9d3b6) | 2026-05-18 |
+| **Soulside AI** | Forward Deployed Engineer (SF/On-site) | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be7ef0350aec31bb) | 2026-05-18 |
 | **Southern California Edison** | App Software & AI Engineer, Advisor | Rosemead, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a20839901f19a8b) | 2026-05-18 |
+| **nan** | Fullstack Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=228cc3ab331c7326) | 2026-05-18 |
+| **Helixtachinc** | Data Scientist | Dallas, WV, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56bd9fdd257c9a9d) | 2026-05-18 |
 | **BV Teck** | Python Developer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80b4ec4ddf5614d5) | 2026-05-17 |
 | **NTT DATA** | Linux Systems Engineer | Salt Lake City, UT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97dd13894809f36a) | 2026-05-17 |
 | **Optimal Inc.** | Machine Learning Engineer - PhD or PhD Candidate (Near Completion) | Warren, MI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5b6f3eb63ee19d0) | 2026-05-17 |
