@@ -1,15 +1,24 @@
 # 🚀 Indeed Job Scraper AI
 
-### 📊 Latest Update: 2026-05-20
-- **New Matches Found in Last Run:** 46
-- **Total Active Matches (Last 4 Days):** 457
-- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-20.md)
-- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-20.xlsx)
+### 📊 Latest Update: 2026-05-21
+- **New Matches Found in Last Run:** 9
+- **Total Active Matches (Last 4 Days):** 458
+- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-21.md)
+- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-21.xlsx)
 
 #### 🎯 Rolling Window: Matches from last 4 days
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Guidewire** | Senior Machine Learning Engineer - AI/ML | San Mateo, CA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37f0117f05675ce7) | 2026-05-21 |
+| **Rust-Oleum** | Machine Learning Co-Op | Vernon Hills, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3985bb612a4d8e3) | 2026-05-21 |
+| **Genentech** | Software Engineer, Research Biology | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=01a962e22a7083c0) | 2026-05-21 |
+| **Flex** | Platform Architect - AI | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e294cc6d33384a45) | 2026-05-21 |
+| **The University of Michigan** | Quality Assurance Engineer | Ann Arbor, MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=116361549f755a48) | 2026-05-21 |
+| **CG Infinity** | Data Engineer | Houston, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a20b18aa66e51d2) | 2026-05-21 |
+| **TTX** | Data Scientist I | Charlotte, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e77bbafdca99c027) | 2026-05-21 |
+| **Meazure Learning** | Sr. DevOps Engineer | McLean, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90eeea46f12e2a00) | 2026-05-21 |
+| **Meazure Learning** | Sr. DevOps Engineer | McLean, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11fa14f0ba6a83b9) | 2026-05-21 |
 | **New York Life** | Senior Associate - AI Engineer | New York, NY, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9cc5523e609d6490) | 2026-05-20 |
 | **Universal Orlando Resort** | Data Engineer, Marketing Data Operations | Orlando, FL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=50262f2646c95e45) | 2026-05-20 |
 | **Brooks Running** | Senior Machine Learning Engineer (Temporary) | Seattle, WA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31e77238a1b70a49) | 2026-05-20 |
@@ -459,14 +468,6 @@
 | **Rocket** | Software Developer II - Customer Growth | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=41abcb51409e2cdf) | 2026-05-18 |
 | **RX USA LLC** | Senior Cloud Engineer | Souderton, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c6f69adb5e63bee) | 2026-05-18 |
 | **MCKIM & CREED** | Senior Utilities Data Analyst | Wilmington, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=142d059703d2a0df) | 2026-05-18 |
-| **BV Teck** | Python Developer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80b4ec4ddf5614d5) | 2026-05-17 |
-| **NTT DATA** | Linux Systems Engineer | Salt Lake City, UT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97dd13894809f36a) | 2026-05-17 |
-| **Optimal Inc.** | Machine Learning Engineer - PhD or PhD Candidate (Near Completion) | Warren, MI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5b6f3eb63ee19d0) | 2026-05-17 |
-| **KT2i Inc** | Senior Full Stack Engineer | Irvine, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=405ba8f351065941) | 2026-05-17 |
-| **CVS Health** | AI Engineer - Microsoft Power Platform | CT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80b5a390cb7a511c) | 2026-05-17 |
-| **Rotolo Consultants, Inc. (RCI)** | Agentic Engineer | Slidell, LA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f6c98bd561aaaf8b) | 2026-05-17 |
-| **Quanta Infrastructure Solutions Group** | AI Architect | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dcc30e320d0b67bf) | 2026-05-17 |
-| **NTT DATA** | GCP Cloud Engineer - REMOTE in US | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb25af9e8a46ee93) | 2026-05-17 |
 
 ---
 
