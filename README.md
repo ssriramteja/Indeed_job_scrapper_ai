@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-25
-- **New Matches Found in Last Run:** 12
-- **Total Active Matches (Last 4 Days):** 529
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 531
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-25.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-25.xlsx)
 
@@ -10,6 +10,7 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **3Pillar Global** | Data Architect | Remote, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c207b60a85c3ae78) | 2026-05-25 |
 | **Panasonic Automotive** | AI Architect | Remote, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0866a3cb6383e0de) | 2026-05-25 |
 | **Newpage Digital Healthcare solutions** | AI Native Developer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=622e5174e22fc102) | 2026-05-25 |
 | **Newpage Digital Healthcare solutions** | AI Native Developer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=239176039e388a7a) | 2026-05-25 |
@@ -22,6 +23,7 @@
 | **Paramount** | Senior Software Engineer (Java) in Test | Burbank, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=abeffb7fc3a2db5b) | 2026-05-25 |
 | **Teladoc Health** | Software Engineer II, QA Automation | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a031e9a27e265a8) | 2026-05-25 |
 | **American Express** | Software Engineer II - Global Servicing Technology | Phoenix, AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bf680fe82a439641) | 2026-05-25 |
+| **Capgemini** | Sr Cloud Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1a1142bdc6ff993) | 2026-05-25 |
 | **Sarasota Electrical** | Senior AI Computer Vision Engineer | Sarasota, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=41c549886f47434e) | 2026-05-25 |
 | **Channel Partners** | Senior AI Application Engineer | Tampa, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4916b9ca74608f73) | 2026-05-25 |
 | **Colgate-Palmolive** | AI Solution Engineer | Piscataway, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4d5b8c611811b76b) | 2026-05-25 |
