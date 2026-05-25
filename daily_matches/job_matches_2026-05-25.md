@@ -5,25 +5,25 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Architect @ 3Pillar Global
-**Match Score:** 27.8%
+## 1. Applied AI Engineer - AI Agent (New Graduate) @ Fortinet
+**Match Score:** 10.0%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Sunnyvale, CA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, S3, Glue, Athena, Redshift, Synapse, Data Lake, Kinesis, CI/CD
+🔑 **Keywords:** AI Engineer, Generative AI, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c207b60a85c3ae78)
+[Apply Here](https://www.indeed.com/viewjob?jk=cd520d2c56a639ea)
 
 ---
 
-## 2. Sr Cloud Engineer @ Capgemini
-**Match Score:** 13.3%
+## 2. Data Scientist @ Dell Technologies
+**Match Score:** 10.0%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Round Rock, TX, US USA
 
-🔑 **Keywords:** AI Engineer, RAG, Kubernetes, AKS, CI/CD, Terraform, Git, Python, R, Java
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, Docker, Git, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c1a1142bdc6ff993)
+[Apply Here](https://www.indeed.com/viewjob?jk=aeb36ff32f2f14d1)
 
 ---
 
