@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-25
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 515
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 517
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-25.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-25.xlsx)
 
@@ -28,6 +28,8 @@
 | **Quality Engineering & Surveying, LLC** | AI Intern | Port Vincent, LA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e3b6ebe206541ae) | 2026-05-25 |
 | **S&P Global** | DevSecOps Architect – CI/CD & Application Security | Princeton, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0bce902bbb6e18b2) | 2026-05-25 |
 | **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58dc15e425c40f04) | 2026-05-25 |
+| **Decision Foundry** | Sr Salesforce Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bbc6430243b42499) | 2026-05-25 |
+| **ControlUp** | Senior Full-Stack Engineer (US) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76dfe2ad78123859) | 2026-05-25 |
 | **General Motors (GM)** | Senior AI/ML Scientist | Milford, MI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=16f0b949e7e7036a) | 2026-05-24 |
 | **nan** | Azure DevOps Cloud & Infrastructure Engineer | Harrisburg, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09464e604326699d) | 2026-05-24 |
 | **S&P Global** | Service Management Team Engineer | Raleigh, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9e33a142f9ff07f) | 2026-05-24 |

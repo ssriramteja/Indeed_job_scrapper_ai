@@ -1,51 +1,29 @@
 # 🎯 Daily Job Matches — 2026-05-25
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 2
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Sr. Software Development Engineer 5.5 @ Adobe
-**Match Score:** 14.4%
+## 1. Sr Salesforce Engineer @ Decision Foundry
+**Match Score:** 10.0%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** US USA
 
-🔑 **Keywords:** RAG, CI/CD, Jenkins, Git, Snowflake, Kafka, MongoDB, NoSQL, SQL, R
+🔑 **Keywords:** RAG, Docker, CI/CD, GitHub Actions, Git, Kafka, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=34da685bfe797839)
+[Apply Here](https://www.indeed.com/viewjob?jk=bbc6430243b42499)
 
 ---
 
-## 2. Software Engineer II, QA Automation @ Teladoc Health
-**Match Score:** 13.3%
+## 2. Senior Full-Stack Engineer (US) @ ControlUp
+**Match Score:** 10.0%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Copilot, CI/CD, Jenkins, GitHub Actions, Git, Python, SQL, R
+🔑 **Keywords:** AI Engineer, RAG, Gemini, CI/CD, Git, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3a031e9a27e265a8)
-
----
-
-## 3. AI Solution Engineer @ Colgate-Palmolive
-**Match Score:** 12.2%
-
-📍 **Location:** Piscataway, NJ, US USA
-
-🔑 **Keywords:** Generative AI, LangChain, RAG, Prompt Engineering, TensorFlow, PyTorch, Git, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4d5b8c611811b76b)
-
----
-
-## 4. Senior Automation Engineer @ TEEMA
-**Match Score:** 10.0%
-
-📍 **Location:** Richmond, VA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Gemini, Databricks, NoSQL, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=58dc15e425c40f04)
+[Apply Here](https://www.indeed.com/viewjob?jk=76dfe2ad78123859)
 
 ---
 
