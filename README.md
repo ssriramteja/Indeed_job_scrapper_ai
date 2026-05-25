@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-25
-- **New Matches Found in Last Run:** 14
-- **Total Active Matches (Last 4 Days):** 511
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 515
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-25.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-25.xlsx)
 
@@ -12,9 +12,12 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Wayfair** | Software Engineer II, Pricing Engineering | Boston, MA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a2bac108848ff31) | 2026-05-25 |
 | **Protagona** | Data Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=664ac749b66cbda9) | 2026-05-25 |
+| **Adobe** | Sr. Software Development Engineer 5.5 | San Jose, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34da685bfe797839) | 2026-05-25 |
 | **Paramount** | Senior Software Engineer (Java) in Test | Burbank, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=abeffb7fc3a2db5b) | 2026-05-25 |
+| **Teladoc Health** | Software Engineer II, QA Automation | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a031e9a27e265a8) | 2026-05-25 |
 | **Sarasota Electrical** | Senior AI Computer Vision Engineer | Sarasota, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=41c549886f47434e) | 2026-05-25 |
 | **Channel Partners** | Senior AI Application Engineer | Tampa, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4916b9ca74608f73) | 2026-05-25 |
+| **Colgate-Palmolive** | AI Solution Engineer | Piscataway, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4d5b8c611811b76b) | 2026-05-25 |
 | **CLERA** | Software Engineer – Full Stack | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=35300f03b65d60e9) | 2026-05-25 |
 | **CLERA** | Founding Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e7fa6df8e3b4cf6) | 2026-05-25 |
 | **Fitness Ventures LLC** | AI IMPLEMENTATION ENGINEER | Altamonte Springs, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=12c9cac91c56f549) | 2026-05-25 |
@@ -24,6 +27,7 @@
 | **Focus Camera** | Jr. Data Scientist | Brooklyn, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ad988ce96b85a658) | 2026-05-25 |
 | **Quality Engineering & Surveying, LLC** | AI Intern | Port Vincent, LA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e3b6ebe206541ae) | 2026-05-25 |
 | **S&P Global** | DevSecOps Architect – CI/CD & Application Security | Princeton, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0bce902bbb6e18b2) | 2026-05-25 |
+| **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58dc15e425c40f04) | 2026-05-25 |
 | **General Motors (GM)** | Senior AI/ML Scientist | Milford, MI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=16f0b949e7e7036a) | 2026-05-24 |
 | **nan** | Azure DevOps Cloud & Infrastructure Engineer | Harrisburg, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09464e604326699d) | 2026-05-24 |
 | **S&P Global** | Service Management Team Engineer | Raleigh, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9e33a142f9ff07f) | 2026-05-24 |
