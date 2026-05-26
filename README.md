@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-26
-- **New Matches Found in Last Run:** 6
-- **Total Active Matches (Last 4 Days):** 337
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 341
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-26.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-26.xlsx)
 
@@ -25,9 +25,13 @@
 | **softai** | Looking for a Senior Full Stack Developer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed0a2a699b9900bb) | 2026-05-26 |
 | **TRM Labs** | Senior Software Engineer, Data Platform (Canada) | US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ddbaba31adfd57a) | 2026-05-26 |
 | **DATAIKU** | Generative AI Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bdabd295d64bfe4e) | 2026-05-26 |
+| **Traba** | Senior Software Engineer (Generalist) | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51f1171a53b3af1e) | 2026-05-26 |
+| **Traba** | Senior Software Engineer (Generalist) | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e60680c4eaf60eb4) | 2026-05-26 |
 | **GEICO** | Engineer II – Data Engineer | Palo Alto, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3de4614253463977) | 2026-05-26 |
 | **nan** | Solutions Architect | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a043281f58642aa7) | 2026-05-26 |
 | **nan** | Customer Delivery Engineer, NASA | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b65162d89489ddd4) | 2026-05-26 |
+| **nan** | Full Stack Engineering Specialist - Freelance AI Trainer Project | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8cb0ef8f3622c959) | 2026-05-26 |
+| **Traba** | Software Engineer (Generalist) | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe77a9cad4a7eb54) | 2026-05-26 |
 | **3Pillar Global** | Data Architect | Remote, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c207b60a85c3ae78) | 2026-05-25 |
 | **Panasonic Automotive** | AI Architect | Remote, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0866a3cb6383e0de) | 2026-05-25 |
 | **Newpage Digital Healthcare solutions** | AI Native Developer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=622e5174e22fc102) | 2026-05-25 |
