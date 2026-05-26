@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-05-26
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 341
+- **New Matches Found in Last Run:** 8
+- **Total Active Matches (Last 4 Days):** 349
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-05-26.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-05-26.xlsx)
 
@@ -22,16 +22,24 @@
 | **Newpage Digital Healthcare solutions** | AI - Native Builder | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ad88277e472de1e) | 2026-05-26 |
 | **TeraWatt Infrastructure** | Senior DevOps Engineer | San Francisco, CA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab18efde0a1dd056) | 2026-05-26 |
 | **nan** | Senior Platform Engineer | US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f80cce2b9ebf257) | 2026-05-26 |
+| **Striim** | Sr Field Engineer | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=960f767365c3fdc0) | 2026-05-26 |
+| **nan** | Senior Software Engineer, Backend | Torrance, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=36b655d5786f6e9c) | 2026-05-26 |
 | **softai** | Looking for a Senior Full Stack Developer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed0a2a699b9900bb) | 2026-05-26 |
 | **TRM Labs** | Senior Software Engineer, Data Platform (Canada) | US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ddbaba31adfd57a) | 2026-05-26 |
 | **DATAIKU** | Generative AI Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bdabd295d64bfe4e) | 2026-05-26 |
 | **Traba** | Senior Software Engineer (Generalist) | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51f1171a53b3af1e) | 2026-05-26 |
 | **Traba** | Senior Software Engineer (Generalist) | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e60680c4eaf60eb4) | 2026-05-26 |
+| **QuadCode** | AI Skill Engineer | GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac2e44ae619d94b0) | 2026-05-26 |
+| **IQVIA** | Senior AI Scientist | Durham, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81cfde54cbcb86b4) | 2026-05-26 |
+| **CLANDICA** | AI Developer | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e5ebcf762ccf83c) | 2026-05-26 |
+| **Finalcover LLC** | Senior Software Engineer – Backend | Arlington, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=254d43c61e4dbbb4) | 2026-05-26 |
 | **GEICO** | Engineer II – Data Engineer | Palo Alto, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3de4614253463977) | 2026-05-26 |
 | **nan** | Solutions Architect | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a043281f58642aa7) | 2026-05-26 |
 | **nan** | Customer Delivery Engineer, NASA | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b65162d89489ddd4) | 2026-05-26 |
 | **nan** | Full Stack Engineering Specialist - Freelance AI Trainer Project | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8cb0ef8f3622c959) | 2026-05-26 |
 | **Traba** | Software Engineer (Generalist) | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe77a9cad4a7eb54) | 2026-05-26 |
+| **Experian** | Senior AI Engineer - AI & Credit Analytics | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ff0ff8ba451a61b) | 2026-05-26 |
+| **Flexcompute Inc.** | Software Engineer - AI & Cloud Engineering (Early to Mid Career, WI Based) | Madison, WI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=226c65461c9c6f1a) | 2026-05-26 |
 | **3Pillar Global** | Data Architect | Remote, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c207b60a85c3ae78) | 2026-05-25 |
 | **Panasonic Automotive** | AI Architect | Remote, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0866a3cb6383e0de) | 2026-05-25 |
 | **Newpage Digital Healthcare solutions** | AI Native Developer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=622e5174e22fc102) | 2026-05-25 |
