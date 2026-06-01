@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-06-01
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 799
+- **New Matches Found in Last Run:** 16
+- **Total Active Matches (Last 4 Days):** 815
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-01.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-01.xlsx)
 
@@ -10,10 +10,26 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Bitdeer Technologies Group** | Senior Software Engineer - Cloud | CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ce464c451a9c582) | 2026-06-01 |
+| **Block Labs** | Data Platform Engineer | Malta, MT, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a8521c97662c0b57) | 2026-06-01 |
+| **Paramount** | Senior Applied AI Engineer | New York, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3a65fdc259b09f3) | 2026-06-01 |
+| **SoftThink Solutions Inc** | AWS Cloud Engineer | West Sacramento, CA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44a3e61f0ca766a1) | 2026-06-01 |
+| **nan** | Software Engineer (Machine Learning) | US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51194abdd5a08da0) | 2026-06-01 |
+| **General Motors (GM)** | Software Developer - Simulation Platform (Galileo) | Sunnyvale, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d3552477f4c8d7f) | 2026-06-01 |
+| **CRNCY Group** | Credit Risk Analytics Specialist | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3d691a831b5f69b) | 2026-06-01 |
 | **AIG** | 2026 Early Career – Gen AI – Data Science Analyst – United States, Atlanta (GA) | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b16101ef1c145249) | 2026-06-01 |
+| **General Motors (GM)** | Entry Level Developer - Simulation Platform (Galileo) | Sunnyvale, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0fbe75d978f8404c) | 2026-06-01 |
 | **Genpact** | Analyst - Data Engineering 5A | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ef82381c520011c) | 2026-06-01 |
 | **Onto Innovation** | Contractor | Hillsboro, OR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=762aab711b5e3031) | 2026-06-01 |
+| **Incode Technologies** | Senior DevOps Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b8ab2c2c6a0661a) | 2026-06-01 |
+| **Testamy AI System** | Senior ML/AI Engineer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=26407ed64bc27a79) | 2026-06-01 |
+| **Paramount** | Senior Software Engineer | Burbank, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=65077fec1c61329c) | 2026-06-01 |
+| **Blue Origin** | Software Engineer III | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e71e2c49d7fbc5fb) | 2026-06-01 |
+| **Micron Technology** | Data Scientist | San Jose, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=367c6800280b4d85) | 2026-06-01 |
 | **Capgemini** | Software Development Engineer in Test (SDET) - Retail | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ecf64d8510e1969) | 2026-06-01 |
+| **Quanta Services** | AI Architect (Onsite – Houston, TX) | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c208306d500d82e) | 2026-06-01 |
+| **Orion180 Insurance Services, LLC** | Senior Data Analyst | Draper, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=faadbb95d5d4ea34) | 2026-06-01 |
+| **Orion180 Insurance Services, LLC** | Senior Data Analyst | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=258607f4f5259139) | 2026-06-01 |
 | **Entarian** | MLOps Engineer | Arlington, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f006fa81cdf81471) | 2026-05-31 |
 | **Entarian** | Artificial Intelligence Integration Engineer | Arlington, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8181bbf8bb6bc15) | 2026-05-31 |
 | **Entarian** | Artificial Intelligence Cybersecurity Engineer | Arlington, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c767a8767951e5ec) | 2026-05-31 |
