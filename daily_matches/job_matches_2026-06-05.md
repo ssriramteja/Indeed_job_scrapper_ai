@@ -1,832 +1,766 @@
 # 🎯 Daily Job Matches — 2026-06-05
 
-**Total Jobs Found:** 75
+**Total Jobs Found:** 69
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Scientist / Data Analytics Engineer @ Transflo
-**Match Score:** 27.8%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, XGBoost, LightGBM, S3, Glue, Athena, Redshift
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8c69d5a1a971e22e)
-
----
-
-## 2. Data Scientist II @ Radian Group Inc.
-**Match Score:** 25.6%
-
-📍 **Location:** Bethesda, MD, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, Prompt Engineering, TensorFlow, PyTorch, XGBoost, LightGBM, CatBoost
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e3a20fd70866cf85)
-
----
-
-## 3. Data Engineer @ Tergar International
+## 1. AI Engineer — RapidCanvas @ David Joseph & Company
 **Match Score:** 21.1%
-
-📍 **Location:** MN, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Glue, Redshift, Docker, CI/CD, Terraform, Git, Redshift, PySpark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b7eec213f6c00cd9)
-
----
-
-## 4. AI/ML Engineer with Drone Imagery @ BV Teck
-**Match Score:** 17.8%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Keras, OpenCV, YOLO, MLflow, Docker, Kubernetes, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=21ff0351d35be0f9)
-
----
-
-## 5. Software Engineer III - PySpark/AWS @ JPMorganChase
-**Match Score:** 17.8%
-
-📍 **Location:** Wilmington, DE, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, FAISS, Pinecone, S3, Glue, CI/CD, Terraform, Snowflake, Databricks
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4090e7484beae777)
-
----
-
-## 6. Software Engineer III - PySpark/AWS @ JPMorganChase
-**Match Score:** 17.8%
-
-📍 **Location:** Wilmington, DE, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, FAISS, Pinecone, S3, Glue, CI/CD, Terraform, Snowflake, Databricks
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a573fb5cab0a9820)
-
----
-
-## 7. Software Engineer II @ Chewy
-**Match Score:** 16.7%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Copilot, Prompt Engineering, MLflow, Docker, Kubernetes, CI/CD, PySpark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b09ade6f09c89eb1)
-
----
-
-## 8. Sr. Data Engineer @ Samsung Electronics
-**Match Score:** 15.6%
-
-📍 **Location:** Mountain View, CA, US USA
-
-🔑 **Keywords:** RAG, Kinesis, Docker, Kubernetes, CI/CD, Git, Snowflake, Kafka, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ddb410896822ce80)
-
----
-
-## 9. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=60efe3ffc51f66b2)
-
----
-
-## 10. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e9e579067dad4a5a)
-
----
-
-## 11. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e1bd74c751e7dc20)
-
----
-
-## 12. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d568802494117bca)
-
----
-
-## 13. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Cleveland, OH, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5d46ac00471453aa)
-
----
-
-## 14. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=40ddfd7f9dc10d73)
-
----
-
-## 15. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Cincinnati, OH, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=293049bb2c1516cb)
-
----
-
-## 16. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Houston, TX, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f5f2a0cec6f18d3a)
-
----
-
-## 17. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
 
 📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
+🔑 **Keywords:** AI Engineer, LangChain, RAG, LLaMA, Pinecone, Prompt Engineering, XGBoost, LightGBM, MLflow, FastAPI
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b7b87f34df60fa13)
-
----
-
-## 18. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Pittsburgh, PA, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=05187c291a295e1f)
+[Apply Here](https://www.indeed.com/viewjob?jk=82825a4b70114e5d)
 
 ---
 
-## 19. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
+## 2. Applied AI Engineer @ Qcells
+**Match Score:** 20.0%
 
-📍 **Location:** Milwaukee, WI, US USA
+📍 **Location:** San Francisco, CA, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, Copilot, Hugging Face, TensorFlow, PyTorch, Keras
 
-[Apply Here](https://www.indeed.com/viewjob?jk=cc9cf377f77f2678)
-
----
-
-## 20. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Philadelphia, PA, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7cc144877c27f121)
+[Apply Here](https://www.indeed.com/viewjob?jk=0ecd0ef97923c7bb)
 
 ---
 
-## 21. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
+## 3. Applied AI Engineer @ Qcells
+**Match Score:** 20.0%
 
-📍 **Location:** Tempe, AZ, US USA
+📍 **Location:** Santa Clara, CA, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, Copilot, Hugging Face, TensorFlow, PyTorch, Keras
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ce32e02c83d1b84a)
-
----
-
-## 22. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Morristown, NJ, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6b5d37a3ed13197d)
+[Apply Here](https://www.indeed.com/viewjob?jk=cf52f831ff19b44f)
 
 ---
 
-## 23. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
+## 4. Applied AI Engineer @ Qcells
+**Match Score:** 20.0%
 
-📍 **Location:** Portland, OR, US USA
+📍 **Location:** Irvine, CA, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, Copilot, Hugging Face, TensorFlow, PyTorch, Keras
 
-[Apply Here](https://www.indeed.com/viewjob?jk=31c343149580f1fe)
-
----
-
-## 24. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a4a52d56f59e2971)
+[Apply Here](https://www.indeed.com/viewjob?jk=6ce1c9d6a997f571)
 
 ---
 
-## 25. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
+## 5. IT AI ENGINEER @ Sally Beauty
+**Match Score:** 20.0%
 
-📍 **Location:** Raleigh, NC, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
+🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, Gemini, Copilot, Prompt Engineering, FastAPI, AKS, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a66c3291e470d396)
-
----
-
-## 26. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Minneapolis, MN, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=af8050593b180b5d)
+[Apply Here](https://www.indeed.com/viewjob?jk=91e0fd3a63ffa4bb)
 
 ---
 
-## 27. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
+## 6. Software Engineer III - Python Developer/AWS/Kafka @ JPMorganChase
+**Match Score:** 18.9%
 
-📍 **Location:** Detroit, MI, US USA
+📍 **Location:** Jersey City, NJ, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
+🔑 **Keywords:** LangChain, RAG, S3, Kinesis, FastAPI, Docker, Kubernetes, CI/CD, Terraform, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=643767fdebbc2208)
-
----
-
-## 28. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Miami, FL, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2852edc388bdca2d)
+[Apply Here](https://www.indeed.com/viewjob?jk=45e39bb855510244)
 
 ---
 
-## 29. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
+## 7. Gen AI Engineer @ CCS Inc
+**Match Score:** 16.7%
 
-📍 **Location:** Kansas City, MO, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
+🔑 **Keywords:** AI Engineer, LangChain, RAG, LLaMA, Hugging Face, FAISS, Pinecone, Prompt Engineering, MLflow, Docker
 
-[Apply Here](https://www.indeed.com/viewjob?jk=836d150c4c19725f)
-
----
-
-## 30. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Tampa, FL, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c8888d8806ba6165)
+[Apply Here](https://www.indeed.com/viewjob?jk=81d3b9f579b9fdfc)
 
 ---
 
-## 31. Data Scientist Engineer - SFL Scientific @ Deloitte
+## 8. Data Scientist Associate - Product, Experience and Technology (PXT) Analytics Team @ JPMorganChase
 **Match Score:** 15.6%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
+🔑 **Keywords:** Data Scientist, RAG, Copilot, Redshift, CI/CD, Git, Snowflake, Databricks, Redshift, Tableau
 
-[Apply Here](https://www.indeed.com/viewjob?jk=78d2736bc242e4a2)
+[Apply Here](https://www.indeed.com/viewjob?jk=97504e4a10013b10)
 
 ---
 
-## 32. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
+## 9. Senior Software Engineer, Scientific System of Record @ Lila Sciences
+**Match Score:** 14.4%
 
-📍 **Location:** Atlanta, GA, US USA
+📍 **Location:** Cambridge, MA, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
+🔑 **Keywords:** Machine Learning Engineer, RAG, Data Lake, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, NoSQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4250034b23eb5e30)
-
----
-
-## 33. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6a7dda2bb261a637)
+[Apply Here](https://www.indeed.com/viewjob?jk=0e75312efc2a4179)
 
 ---
 
-## 34. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
+## 10. Senior AWS Data Engineer @ Cognizant
+**Match Score:** 14.4%
 
 📍 **Location:** Charlotte, NC, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
+🔑 **Keywords:** S3, Glue, Athena, Redshift, Data Lake, Kinesis, Redshift, PySpark, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=554cebf19bae43c7)
-
----
-
-## 35. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** St. Louis, MO, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b032a4b683d2a083)
+[Apply Here](https://www.indeed.com/viewjob?jk=2eaba1f6b997fc8a)
 
 ---
 
-## 36. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b8ec55115463bae1)
-
----
-
-## 37. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Indianapolis, IN, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b854ebc509a23ff1)
-
----
-
-## 38. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Stamford, CT, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=db024c421446e64f)
-
----
-
-## 39. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Sacramento, CA, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ba627e1bdc341691)
-
----
-
-## 40. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=37716f32fb2c2241)
-
----
-
-## 41. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0ab8a6ed68c75845)
-
----
-
-## 42. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Los Angeles, CA, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=33114a527c422ffa)
-
----
-
-## 43. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** Costa Mesa, CA, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8c8a262369b2a0f2)
-
----
-
-## 44. Data Scientist Engineer - SFL Scientific @ Deloitte
-**Match Score:** 15.6%
-
-📍 **Location:** San Diego, CA, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, PyTorch, AWS SageMaker, MLflow, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7c6ddd3e4f11c8cc)
-
----
-
-## 45. Senior Software Engineer @ Nexxen
-**Match Score:** 15.6%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** RAG, Kinesis, Docker, Kubernetes, CI/CD, Git, Kafka, Cassandra, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a96178a2a524d96e)
-
----
-
-## 46. Site Reliability Engineer Hybrid @ David's Bridal
-**Match Score:** 14.4%
-
-📍 **Location:** King of Prussia, PA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, EC2, Kubernetes, AKS, CI/CD, GitHub Actions, Terraform, Git, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=746f9f95b4a4ccce)
-
----
-
-## 47. AI Technology Support Engineer/Analyst @ Amentum
+## 11. Senior Software Development Engineer – Imaging Platform @ CVS Health
 **Match Score:** 13.3%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** MS, US USA
 
-🔑 **Keywords:** TensorFlow, PyTorch, Keras, Docker, Kubernetes, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6c1559ab04a869e5)
+[Apply Here](https://www.indeed.com/viewjob?jk=7404c3655de04dd7)
 
 ---
 
-## 48. Senior Software Development Engineer In Test, ML/AI @ PlayStation
+## 12. Senior Software Development Engineer – Imaging Platform @ CVS Health
 **Match Score:** 13.3%
 
-📍 **Location:** San Mateo, CA, US USA
+📍 **Location:** VT, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git, Databricks, Python, R
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c5b49d9429473d67)
+[Apply Here](https://www.indeed.com/viewjob?jk=3bcd1876902912f2)
 
 ---
 
-## 49. Data Engineer @ Cayuse Holdings
+## 13. Senior Software Development Engineer – Imaging Platform @ CVS Health
 **Match Score:** 13.3%
 
-📍 **Location:** Austin, TX, US USA
+📍 **Location:** IA, US USA
 
-🔑 **Keywords:** Cortex, CI/CD, GitHub Actions, Git, Snowflake, Tableau, Python, SQL, R, Java
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f660da5ba96d068e)
+[Apply Here](https://www.indeed.com/viewjob?jk=4a9b38178b754383)
 
 ---
 
-## 50. AI ML Engineer @ Tata Consultancy Services (TCS)
+## 14. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** OK, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e82b6e9e211f61d4)
+
+---
+
+## 15. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** IL, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a620a55e826a673d)
+
+---
+
+## 16. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** Washington, DC, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=902e213debac8809)
+
+---
+
+## 17. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** ND, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1016648c0f0d5d0b)
+
+---
+
+## 18. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** IN, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8cc1d5f8003f7600)
+
+---
+
+## 19. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** MA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=74fbd56cbb6e1afe)
+
+---
+
+## 20. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** FL, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=17103584ffb6e509)
+
+---
+
+## 21. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** NC, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c9cd476fc679a04a)
+
+---
+
+## 22. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** NJ, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4fb9b103396ef75e)
+
+---
+
+## 23. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** MD, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1885c3e7464f9bc2)
+
+---
+
+## 24. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** ID, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fb8189bb7df0daff)
+
+---
+
+## 25. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** WV, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7d53b87a5ed021b7)
+
+---
+
+## 26. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** ME, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=85395c75059dc994)
+
+---
+
+## 27. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** AL, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0b92f217fa630744)
+
+---
+
+## 28. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** CO, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8564e7eebd81568f)
+
+---
+
+## 29. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** NH, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c751ca8403940e46)
+
+---
+
+## 30. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** MO, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6ec5266cd24c2dd6)
+
+---
+
+## 31. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** OR, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=265bf1290caccb77)
+
+---
+
+## 32. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** MI, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d24914a82cfe666e)
+
+---
+
+## 33. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** RI, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=05705973a9378d80)
+
+---
+
+## 34. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** MT, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=795911acb1bee51f)
+
+---
+
+## 35. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** UT, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0a0942fc02191a0c)
+
+---
+
+## 36. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** WI, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=617495dbf623e38c)
+
+---
+
+## 37. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** LA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e52f3fc7ec6df2ba)
+
+---
+
+## 38. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** CA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f14a4b93989e7d84)
+
+---
+
+## 39. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** WY, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4581cdcaed5f9f0c)
+
+---
+
+## 40. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** NV, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c766afcec299ad51)
+
+---
+
+## 41. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** VA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=77cb2c150ee12d87)
+
+---
+
+## 42. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** WA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7d75093b6fcd02c5)
+
+---
+
+## 43. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** CT, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=676f9ebac1172832)
+
+---
+
+## 44. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** TN, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=454de9f58fa31614)
+
+---
+
+## 45. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** DE, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ba87ffa60d4ea16b)
+
+---
+
+## 46. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** OH, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=954bc66fa74e678c)
+
+---
+
+## 47. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** NY, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d3adae39628854eb)
+
+---
+
+## 48. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** KY, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9a7a440e90ffe87a)
+
+---
+
+## 49. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** GA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bdd03d55c286c7fd)
+
+---
+
+## 50. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** SD, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a5e7399fcd292254)
+
+---
+
+## 51. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** MN, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=693602db725cd736)
+
+---
+
+## 52. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** SC, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=059b9c50895f7fee)
+
+---
+
+## 53. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** AR, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e189e5672a8c8a33)
+
+---
+
+## 54. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** KS, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=de9c5376661bd35b)
+
+---
+
+## 55. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** AZ, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=adba19e5f6f34e9a)
+
+---
+
+## 56. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** NM, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0494adf7cd3b47d6)
+
+---
+
+## 57. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** NE, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e6a0794cdf7814e0)
+
+---
+
+## 58. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** TX, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=edd03a4989d1f2d2)
+
+---
+
+## 59. Senior Software Development Engineer – Imaging Platform @ CVS Health
+**Match Score:** 13.3%
+
+📍 **Location:** PA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=77011faf16332680)
+
+---
+
+## 60. URBN Senior DevOps Engineer @ URBN
+**Match Score:** 13.3%
+
+📍 **Location:** Philadelphia, PA, US USA
+
+🔑 **Keywords:** RAG, Pinecone, Kubernetes, AKS, CI/CD, GitHub Actions, Terraform, Git, Python, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=535d8204a8558bb3)
+
+---
+
+## 61. Java Spring Boot Developer - Software Engineer @ Capgemini
 **Match Score:** 12.2%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Berwyn, IL, US USA
 
-🔑 **Keywords:** RAG, Docker, CI/CD, Git, Snowflake, Kafka, Python, SQL, R, Java
+🔑 **Keywords:** Generative AI, RAG, Gemini, Copilot, CI/CD, Git, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=fbd71fed3e29eab2)
-
----
-
-## 51. Managed Services Engineer III @ Deloitte
-**Match Score:** 12.2%
-
-📍 **Location:** Louisville, KY, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Synapse, Data Lake, Databricks, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=01d223961163a5b9)
+[Apply Here](https://www.indeed.com/viewjob?jk=8111959a40bb4818)
 
 ---
 
-## 52. Data Science - AI Document Understanding, Co-op @ Ancestry
-**Match Score:** 12.2%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AI Engineer, LangChain, RAG, LLaMA, Gemini, Hugging Face, S3, EC2, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=aa2ab1020e019bc7)
-
----
-
-## 53. Senior Software Product Engineer (Remote Opportunitty) @ VetsEZ
-**Match Score:** 12.2%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** Copilot, S3, Docker, Kubernetes, CI/CD, Git, PostgreSQL, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ba4a60afd289d560)
-
----
-
-## 54. Senior Systems & Platform Engineer, Enterprise Apps @ Manscaped
-**Match Score:** 12.2%
-
-📍 **Location:** San Diego, CA, US USA
-
-🔑 **Keywords:** RAG, CI/CD, GitHub Actions, Terraform, Git, Kafka, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=78dc384749455c9e)
-
----
-
-## 55. Software Engineer II - Authorization Team @ PagerDuty
-**Match Score:** 11.1%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Git, Kafka, MySQL, NoSQL, SQL, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9026373eecbd3c8f)
-
----
-
-## 56. AI Engineer - Agent Automation @ Zoom Communications
-**Match Score:** 11.1%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** AI Engineer, LangChain, RAG, Prompt Engineering, PyTorch, Docker, Kubernetes, Python, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2f9e4939e51aa462)
-
----
-
-## 57. Senior Security Engineer @ Major League Baseball (MLB)
-**Match Score:** 11.1%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** RAG, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e3c485edfa7ab169)
-
----
-
-## 58. Agentic Software Engineer II @ Deloitte
-**Match Score:** 11.1%
-
-📍 **Location:** Tempe, AZ, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Copilot, Prompt Engineering, CI/CD, Git, Python, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=364f8e08019cdeb6)
-
----
-
-## 59. Business Intelligence Engineer II @ Chewy
-**Match Score:** 11.1%
-
-📍 **Location:** Bellevue, WA, US USA
-
-🔑 **Keywords:** RAG, Data Lake, FastAPI, Tableau, Power BI, Quicksight, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ad2c5d91879b9718)
-
----
-
-## 60. Data Engineer III (Platform) @ MAPFRE Insurance
-**Match Score:** 11.1%
-
-📍 **Location:** Webster, MA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Glue, CI/CD, Jenkins, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1c94972b0ddefdba)
-
----
-
-## 61. Algorithm Engineer - Deep Learning @ KLA
-**Match Score:** 11.1%
-
-📍 **Location:** Milpitas, CA, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, Git, Python, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1594b3a2e78e7995)
-
----
-
-## 62. Sr. DevOps Engineer @ Meazure Learning
+## 62. Pre-Sales Solutions Engineer @ Booz Allen Hamilton
 **Match Score:** 11.1%
 
 📍 **Location:** McLean, VA, US USA
 
-🔑 **Keywords:** Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Python, R, Scala
+🔑 **Keywords:** RAG, Kubernetes, CI/CD, Jenkins, Git, Python, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=9a8ab4c51db6d251)
+[Apply Here](https://www.indeed.com/viewjob?jk=213fb87605c12838)
 
 ---
 
-## 63. Senior Software Engineer – Java (AMS) @ Ensono
+## 63. Full Stack Developer (Laravel & React) @ Virtual Moving Tech
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RAG, Docker, CI/CD, Jenkins, GitHub Actions, Git, SQL, R, Java, Optimization
+🔑 **Keywords:** RAG, Copilot, S3, EC2, MySQL, Python, SQL, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b68203988208d24b)
+[Apply Here](https://www.indeed.com/viewjob?jk=f091ad1af56bfa6b)
 
 ---
 
-## 64. Senior AI Expert Software Engineer – Healthcare Analytics @ Oracle
-**Match Score:** 10.0%
+## 64. Full Stack Quantitative Developer - Capital Markets - NYC / Dallas / Los @ Portfolio BI
+**Match Score:** 11.1%
 
 📍 **Location:** US USA
 
-🔑 **Keywords:** AI Engineer, RAG, Prompt Engineering, Git, Python, SQL, R, Java, Optimization
+🔑 **Keywords:** CI/CD, Git, NoSQL, Tableau, Python, SQL, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=1216782c0a1b2b7e)
+[Apply Here](https://www.indeed.com/viewjob?jk=48345cae6728d8ac)
 
 ---
 
-## 65. Senior Algorithm/AI Engineer @ Elbit Systems of America
+## 65. AI Platform Infrastructure Engineer @ Luxoft
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AI Engineer, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5c1c6c99e7d17396)
+
+---
+
+## 66. Software Development Engineer @ Adobe
+**Match Score:** 11.1%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** RAG, Kubernetes, CI/CD, Jenkins, Git, Databricks, Kafka, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b59f3b1d389f972e)
+
+---
+
+## 67. Software Engineer II @ Mastercard
+**Match Score:** 10.0%
+
+📍 **Location:** O'Fallon, MO, US USA
+
+🔑 **Keywords:** RAG, CI/CD, Jenkins, Git, Kafka, Python, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=41d0e7f2e21b5f38)
+
+---
+
+## 68. Senior Software Engineer (AI) @ Cotiviti
 **Match Score:** 10.0%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AI Engineer, RAG, TensorFlow, PyTorch, Python, R, Java, Scala, Optimization
+🔑 **Keywords:** RAG, Copilot, Kubernetes, CI/CD, PostgreSQL, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6c204d3b9d97471f)
-
----
-
-## 66. Senior Algorithm/AI Engineer @ Elbit Systems of America
-**Match Score:** 10.0%
-
-📍 **Location:** Fort Worth, TX, US USA
-
-🔑 **Keywords:** AI Engineer, RAG, TensorFlow, PyTorch, Python, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=39efa0d30333eab1)
+[Apply Here](https://www.indeed.com/viewjob?jk=bc5dc92fff82a2a4)
 
 ---
 
-## 67. Machine Learning Engineer @ Chefman
+## 69. Data Engineer @ AutoSavvy
 **Match Score:** 10.0%
 
-📍 **Location:** Mahwah, NJ, US USA
+📍 **Location:** Woods Cross, UT, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, Generative AI, RAG, TensorFlow, PyTorch, CI/CD, Python, R, Optimization
+🔑 **Keywords:** RAG, Data Lake, CI/CD, Git, Power BI, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=629a6ffa6c8fe733)
-
----
-
-## 68. Software Engineer, Security @ David AI
-**Match Score:** 10.0%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** AI Engineer, RAG, Kubernetes, CI/CD, Terraform, PostgreSQL, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2503c1c410dfa45e)
-
----
-
-## 69. Software Product Engineer (Remote Opportunity) @ VetsEZ
-**Match Score:** 10.0%
-
-📍 **Location:** Tampa, FL, US USA
-
-🔑 **Keywords:** Copilot, Docker, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=072e51c4bffec3aa)
-
----
-
-## 70. Data Scientist - Materials Characterization, Analytical Sciences & AI Agents @ EAG Laboratories
-**Match Score:** 10.0%
-
-📍 **Location:** Sunnyvale, CA, US USA
-
-🔑 **Keywords:** Data Scientist, LangChain, RAG, TensorFlow, PyTorch, Python, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d7c09db95ec9f066)
-
----
-
-## 71. Machine Learning Engineer @ Advatix
-**Match Score:** 10.0%
-
-📍 **Location:** San Mateo, CA, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, FastAPI, Python, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8903cd04f9b5666e)
-
----
-
-## 72. Machine Learning Engineer @ Advatix
-**Match Score:** 10.0%
-
-📍 **Location:** San Mateo, CA, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, FastAPI, Python, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0b8c99d0e4a3ae49)
-
----
-
-## 73. Sr. Software Development Engineer in Test @ PlayStation
-**Match Score:** 10.0%
-
-📍 **Location:** San Mateo, CA, US USA
-
-🔑 **Keywords:** RAG, CI/CD, Jenkins, GitHub Actions, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=863bc7b8b01f52dd)
-
----
-
-## 74. Data Scientist - Network Strategy @ The Home Depot
-**Match Score:** 10.0%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, BigQuery, BigQuery, Tableau, Python, SQL, R, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=05e2ec69417e3f6b)
-
----
-
-## 75. Senior Software Engineer Cloud Microservices @ Anderson Merchandisers
-**Match Score:** 10.0%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** Docker, Kubernetes, CI/CD, Terraform, Python, SQL, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d66749a3b3342226)
+[Apply Here](https://www.indeed.com/viewjob?jk=0e22d9b89413d8e9)
 
 ---
 
