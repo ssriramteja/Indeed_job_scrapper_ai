@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-06-07
-- **New Matches Found in Last Run:** 72
-- **Total Active Matches (Last 4 Days):** 635
+- **New Matches Found in Last Run:** 1
+- **Total Active Matches (Last 4 Days):** 636
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-07.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-07.xlsx)
 
@@ -10,6 +10,7 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Ford Motor Company** | Senior Full Stack Software Engineer - DNEE | Dearborn, MI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1fb8e424ee2dddb8) | 2026-06-07 |
 | **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10e4d2d78aad0fb7) | 2026-06-07 |
 | **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Arlington, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08dac6e8a6a35c88) | 2026-06-07 |
 | **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Dallas, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fd370855fc5dbc9a) | 2026-06-07 |
