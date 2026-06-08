@@ -5,58 +5,58 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Machine Learning Engineer - Document Intelligence @ Workday
-**Match Score:** 15.6%
+## 1. Senior Systems Engineer, Storage - DGX Cloud @ NVIDIA
+**Match Score:** 10.0%
 
-📍 **Location:** Pleasanton, CA, US USA
+📍 **Location:** CA, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, Generative AI, LangChain, RAG, TensorFlow, PyTorch, Docker, PySpark, Python, SQL
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6ba121f12561f2dc)
-
----
-
-## 2. AI/ML Software Engineer @ Peraton
-**Match Score:** 13.3%
-
-📍 **Location:** Annapolis Junction, MD, US USA
-
-🔑 **Keywords:** LangChain, RAG, LLaMA, Prompt Engineering, S3, FastAPI, Docker, Kubernetes, PostgreSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bb2062b0a9a4e543)
+[Apply Here](https://www.indeed.com/viewjob?jk=d775986eb12cc77d)
 
 ---
 
-## 3. Software Engineer - Agentic AI Platform @ Peraton
-**Match Score:** 13.3%
+## 2. Senior System Software Engineer - DevOps and Infrastructure Automation @ NVIDIA
+**Match Score:** 10.0%
 
-📍 **Location:** Basking Ridge, NJ, US USA
+📍 **Location:** Seattle, WA, US USA
 
-🔑 **Keywords:** LangChain, RAG, LLaMA, Prompt Engineering, S3, FastAPI, Docker, Kubernetes, PostgreSQL, Python
+🔑 **Keywords:** Docker, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a5046c7fb781aaca)
-
----
-
-## 4. AI/ML Software Engineer @ Peraton
-**Match Score:** 13.3%
-
-📍 **Location:** Basking Ridge, NJ, US USA
-
-🔑 **Keywords:** LangChain, RAG, LLaMA, Prompt Engineering, S3, FastAPI, Docker, Kubernetes, PostgreSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=356b9ce29a2e23b8)
+[Apply Here](https://www.indeed.com/viewjob?jk=c72aec67782f8030)
 
 ---
 
-## 5. Full Stack Developer @ Tmi Universal Sports
-**Match Score:** 12.2%
+## 3. Senior Data Architect: Clinical Solutions (Local / Hybrid) @ Vanderbilt University Medical Center
+**Match Score:** 10.0%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Nashville, TN, US USA
 
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Git, MySQL, Python, SQL, R, Java, Scala
+🔑 **Keywords:** RAG, Data Lake, Git, Databricks, Tableau, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=637f19c4ed7da859)
+[Apply Here](https://www.indeed.com/viewjob?jk=becf596f4f6a2be5)
+
+---
+
+## 4. Senior Automation Engineer @ TEEMA
+**Match Score:** 10.0%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Gemini, Databricks, NoSQL, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=760a0f80beabd595)
+
+---
+
+## 5. Senior Data Engineer @ nan
+**Match Score:** 10.0%
+
+📍 **Location:** Fort Worth, TX, US USA
+
+🔑 **Keywords:** Glue, Athena, CI/CD, Git, PostgreSQL, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d5b9e1941fe0d4ca)
 
 ---
 

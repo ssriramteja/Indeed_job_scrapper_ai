@@ -2,7 +2,7 @@
 
 ### 📊 Latest Update: 2026-06-08
 - **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 417
+- **Total Active Matches (Last 4 Days):** 422
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-08.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-08.xlsx)
 
@@ -15,6 +15,11 @@
 | **Peraton** | Software Engineer - Agentic AI Platform | Basking Ridge, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5046c7fb781aaca) | 2026-06-08 |
 | **Peraton** | AI/ML Software Engineer | Basking Ridge, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=356b9ce29a2e23b8) | 2026-06-08 |
 | **Tmi Universal Sports** | Full Stack Developer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=637f19c4ed7da859) | 2026-06-08 |
+| **NVIDIA** | Senior Systems Engineer, Storage - DGX Cloud | CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d775986eb12cc77d) | 2026-06-08 |
+| **NVIDIA** | Senior System Software Engineer - DevOps and Infrastructure Automation | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c72aec67782f8030) | 2026-06-08 |
+| **Vanderbilt University Medical Center** | Senior Data Architect: Clinical Solutions (Local / Hybrid) | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=becf596f4f6a2be5) | 2026-06-08 |
+| **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=760a0f80beabd595) | 2026-06-08 |
+| **nan** | Senior Data Engineer | Fort Worth, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d5b9e1941fe0d4ca) | 2026-06-08 |
 | **Ford Motor Company** | Senior Full Stack Software Engineer - DNEE | Dearborn, MI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1fb8e424ee2dddb8) | 2026-06-07 |
 | **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10e4d2d78aad0fb7) | 2026-06-07 |
 | **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Arlington, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08dac6e8a6a35c88) | 2026-06-07 |
