@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-06-10
-- **New Matches Found in Last Run:** 18
-- **Total Active Matches (Last 4 Days):** 376
+- **New Matches Found in Last Run:** 79
+- **Total Active Matches (Last 4 Days):** 455
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-10.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-10.xlsx)
 
@@ -12,22 +12,101 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Wells Fargo** | Senior Specialty AI Engineer | Charlotte, NC, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f62e93765382c0b0) | 2026-06-10 |
 | **Cdai** | SENIOR DATA ENGINEER-REMOTE | GA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d77a89c68dff947) | 2026-06-10 |
+| **David's Bridal** | Data Analyst — AI-Driven Insights | US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73dc6c13c1849fbd) | 2026-06-10 |
 | **U.S. Bank** | Emerging Tech Engineer | Irving, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=832dd9d49d203394) | 2026-06-10 |
 | **U.S. Bank** | Emerging Tech Engineer | Atlanta, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9bd7c516942bdc5c) | 2026-06-10 |
 | **Qualys** | Senior Security Engineer, AI/ML | Foster City, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d9537830b896ab5) | 2026-06-10 |
+| **TrueML** | Sr. DevOps Engineer | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b74b9cddc3c99f92) | 2026-06-10 |
 | **Klaviyo** | Senior Software Engineer, Agent Platform | Boston, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37ce7fb974562504) | 2026-06-10 |
 | **Capgemini** | Kubernetes Application Support Engineer | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6983762c6333385f) | 2026-06-10 |
 | **RingCentral** | Site Reliability Engineer | Denver, CO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28c853894079c6a9) | 2026-06-10 |
+| **Jorie AI** | Platform Software Engineer | Oak Brook, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=abff1d499014e19b) | 2026-06-10 |
+| **CNA Insurance** | Senior Data AI Engineer | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb0f04c8aca78a96) | 2026-06-10 |
+| **nan** | Full Stack Data Engineer | Morrisville, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e3a3ed05ded8097) | 2026-06-10 |
 | **Klaviyo** | Senior Software Engineer - Growth | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a674e49e98ceda3) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Tempe, AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f4009f7a34c3ab8) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Fort Worth, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62889aa5922edf0b) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | San Antonio, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4cc2c66ba0e93b9) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Hermitage, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0092e012c75cc2a) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Houston, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a414e5a1b8554cba) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Richmond, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3624cd7b0a14b1d) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Williamsville, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=537b772ef1ebe9ee) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Salt Lake City, UT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=493c0396fe981250) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Milwaukee, WI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d96b2c55a546723e) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Dallas, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3dea64f7ee5edd31) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Nashville, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=64740ad782df5cb1) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6eeb799e5eab4148) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Philadelphia, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f2bd983231800dd) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Cleveland, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8153722997cb57af) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Tulsa, OK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=082451c1b3ac524d) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Dayton, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b32a5cd05c4b385) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Portland, OR, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=509553f5b2b80b93) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Rochester, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4024b03d5ccdbe7b) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b77131ae6dad4a04) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Pittsburgh, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10a8d31d11a2ba88) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Columbus, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c6b64cd60eee8fc) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Mechanicsburg, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=86d0f0a4bb5ca18b) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Memphis, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32e597607c22e457) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Las Vegas, NV, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=165543ad99d2740a) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Cincinnati, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b070a38d68a94065) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Raleigh, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a567d090bf66c662) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Minneapolis, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c09b7c00e3d2c83e) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Kansas City, MO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eb0f53deb4a9b18b) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | New Orleans, LA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f0edf7a2d9633e5a) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Des Moines, IA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a8516e11f84de36e) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Louisville, KY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c3a7be56c01f917) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | St. Louis, MO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=623bb336cc90d3f0) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Midland, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7f04f24aa16c1bb) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Detroit, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b156cbe16df965f9) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Davenport, IA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b427b79fadeaeca) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Baltimore, MD, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3706793e6a0524a) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Omaha, NE, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a90f94e3442f55d) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Denver, CO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=479e0d19944e1a77) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Grand Rapids, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=21bed7e6546b8e41) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Boise, ID, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=39c2bb9cf80e320f) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ff5839e147b0f9e) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Jacksonville, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eb723b7e8b1af2fb) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Tallahassee, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1824380acb61d226) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Atlanta, GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cade42e913d0662e) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | San Diego, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=019e10b76f1f876c) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Hartford, CT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31bd25bae6c274f5) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Indianapolis, IN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ddef646960a8a8d3) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Miami, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99a403a9c1d876e0) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Sacramento, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83bbe0f642103d2c) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Birmingham, AL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3d1424b74f3dedb) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05574fa4cad0fc37) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Fresno, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac37ab0081e2642d) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Colorado Springs, CO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a593dea989cf8f2b) | 2026-06-10 |
+| **Deloitte** | Senior Product Architect | Huntsville, AL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ba8829787244a47) | 2026-06-10 |
+| **Fox Corporation** | Senior Media Platform Engineer | Tempe, AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c95f9149ce99f6f9) | 2026-06-10 |
+| **Bain & Company** | Full Stack AI Product Engineer (DataEdge) | Atlanta, GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4541e2bbfbff2ce) | 2026-06-10 |
 | **Capgemini** | Java springboot developer - Senior Software Engineer | Berwyn, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c20900bb86bbe1a6) | 2026-06-10 |
 | **RingCentral** | Enterprise AI Product Engineer | Belmont, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d25a8e9e63124d68) | 2026-06-10 |
 | **Zicasso** | Marketing Data Scientist | TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4157213e4eddc5b8) | 2026-06-10 |
+| **U.S. Venture, Inc.** | Senior Analytics Engineer (Breakthrough) | Green Bay, WI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b35da93de79eeb39) | 2026-06-10 |
+| **Qualitest** | Automation Test Engineer | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fbeea4c6d8c0cb96) | 2026-06-10 |
+| **GE Aerospace** | AI/ML Software Engineer | KY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=231e7b4c5256ee1f) | 2026-06-10 |
 | **Genpact** | Analyst - Data Engineering 5A | Cincinnati, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0411ee5db09b739b) | 2026-06-10 |
 | **Asurion** | Software Engineer 2 - Internal Development Platform (IDP) | Sterling, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=82b6e8f88b93b8d2) | 2026-06-10 |
 | **PSEG** | Data Scientist | Newark, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15a9cebe570943b9) | 2026-06-10 |
 | **Mission Pet Health** | Senior Statistical Analyst | AL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=615539d002116393) | 2026-06-10 |
+| **NavitasPartners** | Senior DevOps Engineer (Systems Analyst III) - 26-06932 | Round Rock, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28dc0aab5e85305a) | 2026-06-10 |
+| **NavitasPartners** | Senior DevOps Engineer (Systems Analyst III) - 26-06932 | Cedar Park, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=41af7ad0625ac78b) | 2026-06-10 |
+| **NavitasPartners** | Senior DevOps Engineer (Systems Analyst III) - 26-06932 | Georgetown, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47dac917810e3227) | 2026-06-10 |
+| **NavitasPartners** | Senior DevOps Engineer (Systems Analyst III) - 26-06932 | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a7fc8876e6a6ae8f) | 2026-06-10 |
+| **Expleo Group** | Senior AI Engineer (MS Copilot) | Minneapolis, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59fdb368ec33b51e) | 2026-06-10 |
+| **nan** | ML Administrator | Miami, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fc3940123f37f7cd) | 2026-06-10 |
+| **Lyra Health** | Senior ML Engineer (ML/AI) | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0710b3310b8a0f28) | 2026-06-10 |
+| **Blue Origin** | Dev Ops Software Engineer | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c58a5f4d2208b676) | 2026-06-10 |
 | **Healthfirst** | Data Engineer | Lake Mary, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e395311f5b80f46) | 2026-06-10 |
 | **S R International Inc** | Senior Certified AWS Infrastructure Architect/Landing Zone/DevOps | Jackson, MS, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=87e701d86d359072) | 2026-06-10 |
+| **Corning** | Data Scientist (Remote) | Corning, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b0a04565b67f1cc5) | 2026-06-10 |
+| **Information Technology Senior Management Forum** | Senior Machine Learning Engineer (AI Foundations) | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9236a1227a016f7f) | 2026-06-10 |
+| **Edward Jones** | Senior Data Analyst | St. Louis, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=35acf765e7fa8f2c) | 2026-06-10 |
+| **Edward Jones** | Senior Data Analyst | Tempe, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0fe69692c4c1ddd2) | 2026-06-10 |
+| **Deloitte** | Delivery Senior Consultant, Data Engineering and Gen AI | Lake Mary, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=439dfa8aa61d92ed) | 2026-06-10 |
+| **Deloitte** | Delivery Senior Consultant, Data Engineering and Gen AI | Gilbert, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4f55960c468b8ed) | 2026-06-10 |
+| **Deloitte** | Delivery Senior Consultant, Data Engineering and Gen AI | Mechanicsburg, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a28803e8003e7823) | 2026-06-10 |
 | **Optum** | AI Engineer - AI/ML | Minnetonka, MN, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=603c741187a35795) | 2026-06-09 |
 | **Cayuse Holdings** | AI Software Engineer, Senior | Austin, TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=212d73dd2934b416) | 2026-06-09 |
 | **Tata Consultancy Services (TCS)** | AI/ML Engineer | Charlotte, NC, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5abed50f2367d51) | 2026-06-09 |
