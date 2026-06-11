@@ -1,15 +1,59 @@
 # 🚀 Indeed Job Scraper AI
 
-### 📊 Latest Update: 2026-06-10
-- **New Matches Found in Last Run:** 50
-- **Total Active Matches (Last 4 Days):** 582
-- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-10.md)
-- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-10.xlsx)
+### 📊 Latest Update: 2026-06-11
+- **New Matches Found in Last Run:** 44
+- **Total Active Matches (Last 4 Days):** 553
+- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-11.md)
+- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-11.xlsx)
 
 #### 🎯 Rolling Window: Matches from last 4 days
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Infios** | Senior AI Platform Engineer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bcf5414e7655d620) | 2026-06-11 |
+| **Optum** | Associate AI/ML Engineer | Basking Ridge, NJ, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e90415012a94ad70) | 2026-06-11 |
+| **AeroVironment** | Machine Learning Engineer | Jessup, MD, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=890d98929cfcbadb) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4e1129e4812bf7b) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=997076f3557b3e9a) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=238647c47b19c8eb) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0cc8aa5b1145a0c) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ceb941ff0fd6a0cb) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5bb07c7a07be0e6) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2b5b0b8e3011dcc) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=607b48f21698f142) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=04f973f7323057e9) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34950007f8bb9798) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e2ea390592236764) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ba7ea7b918227421) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee458103ff1c70bf) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ba57da018df901c) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c4b77209f1232dd) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d73d871e1deea61) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47efa737e9fc9146) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=61f05a66307eff77) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=430a6f1d83e30529) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5f9980f2267fe92) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d54c7515a609d437) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d97025c53dc8097b) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1424c80ddb92ac16) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=45f7a92cd47c388f) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a23c7934cd38108) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11758c6720edfe8c) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=947d34a5cd743710) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58fd2bc0f706a630) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=52beb77333c9d632) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a2d94aabbffe9af4) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de5882845fc94868) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=026d02e8ce3baa47) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3ff5ee4ac14175f) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84726e340de9d703) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cdc593c9088c2ea6) | 2026-06-11 |
+| **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac8f53db9ad25323) | 2026-06-11 |
+| **State of Arizona** | Enterprise Data & AI Platform Architect | Phoenix, AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5428d278da22bd02) | 2026-06-11 |
+| **Get Covered LLC** | Senior AI Engineer | Calabasas, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05dbe12e620fc983) | 2026-06-11 |
+| **Zillow** | Senior Software Development Engineer, Agentic AI Data Services | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11a6e83b8ea37c39) | 2026-06-11 |
+| **Everbank** | QE Automation Architect | TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aaa7e50031b6efc0) | 2026-06-11 |
+| **Aurora Innovation** | Senior IT Applications Engineer | Mountain View, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4029cdbf9ce53a6d) | 2026-06-11 |
 | **Smart Tech Skills LLC** | Software Developer Specialist | Austin, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d3f1693262c6089) | 2026-06-10 |
 | **JPMorganChase** | Software Engineer III - Data Platform | Austin, TX, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85cdeb8503f6c459) | 2026-06-10 |
 | **EY** | CT_NITRO Experimental AI Engineer | Alpharetta, GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3fa4878c1c49568b) | 2026-06-10 |
@@ -519,79 +563,6 @@
 | **PwC** | GenAI Python Systems Engineer – Senior Associate | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=288bf7dfffd4aa95) | 2026-06-08 |
 | **SoFi** | Home Loans Loss Forecasting Analytics, Senior Data Scientist | Jacksonville, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d48a35c4876422d) | 2026-06-08 |
 | **Rocket** | Sr. Software Developer - Platform Engineering Hybrid or Remote | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df04eb606c4ae786) | 2026-06-08 |
-| **Ford Motor Company** | Senior Full Stack Software Engineer - DNEE | Dearborn, MI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1fb8e424ee2dddb8) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10e4d2d78aad0fb7) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Arlington, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08dac6e8a6a35c88) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Dallas, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fd370855fc5dbc9a) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Philadelphia, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d784be9eb68c3d91) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | St. Louis, MO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9da17c48b0c22ee4) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Kansas City, MO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49bd1e8c944ff980) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Detroit, MI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62cd9c61bbe2ba9a) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e945058b2aeb81e) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Tempe, AZ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=71e2a2a565e81c13) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Charlotte, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e4c2922604286744) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Miami, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0eda203594437eb0) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Indianapolis, IN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7da71f5c4c140fd) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Austin, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7e717cdb8e459ed) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=783563088e4850d3) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Cincinnati, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=caa727dc99a46aef) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Cleveland, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8615c522efc71334) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Boston, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea6ae33243c395f5) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Pittsburgh, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b2caf8633eb99f5e) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Seattle, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37c812e3f35b5835) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Nashville, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ef92fef0e7ac2af) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Costa Mesa, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=82611021e50403b1) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Tampa, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3964af1e193d6df3) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | San Jose, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=57945f07d8dd1359) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Stamford, CT, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=764072f6ce811075) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b3b589ca8a6e80f) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=24650c3c8a602a7e) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Denver, CO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03bea43e652f03fd) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | San Diego, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9bb4026df23eb97b) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Sacramento, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c93475e7d040c153) | 2026-06-07 |
-| **Deloitte** | ConvergeHEALTH - Data Operations Engineer, Expert Services-Innovation_Delivery_Transformation | Los Angeles, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=456f8fa32939f19b) | 2026-06-07 |
-| **nan** | AIML Engineer | Stockton, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f89750f37029c48c) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dcfb9a55bfdcda15) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Morristown, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c661fd3d1a35149) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | San Antonio, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3af5dbc4a7642e17) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Rochester, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a05cc00f3398fb9e) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Richmond, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4eb07a25aaeb4be3) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Mechanicsburg, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ddac65267477c40) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Fort Worth, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2e425667f20dcb7e) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Dallas, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b1873482056030d0) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab22c7230af34e68) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Hermitage, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=677be9646b0e06df) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Houston, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d5e09a480919567) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Cleveland, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd1bd277622288c0) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=42a71d4cd495130b) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Birmingham, AL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a52685267df3f959) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Jersey City, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8fcc937a8b5e2489) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Philadelphia, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d5ff1ae9ce8cebc9) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Grand Rapids, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=caeae51b9c1b0f4a) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | McLean, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cdd2ae13e28a4887) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Atlanta, GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=06b3d09e86b123a8) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Detroit, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=036b19c06fa11eda) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Dayton, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c11d63f000f42ba2) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=60e096ff0af09e5a) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Nashville, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5b043df0a94d01e0) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Raleigh, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ebef8251dce5834) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Memphis, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59559b19a431de6c) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Columbus, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18319f312711ee31) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e807d665db859229) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Jacksonville, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98a283e17753436e) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Cincinnati, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5c04a5eeae8858a) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | New Orleans, LA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=04a2f6320142a662) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Washington, DC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ba86b9b1e8a2c34b) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Pittsburgh, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8109c00824ee19e) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Huntsville, AL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0807f3685e925ebe) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Baltimore, MD, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=abcd4343cd691b21) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Miami, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bc21abcfcbae5841) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Louisville, KY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c5172ad7fba06cf) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Tallahassee, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=95ccbb7fea6307b3) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Indianapolis, IN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54ccb8a0b4e4366c) | 2026-06-07 |
-| **Deloitte** | Senior Product Architect | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20da8d36ff151411) | 2026-06-07 |
-| **Anaplan** | Senior AI Engineer | Philadelphia, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e82c909b5f1ad0a3) | 2026-06-07 |
-| **Anaplan** | Senior Data Engineer - AI | Philadelphia, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c9def27ac1d5259) | 2026-06-07 |
 
 ---
 
