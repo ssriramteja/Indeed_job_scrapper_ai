@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-06-11
-- **New Matches Found in Last Run:** 18
-- **Total Active Matches (Last 4 Days):** 756
+- **New Matches Found in Last Run:** 106
+- **Total Active Matches (Last 4 Days):** 862
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-11.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-11.xlsx)
 
@@ -11,6 +11,12 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Class Boxes Technologies** | AI Engineer | New York, NY, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10ffab2e7330a09b) | 2026-06-11 |
+| **Citi** | Generative AI Engineer, Officer | Jacksonville, FL, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa52f2f8df5bbcb5) | 2026-06-11 |
+| **Cwill** | Data Engineer - Bilingual Mandarin required | Cary, NC, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bda129dc1d7139ca) | 2026-06-11 |
+| **Cwill** | Data Engineer - Bilingual Mandarin required | Los Angeles, CA, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=718307efaaa14959) | 2026-06-11 |
+| **Constellation Software, Inc.** | Senior Data Scientist | New York, NY, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3da1bd303b951ea) | 2026-06-11 |
+| **JPMorganChase** | Software Engineer II - AI/ML Engineer | Columbus, OH, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1460aeeac19aef46) | 2026-06-11 |
+| **Ford Motor Company** | Sr. Specialist, Yield Management - GTM AA Software Engineer | Dearborn, MI, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22786462c04357ed) | 2026-06-11 |
 | **Infios** | Senior AI Platform Engineer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bcf5414e7655d620) | 2026-06-11 |
 | **CVS Health** | Senior Software Development/Data Engineer | Hartford, CT, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3530403779aaafd2) | 2026-06-11 |
 | **Axiomatic AI** | Senior Software Engineer | Los Angeles, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=186c30600549672d) | 2026-06-11 |
@@ -19,12 +25,20 @@
 | **Axiomatic AI** | Senior Software Engineer | San Francisco, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f8a8240038e2f312) | 2026-06-11 |
 | **Axiomatic AI** | Senior Software Engineer | Cambridge, MA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a4bd32d03cbba568) | 2026-06-11 |
 | **Gap Inc.** | Sr. ML Engineer – ML & Applied AI | SC, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7037bbae043a99c0) | 2026-06-11 |
+| **Riot Platforms, Inc.** | Senior Data Analytics Engineer | Austin, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4eb33b9b74da3225) | 2026-06-11 |
 | **Optum** | Associate AI/ML Engineer | Basking Ridge, NJ, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e90415012a94ad70) | 2026-06-11 |
 | **Talcott Financial Group** | Quantitative AI Engineer | Hartford, CT, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f8dfb2afb4c4cdfe) | 2026-06-11 |
 | **Talcott Financial Group** | Quantitative AI Engineer | Charlotte, NC, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a9ae5953bc4e0b5) | 2026-06-11 |
 | **WaFd Bank** | Senior Data Engineer (Hybrid Eligible*) | Seattle, WA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=676157bc1afd24c8) | 2026-06-11 |
 | **Visa** | Sr. SW Engineer - Gen AI | Bellevue, WA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1884f29272a6fa4d) | 2026-06-11 |
+| **MEDecision** | Senior Software Engineer, Data Platform | US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19beaee823c8d513) | 2026-06-11 |
+| **Worth AI** | Quality Assurance (QA) Engineer | Miami, FL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47abd28c0aa248a7) | 2026-06-11 |
+| **Worth AI** | Quality Assurance (QA) Engineer | Tampa, FL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=973ffbc88d0c427a) | 2026-06-11 |
+| **Worth AI** | Quality Assurance (QA) Engineer | Atlanta, GA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bbf0524e41351a6c) | 2026-06-11 |
+| **Worth AI** | Quality Assurance (QA) Engineer | Orlando, FL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b91c9d41b3a88a9c) | 2026-06-11 |
 | **Solution Design Group** | Software Engineer (Python / React) | Minneapolis, MN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=570a47973a523cb2) | 2026-06-11 |
+| **Workday** | Sr. Software Development Engineer | Atlanta, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cfbd6697aef07bb4) | 2026-06-11 |
+| **DoubleVerify** | Sr. Analytics Data Platform Engineer | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d60b7462f872f2e3) | 2026-06-11 |
 | **AeroVironment** | Machine Learning Engineer | Jessup, MD, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=890d98929cfcbadb) | 2026-06-11 |
 | **Inn-Flow Inc.** | Snowflake Data Engineer | Raleigh, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d9dd2a0e256d891) | 2026-06-11 |
 | **Humana** | Sr Full Stack Software Engineer | TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b576fbb7c24544a9) | 2026-06-11 |
@@ -38,6 +52,22 @@
 | **Seattle Children's** | Data Engineer/Associate | Seattle, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cfe630ebf9cbab80) | 2026-06-11 |
 | **Visa** | Senior Data Engineer | Foster City, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1491ce2afe6000a) | 2026-06-11 |
 | **REPLY** | Senior Data Engineer | Atlanta, KS, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bdf8e3f6e4538a3e) | 2026-06-11 |
+| **Citi** | Full Stack Java & React Engineer | Tampa, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b088c437f81d3a57) | 2026-06-11 |
+| **Akumin** | Senior Data Engineer | Daytona Beach, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=adaf2ea98a3a0c98) | 2026-06-11 |
+| **Akumin** | Senior Data Engineer | West Des Moines, IA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b51bef44ce851670) | 2026-06-11 |
+| **Akumin** | Senior Data Engineer | Austin, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=572a735d26988840) | 2026-06-11 |
+| **Akumin** | Senior Data Engineer | Hazleton, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea308d3aa4efb3a6) | 2026-06-11 |
+| **Akumin** | Senior Data Engineer | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17688e9ed438da93) | 2026-06-11 |
+| **Akumin** | Senior Data Engineer | Owosso, MI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=625378a8c8feabb6) | 2026-06-11 |
+| **Akumin** | Senior Data Engineer | Crown Point, IN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4edea8f81b8bef39) | 2026-06-11 |
+| **Akumin** | Senior Data Engineer | Pinehurst, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a345b3fc59984aa6) | 2026-06-11 |
+| **Akumin** | Senior Data Engineer | Florence, AL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=539dcfcd9f0b442c) | 2026-06-11 |
+| **Akumin** | Senior Data Engineer | Nashville, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0eda110060bcf3d5) | 2026-06-11 |
+| **Akumin** | Senior Data Engineer | Ashland, NE, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d6b68e20522b555) | 2026-06-11 |
+| **Akumin** | Senior Data Engineer | Charleston, SC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f193252272c1cfe) | 2026-06-11 |
+| **Visa** | Senior Software Engineer | Austin, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c27d2b7709f8adbf) | 2026-06-11 |
+| **Presidio** | Associate Engineer | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dcc977ad560dcdfe) | 2026-06-11 |
+| **AssetMark** | Cloud Engineer | Charlotte, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6ff9fec023b73eaf) | 2026-06-11 |
 | **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4e1129e4812bf7b) | 2026-06-11 |
 | **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=997076f3557b3e9a) | 2026-06-11 |
 | **Concentrix** | AWS MLOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=238647c47b19c8eb) | 2026-06-11 |
@@ -88,6 +118,8 @@
 | **Walkme** | DevOps Engineer | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1af1cdb9613b93fd) | 2026-06-11 |
 | **Expel** | Senior Data Scientist | Herndon, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca9e1dbdb4c0e170) | 2026-06-11 |
 | **Shell Energy Retail** | Sr. AI & Data Engineer–Trading Analytics | Houston, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f379cc52c6dc1b7b) | 2026-06-11 |
+| **Hitapps** | Python Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8cfc151f9ef1f70a) | 2026-06-11 |
+| **LTIMindtree** | Senior Specialist - Data Sciences | Bellevue, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e18c43c72fcdf95d) | 2026-06-11 |
 | **Get Covered LLC** | Senior AI Engineer | Calabasas, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05dbe12e620fc983) | 2026-06-11 |
 | **Zillow** | Senior Software Development Engineer, Agentic AI Data Services | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11a6e83b8ea37c39) | 2026-06-11 |
 | **Tata Consultancy Services (TCS)** | AI Engineer | Phoenix, AZ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b33c5e3f0585f73f) | 2026-06-11 |
@@ -126,6 +158,8 @@
 | **Capgemini** | Java springboot developer - Senior Software Engineer | Berwyn, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3d5a69cdd393ce38) | 2026-06-11 |
 | **Optum** | Senior AI or ML Engineer - Remote | Eden Prairie, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c4400b0b2feb031) | 2026-06-11 |
 | **CrowdStrike** | Sr. Data Scientist | Sunnyvale, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2417e3aa2741c89a) | 2026-06-11 |
+| **Pie Insurance** | Data Engineer | Denver, CO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81175a9ea43e9f19) | 2026-06-11 |
+| **GALAXY** | Forward Deployed Engineer - Platform | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c3b7bbd782d5471) | 2026-06-11 |
 | **Everbank** | QE Automation Architect | TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aaa7e50031b6efc0) | 2026-06-11 |
 | **Aurora Innovation** | Senior IT Applications Engineer | Mountain View, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4029cdbf9ce53a6d) | 2026-06-11 |
 | **Metropolis** | Senior Central Cloud Infrastructure Engineer | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18e899cdb3d7157c) | 2026-06-11 |
@@ -149,6 +183,69 @@
 | **Public Storage** | Data Scientist | Glendale, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=33fd91860b76c479) | 2026-06-11 |
 | **Agile Defense** | Platform Engineer II | McLean, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6621536db3bd9539) | 2026-06-11 |
 | **Guild Mortgage Company LLC** | AI Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d185d79c2b670693) | 2026-06-11 |
+| **Optum** | Senior Data Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=822bd7aeae851aef) | 2026-06-11 |
+| **KBR** | Software Engineer 3 | Sioux Falls, SD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4113b42887a4bc66) | 2026-06-11 |
+| **Resideo** | Sr Software Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17e3196195f24fb3) | 2026-06-11 |
+| **Phamily** | Senior Software Engineer (AI Health-Tech SaaS) | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=88f8c0bdd479674f) | 2026-06-11 |
+| **PubMatic** | Senior Performance Advertising Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd5f4966ce9dd217) | 2026-06-11 |
+| **Ion Storage Systems** | Data Platform Engineer (Manufacturing) | Beltsville, MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a4bbea5d38dc11d) | 2026-06-11 |
+| **General Motors (GM)** | Senior Ansible Automation & Platform Engineer | Warren, MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ef675551596020dc) | 2026-06-11 |
+| **Ingram Micro** | Associate Agentic AI Engineer | Irvine, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20df3be8536f8fd5) | 2026-06-11 |
+| **EXL Service** | Analyst | NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c847cdf8e486a8b) | 2026-06-11 |
+| **Huntington Bank** | Senior Data Scientist - AI | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3eab9bf177b59cda) | 2026-06-11 |
+| **Elsevier** | Data Scientist | Philadelphia, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=64b2d48e82e7bf8b) | 2026-06-11 |
+| **Elsevier** | Senior Data Scientist | Philadelphia, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32d3198ac6acbb60) | 2026-06-11 |
+| **RELX Group** | Senior Data Scientist | Philadelphia, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b90debc430ad885d) | 2026-06-11 |
+| **RELX Group** | Data Scientist | Philadelphia, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3e17d82fd1144d64) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | Washington, DC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8b6bd1c44d43f512) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27caddedcbde04b4) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | TN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5711faa6fd8ebed) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | WI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b7106893d1c9ec84) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | VT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a7e62b7be1516170) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | WV, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=29fa95cc19e6edd1) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | WY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15de7adfe73ee9a7) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | UT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec49b611d9bc27ae) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7271c523ab741fa) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=118d1b201f4ccb87) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | AR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2856ef2e511cd493) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f1c80888cfe8662) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | ID, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=924f88aa54ab9a15) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1372155a034d29e1) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfead2cdf6a14b3b) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73c2479e31ffa53d) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | SC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f896c0390ff4e21) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | ME, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b2052e4a6d38432) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa5ded6bdbfd1248) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | OR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=331b45849dd26fed) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | KY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3659bc1e9b767292) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d062fac886ad0b9c) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | CT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0bc53a5fdf75e745) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | NV, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=697c7423d3d4ff47) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a14eeba16fc1af25) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | IA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=50d2dc37cd4cd152) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59357e7bb864edc5) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d099a5ec928276a5) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | ND, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=294dc3643ef230c7) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0cc6b7533ff0862) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38fda2e91a485fcd) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | RI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e9755bf829b7878) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | KS, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27be4d00e48c8773) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | OK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bda2ec00d253d51d) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | NH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4e080d81aab7752) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d23934e5dda17655) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=952e429f9e9be0c9) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | IN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=52735c73667d3f55) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | NM, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5bf2a88eea61519) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | SD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=749d122eaea7d203) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1fb499916faa32c) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | MT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8bf5efbba049afe) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | DE, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31ea8275f722c36c) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9064cf60fd012cf4) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | MS, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f83d02ca0099b592) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | LA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25a6dd97525904a0) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=324c31c58d684c81) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | NE, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=635d59fc5183882d) | 2026-06-11 |
+| **Mission Pet Health** | Senior Statistical Analyst | HI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=66a15d299d6b42e6) | 2026-06-11 |
 | **Conagra Brands** | Senior Data Engineer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56c600b5945ce8ee) | 2026-06-11 |
 | **UserGems** | Senior Security Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fc9835c6151bce1e) | 2026-06-11 |
 | **Deloitte** | Agentic AI Engineer — Healthcare AI | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c364e6657a4e5c7) | 2026-06-11 |
@@ -257,6 +354,15 @@
 | **Point72** | Software Engineer, Investor and Fund Administration Technology | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4b1804190413e4d) | 2026-06-11 |
 | **CarMax** | Senior Software Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f80cdc01bcc9fd94) | 2026-06-11 |
 | **CarMax** | Senior Software Engineer | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f97071c81152ea9) | 2026-06-11 |
+| **Palo Alto Networks** | Network Security Lab Architect | Santa Clara, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=926a8df50008757b) | 2026-06-11 |
+| **Expedia Group** | Software Development Engineer III: GraphQL Platform | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4447169b102a95ab) | 2026-06-11 |
+| **Tata Consultancy Services (TCS)** | iOS Engineer | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=771d060156d096c6) | 2026-06-11 |
+| **Tata Consultancy Services (TCS)** | Databricks Data Engineer | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c52b2e8afd502eac) | 2026-06-11 |
+| **Liquid Property Group, LLC** | Artificial Intelligence Engineer | Bradenton, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c920ecca65228ea5) | 2026-06-11 |
+| **Harbor Freight Tools** | Machine Learning Engineer- Remote | Calabasas, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2e0c4b502a6bd1e5) | 2026-06-11 |
+| **UTHealth Houston** | Data Scientist I - School of Public Health | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a6f2ffa048894b20) | 2026-06-11 |
+| **InterVenn Biosciences** | Senior Data Scientist | South San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=04cd6963232d938f) | 2026-06-11 |
+| **Goldman Sachs** | Global Banking & Markets - New York - Associate, Quantitative Engineering - 4195191 | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a879eaf968b89280) | 2026-06-11 |
 | **Smart Tech Skills LLC** | Software Developer Specialist | Austin, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d3f1693262c6089) | 2026-06-10 |
 | **JPMorganChase** | Software Engineer III - Data Platform | Austin, TX, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85cdeb8503f6c459) | 2026-06-10 |
 | **EY** | CT_NITRO Experimental AI Engineer | Alpharetta, GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3fa4878c1c49568b) | 2026-06-10 |
