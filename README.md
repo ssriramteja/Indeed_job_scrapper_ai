@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-06-15
-- **New Matches Found in Last Run:** 14
-- **Total Active Matches (Last 4 Days):** 303
+- **New Matches Found in Last Run:** 17
+- **Total Active Matches (Last 4 Days):** 320
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-15.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-15.xlsx)
 
@@ -10,10 +10,14 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Objectways Technologies** | Python-AI_ML-GenAI- Senior Engineer | Phoenix, AZ, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1f451b2d6561869) | 2026-06-15 |
 | **ExxonMobil** | Data Scientist, Upstream Development | Spring, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1bc00b5480825d50) | 2026-06-15 |
 | **ExxonMobil** | GenAI Data Scientist, Commercial, Supply Chain & Trading | Spring, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c190ae15db8b6b40) | 2026-06-15 |
+| **Spectrix Analytical Services, LLC** | Bioinformatics Data Scientist | Cambridge, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d7716b1a79b7d737) | 2026-06-15 |
+| **Capgemini** | Intern Agentic AI Developer (Summer 2026) | Irving, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe812e6352b4299a) | 2026-06-15 |
 | **NVIDIA** | Senior Storage Production Engineer - DGX Cloud | Santa Clara, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ebc7041ff891635) | 2026-06-15 |
 | **JPMorganChase** | Full Stack Python Engineer, Senior Associate | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc9571f04802a53b) | 2026-06-15 |
+| **Instacart** | Senior Marketing Decision Scientist II | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c24fa6b84d831ce2) | 2026-06-15 |
 | **Power Home Remodeling** | Ruby On Rails Developer | Wilmington, DE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fc92c8346ccf59f0) | 2026-06-15 |
 | **Power Home Remodeling** | Ruby On Rails Developer | Upper Darby, PA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=afa9095bb6efbc19) | 2026-06-15 |
 | **Power Home Remodeling** | Ruby On Rails Developer | Aston, PA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3118e2cb185b7965) | 2026-06-15 |
@@ -23,7 +27,20 @@
 | **Power Home Remodeling** | Ruby On Rails Developer | Newark, DE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b60a55b6790d732) | 2026-06-15 |
 | **Power Home Remodeling** | Ruby On Rails Developer | Philadelphia, PA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0aa0c79a7795c005) | 2026-06-15 |
 | **Power Home Remodeling** | Ruby On Rails Developer | Conshohocken, PA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=93fe03ce7799fc2f) | 2026-06-15 |
+| **HackerTrail** | Senior AI Software Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a78e150cfaec939) | 2026-06-15 |
+| **Nintex** | Senior Software Engineer | Bellevue, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=884a331450111479) | 2026-06-15 |
+| **Instacart** | Senior Software Engineer II, AI Labs & Foundations | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=373129946e19ecda) | 2026-06-15 |
+| **Instacart** | Senior Machine Learning Engineer II, Fulfillment, Matching and Positioning | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d50de39e70c8ab2c) | 2026-06-15 |
+| **JPMorganChase** | Data Science Senior Associate - Digiops Analytics | Wilmington, DE, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98bfcbfe4a66b804) | 2026-06-15 |
 | **Insight Software** | Senior Software Engineer - Platform Integrations | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5e02b6ba7889f82) | 2026-06-15 |
+| **Coralogix** | Senior Full Stack Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3376b01d585c7a8a) | 2026-06-15 |
+| **Instacart** | Senior Data Scientist II - AI for Analytics | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79d602cd8483a91f) | 2026-06-15 |
+| **Instacart** | Senior Machine Learning Engineer II, Ads Response Prediction | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b87b4b00adedaf15) | 2026-06-15 |
+| **Instacart** | Senior Machine Learning Engineer, Operations Research | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f15a673d775e67f) | 2026-06-15 |
+| **Objectways Technologies** | Java-Python-Senior Engineer | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df547742c859d8ea) | 2026-06-15 |
+| **Instacart** | Senior Data Scientist - Shopping Experience (Search) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=245a510836513b0e) | 2026-06-15 |
+| **Instacart** | Senior Data Analyst | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f1e61cfbd795f413) | 2026-06-15 |
+| **Objectways Technologies** | CCaaS-Five9-GCP-Senior Engineer | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fa963d1e326a898f) | 2026-06-15 |
 | **American Software Solutions INC** | Senior Kubernetes Engineer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=efb0cc4e514cfd3d) | 2026-06-14 |
 | **Edurech Technoogy** | AI/ML Engineer | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0d1c937153867963) | 2026-06-14 |
 | **NTT DATA** | AI Architect | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f1a46f05d73c554b) | 2026-06-14 |
