@@ -1,15 +1,36 @@
 # 🚀 Indeed Job Scraper AI
 
-### 📊 Latest Update: 2026-06-17
-- **New Matches Found in Last Run:** 42
-- **Total Active Matches (Last 4 Days):** 507
-- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-17.md)
-- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-17.xlsx)
+### 📊 Latest Update: 2026-06-18
+- **New Matches Found in Last Run:** 21
+- **Total Active Matches (Last 4 Days):** 485
+- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-18.md)
+- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-18.xlsx)
 
 #### 🎯 Rolling Window: Matches from last 4 days
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Alignment Healthcare** | AI Automation Engineer | Orange, CA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d876dbf0ef129abd) | 2026-06-18 |
+| **NTT DATA** | Digital Site Reliability Sr Engineer - Remote | Memphis, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=02dd332b5bab760b) | 2026-06-18 |
+| **Sigma Computing** | Forward Deployed Engineer | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a69480e4fa81c61) | 2026-06-18 |
+| **KnowBe4** | Software Engineer Intern (Hybrid) | Clearwater, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dadf60f6511d26fa) | 2026-06-18 |
+| **eBay** | Software Engineer 2, DevOps | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63ccf9e53d6a2ac0) | 2026-06-18 |
+| **nan** | Expert Consultant, Coro, AI Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5ec0a48702df4aa) | 2026-06-18 |
+| **nan** | Expert Consultant, Coro, AI Engineer | Washington, DC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c7e3b2609a13d8a) | 2026-06-18 |
+| **nan** | Expert Consultant, Coro, AI Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d9449bb7c13a58d3) | 2026-06-18 |
+| **nan** | Expert Consultant, Coro, AI Engineer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=816e02110f95bb31) | 2026-06-18 |
+| **nan** | Expert Consultant, Coro, AI Engineer | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d19cb6c64bf2bd39) | 2026-06-18 |
+| **nan** | Expert Consultant, Coro, AI Engineer | Palo Alto, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec69001c086a8450) | 2026-06-18 |
+| **nan** | Expert Consultant, Coro, AI Engineer | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d1c67b26cc06b16) | 2026-06-18 |
+| **nan** | Expert Consultant, Coro, AI Engineer | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6b0445e516cc6665) | 2026-06-18 |
+| **nan** | Expert Consultant, Coro, AI Engineer | Los Angeles, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fedaab3df5744184) | 2026-06-18 |
+| **nan** | Expert Consultant, Coro, AI Engineer | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c8e8f640ae93f45) | 2026-06-18 |
+| **nan** | Expert Consultant, Coro, AI Engineer | Dallas, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=289c0e37c50fc7ad) | 2026-06-18 |
+| **nan** | Expert Consultant, Coro, AI Engineer | Houston, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c01f6eb19214663a) | 2026-06-18 |
+| **Mercedes-Benz Group** | AI Engineer | Charleston, SC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e450dded81ba50a7) | 2026-06-18 |
+| **Experian** | Analytics Engineer (Remote) | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d94eaa0b111276c) | 2026-06-18 |
+| **Puget Sound Energy** | Marketing Data Scientist | Bellevue, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f3a77bf18237855) | 2026-06-18 |
+| **TD** | AML Surveillance Tools Engineer/Developer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3e31ddac5433848) | 2026-06-18 |
 | **Navitus Health Solutions / Lumicera Health Services** | Data Engineer - Archimedes | US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a78e7dca5038b723) | 2026-06-17 |
 | **Navitus Health Solutions / Lumicera Health Services** | Sr. Engineer, Data - Archimedes | US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=42d62482ae7cddd2) | 2026-06-17 |
 | **Program Management Solutions** | Ruby on Rails Engineer | Baltimore, MD, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51965b97284dee62) | 2026-06-17 |
@@ -474,49 +495,6 @@
 | **Park Place Technologies** | Associate Artificial Intelligence Engineer | Highland Heights, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e7b1e172a54dd05) | 2026-06-15 |
 | **American Electric Power** | APIM Platform Engineer | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9976e83c3b138cd6) | 2026-06-15 |
 | **CarMax** | Senior Analyst, Search and Recommendations | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb05ba56bd11adde) | 2026-06-15 |
-| **American Software Solutions INC** | Senior Kubernetes Engineer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=efb0cc4e514cfd3d) | 2026-06-14 |
-| **Edurech Technoogy** | AI/ML Engineer | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0d1c937153867963) | 2026-06-14 |
-| **NTT DATA** | AI Architect | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f1a46f05d73c554b) | 2026-06-14 |
-| **DevIQ** | Senior AI/Machine Learning Engineer | Denver, CO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=150e70d575d34652) | 2026-06-14 |
-| **NTT DATA** | AI Engr (Commercial & MTO) | Dallas, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bcf6e47160ec5df9) | 2026-06-14 |
-| **JPMorganChase** | Applied AI ML-Senior Associate | Columbus, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=906cb2fc5eee2fa3) | 2026-06-14 |
-| **H&R Block** | Machine Learning Ops Engineer | MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d46e10b3d358362) | 2026-06-14 |
-| **Cisco** | Data Architect | San Jose, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b2097aeafe81a958) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=66568864688dd52c) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Minneapolis, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14c09ffab096a449) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4efb520c47f4de77) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Sacramento, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2df46a6df89e6afd) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Kansas City, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5012f4796a48a0be) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Morristown, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4bdbb8276850fbad) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Cincinnati, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b454c36aca0919d9) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Denver, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7b1cbbac7287128c) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=292f6c4f1ca5bde0) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73cf1d5d8022f630) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Cleveland, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b88c95fa102ea96a) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Pittsburgh, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7870540ea591528b) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee7d51721bb66fdd) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d68b557fe79bbb6) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa1ab2a190e4bd63) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Miami, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a0d8c2501984a20) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Tempe, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d8ddf3bf2ed2148) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | St. Louis, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a380019ececaa0e) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6761d88f45cf1ab7) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4cbebb84dd445e9b) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25fbbbab0a12927c) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a15bb20520eb5b6) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Philadelphia, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d08ad1dd9f54e4c) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Indianapolis, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=236e58dab4bd9f4a) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Detroit, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51d38703af31aa81) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=06581ee470bfbc25) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b537cee1b82fa80b) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | San Diego, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=558b97abd4920c6a) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f8f2f6d1a0f25ff) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=424177606fb7ca91) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=429f197292a0517f) | 2026-06-14 |
-| **Deloitte** | Associate Data Cloud Business Transformation Architect | Stamford, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18777e7da0e53fa9) | 2026-06-14 |
-| **Premier Cloud** | Customer Engineer, Data & Analytics Req#112 | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f87fdafc653217b1) | 2026-06-14 |
-| **Pfizer** | Senior ML/AI Cheminformatics Scientist | Groton, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d88409cc2f81093c) | 2026-06-14 |
-| **Capgemini** | Embedded Software Developer for RDK-B | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a3e3f351873a167) | 2026-06-14 |
 
 ---
 
