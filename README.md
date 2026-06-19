@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-06-19
-- **New Matches Found in Last Run:** 6
-- **Total Active Matches (Last 4 Days):** 803
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 808
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-19.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-19.xlsx)
 
@@ -80,6 +80,7 @@
 | **E Source** | Databricks Data Engineer | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7cf3a91683e2fbee) | 2026-06-19 |
 | **IT Services Consulting Solutions** | Software Engineer - Data, AI/ML & Analytics | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=932f0e4ff1dd485b) | 2026-06-19 |
 | **Blackhawk Network** | Sr. Software Engineer | Pleasanton, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3ee41a8c52420bf) | 2026-06-19 |
+| **Grainger** | Data Engineer III | Lake Forest, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da3c07885d8b3693) | 2026-06-19 |
 | **Primoris Services Corporation** | Senior AI Engineer | TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=917258667f378b86) | 2026-06-19 |
 | **Insight** | Transformation Engineer | Chandler, AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bf8b184cd3dd463b) | 2026-06-19 |
 | **BV Teck** | Python Developer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e64f1257f37d3c4) | 2026-06-19 |
@@ -111,6 +112,9 @@
 | **United Surgical Partners** | Systems Engineer - Onsite in Dallas, TX | Dallas, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c27c7200e635b4c1) | 2026-06-19 |
 | **UDR** | Senior Data Platform Engineer | Highlands Ranch, CO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1fb77bd035c0b222) | 2026-06-19 |
 | **Triade Flevoland** | Consultant — System Integration & MDM | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d22f323af4989133) | 2026-06-19 |
+| **Intellisoft Technologies** | Senior Data Engineer | Bentonville, AR, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c473d3620c861ac) | 2026-06-19 |
+| **MetTel** | Senior Software Engineer - Bruin Platform Full Stack | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e6f34508146cf3d4) | 2026-06-19 |
+| **LTIMindtree** | Data Engineer | Marysville, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c9c434dda73e4155) | 2026-06-19 |
 | **Digital Harbor Foundation** | Full Stack Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70a015d80c139029) | 2026-06-19 |
 | **nan** | Senior Data Scientist | Bethesda, MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bbb2d8b3133abc99) | 2026-06-19 |
 | **Charles Schwab** | Senior Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84ad2851c92dff47) | 2026-06-19 |
@@ -131,6 +135,7 @@
 | **EXL Service** | Agentic AI Data Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e586a6fca9463dd9) | 2026-06-19 |
 | **Salesforce** | Data Engineer (SMTS / LMTS) - MDM | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=50844673569c1fb8) | 2026-06-19 |
 | **TRICENTIS** | Senior Software Engineer, GenAI | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c33063e013846ceb) | 2026-06-19 |
+| **Mem0** | Backend Engineer | San Francisco Bay Area, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d7ab0104e01283dc) | 2026-06-19 |
 | **Advatix** | Machine Learning Engineer | San Mateo, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09387918f778af8f) | 2026-06-19 |
 | **Stellantis** | IT Tools Engineer | Auburn Hills, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=938a5c9fe77e4d7b) | 2026-06-19 |
 | **Uber** | Machine Learning Engineer | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e91cf70a2cea675c) | 2026-06-19 |
