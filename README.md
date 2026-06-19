@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-06-19
-- **New Matches Found in Last Run:** 9
-- **Total Active Matches (Last 4 Days):** 797
+- **New Matches Found in Last Run:** 6
+- **Total Active Matches (Last 4 Days):** 803
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-19.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-19.xlsx)
 
@@ -60,6 +60,7 @@
 | **PlayStation** | Data Platform Engineer | San Mateo, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c248fdc62311341) | 2026-06-19 |
 | **ServiceLink** | Site Reliability Engineer, AI & Agentic Systems | Plano, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d42af33fba010bd1) | 2026-06-19 |
 | **nan** | Product Software Engineer I | Glendale, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c5d705afdfcef3f) | 2026-06-19 |
+| **J&B Medical** | DevOps Engineer - IN PERSON - WIXOM MI | Wixom, MI, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b2db67e76b3a6ec5) | 2026-06-19 |
 | **American Family Insurance** | Senior Data Engineer (Hybrid) | Madison, WI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ef9add9193adcfdd) | 2026-06-19 |
 | **E Source** | AI / ML Engineer | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea91413547821117) | 2026-06-19 |
 | **Genpact** | Sr. Developer - Application Development JAVA N 4B | San Antonio, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3d7faea93986590) | 2026-06-19 |
@@ -67,6 +68,7 @@
 | **Convey** | Senior Software Engineer - LSP | Chicago, IL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=46e5e7f505da6aea) | 2026-06-19 |
 | **Optum** | Senior Data Scientist - Remote | Eden Prairie, MN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a42ad39cb3a040ff) | 2026-06-19 |
 | **project44** | Senior Software Engineer - LSP | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d185ef3015154b1f) | 2026-06-19 |
+| **Diverse Agile Solutions** | Senior IT Big Data Developer | Washington, DC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a6a3f2e51311a48) | 2026-06-19 |
 | **Worldpay** | Senior DevOps Cloud Engineer | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed6aedd388d2a4f5) | 2026-06-19 |
 | **Worldpay** | Senior DevOps Cloud Engineer | Denver, CO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=88766da5ca4c88b2) | 2026-06-19 |
 | **Worldpay** | Senior DevOps Cloud Engineer | Cincinnati, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6443a98a089e97ef) | 2026-06-19 |
@@ -108,6 +110,7 @@
 | **Twilio** | Machine Learning Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=16827b9e1e789ec7) | 2026-06-19 |
 | **United Surgical Partners** | Systems Engineer - Onsite in Dallas, TX | Dallas, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c27c7200e635b4c1) | 2026-06-19 |
 | **UDR** | Senior Data Platform Engineer | Highlands Ranch, CO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1fb77bd035c0b222) | 2026-06-19 |
+| **Triade Flevoland** | Consultant — System Integration & MDM | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d22f323af4989133) | 2026-06-19 |
 | **Digital Harbor Foundation** | Full Stack Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70a015d80c139029) | 2026-06-19 |
 | **nan** | Senior Data Scientist | Bethesda, MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bbb2d8b3133abc99) | 2026-06-19 |
 | **Charles Schwab** | Senior Site Reliability Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84ad2851c92dff47) | 2026-06-19 |
@@ -126,6 +129,8 @@
 | **Hudson Manpower** | Senior Software Engineer | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d23f6276f13b3fd9) | 2026-06-19 |
 | **Hudson Manpower** | Senior Software Engineer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4cd85f775aa6c5dc) | 2026-06-19 |
 | **EXL Service** | Agentic AI Data Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e586a6fca9463dd9) | 2026-06-19 |
+| **Salesforce** | Data Engineer (SMTS / LMTS) - MDM | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=50844673569c1fb8) | 2026-06-19 |
+| **TRICENTIS** | Senior Software Engineer, GenAI | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c33063e013846ceb) | 2026-06-19 |
 | **Advatix** | Machine Learning Engineer | San Mateo, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09387918f778af8f) | 2026-06-19 |
 | **Stellantis** | IT Tools Engineer | Auburn Hills, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=938a5c9fe77e4d7b) | 2026-06-19 |
 | **Uber** | Machine Learning Engineer | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e91cf70a2cea675c) | 2026-06-19 |
@@ -155,6 +160,7 @@
 | **Hack The Box** | Data Analyst | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a10d821306fc8600) | 2026-06-19 |
 | **Tudip Technologies Pvt Ltd** | Full Stack AI Engineer | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=beae79787bce99c6) | 2026-06-19 |
 | **White & Case** | Senior Engineer, AI Applications Development | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d549817a93c2f400) | 2026-06-19 |
+| **Morningstar** | Senior QA Automation Engineer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=099e446b59d8c602) | 2026-06-19 |
 | **NYU Langone Health** | Sr. Data Science & AI Engineer | New York, NY, US USA | 32.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=485e857894cb3c80) | 2026-06-18 |
 | **NYU Langone Health** | Sr. Data Science & AI Engineer | New York, NY, US USA | 32.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e23a781e3d977eb9) | 2026-06-18 |
 | **Ollion** | Specialist Engineer- Data | Austin, TX, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a967b71634e71edd) | 2026-06-18 |
