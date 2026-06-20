@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-06-20
-- **New Matches Found in Last Run:** 7
-- **Total Active Matches (Last 4 Days):** 649
+- **New Matches Found in Last Run:** 17
+- **Total Active Matches (Last 4 Days):** 666
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-20.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-20.xlsx)
 
@@ -12,11 +12,28 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **EXL Service** | Data Engineer | US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=372d6a67c10b163b) | 2026-06-20 |
 | **McKesson** | Sr. Associate, Site Reliability Engineering | Irving, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d58654d97d98c4a) | 2026-06-20 |
+| **Ford Motor Company** | Software Engineer | Dearborn, MI, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5760a4f1aa6fdddb) | 2026-06-20 |
+| **ALLO Communications** | Senior Software Engineer, Cloud and AI | Des Moines, IA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bc4bd1d0f1519ea1) | 2026-06-20 |
+| **ALLO Communications** | Senior Software Engineer, Cloud and AI | Kansas City, MO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf3f2dbb3812e475) | 2026-06-20 |
+| **ALLO Communications** | Senior Software Engineer, Cloud and AI | Lincoln, NE, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eeb8ab90439d98b8) | 2026-06-20 |
+| **ALLO Communications** | Senior Software Engineer, Cloud and AI | Omaha, NE, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea6ecf773d8deb21) | 2026-06-20 |
+| **ALLO Communications** | Senior Software Engineer, Cloud and AI | Kearney, NE, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1d8f5634d6f6d76) | 2026-06-20 |
+| **ALLO Communications** | Senior Software Engineer, Cloud and AI | Grand Island, NE, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ccaa9de6cb6d799) | 2026-06-20 |
+| **ALLO Communications** | Senior Software Engineer, Cloud and AI | Overland Park, KS, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47d6b37f8d80d085) | 2026-06-20 |
+| **ExxonMobil** | Data Scientist, Commercial Analytics | Spring, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b528ce36c5db0190) | 2026-06-20 |
 | **Hayden Industrial** | AI Systems Engineer | Tulsa, OK, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=26055662b5a07621) | 2026-06-20 |
 | **Rush University Medical Center** | Clinical Data Scientist | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5455d44cb053bb0d) | 2026-06-20 |
+| **Accenture** | ^AI ML Engineer - 6352112 | Irving, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ebf057a00a5a0b6) | 2026-06-20 |
+| **Accenture** | ^AI ML Engineer - 6352113 | Irving, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe5142a4eeb06d44) | 2026-06-20 |
+| **NTT DATA** | Shopify Architect | Dallas, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5bc5601c059bd73a) | 2026-06-20 |
 | **DHL** | Senior Business Intelligence Data Analyst | Weston, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db5bfcdfcaae8b2f) | 2026-06-20 |
+| **Caterpillar** | Data Engineer, Cat Digital Data & AI | Irving, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=826181dbe0e126ae) | 2026-06-20 |
 | **CSC** | Senior Software Engineer | Logan, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ad3d538cde897291) | 2026-06-20 |
 | **BEAR Cloud** | AI Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8d891b4246fa841) | 2026-06-20 |
+| **Salesforce** | Data Engineer (SMTS/LMTS) - Knowledge Graph & AI | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ad48bb3932a9aa2) | 2026-06-20 |
+| **Renovo Solutions** | Database Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e28407a214cbaca) | 2026-06-20 |
+| **nan** | Fabric Platform Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c7b8660e24dfc38) | 2026-06-20 |
+| **NetApp** | Distinguished Engineer - AI Data Engine | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4414785bc5726cba) | 2026-06-20 |
 | **BizTech Fusion** | ML Engineer ((GCP) – Finance Data & AI Platform) | Dallas, TX, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08ee595f70e46b33) | 2026-06-19 |
 | **BV Teck** | Hadoop Developer | Remote, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bdecfd54adac1039) | 2026-06-19 |
 | **Deloitte** | AI Engineer - SFL Scientific | Houston, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b09c16289d91a9c2) | 2026-06-19 |
