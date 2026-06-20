@@ -1,194 +1,128 @@
 # 🎯 Daily Job Matches — 2026-06-20
 
-**Total Jobs Found:** 17
+**Total Jobs Found:** 11
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Software Engineer @ Ford Motor Company
-**Match Score:** 16.7%
+## 1. Machine Learning Engineer @ CVS Health
+**Match Score:** 18.9%
 
-📍 **Location:** Dearborn, MI, US USA
+📍 **Location:** IN, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, OpenCV, BigQuery, Docker, Kubernetes, CI/CD, Git
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, BigQuery, Dataflow, Docker, Kubernetes, Git, BigQuery, Kafka
 
-[Apply Here](https://www.indeed.com/viewjob?jk=5760a4f1aa6fdddb)
+[Apply Here](https://www.indeed.com/viewjob?jk=6c2d8e205af354cd)
 
 ---
 
-## 2. Senior Software Engineer, Cloud and AI @ ALLO Communications
+## 2. Data Engineer- Full Time Opportunity, NOT C2C @ Codoxo
 **Match Score:** 15.6%
 
-📍 **Location:** Des Moines, IA, US USA
+📍 **Location:** Duluth, GA, US USA
 
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD, Terraform, Git, NoSQL, Python
+🔑 **Keywords:** Data Scientist, RAG, S3, EC2, Glue, Apache Airflow, CI/CD, Git, PySpark, PostgreSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=bc4bd1d0f1519ea1)
-
----
-
-## 3. Senior Software Engineer, Cloud and AI @ ALLO Communications
-**Match Score:** 15.6%
-
-📍 **Location:** Kansas City, MO, US USA
-
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD, Terraform, Git, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cf3f2dbb3812e475)
+[Apply Here](https://www.indeed.com/viewjob?jk=780ec295f6bacdf5)
 
 ---
 
-## 4. Senior Software Engineer, Cloud and AI @ ALLO Communications
-**Match Score:** 15.6%
+## 3. Senior Databricks Engineer @ Bounteous
+**Match Score:** 14.4%
 
-📍 **Location:** Lincoln, NE, US USA
+📍 **Location:** US USA
 
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD, Terraform, Git, NoSQL, Python
+🔑 **Keywords:** Data Scientist, RAG, Copilot, Prompt Engineering, MLflow, CI/CD, Git, Databricks, PySpark, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=eeb8ab90439d98b8)
-
----
-
-## 5. Senior Software Engineer, Cloud and AI @ ALLO Communications
-**Match Score:** 15.6%
-
-📍 **Location:** Omaha, NE, US USA
-
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD, Terraform, Git, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ea6ecf773d8deb21)
+[Apply Here](https://www.indeed.com/viewjob?jk=f289865d551fa1a3)
 
 ---
 
-## 6. Senior Software Engineer, Cloud and AI @ ALLO Communications
-**Match Score:** 15.6%
-
-📍 **Location:** Kearney, NE, US USA
-
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD, Terraform, Git, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a1d8f5634d6f6d76)
-
----
-
-## 7. Senior Software Engineer, Cloud and AI @ ALLO Communications
-**Match Score:** 15.6%
-
-📍 **Location:** Grand Island, NE, US USA
-
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD, Terraform, Git, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2ccaa9de6cb6d799)
-
----
-
-## 8. Senior Software Engineer, Cloud and AI @ ALLO Communications
-**Match Score:** 15.6%
-
-📍 **Location:** Overland Park, KS, US USA
-
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD, Terraform, Git, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=47d6b37f8d80d085)
-
----
-
-## 9. Data Scientist, Commercial Analytics @ ExxonMobil
-**Match Score:** 15.6%
-
-📍 **Location:** Spring, TX, US USA
-
-🔑 **Keywords:** Data Scientist, LangChain, RAG, Copilot, TensorFlow, PyTorch, Azure ML, MLflow, CI/CD, Databricks
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b528ce36c5db0190)
-
----
-
-## 10. ^AI ML Engineer - 6352112 @ Accenture
+## 4. Software Engineer III - Data, AWS, ETL, Java/Python, @ JPMorganChase
 **Match Score:** 13.3%
 
-📍 **Location:** Irving, TX, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, LLaMA, Mistral, Prompt Engineering, Azure ML, Azure ML Studio, Snowflake
+🔑 **Keywords:** RAG, Data Lake, CI/CD, Terraform, Git, Snowflake, Databricks, Kafka, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8ebf057a00a5a0b6)
-
----
-
-## 11. ^AI ML Engineer - 6352113 @ Accenture
-**Match Score:** 13.3%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, LLaMA, Mistral, Prompt Engineering, Azure ML, Azure ML Studio, Snowflake
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fe5142a4eeb06d44)
+[Apply Here](https://www.indeed.com/viewjob?jk=1d97244cd7329e73)
 
 ---
 
-## 12. Shopify Architect @ NTT DATA
+## 5. Data Engineer, Quality Intelligence @ Anduril
 **Match Score:** 12.2%
 
-📍 **Location:** Dallas, TX, US USA
+📍 **Location:** Costa Mesa, CA, US USA
 
-🔑 **Keywords:** RAG, S3, Docker, CI/CD, Jenkins, GitHub Actions, Git, R, Java, Scala
+🔑 **Keywords:** Data Scientist, RAG, Copilot, Git, Snowflake, Databricks, PySpark, Tableau, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=5bc5601c059bd73a)
+[Apply Here](https://www.indeed.com/viewjob?jk=d1ed17f3555e6cae)
 
 ---
 
-## 13. Data Engineer, Cat Digital Data & AI @ Caterpillar
+## 6. Senior Snowflake Engineer @ Bounteous
+**Match Score:** 12.2%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** Data Scientist, RAG, Copilot, CI/CD, Git, Snowflake, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cf016976f76e7f0a)
+
+---
+
+## 7. Software Engineer III - Python/PySpark/AWS @ JPMorganChase
+**Match Score:** 12.2%
+
+📍 **Location:** Tampa, FL, US USA
+
+🔑 **Keywords:** RAG, S3, EC2, CI/CD, Snowflake, Databricks, PySpark, Hadoop, Python, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7758e2775271790b)
+
+---
+
+## 8. AI Researcher / ML Engineer (ASR & Speech Specialist) @ Lilt- Lega Italiana per la Lotta contro i Tumori
 **Match Score:** 11.1%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** RAG, Copilot, S3, Kinesis, CI/CD, GitHub Actions, Git, Snowflake, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=826181dbe0e126ae)
-
----
-
-## 14. Data Engineer (SMTS/LMTS) - Knowledge Graph & AI @ Salesforce
-**Match Score:** 10.0%
 
 📍 **Location:** San Francisco, CA, US USA
 
-🔑 **Keywords:** AI Engineer, LangChain, RAG, Copilot, Git, Kafka, Python, R, Scala
+🔑 **Keywords:** Machine Learning Engineer, RAG, Hugging Face, TensorFlow, PyTorch, Git, Python, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=5ad48bb3932a9aa2)
-
----
-
-## 15. Database Engineer @ Renovo Solutions
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, S3, Data Lake, Databricks, Power BI, SQL, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5e28407a214cbaca)
+[Apply Here](https://www.indeed.com/viewjob?jk=12234e1fc4a78963)
 
 ---
 
-## 16. Fabric Platform Engineer @ nan
+## 9. Quant Analytics Senior Associate @ JPMorganChase
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Prompt Engineering, Git, Snowflake, Tableau, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3c187c33a4df15f5)
+
+---
+
+## 10. Fabric Platform Engineer @ nan
 **Match Score:** 10.0%
 
 📍 **Location:** Remote, US USA
 
 🔑 **Keywords:** RAG, Synapse, Data Lake, PySpark, Python, SQL, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3c7b8660e24dfc38)
+[Apply Here](https://www.indeed.com/viewjob?jk=7b1831e001122e4d)
 
 ---
 
-## 17. Distinguished Engineer - AI Data Engine @ NetApp
+## 11. Senior Site Reliability Engineer @ Attain Finance
 **Match Score:** 10.0%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** Greenville, SC, US USA
 
-🔑 **Keywords:** RAG, S3, Kubernetes, Dask, Python, R, Java, Scala, Optimization
+🔑 **Keywords:** RAG, EC2, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4414785bc5726cba)
+[Apply Here](https://www.indeed.com/viewjob?jk=cb4fd37f5d5683cc)
 
 ---
 
