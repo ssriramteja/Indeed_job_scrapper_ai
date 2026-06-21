@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-06-21
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 482
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 485
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-21.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-21.xlsx)
 
@@ -10,9 +10,12 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Ingram Micro** | Software Engineer - AI | Irvine, CA, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da688748068d58e3) | 2026-06-21 |
 | **HCLTech** | Full Stack Java Technical Specialist - React.js | Durham, NC, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=86a514b2ddb169b4) | 2026-06-21 |
 | **7-Eleven** | Fresh Food QA Technician | Irving, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4195bab3d9303fad) | 2026-06-21 |
+| **Camden Property Trust** | Microsoft Fabric Engineer | Camden Corporate Office | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6fe0c8f580c4042e) | 2026-06-21 |
 | **Nestlé USA** | Senior Data Scientist | Bridgewater, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c691fdca5525a7a8) | 2026-06-21 |
+| **UTHealth Houston** | Data Scientist II - Children's Learning Institute | TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c2251d42e71aa1b) | 2026-06-21 |
 | **LTIMindtree** | Specialist - Data Engineering | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a4405fe7120dba5a) | 2026-06-21 |
 | **EXL Service** | Data Engineer | US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=372d6a67c10b163b) | 2026-06-20 |
 | **McKesson** | Sr. Associate, Site Reliability Engineering | Irving, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d58654d97d98c4a) | 2026-06-20 |
