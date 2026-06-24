@@ -1,216 +1,106 @@
 # 🎯 Daily Job Matches — 2026-06-24
 
-**Total Jobs Found:** 19
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer - Archimedes @ Navitus Health Solutions / Lumicera Health Services
-**Match Score:** 25.6%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, S3, Glue, Redshift, Synapse, Data Lake, MLflow, Apache Airflow
-
-[Apply Here](https://www.indeed.com/viewjob?jk=06ac01a3b37b1411)
-
----
-
-## 2. Sr. Engineer, Data - Archimedes @ Navitus Health Solutions / Lumicera Health Services
-**Match Score:** 24.4%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Generative AI, RAG, S3, Glue, Redshift, Synapse, Data Lake, MLflow, Apache Airflow, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=00efdae7133cac10)
-
----
-
-## 3. Sr. Engineer, Development Operations - Archimedes @ Navitus Health Solutions / Lumicera Health Services
-**Match Score:** 20.0%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Synapse, Data Lake, MLflow, Docker, Kubernetes, AKS, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=849fb6429e007fcd)
-
----
-
-## 4. Engineer, Development Operations - Archimedes @ Navitus Health Solutions / Lumicera Health Services
-**Match Score:** 18.9%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Synapse, Data Lake, MLflow, Docker, Kubernetes, AKS, CI/CD, GitHub Actions
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ea98351890cb41a5)
-
----
-
-## 5. AI Engineer @ Flexday
-**Match Score:** 17.8%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, Gemini, Copilot, Pinecone, Prompt Engineering, Synapse, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=95cbc1c146d97972)
-
----
-
-## 6. AI Engineer @ Flexday
-**Match Score:** 17.8%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, Gemini, Copilot, Pinecone, Prompt Engineering, Synapse, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8414509fa2b039f4)
-
----
-
-## 7. Engineer, Cloud - Archimedes @ Navitus Health Solutions / Lumicera Health Services
+## 1. Software Engineer @ Optum
 **Match Score:** 16.7%
 
-📍 **Location:** US USA
+📍 **Location:** Raleigh, NC, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Data Lake, MLflow, AKS, CI/CD, GitHub Actions, Terraform, Git, Databricks
+🔑 **Keywords:** RAG, Copilot, S3, Docker, Kubernetes, CI/CD, Git, Kafka, MongoDB, NoSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0c2f878a6cd6c513)
-
----
-
-## 8. Sr. Engineer, Cloud - Archimedes @ Navitus Health Solutions / Lumicera Health Services
-**Match Score:** 16.7%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Generative AI, RAG, Data Lake, MLflow, AKS, CI/CD, GitHub Actions, Terraform, Git, Databricks
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b7995f8317591305)
+[Apply Here](https://www.indeed.com/viewjob?jk=513b06edfb3e0c5a)
 
 ---
 
-## 9. Sr Generative AI Scientist II - (Model Risk & Validation) @ Cotiviti
-**Match Score:** 16.7%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Mistral, TensorFlow, PyTorch, Keras, NLTK
-
-[Apply Here](https://www.indeed.com/viewjob?jk=669db71a6daa2365)
-
----
-
-## 10. Generative AI Scientist - (Model Risk & Validation) @ Cotiviti
-**Match Score:** 16.7%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Mistral, TensorFlow, PyTorch, Keras, NLTK
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ea23170869cc1bb2)
-
----
-
-## 11. Sr. Architect, Enterprise - Archimedes @ Navitus Health Solutions / Lumicera Health Services
-**Match Score:** 15.6%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Generative AI, RAG, Copilot, Data Lake, MLflow, Kubernetes, AKS, CI/CD, Terraform, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=096a8034fe908404)
-
----
-
-## 12. Engineer, Development Operations - Archimedes @ Navitus Health Solutions / Lumicera Health Services
-**Match Score:** 15.6%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Synapse, Data Lake, Docker, Kubernetes, AKS, CI/CD, GitHub Actions, Terraform, Git, Databricks
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8da20c80b6159763)
-
----
-
-## 13. Sr. Engineer, Software - Archimedes @ Navitus Health Solutions / Lumicera Health Services
+## 2. AI/ML Engineer (Senior Associate) - Remote @ Huron Consulting Group
 **Match Score:** 14.4%
 
-📍 **Location:** US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** RAG, Synapse, Data Lake, AKS, CI/CD, GitHub Actions, Git, Databricks, PostgreSQL, SQL
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Prompt Engineering, TensorFlow, PyTorch, AWS SageMaker, FastAPI, Docker, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=084467bb5807c6b5)
-
----
-
-## 14. Engineer, Data Integration - Archimedes @ Navitus Health Solutions / Lumicera Health Services
-**Match Score:** 12.2%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** RAG, Data Lake, CI/CD, GitHub Actions, Git, Databricks, Kafka, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9a819a6db45f8192)
+[Apply Here](https://www.indeed.com/viewjob?jk=56abd1ac683b8c11)
 
 ---
 
-## 15. AI/ML Infrastructure Engineer @ Manifold Bio
-**Match Score:** 10.0%
+## 3. Full Stack Software Engineer - AI Applications @ Ford Motor Company
+**Match Score:** 14.4%
 
-📍 **Location:** Boston, MA, US USA
+📍 **Location:** Long Beach, CA, US USA
 
-🔑 **Keywords:** RAG, PyTorch, EC2, Kubernetes, CI/CD, Git, Snowflake, R, Optimization
+🔑 **Keywords:** AI Engineer, RAG, BigQuery, AKS, CI/CD, Terraform, Git, BigQuery, NoSQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=79a02bc63cbf844b)
-
----
-
-## 16. Senior Database Administrator @ EchoStar
-**Match Score:** 10.0%
-
-📍 **Location:** Cheyenne, WY, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, PostgreSQL, MySQL, Cassandra, NoSQL, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9c6038ec3b3466e1)
+[Apply Here](https://www.indeed.com/viewjob?jk=6d497fc5311c699a)
 
 ---
 
-## 17. Senior Software Engineer, Data Engineering @ GitHub
-**Match Score:** 10.0%
+## 4. Software Engineer II @ Vectra AI
+**Match Score:** 13.3%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** Data Scientist, FastAPI, Kubernetes, CI/CD, Terraform, Snowflake, PostgreSQL, MySQL, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e361ec91914e9985)
+
+---
+
+## 5. AI/ML Engineer — GTM Automation - Intern @ Aptasentry
+**Match Score:** 13.3%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, MySQL, Python, SQL, R, Java
+🔑 **Keywords:** LangChain, RAG, LLaMA, Prompt Engineering, S3, FastAPI, Docker, Git, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ada9a80fb5db3e85)
-
----
-
-## 18. Software Engineer @ State Farm
-**Match Score:** 10.0%
-
-📍 **Location:** Bloomington, IL, US USA
-
-🔑 **Keywords:** RAG, CI/CD, Git, Databricks, Kafka, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1bbb343d60ee67a9)
+[Apply Here](https://www.indeed.com/viewjob?jk=e7cf1eac3e10df55)
 
 ---
 
-## 19. Python Developer @ Infyni
+## 6. Full Stack Developer (Angular/Java) @ S2Alliance Inc
+**Match Score:** 13.3%
+
+📍 **Location:** Ashburn, VA, US USA
+
+🔑 **Keywords:** RAG, Gemini, Docker, Kubernetes, CI/CD, Git, PostgreSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6989bdbea1dddcfd)
+
+---
+
+## 7. Sr. AI/ML Engineer - Remote @ Optum
+**Match Score:** 11.1%
+
+📍 **Location:** Eden Prairie, MN, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Prompt Engineering, XGBoost, MLflow, CI/CD, Python, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5b47d0c2cfc2bb5c)
+
+---
+
+## 8. Senior Software Developer @ Kinsale Management Inc
 **Match Score:** 10.0%
 
-📍 **Location:** Southfield, MI, US USA
+📍 **Location:** Richmond, VA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, Git, Python, R, Java, Scala
+🔑 **Keywords:** RAG, Copilot, Docker, Git, Kafka, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=13cc0efa04c752d5)
+[Apply Here](https://www.indeed.com/viewjob?jk=ea9ff4676bcc42ad)
+
+---
+
+## 9. Software Engineer II - Localization @ TORC Robotics
+**Match Score:** 10.0%
+
+📍 **Location:** Ann Arbor, MI, US USA
+
+🔑 **Keywords:** RAG, PyTorch, Docker, CI/CD, GitHub Actions, Git, Python, R, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=81def5e54cf5cbd9)
 
 ---
 
