@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-06-25
-- **New Matches Found in Last Run:** 15
-- **Total Active Matches (Last 4 Days):** 599
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 601
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-25.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-25.xlsx)
 
@@ -30,6 +30,7 @@
 | **Kobie Marketing** | AI Engineer | Baton Rouge, LA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be1d010a902f7d0c) | 2026-06-25 |
 | **Kobie Marketing** | AI Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2165a914d526eec0) | 2026-06-25 |
 | **Glint Tech Solutions** | AI Developer | Sunnyvale, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=35215fc5c1ce82a6) | 2026-06-25 |
+| **JPMorganChase** | Software Engineer III - AWS | Plano, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ed33c1af1fbb6ee) | 2026-06-25 |
 | **Human Longevity** | Applied AI Engineer (LLMs, Agents, and Healthcare AI) | South San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1c17468b23ff011) | 2026-06-25 |
 | **University of Utah** | Postdoctoral Researcher | Salt Lake City, UT, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17342d412700ed77) | 2026-06-25 |
 | **University of Utah** | PhD Student in AI research | Salt Lake City, UT, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8673766c23a39840) | 2026-06-25 |
@@ -77,6 +78,7 @@
 | **Collectors** | Senior Software Engineer, Back-End (Payments) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ebeb2570baaf1984) | 2026-06-25 |
 | **Capgemini** | Sr.Dot Net Developer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2cde7eded2299539) | 2026-06-25 |
 | **Capgemini** | Sr.Dot Net Developer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1cc292d97aa3a39e) | 2026-06-25 |
+| **Tesla** | Applied AI Software Engineer, Factory Software | Fremont, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=61ed235ba1244083) | 2026-06-25 |
 | **Navitus Health Solutions / Lumicera Health Services** | Data Engineer - Archimedes | US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=06ac01a3b37b1411) | 2026-06-24 |
 | **Navitus Health Solutions / Lumicera Health Services** | Sr. Engineer, Data - Archimedes | US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00efdae7133cac10) | 2026-06-24 |
 | **Visa** | Senior Software Engineer - AI Agents | Ashburn, VA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=729ea3d76920022c) | 2026-06-24 |
