@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-06-26
-- **New Matches Found in Last Run:** 35
-- **Total Active Matches (Last 4 Days):** 817
+- **New Matches Found in Last Run:** 12
+- **Total Active Matches (Last 4 Days):** 829
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-26.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-26.xlsx)
 
@@ -49,6 +49,9 @@
 | **Optum** | Senior AI/ML Engineer Remote in Eastern Time Zone | Eden Prairie, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fbbd60e0dd6b1db2) | 2026-06-26 |
 | **UKG** | Software Engineer III - DevOps | Sunrise, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3c1fd36f5dc173b) | 2026-06-26 |
 | **PNC Financial Services Group** | Data Engineer Senior - Big Data Platform Team | Farmers Branch, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0bd359ddd135794e) | 2026-06-26 |
+| **Particle41** | AI Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ed6a7fc3bedd441c) | 2026-06-26 |
+| **LogicMonitor** | AI/ML Engineer | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a9297029092a743) | 2026-06-26 |
+| **HHAeXchange** | Sr. Software Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=127acd5f3f140637) | 2026-06-26 |
 | **Office Ally** | Senior Integration Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=797e64bcb8624035) | 2026-06-26 |
 | **Office Ally** | Senior Integration Engineer | Concord, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eefab3368870cfd6) | 2026-06-26 |
 | **Office Ally** | Senior Integration Engineer | Clayton, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=992d1d915f9d6362) | 2026-06-26 |
@@ -129,6 +132,8 @@
 | **SpotOn** | Senior Software Engineer - Python/Typescript | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3fc4868cc035d45) | 2026-06-26 |
 | **SpotOn** | Senior Software Engineer - Python/Typescript | Raleigh, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d95525f83e5e4f1) | 2026-06-26 |
 | **Univision Communications Inc** | Senior Data Engineer | Miami, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b2f885fbfd483879) | 2026-06-26 |
+| **University of Wisconsin–Madison** | AI Innovation Engineer | Madison, WI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd7d0b11ec243596) | 2026-06-26 |
+| **Goldman Sachs** | Asset & Wealth Management - Software Engineering - Associate - Richardson | Richardson, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2fadc871eddfaef1) | 2026-06-26 |
 | **JPMorganChase** | Marketing Data Scientist Senior Associate - Consumer Bank | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9cee8192469523f) | 2026-06-26 |
 | **Stored Energy Systems** | AI & Automation Engineer | Longmont, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14fb94404a5ee275) | 2026-06-26 |
 | **Bunge** | Data Scientist Geospatial Analytics | Chesterfield, MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0df42bfc02a5f701) | 2026-06-26 |
@@ -155,6 +160,7 @@
 | **AVO** | Integrations Engineer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7256b60cf42bd4c3) | 2026-06-26 |
 | **Major League Baseball** | Data Engineer, League Analytics & Infrastructure | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e63e2ea97ff196b) | 2026-06-26 |
 | **nan** | Data Analyst | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a925846c3996826) | 2026-06-26 |
+| **EnergyHub** | Senior Software Engineer I | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1dc6d335fb8d74d) | 2026-06-26 |
 | **Asylon** | Software Engineer | Norristown, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6713335c51820324) | 2026-06-26 |
 | **Asylon** | Frontend Engineer/UX Engineer | Norristown, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e01952c4a3f71b76) | 2026-06-26 |
 | **Acrisure LLC** | Senior AI Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fc29356aa7c08c47) | 2026-06-26 |
@@ -245,6 +251,12 @@
 | **Midwest Tape** | SecOps Engineer | Holland, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=965702c6436d9964) | 2026-06-26 |
 | **CSC** | Software Engineer | Logan, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89cdfe62bec65fc1) | 2026-06-26 |
 | **Optum** | Senior Software Engineer | Wausau, WI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2a4a5c971b6dae8) | 2026-06-26 |
+| **Xai** | Senior Data Engineer - Consumer Subscriptions | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=735be9277b931974) | 2026-06-26 |
+| **Xai** | Senior Data Engineer - Consumer Subscriptions | Palo Alto, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=542a2b47f04a99a0) | 2026-06-26 |
+| **Autodesk** | Digital Support Intelligent Automation Solutions Engineer | MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58d7403aed43089c) | 2026-06-26 |
+| **Acrisure LLC** | Senior AI Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34c0b3742a8333ca) | 2026-06-26 |
+| **MassMutual** | AI Engineer | Springfield, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af055e66a992a58a) | 2026-06-26 |
+| **McKinsey & Company** | Expert Associate Partner - Advanced Industries | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=541ca1d5abd2452e) | 2026-06-26 |
 | **Palmetto Tech** | Databricks Data Engineer - Remote | US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d57ef47d055269a5) | 2026-06-25 |
 | **AbbVie** | Senior Architect, Technology I | Mettawa, IL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6bde36b833417f68) | 2026-06-25 |
 | **nan** | AI Engineer | Davie, FL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a2fdb23c6c263875) | 2026-06-25 |
