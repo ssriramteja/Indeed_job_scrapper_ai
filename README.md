@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-06-28
-- **New Matches Found in Last Run:** 9
-- **Total Active Matches (Last 4 Days):** 511
+- **New Matches Found in Last Run:** 6
+- **Total Active Matches (Last 4 Days):** 517
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-06-28.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-06-28.xlsx)
 
@@ -11,10 +11,16 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Fairfax County Government** | Data Engineer (Business Analyst IV) | Fairfax, VA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=414e38f5ca1fe7f7) | 2026-06-28 |
+| **Tata Consultancy Services (TCS)** | Google Data Engineer | Charlotte, NC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=063d41992d4b3402) | 2026-06-28 |
 | **Metropolitan Council of the Twin Cities** | Prin Software Engineer - AFS | Saint Paul, MN, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4459c55264602070) | 2026-06-28 |
 | **NiCE** | Senior AI Software Engineer | Sandy, UT, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5bb8fea85a87bab5) | 2026-06-28 |
 | **The Associated Press** | Machine Learning Engineer | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d45b8d8fdc6454d) | 2026-06-28 |
+| **Fiserv** | Sr Full Stack Engineer | Sunnyvale, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9b55caa3b9d44424) | 2026-06-28 |
 | **Zafran Security** | Senior DevOps Engineer, US Production | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab3c0d8531de480d) | 2026-06-28 |
+| **Cox Automotive** | Software Engineer I | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6df027064a5f894b) | 2026-06-28 |
+| **Cox Automotive** | Software Engineer I | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb5e568a25691ba4) | 2026-06-28 |
+| **Cox Automotive** | Software Engineer I | Burlington, VT, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db7a99827b79188f) | 2026-06-28 |
+| **City of Rockville** | Senior Application Developer | Rockville, MD, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6ffba52098259ac2) | 2026-06-28 |
 | **Major League Baseball (MLB)** | Data Engineer, League Analytics & Infrastructure | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=40ae4dfa2efb93cb) | 2026-06-28 |
 | **Krem.Energy** | Full-Stack AI Engineer | East Rutherford, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a89dad20b03f4f19) | 2026-06-28 |
 | **NiCE** | Senior DevOps Engineer | Sandy, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13889fd2bd869acd) | 2026-06-28 |
