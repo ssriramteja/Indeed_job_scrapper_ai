@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-01
-- **New Matches Found in Last Run:** 8
-- **Total Active Matches (Last 4 Days):** 289
+- **New Matches Found in Last Run:** 85
+- **Total Active Matches (Last 4 Days):** 374
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-01.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-01.xlsx)
 
@@ -10,14 +10,99 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Richmond, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3f0aef032347c64) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Cincinnati, OH, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ccad7734d3de242e) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Chicago, IL, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5da7530d86938f8a) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Raleigh, NC, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b60678a704bf64f4) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Atlanta, GA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=36eb953e60060a34) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Rochester, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=26cce728591c8fea) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Houston, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0b7f169148c17f4) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Princeton, NJ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4420962f77cb95c) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Denver, CO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73d0e018aa48bdbe) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Austin, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=309c9cbc059c8ba5) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Jersey City, NJ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0124a9f6fa89c12) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Hartford, CT, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a3d66c118c15ff21) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Milwaukee, WI, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=362bb4eb6549c026) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Detroit, MI, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0fa644ea1538f074) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Gilbert, AZ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f5abf729578441a) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Hermitage, TN, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76d12dad81a13d04) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Mechanicsburg, PA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc53707841ba936a) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Minneapolis, MN, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2fc193932d24f51e) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Costa Mesa, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a1081afe0268e25) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | McLean, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=618c638da5ec0631) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Stamford, CT, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09b95de04181ac95) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Columbus, OH, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=596f85db5b41871e) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Seattle, WA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f812b2c544d0156f) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Charlotte, NC, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd44e6a3d4a51495) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Lake Mary, FL, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70e9426795f88b93) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Portland, OR, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=42e1bbbbceabf0a1) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | New Orleans, LA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=92f7c36aeea5d079) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Arlington, VA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9bef5cb3ec873308) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Cleveland, OH, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b7a12a47cb0876b6) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Indianapolis, IN, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=947c42dd2b306f7d) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Dayton, OH, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ae39f02d0f294bea) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Baltimore, MD, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c142e3d444448160) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Nashville, TN, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d74828eb28979387) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Kansas City, MO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b039e5678ef59a9f) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Colorado Springs, CO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e2ac3d700e41e7a) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Jericho, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6919551aa68a5394) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Jacksonville, FL, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ebb2824c263d220) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Morristown, NJ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81f5345860f08559) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Philadelphia, PA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d80b7621b9e2f913) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Louisville, KY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c823870a08a1db65) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Memphis, TN, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19d055e8ad0c2a80) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Las Vegas, NV, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=382778aa87acaf4a) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | San Francisco, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=359dfc5821f41ea8) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Pittsburgh, PA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ebd54d92f448b989) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Boston, MA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=424df3bb9b87f31a) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Dallas, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a3eb31df717e0ee) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | New York, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3d29200f69d46c2d) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Miami, FL, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bc844d8227e0c722) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | San Antonio, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e4c68521a1f351d) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Los Angeles, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f864b7c17caee013) | 2026-07-01 |
+| **Deloitte** | Cyber Full-Stack Technical Software Engineer | Davenport, IA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=736de4d3974ebb73) | 2026-07-01 |
+| **EssilorLuxottica** | Data & ML Engineer | Dallas, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f138b685e2cb7a4) | 2026-07-01 |
+| **EssilorLuxottica** | Data & ML Engineer | Mason, OH, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=231ded9c25f76bbd) | 2026-07-01 |
+| **AMD** | Senior Data Engineer | Austin, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=210c0c0b6772ab92) | 2026-07-01 |
 | **Tesla** | Internship, Machine Learning Engineer, Factory Software (Fall 2026) | Fremont, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a24b26d7bdd47184) | 2026-07-01 |
+| **CVS Health** | Senior Data engineer | TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56ed3caee5240d78) | 2026-07-01 |
+| **WaFd Bank** | Senior Data Engineer | Seattle, WA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be6eb56bdb2b30c9) | 2026-07-01 |
+| **The Evolvers Group** | Senior Data Architect | Washington, DC, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a80b58619ce00bf) | 2026-07-01 |
 | **Worldpay** | Payment Optimization Data Scientist II | Cincinnati, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=88c14d053975b72c) | 2026-07-01 |
+| **CVS Health** | Senior Software Development Engineer | TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=008ddae8bcb982b7) | 2026-07-01 |
+| **EssilorLuxottica** | Data Scientist | Mason, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c0b39b6a73a47a6) | 2026-07-01 |
+| **Via Separations** | Software Engineer | Watertown, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3e7b169aba6ca36) | 2026-07-01 |
+| **Centurion Consulting Group** | Sr. AI Operations Engineer | US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d5cb92a6b483e72c) | 2026-07-01 |
+| **nan** | DevOps Engineer | Jacksonville, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a8efa0e4c11321c) | 2026-07-01 |
 | **Capgemini** | Provisioning Engineer | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=371ef99bbd6f0c8e) | 2026-07-01 |
+| **GEICO** | Senior Engineer, Interactive Voice Response - AI/ML | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=afeb152299c9c106) | 2026-07-01 |
+| **GEICO** | Senior Engineer, Interactive Voice Response - AI/ML | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5533b8e5c44454a1) | 2026-07-01 |
+| **GEICO** | Senior Engineer, Interactive Voice Response - AI/ML | Bethesda, MD, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab4117b5e9d7c22d) | 2026-07-01 |
+| **GEICO** | Senior Engineer, Interactive Voice Response - AI/ML | Dallas, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=766f940fbd943625) | 2026-07-01 |
+| **Workday** | Software Development Engineer | Reston, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f12357380affa13) | 2026-07-01 |
+| **Booz Allen Hamilton** | Generative AI Engineer | Ashburn, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4f1f6b30db408e92) | 2026-07-01 |
+| **Synctera** | Sr. Software Engineer | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ff068a853e2e8ff) | 2026-07-01 |
+| **Synctera** | Sr. Software Engineer | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ce8466bc8f4ae9d) | 2026-07-01 |
+| **RePurpose Global** | Senior Software Engineer | OR, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=462bc9e89d44b0ba) | 2026-07-01 |
 | **Motorola Solutions** | Software Engineer | Salt Lake City, UT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4f868b16fc5fbe2d) | 2026-07-01 |
 | **Snowflake** | Senior Software Engineer - Snowflake Streaming | Bellevue, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3062b19696d2ed9f) | 2026-07-01 |
+| **Asurion** | Senior Software Engineer - Conversational AI | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4819c0a20b1980c4) | 2026-07-01 |
+| **Toyota Research Institute** | Senior Research Engineer, Computer Vision (LFV/WFM) | Los Altos, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94e05c220fd5f46f) | 2026-07-01 |
+| **Truist** | Java/Full-stack Engineer - Security Engineer | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83272652072888d3) | 2026-07-01 |
+| **C-4 Analytics** | Senior Data Engineer (HYBRID) | Wakefield, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84c8995ff51aec7d) | 2026-07-01 |
+| **Womble Bond Dickinson** | Software Engineer | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac8fb71cef7c6797) | 2026-07-01 |
 | **Upstart** | Senior Software Engineer, White Label Platform | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11afa021c4ba1817) | 2026-07-01 |
 | **Carnegie Mellon University** | Software Engineer | Pittsburgh, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fd1e469ef7af4497) | 2026-07-01 |
 | **Snap Finance** | Analytics Intern | TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4675a825d27ca334) | 2026-07-01 |
+| **Snowflake** | Analytics Engineer | Menlo Park, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=87118ad523a8dead) | 2026-07-01 |
+| **WilmerHale** | Senior Business Intelligence Engineer | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3766eea758ba5c91) | 2026-07-01 |
+| **WEX Inc.** | Site Reliability Engineer 1 | Portland, ME, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5e1d20485e6d34c) | 2026-07-01 |
+| **Deloitte** | AWS Data Engineer - Consultant | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7ef214e1d2011be) | 2026-07-01 |
+| **nan** | AI Solutions Automation Engineer | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=36ee3dc60df682d6) | 2026-07-01 |
+| **nan** | Senior Software Engineer | Santa Monica, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32b4003243d1b08e) | 2026-07-01 |
+| **West Monroe** | Applied AI Engineer/Architect | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b2a2f474f9f2e859) | 2026-07-01 |
+| **American Express** | Software Engineer II - JavaScript - Enterprise Architecture | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf754e597f6f864c) | 2026-07-01 |
+| **CPI Card Group** | Intern-AI Automation & Process Analyst | Littleton, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09ad2bdb1d00b774) | 2026-07-01 |
 | **Wayfair** | Software Engineer III - Visual AI Technology | Boston, MA, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2bb194dac269cfc4) | 2026-06-30 |
 | **Merkle, Inc.** | Data Engineer - Temporary Worker | US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fd3608ce8fafa5b9) | 2026-06-30 |
 | **Dentsu** | Data Engineer - Temporary Worker | MD, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f79b9ae386c30e15) | 2026-06-30 |
