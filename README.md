@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-02
-- **New Matches Found in Last Run:** 15
-- **Total Active Matches (Last 4 Days):** 642
+- **New Matches Found in Last Run:** 6
+- **Total Active Matches (Last 4 Days):** 648
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-02.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-02.xlsx)
 
@@ -12,6 +12,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **NIKE** | Software Engineer | Beaverton, OR, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ddd7a8d512b43154) | 2026-07-02 |
 | **Fannie Mae** | Advisor Software Engineer (AI/ML) | Reston, VA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76ab24dd411e42cd) | 2026-07-02 |
+| **Cloudflare** | Senior Machine Learning Engineer | Austin, TX, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=138ef0c74c45d8c4) | 2026-07-02 |
 | **JPMorganChase** | Software Engineer III: Data Engineer | New York, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=53d5f21773f04216) | 2026-07-02 |
 | **Diagonal Matrix Ltd** | Data Scientist – AI / LLM | Remote, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5a4eea41277bdff1) | 2026-07-02 |
 | **nan** | Senior Analytics Engineer | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=038e28e57828d4de) | 2026-07-02 |
@@ -72,6 +73,9 @@
 | **ARDENT** | Graph Data Scientist | Washington, DC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec6e9bf6850e341b) | 2026-07-02 |
 | **City of Hope** | Data Scientist | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=33fae087b4ac3d58) | 2026-07-02 |
 | **JazzX AI** | Software Engineer, AGI Platform | Los Altos, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c57cf2baff777a3e) | 2026-07-02 |
+| **NVIDIA** | Senior Software Development Engineer in Test | Santa Clara, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3760cdb15926257d) | 2026-07-02 |
+| **Neo4j** | Senior Solutions Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c6fe5c33f2abd43f) | 2026-07-02 |
+| **Blue Orange Digital** | Senior Data Engineer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99a36241acc2482c) | 2026-07-02 |
 | **Wing** | Software Engineer, Data Infrastructure | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7bc4c6d81f5176e5) | 2026-07-02 |
 | **Capgemini** | Technical Product Owner | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9a3f977801b4e02) | 2026-07-02 |
 | **JPMorganChase** | Data Scientist Senior Associate | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea7150df99e23411) | 2026-07-02 |
@@ -96,6 +100,8 @@
 | **TikTok USDS JV** | Senior Machine Learning Engineer - USDS Shop Ads | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e8c8d3ce39b3fb5a) | 2026-07-02 |
 | **TikTok USDS JV** | Senior Machine Learning Engineer - USDS Shop Ads | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ace26dbcd780b772) | 2026-07-02 |
 | **JPMorganChase** | Data Science Senior Associate - Card Data & Analytics team | Wilmington, DE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=878045e4bd010d1f) | 2026-07-02 |
+| **Optivate Health, LLC** | Software Engineer .Net/AI Developer | Bonita Springs, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7dfd06c8da7beb6) | 2026-07-02 |
+| **Johns Hopkins Health System** | Sr Data Scientist - Precision Medicine Clinical AI | Baltimore, MD, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7cf584f808da3d7f) | 2026-07-02 |
 | **McAfee** | Senior AI Engineer, MarTech | San Jose, CA, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0a8b4ddc2c212a6) | 2026-07-01 |
 | **MiniMed** | AI/Data Science Engineer II | Northridge, CA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa4914e8c40e18d9) | 2026-07-01 |
 | **Kenneth Copeland Ministries** | AI Specialist | Newark, TX, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ce92c0fbadcfe0f) | 2026-07-01 |
