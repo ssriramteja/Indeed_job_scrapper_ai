@@ -1,40 +1,62 @@
 # 🎯 Daily Job Matches — 2026-07-03
 
-**Total Jobs Found:** 3
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Data Scientist – GenAI, LLM & RAG | Oil & Gas Domain | Houston, TX | Full-Time @ Tricon Solutions
+## 1. Software Engineer (Level 3 / E3) - Core Platform @ Whatfix
 **Match Score:** 14.4%
 
-📍 **Location:** Houston, TX, US USA
+📍 **Location:** San Jose, CA, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, TensorFlow, PyTorch, Git, Snowflake, Hadoop, Tableau, Power BI
+🔑 **Keywords:** Generative AI, RAG, Docker, Kubernetes, CI/CD, Git, MongoDB, Cassandra, NoSQL, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8004f011ac10dbac)
-
----
-
-## 2. Customer Delivery Architect(Remote) @ Cisco
-**Match Score:** 10.0%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Git, Python, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=59c791c401a7daac)
+[Apply Here](https://www.indeed.com/viewjob?jk=4e46ba444bbad5fd)
 
 ---
 
-## 3. Customer Delivery Architect (Remote) @ Cisco
+## 2. Java Full Stack Engineer @ CADRE GOVERNMENT SOLUTIONS
+**Match Score:** 13.3%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Git, Kafka, PostgreSQL, NoSQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e2099b5430245346)
+
+---
+
+## 3. Software Engineer (Level 4 / E4) - Core Platform @ Whatfix
+**Match Score:** 13.3%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Git, MongoDB, Cassandra, NoSQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7ffad5f6aac08e5a)
+
+---
+
+## 4. Junior AI/ML Engineer @ Tata Consultancy Services (TCS)
+**Match Score:** 12.2%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** Generative AI, LangChain, RAG, Prompt Engineering, Snowflake, Databricks, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8b53e41bd1322624)
+
+---
+
+## 5. Senior Data Engineer @ nan
 **Match Score:** 10.0%
 
-📍 **Location:** Research Triangle Park, NC, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Git, Python, R, Scala, Optimization
+🔑 **Keywords:** RAG, Data Lake, Snowflake, Python, SQL, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3c5342afa2c5f2a0)
+[Apply Here](https://www.indeed.com/viewjob?jk=cc379557ac7b50a7)
 
 ---
 
