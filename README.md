@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-03
-- **New Matches Found in Last Run:** 8
-- **Total Active Matches (Last 4 Days):** 732
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 735
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-03.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-03.xlsx)
 
@@ -27,6 +27,7 @@
 | **Colgate University** | Cloud Infrastructure Engineer | Hamilton, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56223bbd023f84d5) | 2026-07-03 |
 | **U.S. Bank** | Software Engineer 2 ( React and Python) | Charlotte, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38748aa3ba6711fa) | 2026-07-03 |
 | **U.S. Bank** | Software Engineer 2 ( React and Python) | Hopkins, MN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4262c294fe7dd22b) | 2026-07-03 |
+| **Tricon Solutions** | Senior Data Scientist – GenAI, LLM & RAG | Oil & Gas Domain | Houston, TX | Full-Time | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8004f011ac10dbac) | 2026-07-03 |
 | **AllStars-IT** | Senior Software Engineer - Python/Agentic AI - EU Remote | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a091b79f52b8cba) | 2026-07-03 |
 | **American Civil Liberties Union** | Data Architect | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fef81ca1522be027) | 2026-07-03 |
 | **Everforth ECS** | Data Scientist | Arlington, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f4b7618c4e8b759) | 2026-07-03 |
@@ -93,6 +94,8 @@
 | **nan** | Software Engineer II | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d3da4bd93b7aa38f) | 2026-07-03 |
 | **JPMorganChase** | Software Engineer III | Jersey City, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59f3738ac41acdda) | 2026-07-03 |
 | **Frontline Education** | AI Operations Intern | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=72511f893299c8d1) | 2026-07-03 |
+| **Cisco** | Customer Delivery Architect(Remote) | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59c791c401a7daac) | 2026-07-03 |
+| **Cisco** | Customer Delivery Architect (Remote) | Research Triangle Park, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c5342afa2c5f2a0) | 2026-07-03 |
 | **Mount Sinai Health System** | Machine Learning Engineer I - Large Language Models - AI & Human Health Research | US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf467b81837982e7) | 2026-07-02 |
 | **NIKE** | Software Engineer | Beaverton, OR, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ddd7a8d512b43154) | 2026-07-02 |
 | **NBME** | Senior Data Engineer (Customer Data Products) | Philadelphia, PA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cce51fb4ed88355c) | 2026-07-02 |
