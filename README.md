@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-04
-- **New Matches Found in Last Run:** 6
-- **Total Active Matches (Last 4 Days):** 546
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 550
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-04.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-04.xlsx)
 
@@ -17,7 +17,11 @@
 | **Pearson** | Senior Quality Assurance Engineer | IN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6eb29d3e19caf513) | 2026-07-04 |
 | **OnMed** | DevOps Engineer | White Plains, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=33f34675d6b944c5) | 2026-07-04 |
 | **Expleo Group** | Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) | Rochester, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9b8537a55ac652d5) | 2026-07-04 |
+| **BD** | Commercial Analytics Engineer Business Decision Intelligence | Franklin Lakes, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3722313cc0bbee22) | 2026-07-04 |
+| **BD** | Commercial Analytics Engineer - Go To Market Analytics | Franklin Lakes, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3bc07e359a2b1915) | 2026-07-04 |
 | **El Paso County, CO** | Senior Data Analyst – Department of Human Services | Colorado Springs, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e25cff2764c2ef54) | 2026-07-04 |
+| **AmaWaterways** | Senior Software Engineer, Backend | Calabasas, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=02cd4ab61a45abcd) | 2026-07-04 |
+| **JPMorganChase** | Software Engineer III- Senior Associate | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84905d67c4b1248e) | 2026-07-04 |
 | **BV Teck** | Senior Data Engineer | Remote, US USA | 33.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a3d22f079d54bf0) | 2026-07-03 |
 | **BV Teck** | Senior Data Scientist | Remote, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38b39caa4351d1c5) | 2026-07-03 |
 | **McAfee** | Senior AI Engineer, MarTech | San Jose, CA, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28bb6b860bdff8b3) | 2026-07-03 |
