@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-04
-- **New Matches Found in Last Run:** 2
-- **Total Active Matches (Last 4 Days):** 540
+- **New Matches Found in Last Run:** 6
+- **Total Active Matches (Last 4 Days):** 546
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-04.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-04.xlsx)
 
@@ -10,8 +10,14 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Simpsocial** | AI/LLM Engineer (ChatGPT & Voice AI Agent Development) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe6f6a302d8c709e) | 2026-07-04 |
+| **Castleton Commodities International** | Applied AI Engineer | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76d085ea51c27f6f) | 2026-07-04 |
+| **HCLTech** | Group AI/ML Sol Architect - PostgreSQL | Virginia Beach, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4500ad04a6fe0400) | 2026-07-04 |
+| **WhiteWater Express Car Wash** | Full Stack Engineer | Houston, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85da536c77d90e54) | 2026-07-04 |
 | **Pearson** | Senior Quality Assurance Engineer | IN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6eb29d3e19caf513) | 2026-07-04 |
 | **OnMed** | DevOps Engineer | White Plains, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=33f34675d6b944c5) | 2026-07-04 |
+| **Expleo Group** | Senior Software Engineer / BI Developer (GCP, Power BI, Tableau) | Rochester, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9b8537a55ac652d5) | 2026-07-04 |
+| **El Paso County, CO** | Senior Data Analyst – Department of Human Services | Colorado Springs, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e25cff2764c2ef54) | 2026-07-04 |
 | **BV Teck** | Senior Data Engineer | Remote, US USA | 33.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a3d22f079d54bf0) | 2026-07-03 |
 | **BV Teck** | Senior Data Scientist | Remote, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38b39caa4351d1c5) | 2026-07-03 |
 | **McAfee** | Senior AI Engineer, MarTech | San Jose, CA, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28bb6b860bdff8b3) | 2026-07-03 |
