@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-05
-- **New Matches Found in Last Run:** 1
-- **Total Active Matches (Last 4 Days):** 261
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 263
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-05.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-05.xlsx)
 
@@ -10,7 +10,9 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Optum** | Senior Software Engineer | Raleigh, NC, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=712a5fae027b3df4) | 2026-07-05 |
 | **Superfluid DX, Inc.** | AI Data Scientist (Transcriptomics & cfRNA for Alzheimer’s Disease Research) | South San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7af6d0b20c0523a8) | 2026-07-05 |
+| **Inspira Financial** | Sr. Quality Engineer- First Dollar (Remote) | Oak Brook, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ca2d9e081da9853) | 2026-07-05 |
 | **Simpsocial** | AI/LLM Engineer (ChatGPT & Voice AI Agent Development) | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe6f6a302d8c709e) | 2026-07-04 |
 | **Castleton Commodities International** | Applied AI Engineer | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76d085ea51c27f6f) | 2026-07-04 |
 | **HCLTech** | Group AI/ML Sol Architect - PostgreSQL | Virginia Beach, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4500ad04a6fe0400) | 2026-07-04 |
