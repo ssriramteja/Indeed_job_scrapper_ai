@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-06
-- **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 112
+- **New Matches Found in Last Run:** 11
+- **Total Active Matches (Last 4 Days):** 123
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-06.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-06.xlsx)
 
@@ -10,12 +10,23 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Wells Fargo** | Senior Quantitative Analytics Specialist (Senior GenAI Data Scientist) | San Francisco, CA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bafdefe3d6f58e5e) | 2026-07-06 |
+| **Wells Fargo** | Senior Quantitative Analytics Specialist (Senior GenAI Data Scientist) | Charlotte, NC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51511a1532d9a343) | 2026-07-06 |
+| **Neptune Technology Group** | Senior Data Engineer - Technology | Duluth, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=29bdb97431796fc6) | 2026-07-06 |
+| **Optum** | Software Engineer | Minneapolis, MN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d5e85e93f663e24) | 2026-07-06 |
+| **CareScout** | Senior ML/AI Engineer | Richmond, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d7ecec511e40ddd) | 2026-07-06 |
+| **Optum** | Sr AI ML Engineer - Remote or Hybrid Eden Prairie, MN or Schaumburg, IL | Eden Prairie, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=60ef76093c07a3c5) | 2026-07-06 |
+| **Paperless Parts** | Software Engineer | Boston, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1777f0045c231e0) | 2026-07-06 |
+| **Paperless Parts** | Senior Software Engineer | Boston, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=16bcaf7696976f2b) | 2026-07-06 |
 | **Innodata** | Applied Data Scientist, Finance AI Evaluation & Datasets | Ridgefield Park, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bcdbc07f22f8944d) | 2026-07-06 |
 | **Nebius** | Senior Software Engineer (Agentic Search) - Billing | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69769bc525f24703) | 2026-07-06 |
 | **Everforth ECS** | Senior Data Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=984c0795a9397ea4) | 2026-07-06 |
 | **Everforth ECS** | Mid-Level Data Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3dd222f519d9192) | 2026-07-06 |
 | **Tavily** | Senior Software Engineer (Agentic Search) - Billing | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7af6ab5b1c008e57) | 2026-07-06 |
 | **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=994484e343666267) | 2026-07-06 |
+| **Vestmark** | Software Development Engineer in Test | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8df903fde2a73ac8) | 2026-07-06 |
+| **CareScout** | Senior Data Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd4120e8feb4ee57) | 2026-07-06 |
+| **Charles Schwab** | Senior Devops Engineer (GCP) | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1955afbb6022f653) | 2026-07-06 |
 | **Optum** | Senior Software Engineer | Raleigh, NC, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=712a5fae027b3df4) | 2026-07-05 |
 | **Superfluid DX, Inc.** | AI Data Scientist (Transcriptomics & cfRNA for Alzheimer’s Disease Research) | South San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7af6d0b20c0523a8) | 2026-07-05 |
 | **Inspira Financial** | Sr. Quality Engineer- First Dollar (Remote) | Oak Brook, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ca2d9e081da9853) | 2026-07-05 |
