@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-06
-- **New Matches Found in Last Run:** 1
-- **Total Active Matches (Last 4 Days):** 107
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 112
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-06.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-06.xlsx)
 
@@ -11,6 +11,11 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Innodata** | Applied Data Scientist, Finance AI Evaluation & Datasets | Ridgefield Park, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bcdbc07f22f8944d) | 2026-07-06 |
+| **Nebius** | Senior Software Engineer (Agentic Search) - Billing | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69769bc525f24703) | 2026-07-06 |
+| **Everforth ECS** | Senior Data Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=984c0795a9397ea4) | 2026-07-06 |
+| **Everforth ECS** | Mid-Level Data Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3dd222f519d9192) | 2026-07-06 |
+| **Tavily** | Senior Software Engineer (Agentic Search) - Billing | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7af6ab5b1c008e57) | 2026-07-06 |
+| **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=994484e343666267) | 2026-07-06 |
 | **Optum** | Senior Software Engineer | Raleigh, NC, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=712a5fae027b3df4) | 2026-07-05 |
 | **Superfluid DX, Inc.** | AI Data Scientist (Transcriptomics & cfRNA for Alzheimer’s Disease Research) | South San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7af6d0b20c0523a8) | 2026-07-05 |
 | **Inspira Financial** | Sr. Quality Engineer- First Dollar (Remote) | Oak Brook, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ca2d9e081da9853) | 2026-07-05 |
