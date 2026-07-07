@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-07
-- **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 163
+- **New Matches Found in Last Run:** 58
+- **Total Active Matches (Last 4 Days):** 221
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-07.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-07.xlsx)
 
@@ -10,19 +10,26 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Dell Technologies** | Senior Systems Engineer | NC, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f059896b1dc8546) | 2026-07-07 |
+| **nan** | Agentic AI Engineer (AWS & Azure) | Remote, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ffc8098824f5428a) | 2026-07-07 |
 | **Cwill** | Data Engineer (Bilingual Mandarin Required) | City of Industry, CA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83640374dcc1134d) | 2026-07-07 |
 | **Cwill** | Data Engineer (Bilingual Mandarin Required) | Cary, NC, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bf10f975373c2da2) | 2026-07-07 |
 | **Danaher** | Senior AI Engineer, Legal - USA Remote | New York, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dbf8a59a6869ac6a) | 2026-07-07 |
+| **itD Tech** | Data Engineer IV (6226) | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=966a231d0ac3ac5d) | 2026-07-07 |
 | **Capgemini** | GCP Data Engineer | Atlanta, GA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=41ede77cba151aef) | 2026-07-07 |
 | **Capgemini** | GCP Data Engineer | Atlanta, GA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22caac5643ade2f5) | 2026-07-07 |
 | **VetsEZ** | Applied AI Product Engineer (Remote Opportunity) | Charleston, SC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=811f44afc6947919) | 2026-07-07 |
 | **VetsEZ** | Applied AI Product Engineer (Remote Opportunity) | Raleigh, NC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=276f41ff04ea979b) | 2026-07-07 |
+| **Forman Technology Group** | Data Scientist | Austin, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b706dbf028db0cd8) | 2026-07-07 |
 | **Stellantis** | Full Stack Engineer | Auburn Hills, MI, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cef824e8a5755511) | 2026-07-07 |
 | **McAfee** | Senior AI Platform Engineer - Frisco | Frisco, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=82102bbab69e4375) | 2026-07-07 |
 | **ComplexCare Solutions** | Senior Software Data Architect (Phoenix) | US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0402f3ddd34aabe8) | 2026-07-07 |
+| **Transamerica** | Specialist Software Engineering | Cedar Rapids, IA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3bbc064985e6d03) | 2026-07-07 |
 | **CONFIDO** | Senior ML Ops Engineer | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e79e6e2ca3d5c032) | 2026-07-07 |
 | **Amplify** | Data Scientist | US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dc80e7bfc5dd3696) | 2026-07-07 |
 | **Cummins** | Data Engineer - Senior | IN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f98bbbcdc847f11c) | 2026-07-07 |
+| **CrowdStrike** | Senior AI Infrastructure Engineer, LLM/AI Platforms | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3629f388c5998ab1) | 2026-07-07 |
+| **doctronic** | DevOps Engineer | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=50e9733baab869ec) | 2026-07-07 |
 | **Intone Networks** | Senior Platform Software Engineer | San Mateo, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=55cc546d0261279c) | 2026-07-07 |
 | **MasonHub** | Associate IE | Fontana, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=917a5a33eee2bc01) | 2026-07-07 |
 | **Verizon** | Software Developer-Fullstack | Irving, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c41b95cba8e5f6f) | 2026-07-07 |
@@ -30,6 +37,8 @@
 | **Cognizant** | Agentic AI MCP Integration Specialist | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=879b53b83f9a02ac) | 2026-07-07 |
 | **Intel Corporation** | Senior AI Software Engineer – Agentic AI System | Santa Clara, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6560d5cb80e2c5c4) | 2026-07-07 |
 | **Capgemini** | Data Architect | Arlington, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=748c7729e8f9ad32) | 2026-07-07 |
+| **HAVI** | Data Engineer | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14e0af7fcb6718f5) | 2026-07-07 |
+| **HAVI Logistics GmbH** | Data Engineer | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f7eb8898b893b80) | 2026-07-07 |
 | **Capgemini** | GCP Data Engineer | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cdbdbd7af12024ce) | 2026-07-07 |
 | **Neuberger Berman** | Senior Technologist - Institutional Operations Technology | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1cf6b377d6b97198) | 2026-07-07 |
 | **KSB** | Machine Learning Engineer | Grovetown, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ef753125ece0b0f) | 2026-07-07 |
@@ -44,6 +53,8 @@
 | **Amplify** | Software Engineer | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=108facbefb6d2545) | 2026-07-07 |
 | **Capgemini** | GCP Data Engineer | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8965662ac1318ff5) | 2026-07-07 |
 | **Symmons Industries** | Software Engineer I | Braintree, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a21efb839f07ae1) | 2026-07-07 |
+| **Edwards Lifesciences** | Senior Data Scientist | Irvine, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a0870a3d36d95fb) | 2026-07-07 |
+| **CSL Plasma** | Co-Op Data Science/Analytics | King of Prussia, PA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=04d905bcd26c07f0) | 2026-07-07 |
 | **Bristol Myers Squibb** | Senior Business Analyst - ELN and LIMS | San Diego, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3b0c380ec415a81) | 2026-07-07 |
 | **Associated Bank** | Technical Product Owner - Snowflake | WI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee15581de1910c63) | 2026-07-07 |
 | **ProCare solutions** | Senior Software Engineer | Denver, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7c3650e6daa027c0) | 2026-07-07 |
@@ -54,6 +65,47 @@
 | **nan** | CAD Integrations Backend Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b02c9ed71db4f4cc) | 2026-07-07 |
 | **ABHITO LLC** | Cloud / DevOps Engineer | Reston, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d7ea523c272d79a) | 2026-07-07 |
 | **Logic, Inc.** | Healthcare Payer AI Decision Science Consultant | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=435ad1bbdf233be6) | 2026-07-07 |
+| **U.S. Bank** | Senior Software Engineer (Full Stack ) | Irving, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f83d3084bf63664) | 2026-07-07 |
+| **U.S. Bank** | Senior Software Engineer (Full Stack ) | Minneapolis, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=adca8b7879a5e5f3) | 2026-07-07 |
+| **U.S. Bank** | Senior Software Engineer (Full Stack ) | Cupertino, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c6153092518a5fc) | 2026-07-07 |
+| **U.S. Bank** | Senior Software Engineer (Full Stack ) | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=57cbe54e432ca38f) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Milwaukee, WI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0bce03fff5003c9) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=75f0a9682b6674f1) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Irving, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fbf123e0d6ad9551) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Arlington, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=251c215782320243) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Philadelphia, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc7a1f895b87013c) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Cleveland, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31cc642a695ccc8a) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5cc77c78030f02f7) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Charlotte, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=065011cf2412475c) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Nashville, TN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4efc786d22d73d6) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Houston, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4f5c73667cedcba) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Pittsburgh, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0045ab67a14cd28e) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b800e848a31dbd91) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Cincinnati, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00d68909b19af093) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Raleigh, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b441d1d78f18c32e) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e6b71a130f4b9a93) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Albany, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76f9ed627bcd2f2d) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Carmel, IN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3d7f4cce44cd9f58) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Morristown, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db099dac59f8fc45) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Oklahoma City, OK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=78bd19a2ac73e0e6) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Minneapolis, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=72c132aa3cb13db5) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Overland Park, KS, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98525210f71c8b57) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27d9aad043d130bb) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d087444bcce657e) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | St. Louis, MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62bb5ce2248e0dda) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Des Moines, IA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9bb3112cc4da90e0) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=93bf46810918339c) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Walnut Creek, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cbe470d589707735) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Saint Petersburg, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74cbb310805d6aac) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Hartford, CT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c48e86df906c9af) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Miami, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=48e598f5e36f4058) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | San Diego, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a08401fa6113ecb0) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Scottsdale, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1efad7a3a73d74f6) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Denver, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3daf0ba8555c7dd4) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70af80dd4de2c2f4) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Culver City, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5c236a3031412b5) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Sacramento, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22cca2fedac886c6) | 2026-07-07 |
+| **Accenture** | Healthcare Payer AI Decision Science Consultant | Bentonville, AR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd886dbdf1fe3670) | 2026-07-07 |
 | **Capgemini** | Test Automation Engineer | Southfield, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f713ec954690e442) | 2026-07-07 |
 | **Schweitzer Engineering Laboratories** | Associate Software Engineer - AI/ML | Pullman, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4fc8d99b3d35b4c1) | 2026-07-07 |
 | **Chamberlain Group** | Software Engineer I - AI | Oak Brook, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34f913d446752eea) | 2026-07-07 |
@@ -87,6 +139,12 @@
 | **Serco** | Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c75c71cc85710139) | 2026-07-07 |
 | **Scalable Systems Inc** | Senior Data Scientist – Decision Analytics | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb8daae5292d0d9e) | 2026-07-07 |
 | **Scalable Systems Inc** | Senior Data Scientist – Decision Analytics | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2799e537695c862b) | 2026-07-07 |
+| **CrowdStrike** | Software Engineer III - Cloud Security - FCS Registration (Hybrid) | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6e288afbe233b4df) | 2026-07-07 |
+| **GRP Solutions** | Artificial Intelligence Engineer | Texas City, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8af4bf4156cd21c5) | 2026-07-07 |
+| **Rhombus Power** | Software Engineer | Palo Alto, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=373957dcbb4e4adb) | 2026-07-07 |
+| **Conagra Brands** | Senior Automation Enablement Engineer | Omaha, NE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bdbf7cdb882c5ba2) | 2026-07-07 |
+| **Conagra Brands** | Senior Data Engineer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=52047d4398660a13) | 2026-07-07 |
+| **Streamline Advance** | AI Development Specialist - Claude,CHATGPT | Jericho, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b58646cec1775e3c) | 2026-07-07 |
 | **DailyPay Inc** | Senior Machine Learning Engineer | New York, NY, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fdb05c2c61999715) | 2026-07-06 |
 | **MITSUBISHI ELECTRIC ICONICS DIGITAL SOLUTIONS** | Senior Software Development Engineer | Cambridge, MA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d912db59816e5636) | 2026-07-06 |
 | **Flexjet, LLC.** | Senior Data Scientist | Cleveland, OH, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ec02878ccd2d529) | 2026-07-06 |
