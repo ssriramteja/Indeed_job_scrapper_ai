@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-08
-- **New Matches Found in Last Run:** 22
-- **Total Active Matches (Last 4 Days):** 339
+- **New Matches Found in Last Run:** 6
+- **Total Active Matches (Last 4 Days):** 345
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-08.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-08.xlsx)
 
@@ -14,6 +14,7 @@
 | **Capgemini** | GenAI / Agentic AI Developer | New York, NY, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28adfa916d263f86) | 2026-07-08 |
 | **General Motors (GM)** | AI/ML Scientist | Milford, MI, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=52a2fe76ede4c01b) | 2026-07-08 |
 | **nan** | Senior Software Engineer (API Integrations) | Davie, FL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e9837b40940e11e) | 2026-07-08 |
+| **New York Life** | Senior Associate - DevOps Engineer / DevOps Engineer | New York, NY, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19e39bb741b6ed38) | 2026-07-08 |
 | **Cutsforth** | Senior Azure Cloud Architect | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76920144878d961b) | 2026-07-08 |
 | **CVS Health** | Senior Data Scientist, Health100 AI | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f05bc19001fa43b) | 2026-07-08 |
 | **CVS Health** | Senior Data Scientist, Health100 AI | Wellesley, MA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8d9b0a1293f2015) | 2026-07-08 |
@@ -33,6 +34,8 @@
 | **Flosports** | Senior Engineer, Live Streaming Video Specialist | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8fd48b1457269a43) | 2026-07-08 |
 | **Smart Warehousing** | SOFTWARE ENGINEER | Overland Park, KS, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15f94818bca4bdbf) | 2026-07-08 |
 | **Siemens** | Software Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c53669e0c3539c2) | 2026-07-08 |
+| **Hewlett Packard Enterprise | HPE** | SASE Cloud Software Engineer - AI & Backend | San Jose, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b986b2351d437bc1) | 2026-07-08 |
+| **East West Bank** | Financial Crimes Data Scientist | Pasadena, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f7161aca44a69ea) | 2026-07-08 |
 | **Tata Consultancy Services (TCS)** | Software Developer | Houston, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ec07f9df27cc65f) | 2026-07-08 |
 | **Advanced Drainage Systems** | Senior Data Engineer | Hilliard, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6fa63afaad1ae0c) | 2026-07-08 |
 | **Imprivata** | Software Engineer II | Waltham, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=752c38d3e6729a37) | 2026-07-08 |
@@ -44,6 +47,9 @@
 | **JPMorganChase** | Data Engineer III | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9fbce5aa1bf1132d) | 2026-07-08 |
 | **Vanta** | Senior Data Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a7cf91b1b0e6062) | 2026-07-08 |
 | **Cognizant** | AI Engineer - NJ/ Dallas/ Atlanta | Middletown, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eb8c384aff9a567c) | 2026-07-08 |
+| **Avita Care Solutions** | Machine Learning Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c710d28f7d6fe99) | 2026-07-08 |
+| **nan** | DevOps Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c79ddc7b9618c2a8) | 2026-07-08 |
+| **1K Training L.L.C** | Computer Vision Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da881ea49014efb8) | 2026-07-08 |
 | **Astrana Health** | Sr. Software Engineer | Monterey Park, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8633dc18eebf9dd7) | 2026-07-08 |
 | **Tata Consultancy Services (TCS)** | Engineer | Pittsburgh, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=063331dddd75d54b) | 2026-07-08 |
 | **Oracle** | Oracle Data Platform Multi-Cloud Architect | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe4922b6f5fcc6c2) | 2026-07-08 |
