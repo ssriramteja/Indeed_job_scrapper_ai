@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-09
-- **New Matches Found in Last Run:** 41
-- **Total Active Matches (Last 4 Days):** 528
+- **New Matches Found in Last Run:** 52
+- **Total Active Matches (Last 4 Days):** 580
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-09.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-09.xlsx)
 
@@ -18,6 +18,44 @@
 | **Target** | Sr Machine Learning Engineer - Marketing and Corporate Systems (ML Ops) | Brooklyn Park, MN, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=030402bec7177519) | 2026-07-09 |
 | **Primerica** | Sr Data Engineer | Duluth, GA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f05d2b3593772f33) | 2026-07-09 |
 | **AMD** | Senior Data Engineer | Santa Clara, CA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7544b63dae902ba) | 2026-07-09 |
+| **West Monroe** | Senior Software Engineer-Tech Ex AI Assets Foundry Team | Chicago, IL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b83db5488d77940) | 2026-07-09 |
+| **West Monroe** | Software Engineer- Tech Ex AI Assets Foundry Team | Chicago, IL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=843e1428f95c6703) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2597cb0394454250) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5750fd5dfd3a42b6) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=92ba3bedf63fbf59) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1edfd13da48a51da) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59d384bdaf8bd855) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=408f964c06b99ef3) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1141cb25af0572d) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2858e6cdb0b814c9) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6ac17f0a96aca7cc) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=252b57185b6bf6eb) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e35e6d3eeb789a8) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c84a9ad80a25316a) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e0bbba83e98cb7d) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a9bc566048f5df7) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=07dbb3c32bde48dd) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d708df951507ab47) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a138a47066e21f31) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=828e340224aeed4c) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d5c114d610320b6) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d9eaae039d447f44) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ef3c6ca789d44c7a) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19e18b192bba610a) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d2115cb3f12e4c99) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=920ef31316c24dd8) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0d046720d327986f) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69fa64d3d461b5cf) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a17a6382ee88f9b) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d8c40518a5768b2) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a84bb0a592bfc72e) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f3491babc6f5565a) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8cdc4bde0029067a) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec57dc626511024d) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7263d7409264ffdb) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=176e596d2f444780) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f85b7deaaee8007c) | 2026-07-09 |
+| **Concentrix** | Sr. Software Engineer | Juneau, AK, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ba7c08cc6925a2b0) | 2026-07-09 |
 | **MasterControl** | Applied AI Solutions Engineer | Salt Lake City, UT, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=118d0099ca655fbf) | 2026-07-09 |
 | **Copart, Inc** | DevOps Engineering Intern | Dallas, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c3c1a2d78dbef72) | 2026-07-09 |
 | **Brook INC** | Data Engineer | Bellevue, WA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d754b9ca64323d6e) | 2026-07-09 |
@@ -25,6 +63,8 @@
 | **Woongjin, Inc** | AI Full Stack Developer / Architect (ON-SITE ONLY) | San Jose, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10066f0332c5b380) | 2026-07-09 |
 | **SynergenX Health Holdings** | Data Engineer II | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ae3f933ced0782ac) | 2026-07-09 |
 | **nan** | AI Software Engineer II | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3d0058648e8ec47e) | 2026-07-09 |
+| **Red Hat** | Software Engineer | Raleigh, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e93e4cf30b4bd0a5) | 2026-07-09 |
+| **LoadUp Technologies** | Software Engineer | Alpharetta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eace328fa21b6010) | 2026-07-09 |
 | **Wells Fargo** | Senior Software Engineer | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32c645cbff1d3870) | 2026-07-09 |
 | **Wells Fargo** | Senior Software Engineer | Columbus, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4d24d0af560e9bfb) | 2026-07-09 |
 | **Wells Fargo** | Senior Software Engineer | Minneapolis, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9885cdd8f6f0e5fc) | 2026-07-09 |
@@ -86,11 +126,23 @@
 | **The Voleon Group** | Software Engineer, Data Infrastructure | Berkeley, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fc5c1209d3bf9f82) | 2026-07-09 |
 | **The Voleon Group** | Software Engineer, Data Infrastructure | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=288370e41eee0f1c) | 2026-07-09 |
 | **AlixPartners** | Data Insights & Analytics Senior Data Engineer (Contract) | Southfield, MI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e3a4117d82354a9) | 2026-07-09 |
+| **JPMorganChase** | Software Engineer III - J2EE/Spring Boot | Jersey City, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea46fe6dc4046714) | 2026-07-09 |
+| **Thistle Services LLC** | Sr Platform Software Engineer | San Mateo, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c68b52907b51544) | 2026-07-09 |
+| **Snapsheet** | Senior DevOps Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2cfc7d98187fa164) | 2026-07-09 |
 | **Expedient** | AI DevOps. Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3d1834f43ee8441) | 2026-07-09 |
 | **ProCare solutions** | Software Engineer | Denver, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59621637da2df488) | 2026-07-09 |
 | **Blue Shield of California** | Full Stack Engineer, Senior | Oakland, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3d31f0c32f7c708) | 2026-07-09 |
 | **Blue Shield of California** | Full Stack Engineer, Senior | Oakland, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=839dff8154a525fe) | 2026-07-09 |
 | **Nextech Systems** | Software Engineer in Test – Performance Testing (Remote - US) | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ece1679bb1b68d39) | 2026-07-09 |
+| **Upstart** | Senior Software Engineer, Unsecured Installments | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f4b3078f40d422a) | 2026-07-09 |
+| **Tesla** | Sr. Security Engineer, Infrastructure & Platform Security | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11cd361dcfe299bf) | 2026-07-09 |
+| **Corpay** | QA Engineer | Beaverton, OR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f4e776d60f6dbd9) | 2026-07-09 |
+| **U.S. Bank** | Software Engineer 2 | Hopkins, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8bee7f3b1d3558f3) | 2026-07-09 |
+| **U.S. Bank** | Software Engineer 2 | Englewood, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5331edf6c905499e) | 2026-07-09 |
+| **U.S. Bank** | Software Engineer 2 | Earth City, MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd3b8341850dde41) | 2026-07-09 |
+| **Capgemini** | Junior Frontend Developer | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47dfa774e632a9e9) | 2026-07-09 |
+| **Upstart** | Senior Software Engineer, Unsecured Installments | Burlingame, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59781903289c5260) | 2026-07-09 |
+| **Global Partners LP** | Analytics Engineer | Waltham, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d677323b8f1a2636) | 2026-07-09 |
 | **NTT DATA** | Data Engineer - Oracle data integrato and BI | TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea82fd770b87f655) | 2026-07-09 |
 | **LTM Limited** | Senior Software Engineer | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f31e83496e01df6) | 2026-07-09 |
 | **Ghost** | Network Infrastructure Engineer | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99d4fb0f1662b464) | 2026-07-09 |
