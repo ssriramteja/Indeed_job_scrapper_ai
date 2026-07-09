@@ -1,15 +1,74 @@
 # 🚀 Indeed Job Scraper AI
 
-### 📊 Latest Update: 2026-07-08
-- **New Matches Found in Last Run:** 27
-- **Total Active Matches (Last 4 Days):** 431
-- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-08.md)
-- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-08.xlsx)
+### 📊 Latest Update: 2026-07-09
+- **New Matches Found in Last Run:** 59
+- **Total Active Matches (Last 4 Days):** 487
+- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-09.md)
+- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-09.xlsx)
 
 #### 🎯 Rolling Window: Matches from last 4 days
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **MasterControl** | Applied AI Solutions Engineer | Salt Lake City, UT, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=118d0099ca655fbf) | 2026-07-09 |
+| **Copart, Inc** | DevOps Engineering Intern | Dallas, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c3c1a2d78dbef72) | 2026-07-09 |
+| **SynergenX Health Holdings** | Data Engineer II | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ae3f933ced0782ac) | 2026-07-09 |
+| **nan** | AI Software Engineer II | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3d0058648e8ec47e) | 2026-07-09 |
+| **Wells Fargo** | Senior Software Engineer | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32c645cbff1d3870) | 2026-07-09 |
+| **Wells Fargo** | Senior Software Engineer | Columbus, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4d24d0af560e9bfb) | 2026-07-09 |
+| **Wells Fargo** | Senior Software Engineer | Minneapolis, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9885cdd8f6f0e5fc) | 2026-07-09 |
+| **Wells Fargo** | Senior Software Engineer | Irving, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98424ae5c6548f2d) | 2026-07-09 |
+| **Capgemini** | Senior Visualization Professional | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5cb0f896558c2be) | 2026-07-09 |
+| **New Relic** | Implementation Solutions Architect | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d70cdcaee06adcf4) | 2026-07-09 |
+| **Robert Half** | Software Engineer II – AI Engineer (w/ skills in Deployment) | San Ramon, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e55e870f928ed4f7) | 2026-07-09 |
+| **University of Southern California** | Research Programmer II | Los Angeles, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f35a7385698d126a) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e2df7a628e2437ab) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c9ae05aae3a3346) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2bd9398f26eef1f) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=24ab3dd1c44b7d40) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cbcdb0aa48ed330c) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5db46787bc727540) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7458d01959506806) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=187a662f10a97202) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d43eda394c8d0f10) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7fc9f4af96338d6a) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0afca03dbb6d3c2) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0328e58d84dacf2) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6191c51f06d35aac) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ea6fd5377655efc) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=973470b36004bc28) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7840a3133c0b778) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85aff0cf1a924c7e) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54002f2b49daf139) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e421a09e76cb3baa) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b323b4d3f012056c) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b389a8e70f1eda6f) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b613118383189b7) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f6fcad206c910b60) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1ef447cbdac1e97) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d6418ebd1d1d2d8d) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05ea0a966699cc46) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a52236c7d3098d2) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fdc07cad3615a0ee) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43d5789ee04c3d3e) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=728ea89db1cf0cac) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b35dbd9a8bec5e74) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=519baefa33119517) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e007c4793c531f31) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b99c5b37a47abe54) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bddd8d911ac9ff72) | 2026-07-09 |
+| **Concentrix** | AI Platform Engineer | Lincoln, NE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e85dea0c266c05ec) | 2026-07-09 |
+| **NTT DATA** | Data Engineer - TEM, Python, Julia | Plano, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b970d806f3fd5637) | 2026-07-09 |
+| **JPMorganChase** | Software Engineer III - Python/PySpark/AWS | Tampa, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=886d622b68bd75e5) | 2026-07-09 |
+| **Expedient** | AI DevOps. Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3d1834f43ee8441) | 2026-07-09 |
+| **NTT DATA** | Data Engineer - Oracle data integrato and BI | TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea82fd770b87f655) | 2026-07-09 |
+| **LTM Limited** | Senior Software Engineer | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f31e83496e01df6) | 2026-07-09 |
+| **Ghost** | Network Infrastructure Engineer | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99d4fb0f1662b464) | 2026-07-09 |
+| **Guidewire** | Software Engineer III - Cloud Platform | Birmingham, AL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15fd6ac81cf3ec73) | 2026-07-09 |
+| **Swinerton** | Applied AI Engineer | Concord, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=882ad5d830fa5061) | 2026-07-09 |
+| **Robert Half** | Software Engineer II – AI Engineer (w/ skills in AI Data Privacy, Security & Governance Specialty) | San Ramon, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b53ab2d62cda446) | 2026-07-09 |
+| **Turtle Rock Studios** | Senior Data Analyst | Irvine, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ebe8e31f224a7988) | 2026-07-09 |
+| **BD** | DevSecOps Engineer | Sparks, MD, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb883bea294c496d) | 2026-07-09 |
 | **Tata Consultancy Services (TCS)** | AI Enterprise Architect | Seattle, WA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2bf6ebaa193170fe) | 2026-07-08 |
 | **nan** | AI Engineer | Davie, FL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8d1b1575f8a785c) | 2026-07-08 |
 | **Capgemini** | GenAI / Agentic AI Developer | New York, NY, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28adfa916d263f86) | 2026-07-08 |
@@ -438,9 +497,6 @@
 | **McLane Company** | Sr Full Stack Engineer | Temple, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2739902e00a52a30) | 2026-07-06 |
 | **Tata Consultancy Services (TCS)** | Java Engineer | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b23513021c85687) | 2026-07-06 |
 | **UKG** | Sr Software Development Engineer | Weston, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b2360cb81af1e39f) | 2026-07-06 |
-| **Optum** | Senior Software Engineer | Raleigh, NC, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=712a5fae027b3df4) | 2026-07-05 |
-| **Superfluid DX, Inc.** | AI Data Scientist (Transcriptomics & cfRNA for Alzheimer’s Disease Research) | South San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7af6d0b20c0523a8) | 2026-07-05 |
-| **Inspira Financial** | Sr. Quality Engineer- First Dollar (Remote) | Oak Brook, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ca2d9e081da9853) | 2026-07-05 |
 
 ---
 
