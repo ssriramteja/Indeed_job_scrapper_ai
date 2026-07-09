@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-09
-- **New Matches Found in Last Run:** 52
-- **Total Active Matches (Last 4 Days):** 580
+- **New Matches Found in Last Run:** 17
+- **Total Active Matches (Last 4 Days):** 597
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-09.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-09.xlsx)
 
@@ -65,6 +65,7 @@
 | **nan** | AI Software Engineer II | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3d0058648e8ec47e) | 2026-07-09 |
 | **Red Hat** | Software Engineer | Raleigh, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e93e4cf30b4bd0a5) | 2026-07-09 |
 | **LoadUp Technologies** | Software Engineer | Alpharetta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eace328fa21b6010) | 2026-07-09 |
+| **New York Life** | Senior Associate - Data Scientist | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c7b414f064a9a6a) | 2026-07-09 |
 | **Wells Fargo** | Senior Software Engineer | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32c645cbff1d3870) | 2026-07-09 |
 | **Wells Fargo** | Senior Software Engineer | Columbus, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4d24d0af560e9bfb) | 2026-07-09 |
 | **Wells Fargo** | Senior Software Engineer | Minneapolis, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9885cdd8f6f0e5fc) | 2026-07-09 |
@@ -129,6 +130,7 @@
 | **JPMorganChase** | Software Engineer III - J2EE/Spring Boot | Jersey City, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea46fe6dc4046714) | 2026-07-09 |
 | **Thistle Services LLC** | Sr Platform Software Engineer | San Mateo, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c68b52907b51544) | 2026-07-09 |
 | **Snapsheet** | Senior DevOps Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2cfc7d98187fa164) | 2026-07-09 |
+| **Staples** | AI Engineer III | Lincolnshire, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cb06c9b2ec3eadbb) | 2026-07-09 |
 | **Expedient** | AI DevOps. Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3d1834f43ee8441) | 2026-07-09 |
 | **ProCare solutions** | Software Engineer | Denver, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59621637da2df488) | 2026-07-09 |
 | **Blue Shield of California** | Full Stack Engineer, Senior | Oakland, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3d31f0c32f7c708) | 2026-07-09 |
@@ -162,6 +164,21 @@
 | **Ripple** | Senior Site Reliability Engineer, Observability | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4aab1e166ca443aa) | 2026-07-09 |
 | **Ripple** | Senior Site Reliability Engineer, Observability | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3820ff49875cde5) | 2026-07-09 |
 | **Envista Holdings** | Sr. 3D C++ Software Engineer (On-site) | Pomona, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=089b12b1ad077cc1) | 2026-07-09 |
+| **CVS Health** | Data Scientist - Specialty Operations | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=35bdfed6d04c7aa8) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Tallahassee, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70ffe5aa2d34caa2) | 2026-07-09 |
+| **CVS Health** | Data Scientist - Specialty Operations | Wellesley, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a595861ee87187b3) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Raleigh, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=52803e9dce4be204) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Little Rock, AR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7b883cf8b5b32a8b) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Albany, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a766ff7ca3bcaaee) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Hartford, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b2866edd440ceb73) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eaf022d7c02c0a78) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f14e90aa982f0c6) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Springfield, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=193d48feb5bc85b0) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Denver, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b5821acdadeb0e2) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Providence, RI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6b99f0d6c86a88d5) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=725a047f128d8a61) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee44e0d7d69ea571) | 2026-07-09 |
+| **CVS Health** | Senior Data Scientist | Trenton, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a51c97084df2869a) | 2026-07-09 |
 | **Tata Consultancy Services (TCS)** | AI Enterprise Architect | Seattle, WA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2bf6ebaa193170fe) | 2026-07-08 |
 | **nan** | AI Engineer | Davie, FL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8d1b1575f8a785c) | 2026-07-08 |
 | **Capgemini** | GenAI / Agentic AI Developer | New York, NY, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28adfa916d263f86) | 2026-07-08 |
