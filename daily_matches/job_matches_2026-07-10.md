@@ -1,106 +1,62 @@
 # 🎯 Daily Job Matches — 2026-07-10
 
-**Total Jobs Found:** 9
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AWS Data Scientist @ Capgemini
-**Match Score:** 20.0%
+## 1. AI Engineer @ Open Access Technology International
+**Match Score:** 15.6%
 
-📍 **Location:** Atlanta, GA, US USA
+📍 **Location:** Bloomington, MN, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Gemini, TensorFlow, PyTorch, S3, EC2, Glue, Athena
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, Prompt Engineering, TensorFlow, PyTorch, Git, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0e66310e18f4395c)
-
----
-
-## 2. Software Engineer II - AI Solutions @ nan
-**Match Score:** 17.8%
-
-📍 **Location:** King of Prussia, PA, US USA
-
-🔑 **Keywords:** Data Scientist, LangChain, RAG, TensorFlow, PyTorch, Keras, Docker, Kubernetes, CI/CD, Databricks
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7c3bb69b56a9898d)
+[Apply Here](https://www.indeed.com/viewjob?jk=287537cb95007a53)
 
 ---
 
-## 3. Senior Associate - Data Scientist @ New York Life
-**Match Score:** 14.4%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Prompt Engineering, CI/CD, Git, Snowflake, Databricks, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=aa36a7fae06cb300)
-
----
-
-## 4. Senior Backend Software Engineer @ Site Technologies
+## 2. Senior Software Engineer @ Caterpillar
 **Match Score:** 13.3%
 
 📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** RAG, S3, FastAPI, Docker, CI/CD, GitHub Actions, Terraform, Git, PostgreSQL, Python
+🔑 **Keywords:** Data Scientist, RAG, Copilot, S3, CI/CD, GitHub Actions, Git, Python, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c49ace417083d1b7)
+[Apply Here](https://www.indeed.com/viewjob?jk=3bbc3e06adaa2abd)
 
 ---
 
-## 5. Data Engineer / Sr. Data Engineer (Big Query) @ Applied Systems
+## 3. Engineer III @ Edward Jones
+**Match Score:** 12.2%
+
+📍 **Location:** Tempe, AZ, US USA
+
+🔑 **Keywords:** RAG, Kubernetes, CI/CD, Git, Databricks, MongoDB, NoSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=53d30893c6d70cfe)
+
+---
+
+## 4. Shopware Architect/Senior Developer @ Americaneagle.com
 **Match Score:** 11.1%
 
-📍 **Location:** US USA
+📍 **Location:** Des Plaines, IL, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, BigQuery, Data Lake, AKS, BigQuery, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Docker, CI/CD, Git, MySQL, SQL, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a591df5e800f937b)
-
----
-
-## 6. GenAI Software Development Engineer @ AMD
-**Match Score:** 11.1%
-
-📍 **Location:** Santa Clara, CA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Prompt Engineering, CI/CD, Terraform, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=248126d78ad5b9b4)
+[Apply Here](https://www.indeed.com/viewjob?jk=9280dd7fbca926ff)
 
 ---
 
-## 7. Data Scientist, AI for Biomedical Imaging @ Novartis
+## 5. Senior Data Scientist @ DEPT OF PARKS & RECREATION
 **Match Score:** 10.0%
 
-📍 **Location:** Cambridge, MA, US USA
+📍 **Location:** Manhattan, NY, US USA
 
-🔑 **Keywords:** Data Scientist, Copilot, Hugging Face, PyTorch, OpenCV, Git, Python, R, Scala
+🔑 **Keywords:** Data Scientist, RAG, Git, Tableau, Python, SQL, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6644ad8b7dede843)
-
----
-
-## 8. Senior Data Analytics and Research Analyst @ Serco
-**Match Score:** 10.0%
-
-📍 **Location:** Herndon, VA, US USA
-
-🔑 **Keywords:** RAG, Redshift, Databricks, Redshift, Tableau, Power BI, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f32e83eb3499e290)
-
----
-
-## 9. Data Analytics and Research Analyst @ Serco
-**Match Score:** 10.0%
-
-📍 **Location:** Herndon, VA, US USA
-
-🔑 **Keywords:** RAG, Redshift, Databricks, Redshift, Tableau, Power BI, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4aa26ce55fa5c61b)
+[Apply Here](https://www.indeed.com/viewjob?jk=2ca2ab85f9949f01)
 
 ---
 
