@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-12
-- **New Matches Found in Last Run:** 7
-- **Total Active Matches (Last 4 Days):** 612
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 615
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-12.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-12.xlsx)
 
@@ -15,8 +15,11 @@
 | **CVS Health** | Senior Data Scientist - Clinical AI | NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6200ddf87a72813a) | 2026-07-12 |
 | **Siemens** | Senior Software Engineer | Santa Clara, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9be1cfabf127f765) | 2026-07-12 |
 | **Ross Dress For Less** | Engineer III | Dublin, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1d894dc94f127d6) | 2026-07-12 |
+| **Xai** | Software Engineer - X Data | Palo Alto, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=95e4437e4a378bd5) | 2026-07-12 |
+| **Cisco** | Cloud Engineer | Milpitas, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=faa1ca9a4146699c) | 2026-07-12 |
 | **Ross Dress For Less** | Engineer III | Dublin, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f2a63ca85405a60) | 2026-07-12 |
 | **Zions Bancorporation** | Systems Engineer | Midvale, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5cf00e04af81304c) | 2026-07-12 |
+| **Comcast** | Data Scientist 2 - Virtual - Freewheel | Philadelphia, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ee72add7642b1b8) | 2026-07-12 |
 | **Adidev Technologies Inc** | ML/AI Engineers | Austin, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ab9861ce9c451ec) | 2026-07-11 |
 | **Adidev Technologies Inc** | Machine Learning Engineer | Santa Monica, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=521e9a8cf4de7cf2) | 2026-07-11 |
 | **Adidev Technologies Inc** | Jr - Mid Level Machine Learning Engineer | Edison, NJ, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e63c93a86a5d45e) | 2026-07-11 |
