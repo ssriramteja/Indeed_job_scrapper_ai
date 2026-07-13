@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-13
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 320
+- **New Matches Found in Last Run:** 19
+- **Total Active Matches (Last 4 Days):** 339
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-13.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-13.xlsx)
 
@@ -10,10 +10,29 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Publicis Groupe** | Data Engineer | New York, NY, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=622d3a3e3c903762) | 2026-07-13 |
 | **Fractal Analytics** | Architect, Forward Deployed Engineer (Cogentiq) | New York, NY, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2f263d55b51a9b05) | 2026-07-13 |
+| **Tesla** | Reliability Engineer, Battery Module | Sparks, NV, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3af907c177dd5fdb) | 2026-07-13 |
+| **Publicis Groupe** | AI, Content Intelligence Engineer | New York, NY, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1c8de23682a4a0d) | 2026-07-13 |
 | **Digital Strategy LLC** | Data and Analytics Engineer | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd127ae8715c196f) | 2026-07-13 |
+| **Publicis Groupe** | Senior AI & Cloud Engineer | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e3b212b4def3f9f) | 2026-07-13 |
 | **NTT DATA** | Sr. AI/ML Engineer | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89bbe544c85b0240) | 2026-07-13 |
+| **Publicis Groupe** | AI Architect | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1914a3917afdf4e) | 2026-07-13 |
+| **Publicis Groupe** | Senior Software Engineer | Westminster, CO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=26c2fa1d45c9055b) | 2026-07-13 |
+| **Publicis Groupe** | Senior Software Engineer (Big Data) | Westminster, CO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4d8e19f0fb16bc7) | 2026-07-13 |
+| **Publicis Groupe** | Data Scientist | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f85d5258e31e33e) | 2026-07-13 |
+| **Publicis Groupe** | Senior Data Scientist | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98e26081d0ff7940) | 2026-07-13 |
+| **Robots & Pencils** | Data Engineer | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e79c7f1ba1f3eb0a) | 2026-07-13 |
+| **Kimball Midwest** | Data Engineer | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2dd6388cdeebf986) | 2026-07-13 |
+| **Publicis Groupe** | Artificial Intelligence Engineer | Irving, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8ea4e80f245f26c) | 2026-07-13 |
+| **Publicis Groupe** | Software Engineer | Westminster, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=93a262e17ee30703) | 2026-07-13 |
+| **Publicis Groupe** | AI Technical Architect | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=037ee83ae1b82c61) | 2026-07-13 |
 | **Check Point Software Technologies** | Production AI Engineer Owning High-Scale Cloud Infrastructure | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=523e21481735f5a7) | 2026-07-13 |
+| **Cisco** | Software Engineer, Front-End | Milpitas, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7aa2882444b9b452) | 2026-07-13 |
+| **Publicis Groupe** | Senior Network Engineer | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a43ff272be49d7a6) | 2026-07-13 |
+| **Publicis Groupe** | Software Engineer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81752facbba9d16c) | 2026-07-13 |
+| **Publicis Groupe** | Data Scientist II | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cab40aeb52a009f5) | 2026-07-13 |
+| **Publicis Groupe** | Senior Data Scientist | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f7d87e5ca07b8cd) | 2026-07-13 |
 | **Airbus** | HR AI/ML Engineer II | Herndon, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7aee672823e50ae6) | 2026-07-12 |
 | **nan** | Data Engineer II | Seattle, WA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=565b08a71b6647d2) | 2026-07-12 |
 | **CVS Health** | Senior Data Scientist - Clinical AI | NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6200ddf87a72813a) | 2026-07-12 |
