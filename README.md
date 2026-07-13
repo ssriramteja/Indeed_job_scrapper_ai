@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-13
-- **New Matches Found in Last Run:** 19
-- **Total Active Matches (Last 4 Days):** 339
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 342
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-13.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-13.xlsx)
 
@@ -27,12 +27,15 @@
 | **Publicis Groupe** | Artificial Intelligence Engineer | Irving, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8ea4e80f245f26c) | 2026-07-13 |
 | **Publicis Groupe** | Software Engineer | Westminster, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=93a262e17ee30703) | 2026-07-13 |
 | **Publicis Groupe** | AI Technical Architect | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=037ee83ae1b82c61) | 2026-07-13 |
+| **Applied Medical** | Application Developer | Rancho Santa Margarita, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3004d47870448a1) | 2026-07-13 |
 | **Check Point Software Technologies** | Production AI Engineer Owning High-Scale Cloud Infrastructure | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=523e21481735f5a7) | 2026-07-13 |
 | **Cisco** | Software Engineer, Front-End | Milpitas, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7aa2882444b9b452) | 2026-07-13 |
 | **Publicis Groupe** | Senior Network Engineer | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a43ff272be49d7a6) | 2026-07-13 |
 | **Publicis Groupe** | Software Engineer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81752facbba9d16c) | 2026-07-13 |
 | **Publicis Groupe** | Data Scientist II | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cab40aeb52a009f5) | 2026-07-13 |
 | **Publicis Groupe** | Senior Data Scientist | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f7d87e5ca07b8cd) | 2026-07-13 |
+| **Smart Apply Test Company** | Senior AI & Cloud Engineer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=45f4cc37f4bedee9) | 2026-07-13 |
+| **Smart Apply Test Company** | Software Engineer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d697f334d121ec3) | 2026-07-13 |
 | **Airbus** | HR AI/ML Engineer II | Herndon, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7aee672823e50ae6) | 2026-07-12 |
 | **nan** | Data Engineer II | Seattle, WA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=565b08a71b6647d2) | 2026-07-12 |
 | **CVS Health** | Senior Data Scientist - Clinical AI | NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6200ddf87a72813a) | 2026-07-12 |
