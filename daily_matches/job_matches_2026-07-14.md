@@ -1,95 +1,51 @@
 # 🎯 Daily Job Matches — 2026-07-14
 
-**Total Jobs Found:** 8
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Scientist @ Orion180 Insurance Services, LLC
-**Match Score:** 15.6%
+## 1. Junior Software Engineer @ MetLife
+**Match Score:** 16.7%
 
-📍 **Location:** Irving, TX, US USA
+📍 **Location:** Whippany, NJ, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, TensorFlow, PyTorch, XGBoost, LightGBM, MLflow, Snowflake, Databricks, Python
+🔑 **Keywords:** LangChain, RAG, Copilot, Hugging Face, Prompt Engineering, TensorFlow, Docker, Kubernetes, CI/CD, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=999430307d17348b)
-
----
-
-## 2. AI Data Scientist – Enterprise AI @ HP
-**Match Score:** 13.3%
-
-📍 **Location:** Spring, TX, US USA
-
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, Copilot, Prompt Engineering, Git, Databricks, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=99adad3741fea3e4)
+[Apply Here](https://www.indeed.com/viewjob?jk=9694fb70191ff26e)
 
 ---
 
-## 3. Spark Engineer @ Capgemini
-**Match Score:** 13.3%
+## 2. Forward Deployed Engineer - Software Development Engineer – Artificial Intelligence (AI) - #4883 @ GRAIL
+**Match Score:** 14.4%
 
-📍 **Location:** Atlanta, GA, US USA
+📍 **Location:** Menlo Park, CA, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Gemini, GitHub Actions, Git, Kafka, Hadoop, Python, SQL, R
+🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, CI/CD, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2cb65007f4e4e07a)
-
----
-
-## 4. Spark Engineer @ Capgemini
-**Match Score:** 13.3%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Gemini, GitHub Actions, Git, Kafka, Hadoop, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e7beab78b75a48b8)
+[Apply Here](https://www.indeed.com/viewjob?jk=e882afc13462e6d2)
 
 ---
 
-## 5. [REMOTE] Senior Platform Software Engineer- Oracle Clinical Digital Assistant @ Oracle
+## 3. Gen AI Full stack Engineer @ BN Associates
 **Match Score:** 12.2%
 
-📍 **Location:** US USA
+📍 **Location:** Woodlawn, MD, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Docker, Kubernetes, Git, Kafka, Python, R, Java, Scala
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Synapse, Docker, Jenkins, Databricks, Python, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=23f3fde4ed90357e)
+[Apply Here](https://www.indeed.com/viewjob?jk=8b2e14879c963489)
 
 ---
 
-## 6. Mobile Automation Engineer @ Capgemini
+## 4. AI Engineer @ Tata Consultancy Services (TCS)
 **Match Score:** 11.1%
 
-📍 **Location:** Berwyn, IL, US USA
+📍 **Location:** Johns Creek, GA, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Gemini, CI/CD, Jenkins, GitHub Actions, Git, SQL, R, Java
+🔑 **Keywords:** AI Engineer, RAG, Gemini, Copilot, BigQuery, BigQuery, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=10c046cabe3a2b8b)
-
----
-
-## 7. Mobile Automation Engineer @ Capgemini
-**Match Score:** 11.1%
-
-📍 **Location:** Berwyn, IL, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Gemini, CI/CD, Jenkins, GitHub Actions, Git, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=611a5ab812fa419a)
-
----
-
-## 8. Senior Data Scientist @ Power Factors
-**Match Score:** 10.0%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, Git, Python, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fabf7ca4210ce0f7)
+[Apply Here](https://www.indeed.com/viewjob?jk=285df15218e5f195)
 
 ---
 
