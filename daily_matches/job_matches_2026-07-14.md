@@ -1,84 +1,95 @@
 # 🎯 Daily Job Matches — 2026-07-14
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 8
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer- Hybrid @ Match Made Tech
+## 1. Data Scientist @ Orion180 Insurance Services, LLC
 **Match Score:** 15.6%
 
-📍 **Location:** Irvine, CA, US USA
+📍 **Location:** Irving, TX, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, S3, Glue, Redshift, Snowflake, Redshift, PostgreSQL, Python, SQL
+🔑 **Keywords:** Data Scientist, Generative AI, TensorFlow, PyTorch, XGBoost, LightGBM, MLflow, Snowflake, Databricks, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=936d9e38993af00c)
+[Apply Here](https://www.indeed.com/viewjob?jk=999430307d17348b)
 
 ---
 
-## 2. Software Engineer III-Generative AI Platform Engineering @ Bank of America
-**Match Score:** 15.6%
+## 2. AI Data Scientist – Enterprise AI @ HP
+**Match Score:** 13.3%
 
-📍 **Location:** Addison, TX, US USA
+📍 **Location:** Spring, TX, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Prompt Engineering, MLflow, FastAPI, Kubernetes, CI/CD, Git, Kafka
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, Copilot, Prompt Engineering, Git, Databricks, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=898c290cba663958)
-
----
-
-## 3. Software Engineer III â€“ Generative AI Platform Engineering @ Bank of America
-**Match Score:** 15.6%
-
-📍 **Location:** Addison, TX, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Prompt Engineering, MLflow, FastAPI, Kubernetes, CI/CD, Git, Kafka
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ad3cc9f58fae8c25)
+[Apply Here](https://www.indeed.com/viewjob?jk=99adad3741fea3e4)
 
 ---
 
-## 4. Senior Data Scientist – Prognostic and Health Monitoring (HUMS) @ Joby Aviation
+## 3. Spark Engineer @ Capgemini
+**Match Score:** 13.3%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Gemini, GitHub Actions, Git, Kafka, Hadoop, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2cb65007f4e4e07a)
+
+---
+
+## 4. Spark Engineer @ Capgemini
+**Match Score:** 13.3%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Gemini, GitHub Actions, Git, Kafka, Hadoop, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e7beab78b75a48b8)
+
+---
+
+## 5. [REMOTE] Senior Platform Software Engineer- Oracle Clinical Digital Assistant @ Oracle
 **Match Score:** 12.2%
 
-📍 **Location:** Santa Cruz, CA, US USA
+📍 **Location:** US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Prompt Engineering, CI/CD, Git, Databricks, PySpark, PostgreSQL, Python, SQL
+🔑 **Keywords:** Generative AI, RAG, Docker, Kubernetes, Git, Kafka, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d9967c1f7bc9239f)
-
----
-
-## 5. Network Automation Engineer @ Berkley
-**Match Score:** 10.0%
-
-📍 **Location:** Wilmington, DE, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a73241a9f911fad1)
+[Apply Here](https://www.indeed.com/viewjob?jk=23f3fde4ed90357e)
 
 ---
 
-## 6. Data Scientist @ PepsiCo
-**Match Score:** 10.0%
+## 6. Mobile Automation Engineer @ Capgemini
+**Match Score:** 11.1%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Berwyn, IL, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Docker, Jenkins, Git, PySpark, Python, SQL, R
+🔑 **Keywords:** Generative AI, RAG, Gemini, CI/CD, Jenkins, GitHub Actions, Git, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d61e2342460c201b)
+[Apply Here](https://www.indeed.com/viewjob?jk=10c046cabe3a2b8b)
 
 ---
 
-## 7. Software Engineer (Java Script) - Hybrid (Entry/Mid Level) @ State Farm
+## 7. Mobile Automation Engineer @ Capgemini
+**Match Score:** 11.1%
+
+📍 **Location:** Berwyn, IL, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Gemini, CI/CD, Jenkins, GitHub Actions, Git, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=611a5ab812fa419a)
+
+---
+
+## 8. Senior Data Scientist @ Power Factors
 **Match Score:** 10.0%
 
-📍 **Location:** Bloomington, IL, US USA
+📍 **Location:** Boston, MA, US USA
 
-🔑 **Keywords:** RAG, S3, CI/CD, Terraform, Git, Python, R, Java, Scala
+🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, Git, Python, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=efa79bd34e7b08b4)
+[Apply Here](https://www.indeed.com/viewjob?jk=fabf7ca4210ce0f7)
 
 ---
 
