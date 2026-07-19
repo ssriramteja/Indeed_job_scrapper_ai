@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-19
-- **New Matches Found in Last Run:** 60
-- **Total Active Matches (Last 4 Days):** 539
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 541
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-19.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-19.xlsx)
 
@@ -21,6 +21,8 @@
 | **Deloitte** | Applied AI Engineer II | Hermitage, TN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c910ea741626def) | 2026-07-19 |
 | **Deloitte** | Applied AI Engineer II | Atlanta, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b63b1ead449795e5) | 2026-07-19 |
 | **Deloitte** | Applied AI Engineer II | Fort Worth, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=365840ba6be285e4) | 2026-07-19 |
+| **Everforth ECS** | Senior Data Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f621493fe377140) | 2026-07-19 |
+| **Everforth ECS** | Mid-Level Data Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=126194295cdcb2ff) | 2026-07-19 |
 | **BPM Records** | Software Engineer II – Front-End / Full-Stack (Azure) | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=786096f843a1b5d2) | 2026-07-19 |
 | **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Morristown, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05d74fed797cf035) | 2026-07-19 |
 | **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5531d71a220f6d4) | 2026-07-19 |

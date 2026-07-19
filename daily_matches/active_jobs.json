@@ -242,6 +242,50 @@
         "scrapped_date": "2026-07-19"
     },
     {
+        "title": "Senior Data Engineer",
+        "company": "Everforth ECS",
+        "location": "Remote, US USA",
+        "posted_at": "2026-06-01",
+        "score": 11.1,
+        "matched_keywords": [
+            "Data Scientist",
+            "RAG",
+            "TensorFlow",
+            "PyTorch",
+            "Data Lake",
+            "Python",
+            "SQL",
+            "R",
+            "Scala",
+            "Optimization"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=6f621493fe377140",
+        "description": "everforth ecs is seeking a ***senior data engineer*** to work ***remotely***.\n\n\n**this position is contingent upon contract award.**\n\n\n\n\n\neverforth ecs is seeking a senior data engineer to lead the design, development, and optimization of scalable enterprise data pipelines and cloud\\-native data services supporting the u.s. consumer product safety commission (cpsc). this role will help modernize and stabilize cpsc's azure\\-based data infrastructure while enabling advanced analytics, machine learning, and sentinel\\-driven product safety initiatives.\n\n\n### **key responsibilities**\n\n\n* lead development of production\\-grade etl workflows using python and microsoft\\-based technologies.\n* design and optimize scalable ingestion, transformation, and validation pipelines for structured and unstructured datasets.\n* implement schema enforcement, data validation, anomaly detection, and quality assurance frameworks.\n* architect and manage azure\\-based data solutions including azure data lake storage and azure sql.\n* design and deploy orchestration workflows using azure data factory and microsoft fabric/foundry.\n* develop python\\-based data services leveraging libraries such as pandas, pytorch, tensorflow, and related open\\-source frameworks.\n* build apis and microservices supporting interoperability with analytics and ai/ml platforms.\n* implement monitoring, logging, fault tolerance, and performance optimization for large\\-scale systems.\n* collaborate closely with data scientists, analysts, architects, and governance teams to deliver secure, reliable, and analytics\\-ready datasets.\n* support agile development processes and contribute to continuous improvement initiatives.\n\n\n*salary range: $165,000\\-$180,000*\n\n\n*general description of benefits*\n\n\nrequirements:\n* 5\\+ years of experience developing and deploying advanced statistical, machine learning, or enterprise data pipeline solutions.\n* strong proficiency in python, including pandas and related data engineering libraries.\n* strong sql skills and experience integrating relational database systems.\n* hands\\-on experience designing and operating solutions in azure cloud environments.\n* experience developing etl workflows using python and microsoft technologies.\n* experience with schema enforcement, data validation, and quality assurance practices.\n* experience developing apis and cloud\\-native data services.\n* familiarity with workflow orchestration tools such as azure data factory.\n* experience with performance optimization, logging, and monitoring for enterprise\\-scale systems.\n* familiarity with open\\-source data processing and ml frameworks such as pytorch, tensorflow, numpy, and scikit\\-learn.\n\n  \n\n\n\n\n  \n\nreq benefits:\nbenefits \\- everforth ecs",
+        "scrapped_date": "2026-07-19"
+    },
+    {
+        "title": "Mid-Level Data Engineer",
+        "company": "Everforth ECS",
+        "location": "Remote, US USA",
+        "posted_at": "2026-07-14",
+        "score": 11.1,
+        "matched_keywords": [
+            "Data Scientist",
+            "RAG",
+            "TensorFlow",
+            "PyTorch",
+            "Data Lake",
+            "Python",
+            "SQL",
+            "R",
+            "Scala",
+            "Optimization"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=126194295cdcb2ff",
+        "description": "everforth ecs is seeking a ***mid\\-level data engineer*** to work ***remotely***. **this position is contingent upon contract award.**\n\n\n\n\n\neverforth ecs is seeking a mid\\-level data engineer to support the design, development, and optimization of scalable data pipelines and services for the consumer product safety commission enterprise data management environment. this role will support advanced analytics, machine learning readiness, and modernization of cpsc's azure\\-based data infrastructure.  \n\n  \n\n  \n\n\n\n### **key responsibilities**\n\n\n* develop production\\-grade etl workflows using python and microsoft\\-based frameworks.\n* ingest, transform, and validate structured and unstructured data.\n* implement schema enforcement, data validation, and quality checks.\n* support azure data lake storage, azure sql, and azure\\-based data services.\n* design workflow orchestration using azure data factory or microsoft fabric/foundry.\n* build python\\-based data services using pandas, pytorch, tensorflow, and related libraries.\n* develop api endpoints and microservices to support analytics and ml platform interoperability.\n* implement logging, monitoring, performance tuning, and operational reliability.\n* collaborate with data scientists, analysts, architects, and governance teams.\n* apply data governance best practices for compliance, reproducibility, and auditability.\n\n\n*salary range: $90,000\\-$98,000*\n\n\n*general description of benefits*\n\n\nrequirements:\n* 3\\+ years of experience developing or supporting advanced statistical, machine learning, or data pipeline solutions.\n* proficiency in python, including pandas.\n* strong sql skills and experience integrating relational database sources.\n* hands\\-on experience with azure cloud environments.\n* experience with etl development using python and microsoft technologies.\n* experience with data validation, schema enforcement, and quality assurance.\n* familiarity with open\\-source data processing libraries such as numpy, scikit\\-learn, pytorch, or tensorflow.\n\n  \n\n\n\n\n  \n\nreq benefits:\nbenefits \\- everforth ecs",
+        "scrapped_date": "2026-07-19"
+    },
+    {
         "title": "Software Engineer II \u2013 Front-End / Full-Stack (Azure)",
         "company": "BPM Records",
         "location": "Phoenix, AZ, US USA",
