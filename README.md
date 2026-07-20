@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-20
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 377
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 380
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-20.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-20.xlsx)
 
@@ -14,6 +14,9 @@
 | **BNY** | Full Stack Developer | Pittsburgh, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c0de17ce9a6114c) | 2026-07-20 |
 | **CVS Health** | Senior Software Development Engineer | Richardson, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e59a111139bd8b0a) | 2026-07-20 |
 | **CVS Health** | AI Engineer | Richardson, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38349e76a7b526d3) | 2026-07-20 |
+| **Optum** | Software Engineer | Schaumburg, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ddb5e4ec7eea6d12) | 2026-07-20 |
+| **Serco** | Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be33ec36f2c230a0) | 2026-07-20 |
+| **Serco** | Senior Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2abea4aa18f44f80) | 2026-07-20 |
 | **University of Southern California** | Data Scientist (ITS) | Los Angeles, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ea9a719ad357a71) | 2026-07-19 |
 | **Deloitte** | Applied AI Engineer I | Nashville, TN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=01965fadde442044) | 2026-07-19 |
 | **Deloitte** | Applied AI Engineer I | Hermitage, TN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da13b00a43473377) | 2026-07-19 |
