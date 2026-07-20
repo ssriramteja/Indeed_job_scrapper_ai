@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-20
-- **New Matches Found in Last Run:** 6
-- **Total Active Matches (Last 4 Days):** 386
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 389
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-20.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-20.xlsx)
 
@@ -15,6 +15,8 @@
 | **Bonterra** | Senior Software Engineer | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e17e875da176c38) | 2026-07-20 |
 | **State of Minnesota - Minnesota IT Services** | Data Engineer - ITS4 | Saint Paul, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb33eaf3683a2fd9) | 2026-07-20 |
 | **Berkeley Research Group, LLC** | AI Lab Infrastructure Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1020cf6bf633af55) | 2026-07-20 |
+| **IPolarity LLC** | Architect AI Engineer with AWS Skills Charlotte NC | Whippany, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63b67a79a062cab9) | 2026-07-20 |
+| **NVIDIA** | Senior Solutions Architect, Agentic AI | Santa Clara, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=818dde8141f9c7e9) | 2026-07-20 |
 | **BNY** | Full Stack Developer | Pittsburgh, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c0de17ce9a6114c) | 2026-07-20 |
 | **CVS Health** | Senior Software Development Engineer | Richardson, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e59a111139bd8b0a) | 2026-07-20 |
 | **CVS Health** | AI Engineer | Richardson, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38349e76a7b526d3) | 2026-07-20 |
@@ -23,6 +25,7 @@
 | **Serco** | Senior Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2abea4aa18f44f80) | 2026-07-20 |
 | **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8114133a7605a0ff) | 2026-07-20 |
 | **Serco** | Senior Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79e25aff465dcd7c) | 2026-07-20 |
+| **NVIDIA** | Senior Software Engineer, Test Infrastructure Development | Santa Clara, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6e65a16ec81d395d) | 2026-07-20 |
 | **University of Southern California** | Data Scientist (ITS) | Los Angeles, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ea9a719ad357a71) | 2026-07-19 |
 | **Deloitte** | Applied AI Engineer I | Nashville, TN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=01965fadde442044) | 2026-07-19 |
 | **Deloitte** | Applied AI Engineer I | Hermitage, TN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da13b00a43473377) | 2026-07-19 |
