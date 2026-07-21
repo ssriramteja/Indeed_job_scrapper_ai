@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-21
-- **New Matches Found in Last Run:** 71
-- **Total Active Matches (Last 4 Days):** 331
+- **New Matches Found in Last Run:** 9
+- **Total Active Matches (Last 4 Days):** 340
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-21.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-21.xlsx)
 
@@ -47,6 +47,10 @@
 | **BV Teck** | Python Software Architect | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51db177a53e7ef14) | 2026-07-21 |
 | **Sprinter Health** | Analytics Engineer (Senior) | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43a1edc301687370) | 2026-07-21 |
 | **Sprinter Health** | Analytics Engineer (Senior) | Menlo Park, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=761b967420960cdd) | 2026-07-21 |
+| **U.S. Bank** | Senior Software Engineer - Full Stack | Hopkins, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=caea23a7afe82982) | 2026-07-21 |
+| **U.S. Bank** | Senior Software Engineer - Full Stack | Irving, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c6c9dc97e7a8c55) | 2026-07-21 |
+| **U.S. Bank** | Senior Software Engineer - Full Stack | Brookfield, WI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97ef6349d26627c1) | 2026-07-21 |
+| **Intellibee Inc** | AI Specialist | Pontiac, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3918f64feb6d441) | 2026-07-21 |
 | **Nestlé USA** | Senior Data Scientist | Bridgewater, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7140812c968f60b9) | 2026-07-21 |
 | **BlackRock** | Associate, ETF Order Fulfilment Engineer - Atlanta | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9735939730dac227) | 2026-07-21 |
 | **OneBlood** | AI & Machine Learning Engineer | Saint Petersburg, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9242f2d7ab83418a) | 2026-07-21 |
@@ -81,6 +85,11 @@
 | **Lean Solutions Group** | Senior Fullstack Developer | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b8ab82ba83ae398) | 2026-07-21 |
 | **SpyCloud** | Senior Data Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a2f212e69e1f862) | 2026-07-21 |
 | **O.F. Mossberg & Sons, Inc** | AI and Information Technology Intern | North Haven, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f63727615d28bae3) | 2026-07-21 |
+| **Blue Shield of California** | Data Engineer, Consultant | Oakland, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f1bf6e8fe7753af) | 2026-07-21 |
+| **Lambda** | Senior Platform Engineer - Core Infrastructure | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9630c80cb512c4c9) | 2026-07-21 |
+| **Lambda** | Senior Platform Engineer - Core Infrastructure | Bellevue, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=baaf88e54d8fe83e) | 2026-07-21 |
+| **Lambda** | Senior Platform Engineer - Core Infrastructure | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a343a564a678782b) | 2026-07-21 |
+| **Lambda** | Senior Platform Engineer - Core Infrastructure | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e175c3cdc8c78d03) | 2026-07-21 |
 | **megan soft** | Senior Machine Learning Engineer | Dearborn, MI, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74f99ec032c2a050) | 2026-07-20 |
 | **iSynergy IT** | Data Engineer | New York, NY, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=64aa04af21957dc5) | 2026-07-20 |
 | **Aktra Inc** | Senior Quantitative Developer | McLean, VA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6a4d190221fd911) | 2026-07-20 |
