@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-23
-- **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 726
+- **New Matches Found in Last Run:** 69
+- **Total Active Matches (Last 4 Days):** 795
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-23.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-23.xlsx)
 
@@ -10,9 +10,59 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **nan** | Gen. AI Engineer | Fort Worth, TX, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=29fda9131139079e) | 2026-07-23 |
 | **eBay** | Software Engineer 3 | San Jose, CA, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd1589aadea1bbd4) | 2026-07-23 |
 | **TELUS Digital** | GCP Data Engineer | Ontario, CA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=671918da9a59fae2) | 2026-07-23 |
 | **West Monroe** | Agentic AI Architect-Google Cloud | Boston, MA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c971721d216ef56) | 2026-07-23 |
+| **CVS Health** | Data Engineer | SD, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f87cbef2e8672c3) | 2026-07-23 |
+| **CVS Health** | Data Engineer | AZ, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d0ffa581a9806f2) | 2026-07-23 |
+| **CVS Health** | Data Engineer | WY, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a371c6a757e7cc60) | 2026-07-23 |
+| **CVS Health** | Data Engineer | ME, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3c4dc88ae61fe0e) | 2026-07-23 |
+| **CVS Health** | Data Engineer | WA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f214eae45940a168) | 2026-07-23 |
+| **CVS Health** | Data Engineer | ND, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2687a24e7dad6780) | 2026-07-23 |
+| **CVS Health** | Data Engineer | OH, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ba2e28b0686e652) | 2026-07-23 |
+| **CVS Health** | Data Engineer | GA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4555ac252f371341) | 2026-07-23 |
+| **CVS Health** | Data Engineer | KY, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c21907825eebf4e) | 2026-07-23 |
+| **CVS Health** | Data Engineer | LA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7237946dfe0583b2) | 2026-07-23 |
+| **CVS Health** | Data Engineer | Washington, DC, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=801bb2fc81ed28a7) | 2026-07-23 |
+| **CVS Health** | Data Engineer | VA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ca8ef229b1532c4) | 2026-07-23 |
+| **CVS Health** | Data Engineer | FL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a6085a67377b69f) | 2026-07-23 |
+| **CVS Health** | Data Engineer | MT, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b7352e9be8f48d42) | 2026-07-23 |
+| **CVS Health** | Data Engineer | DE, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=95dee7b8fef58b1e) | 2026-07-23 |
+| **CVS Health** | Data Engineer | TN, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=630ac099235fbd6d) | 2026-07-23 |
+| **CVS Health** | Data Engineer | SC, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1279bb37e0c78ee9) | 2026-07-23 |
+| **CVS Health** | Data Engineer | VT, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=02f7accbf789b4d1) | 2026-07-23 |
+| **CVS Health** | Data Engineer | CA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2875a726636cc149) | 2026-07-23 |
+| **CVS Health** | Data Engineer | IL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44506379a420841e) | 2026-07-23 |
+| **CVS Health** | Data Engineer | MS, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f29091cd781df40) | 2026-07-23 |
+| **CVS Health** | Data Engineer | NC, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=02feacdf4669a553) | 2026-07-23 |
+| **CVS Health** | Data Engineer | MO, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f1b6022ed0acfd4) | 2026-07-23 |
+| **CVS Health** | Data Engineer | AR, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=efeae60730c199e0) | 2026-07-23 |
+| **CVS Health** | Data Engineer | NE, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2460ff417a265bbe) | 2026-07-23 |
+| **CVS Health** | Data Engineer | KS, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d1f6380a3c4f83b) | 2026-07-23 |
+| **CVS Health** | Data Engineer | NM, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9685333ed2d00ca8) | 2026-07-23 |
+| **CVS Health** | Data Engineer | MN, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=21091337a312c8c7) | 2026-07-23 |
+| **CVS Health** | Data Engineer | MA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f893c944d1eaefab) | 2026-07-23 |
+| **CVS Health** | Data Engineer | NV, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cbf8f230bc8b0c83) | 2026-07-23 |
+| **CVS Health** | Data Engineer | WV, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cda9596586f3e32a) | 2026-07-23 |
+| **CVS Health** | Data Engineer | MD, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20b5df003b7622a9) | 2026-07-23 |
+| **CVS Health** | Data Engineer | ID, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e8cd995cbc9be6f9) | 2026-07-23 |
+| **CVS Health** | Data Engineer | CT, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c6e4df8e6b664967) | 2026-07-23 |
+| **CVS Health** | Data Engineer | AL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fa44bcb3004b69d1) | 2026-07-23 |
+| **CVS Health** | Data Engineer | NY, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c0edbe0ca17f71c) | 2026-07-23 |
+| **CVS Health** | Data Engineer | CO, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=833ff84fdbb1abd1) | 2026-07-23 |
+| **CVS Health** | Data Engineer | RI, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fbac48f07a9842df) | 2026-07-23 |
+| **CVS Health** | Data Engineer | UT, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2eb1052d07321fc8) | 2026-07-23 |
+| **CVS Health** | Data Engineer | IN, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c2fb4708a4607c9) | 2026-07-23 |
+| **CVS Health** | Data Engineer | OR, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac0e9e73889131e2) | 2026-07-23 |
+| **CVS Health** | Data Engineer | PA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=176b93f1cf5124ab) | 2026-07-23 |
+| **CVS Health** | Data Engineer | WI, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a9c8bd386e42843b) | 2026-07-23 |
+| **CVS Health** | Data Engineer | NH, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2e471cdb7ea8fe2) | 2026-07-23 |
+| **CVS Health** | Data Engineer | NJ, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a6ad11f79e7ed4e9) | 2026-07-23 |
+| **CVS Health** | Data Engineer | MI, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a8935b313a478ee) | 2026-07-23 |
+| **CVS Health** | Data Engineer | OK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a7a4e1799edd25d) | 2026-07-23 |
+| **CVS Health** | Data Engineer | IA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7928d8310dc94518) | 2026-07-23 |
+| **CVS Health** | Data Engineer | TX, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd1f237216b5ebbe) | 2026-07-23 |
 | **Vynca** | Senior Software Engineer | CO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7a032c85f3eda4c) | 2026-07-23 |
 | **Vynca** | Senior Software Engineer | San Mateo, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c86483f8d64a717) | 2026-07-23 |
 | **Vynca** | Senior Software Engineer | NV, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e99d5df04ef88554) | 2026-07-23 |
@@ -28,6 +78,8 @@
 | **Vynca** | Senior Software Engineer | NC, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea174bb985cdf126) | 2026-07-23 |
 | **Mercedes-Benz Group** | AI/ML Platform Engineer | Atlanta, GA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=acd1f12311583f7b) | 2026-07-23 |
 | **Universal Background Screening** | Software Engineer (Remote Opportunity) | Phoenix, AZ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6b2caf1308dae3d) | 2026-07-23 |
+| **LTM Limited** | Specialist - Architecture | Dallas, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ea95a0e8ec56452) | 2026-07-23 |
+| **CVS Health** | Senior Software Development Engineer - Microservices | Hartford, CT, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8dc6f74324ccd0b) | 2026-07-23 |
 | **Capgemini** | Senior Data Engineer | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b55a448295d9621) | 2026-07-23 |
 | **eBay** | MTS 1, Software Engineer | Austin, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e64db4399512f1c2) | 2026-07-23 |
 | **Capgemini** | Senior Data Engineer | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63c45c243678d800) | 2026-07-23 |
@@ -41,11 +93,13 @@
 | **Goldman Sachs** | Software Engineering - Data, Lakehouse and AI Data Platform Engineer - Associate - New York | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74433be930df41f9) | 2026-07-23 |
 | **National Debt Relief** | Senior Engineer, Applied AI | US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37d306f6e35b6d71) | 2026-07-23 |
 | **LEMNIS** | Senior Analytics Engineer | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7fde3a175948d71c) | 2026-07-23 |
+| **LTM Limited** | Specialist - Architecture | Austin, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=760cf46880d813e3) | 2026-07-23 |
 | **Goldman Sachs** | Software Engineering - Data, Lakehouse and AI Data Platform Engineer - Associate - Dallas | Dallas, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4361b7290689784) | 2026-07-23 |
 | **Northramp** | Full Stack Developer | Washington, DC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8fe02b7c8ca17adb) | 2026-07-23 |
 | **eBay** | Software Engineer 3 | San Jose, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=41c7d8075142645e) | 2026-07-23 |
 | **Autodesk** | Senior Software Engineer, Agentic AI | CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4462c6dfb49ebe52) | 2026-07-23 |
 | **Cognizant** | GCP Data Architect | Plano, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8fc84a59c47b9041) | 2026-07-23 |
+| **Visa** | Software Engineer - Corporate GenAI | Bellevue, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=16819400a86897c4) | 2026-07-23 |
 | **WRS Health** | Sales Engineer – AI & Agentic Sales Systems | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a8cc43499d786a9) | 2026-07-23 |
 | **eBay** | Software Engineer 3 | San Jose, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec5539efbd14b991) | 2026-07-23 |
 | **eBay** | Software Engineer 3 | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff6fde999db22d09) | 2026-07-23 |
@@ -62,6 +116,9 @@
 | **U.S. Bank** | Software Engineer 1 (React + API + Cloud Migration) | Irving, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1feab28b0c3d3479) | 2026-07-23 |
 | **U.S. Bank** | Software Engineer 1 (React + API + Cloud Migration) | Atlanta, GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c64848853e9c5d68) | 2026-07-23 |
 | **RealPage Inc** | Developer IV | Richardson, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0cb3584a07ac501) | 2026-07-23 |
+| **Bevi** | Senior Data Platform Engineer | Charlestown, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=88024c4609faee60) | 2026-07-23 |
+| **Intellibee Inc** | Data engineer with Java | Malvern, AR, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b40731666819fe80) | 2026-07-23 |
+| **IFS** | Senior Finance Data Engineer | Atlanta, GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=470c48d671a5aed8) | 2026-07-23 |
 | **Fischer Homes** | SENIOR DATA ENGINEER | Erlanger, KY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2efeb3f6963e2ac9) | 2026-07-23 |
 | **JPMorganChase** | Software Engineer- Backend | Columbus, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f35a9bdaf3bc67a1) | 2026-07-23 |
 | **BMO Financial Group** | Data Scientist II, Anti Money Laundering Transaction Monitoring | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a476ab4de66d582) | 2026-07-23 |
@@ -76,6 +133,8 @@
 | **JPMorganChase** | Data Scientist Senior Associate | San Antonio, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a82cedf3a5c098bf) | 2026-07-23 |
 | **nan** | Senior Software Engineer - Cloud Account Management | Santa Monica, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6116961d1246a18e) | 2026-07-23 |
 | **CALLISTOFUSION** | AI Engineer | Houston, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70464e2bce8f4e8d) | 2026-07-23 |
+| **Capgemini** | Senior Java Platform Engineer | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6bf738c60c62b8d) | 2026-07-23 |
+| **Capgemini** | Java Platform Engineer | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76a0805af660a7db) | 2026-07-23 |
 | **eBay** | Software Engineer 2 | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7f10b26a417d2c3) | 2026-07-23 |
 | **eBay** | Software Engineer 3 | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7d3a54b05fedd23) | 2026-07-23 |
 | **JSR Tech Consulting** | AI Engineer / LLM Developer (Microsoft Foundry) | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f1b38a52798fcff4) | 2026-07-23 |
@@ -103,6 +162,9 @@
 | **Cisco** | Software Engineer | Research Triangle Park, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=893e910c3bd5c112) | 2026-07-23 |
 | **Cognizant** | Senior Java Developer | Princeton, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1a95a4ce3e78262) | 2026-07-23 |
 | **Rocket** | Senior Systems Engineer | Detroit, MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b6b13a7348518f4) | 2026-07-23 |
+| **New Relic** | Software Engineer-ELB | Portland, OR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d438ac095207dfdb) | 2026-07-23 |
+| **CVS Health** | Senior Decision Scientist - Specialty Operations | MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80362ae5ebba5e14) | 2026-07-23 |
+| **CVS Health** | Senior Decision Scientist - Specialty Operations | NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a7f474ed9457d47a) | 2026-07-23 |
 | **Data Society** | BI Reporting Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3d7772ddc47558e) | 2026-07-23 |
 | **eBay** | MTS 1, Software Engineer | Bellevue, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bad747180322f315) | 2026-07-23 |
 | **eBay** | Software Engineer 3 | Bellevue, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ea97fd5ad244ab0) | 2026-07-23 |
@@ -141,6 +203,13 @@
 | **Paychex, Inc.** | Systems Engineer I | Webster, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=887b1576ef6a1cff) | 2026-07-23 |
 | **NVIDIA** | NCX Senior Engineer | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5328cb078658e928) | 2026-07-23 |
 | **System1** | Senior Full Stack Software Engineer - Startpage | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec252f6dfba12db0) | 2026-07-23 |
+| **Concentrix** | QA Automation Engineer - Robot Framework | Omaha, NE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bf0a0f4e5478b748) | 2026-07-23 |
+| **Capgemini** | Software Engineer - Boomi Developer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d7ed5f3c9898699) | 2026-07-23 |
+| **Flexcompute Inc.** | Software Engineer - AI & Cloud Engineering (Early to Mid Career | Watertown, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff54522db739738a) | 2026-07-23 |
+| **Unity Technologies** | Senior Machine Learning Engineer, ML Infrastructure- Online | Olympia, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c52cbc513c7c8050) | 2026-07-23 |
+| **FanDuel** | Data Engineer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b0124c68aa711e39) | 2026-07-23 |
+| **FanDuel** | Data Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7403c7f190048d2a) | 2026-07-23 |
+| **HCLTech** | Senior Analyst - Machine Learning, Python | Hudson, NH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7883302f74d8aa13) | 2026-07-23 |
 | **Niagara Bottling** | Machine Learning Engineer II | Diamond Bar, CA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee6929ba2eeed1b8) | 2026-07-22 |
 | **Optum** | Senior Software Engineer - 2378720 | MN, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a79ad3ad8ee3cf8) | 2026-07-22 |
 | **nan** | Senior AI Engineer / AI Software Engineer | San Francisco Bay Area, CA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=45dbfc4cd100a9e9) | 2026-07-22 |
