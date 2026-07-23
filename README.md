@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-23
-- **New Matches Found in Last Run:** 10
-- **Total Active Matches (Last 4 Days):** 721
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 726
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-23.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-23.xlsx)
 
@@ -12,6 +12,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **eBay** | Software Engineer 3 | San Jose, CA, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd1589aadea1bbd4) | 2026-07-23 |
 | **TELUS Digital** | GCP Data Engineer | Ontario, CA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=671918da9a59fae2) | 2026-07-23 |
+| **West Monroe** | Agentic AI Architect-Google Cloud | Boston, MA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c971721d216ef56) | 2026-07-23 |
 | **Vynca** | Senior Software Engineer | CO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7a032c85f3eda4c) | 2026-07-23 |
 | **Vynca** | Senior Software Engineer | San Mateo, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c86483f8d64a717) | 2026-07-23 |
 | **Vynca** | Senior Software Engineer | NV, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e99d5df04ef88554) | 2026-07-23 |
@@ -73,6 +74,8 @@
 | **eBay** | Software Engineer 3 | San Jose, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c07301c3781026e) | 2026-07-23 |
 | **JPMorganChase** | Software Engineer III - Java/Python/AWS | Columbus, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dbd1082ecbb4b77c) | 2026-07-23 |
 | **JPMorganChase** | Data Scientist Senior Associate | San Antonio, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a82cedf3a5c098bf) | 2026-07-23 |
+| **nan** | Senior Software Engineer - Cloud Account Management | Santa Monica, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6116961d1246a18e) | 2026-07-23 |
+| **CALLISTOFUSION** | AI Engineer | Houston, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70464e2bce8f4e8d) | 2026-07-23 |
 | **eBay** | Software Engineer 2 | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7f10b26a417d2c3) | 2026-07-23 |
 | **eBay** | Software Engineer 3 | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7d3a54b05fedd23) | 2026-07-23 |
 | **JSR Tech Consulting** | AI Engineer / LLM Developer (Microsoft Foundry) | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f1b38a52798fcff4) | 2026-07-23 |
@@ -136,6 +139,8 @@
 | **Ford Motor Company** | Data Scientist - Conversational AI | Dearborn, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dcb602b7f6f09bdb) | 2026-07-23 |
 | **eBay** | Software Engineer 3 | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=034831b9d1d4b137) | 2026-07-23 |
 | **Paychex, Inc.** | Systems Engineer I | Webster, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=887b1576ef6a1cff) | 2026-07-23 |
+| **NVIDIA** | NCX Senior Engineer | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5328cb078658e928) | 2026-07-23 |
+| **System1** | Senior Full Stack Software Engineer - Startpage | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec252f6dfba12db0) | 2026-07-23 |
 | **Niagara Bottling** | Machine Learning Engineer II | Diamond Bar, CA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee6929ba2eeed1b8) | 2026-07-22 |
 | **Optum** | Senior Software Engineer - 2378720 | MN, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a79ad3ad8ee3cf8) | 2026-07-22 |
 | **nan** | Senior AI Engineer / AI Software Engineer | San Francisco Bay Area, CA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=45dbfc4cd100a9e9) | 2026-07-22 |

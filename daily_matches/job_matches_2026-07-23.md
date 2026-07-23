@@ -1,117 +1,62 @@
 # 🎯 Daily Job Matches — 2026-07-23
 
-**Total Jobs Found:** 10
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Software Engineer (Remote Opportunity) @ Universal Background Screening
-**Match Score:** 18.9%
+## 1. Agentic AI Architect-Google Cloud @ West Monroe
+**Match Score:** 21.1%
 
-📍 **Location:** Phoenix, AZ, US USA
+📍 **Location:** Boston, MA, US USA
 
-🔑 **Keywords:** Copilot, S3, EC2, Glue, Redshift, Docker, CI/CD, Git, Redshift, PostgreSQL
+🔑 **Keywords:** AI Engineer, Machine Learning Engineer, Generative AI, RAG, Gemini, Prompt Engineering, BigQuery, Docker, Kubernetes, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b6b2caf1308dae3d)
-
----
-
-## 2. GCP Data Architect @ Cognizant
-**Match Score:** 14.4%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, BigQuery, Data Lake, Dataflow, BigQuery, Tableau, Power BI, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8fc84a59c47b9041)
+[Apply Here](https://www.indeed.com/viewjob?jk=9c971721d216ef56)
 
 ---
 
-## 3. Developer IV @ RealPage Inc
-**Match Score:** 13.3%
-
-📍 **Location:** Richardson, TX, US USA
-
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, Copilot, Prompt Engineering, CI/CD, Git, Python, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d0cb3584a07ac501)
-
----
-
-## 4. Software Engineer III - Java/Python/AWS @ JPMorganChase
+## 2. Senior Software Engineer - Cloud Account Management @ nan
 **Match Score:** 12.2%
 
-📍 **Location:** Columbus, OH, US USA
+📍 **Location:** Santa Monica, CA, US USA
 
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, Kafka, PostgreSQL, Python, SQL, R, Java
+🔑 **Keywords:** Data Scientist, RAG, Docker, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=dbd1082ecbb4b77c)
+[Apply Here](https://www.indeed.com/viewjob?jk=6116961d1246a18e)
 
 ---
 
-## 5. Data Scientist Senior Associate @ JPMorganChase
+## 3. AI Engineer @ CALLISTOFUSION
 **Match Score:** 12.2%
 
-📍 **Location:** San Antonio, TX, US USA
+📍 **Location:** Houston, TX, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Glue, Docker, CI/CD, Jenkins, Git, PySpark, Python, R
+🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, LLaMA, Gemini, Copilot, Prompt Engineering, Git, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a82cedf3a5c098bf)
-
----
-
-## 6. Software Engineer, Structured Storage @ Cisco
-**Match Score:** 11.1%
-
-📍 **Location:** Research Triangle Park, NC, US USA
-
-🔑 **Keywords:** RAG, Kubernetes, CI/CD, Terraform, Git, PostgreSQL, NoSQL, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2ffb8f2b64505893)
+[Apply Here](https://www.indeed.com/viewjob?jk=70464e2bce8f4e8d)
 
 ---
 
-## 7. Software Engineer @ Cisco
-**Match Score:** 11.1%
-
-📍 **Location:** Research Triangle Park, NC, US USA
-
-🔑 **Keywords:** RAG, Kubernetes, CI/CD, Terraform, Git, PostgreSQL, NoSQL, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=893e910c3bd5c112)
-
----
-
-## 8. Senior Java Developer @ Cognizant
-**Match Score:** 11.1%
-
-📍 **Location:** Princeton, NJ, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Copilot, CI/CD, Git, SQL, R, Java, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c1a95a4ce3e78262)
-
----
-
-## 9. Senior Systems Engineer @ Rocket
-**Match Score:** 11.1%
-
-📍 **Location:** Detroit, MI, US USA
-
-🔑 **Keywords:** RAG, Copilot, Data Lake, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1b6b13a7348518f4)
-
----
-
-## 10. Systems Engineer I @ Paychex, Inc.
+## 4. NCX Senior Engineer @ NVIDIA
 **Match Score:** 10.0%
 
-📍 **Location:** Webster, NY, US USA
+📍 **Location:** Seattle, WA, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Copilot, Prompt Engineering, CI/CD, Git, Python, R, Scala
+🔑 **Keywords:** TensorFlow, PyTorch, Kubernetes, CI/CD, Terraform, Git, Python, R, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=887b1576ef6a1cff)
+[Apply Here](https://www.indeed.com/viewjob?jk=5328cb078658e928)
+
+---
+
+## 5. Senior Full Stack Software Engineer - Startpage @ System1
+**Match Score:** 10.0%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** Docker, Kubernetes, CI/CD, GitHub Actions, Git, Python, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ec252f6dfba12db0)
 
 ---
 
