@@ -1,15 +1,53 @@
 # 🚀 Indeed Job Scraper AI
 
-### 📊 Latest Update: 2026-07-22
-- **New Matches Found in Last Run:** 25
-- **Total Active Matches (Last 4 Days):** 657
-- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-22.md)
-- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-22.xlsx)
+### 📊 Latest Update: 2026-07-23
+- **New Matches Found in Last Run:** 38
+- **Total Active Matches (Last 4 Days):** 633
+- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-23.md)
+- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-23.xlsx)
 
 #### 🎯 Rolling Window: Matches from last 4 days
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Capgemini** | Senior Data Engineer | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b55a448295d9621) | 2026-07-23 |
+| **eBay** | MTS 1, Software Engineer | Austin, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e64db4399512f1c2) | 2026-07-23 |
+| **Capgemini** | Senior Data Engineer | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63c45c243678d800) | 2026-07-23 |
+| **Vision Radiology** | Sr. Data Engineer (Remote) | Dallas, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea77e5dc301d8192) | 2026-07-23 |
+| **Mercedes-Benz Group** | AI Productization Engineer | Atlanta, GA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85be9fd2c83ec659) | 2026-07-23 |
+| **Brown University Health** | Research Full Stack Coder | Providence, RI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c62e268910551ce) | 2026-07-23 |
+| **WRS Health** | Sales Engineer – AI & Agentic Sales Systems | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a8cc43499d786a9) | 2026-07-23 |
+| **eBay** | Software Engineer 3 | San Jose, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec5539efbd14b991) | 2026-07-23 |
+| **eBay** | Software Engineer 3 | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff6fde999db22d09) | 2026-07-23 |
+| **Mitsui Sumitomo Insurance Group** | Senior AI / Polyglot Engineer | Warren, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08d375c5ea5a7a76) | 2026-07-23 |
+| **Fischer Homes** | SENIOR DATA ENGINEER | Erlanger, KY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2efeb3f6963e2ac9) | 2026-07-23 |
+| **JPMorganChase** | Software Engineer- Backend | Columbus, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f35a9bdaf3bc67a1) | 2026-07-23 |
+| **BMO Financial Group** | Data Scientist II, Anti Money Laundering Transaction Monitoring | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a476ab4de66d582) | 2026-07-23 |
+| **eBay** | Software Engineer 2 | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7f10b26a417d2c3) | 2026-07-23 |
+| **eBay** | Software Engineer 3 | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7d3a54b05fedd23) | 2026-07-23 |
+| **JSR Tech Consulting** | AI Engineer / LLM Developer (Microsoft Foundry) | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f1b38a52798fcff4) | 2026-07-23 |
+| **Optum** | Senior Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7c88e964fc6c7f01) | 2026-07-23 |
+| **SCAN Health Plan** | Sr. Engineer, Data Governance & AI Enablement | Long Beach, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c7649f5d49c6be2) | 2026-07-23 |
+| **MongoDB** | Technical Services Engineer | Palo Alto, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=115f6aff7f0821f6) | 2026-07-23 |
+| **Evercommerce** | EverHealth - Software Engineer (Remote, US) | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=964a319d38182888) | 2026-07-23 |
+| **Tesla** | Software Engineer, Infrastructure Programs | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=41d6083c70976741) | 2026-07-23 |
+| **Serco** | Software Engineer | Herndon, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1766c4af77fd1114) | 2026-07-23 |
+| **CurbWaste** | Analytics Engineer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03ed3fd0cc93d245) | 2026-07-23 |
+| **Stellantis** | Data Engineer - Vehicle Configuration Optimization | Auburn Hills, MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac80ea93a8c7bea4) | 2026-07-23 |
+| **Data Society** | BI Reporting Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3d7772ddc47558e) | 2026-07-23 |
+| **eBay** | MTS 1, Software Engineer | Bellevue, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bad747180322f315) | 2026-07-23 |
+| **eBay** | Software Engineer 3 | Bellevue, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ea97fd5ad244ab0) | 2026-07-23 |
+| **eBay** | Software Engineer 3 | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1635164fe0c734d7) | 2026-07-23 |
+| **eBay** | Software Engineer 3 | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4537e91e2c05d24) | 2026-07-23 |
+| **Bread Financial** | Senior Agentic AI Software Engineer | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec080ce46843f2cf) | 2026-07-23 |
+| **Allfast Fastening Systems** | Manufacturing Data Scientist | City of Industry, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=045b3c0021f36f48) | 2026-07-23 |
+| **Liberty Mutual Insurance** | Senior Data Engineer | Indianapolis, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=afa4a363126d55a5) | 2026-07-23 |
+| **Liberty Mutual Insurance** | Senior Data Engineer | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10d15deb3e404a7d) | 2026-07-23 |
+| **Liberty Mutual Insurance** | Senior Data Engineer | Portsmouth, NH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee11137ef52cb109) | 2026-07-23 |
+| **Stellantis** | Machine Learning Engineer | Auburn Hills, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a6fcc0d34e0347fd) | 2026-07-23 |
+| **Serco** | Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f6680771dce9ba3) | 2026-07-23 |
+| **Serco** | Senior Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6b1b3a4ffc5fc5c1) | 2026-07-23 |
+| **EGW Personnel** | Full Stack Developer: Back End Focus | Berkeley, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0005b18918c48350) | 2026-07-23 |
 | **Niagara Bottling** | Machine Learning Engineer II | Diamond Bar, CA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee6929ba2eeed1b8) | 2026-07-22 |
 | **Optum** | Senior Software Engineer - 2378720 | MN, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a79ad3ad8ee3cf8) | 2026-07-22 |
 | **nan** | Senior AI Engineer / AI Software Engineer | San Francisco Bay Area, CA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=45dbfc4cd100a9e9) | 2026-07-22 |
@@ -605,68 +643,6 @@
 | **Safeway** | Sr. Data Scientist | Pleasanton, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94c4f57796c1a77d) | 2026-07-20 |
 | **Safeway** | Sr. Data Scientist | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25898f2307268e0b) | 2026-07-20 |
 | **Information Technology Senior Management Forum** | Senior Associate, Data Scientist - Model Risk Office | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96f7142945ff184e) | 2026-07-20 |
-| **University of Southern California** | Data Scientist (ITS) | Los Angeles, CA, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ea9a719ad357a71) | 2026-07-19 |
-| **Deloitte** | Applied AI Engineer I | Nashville, TN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=01965fadde442044) | 2026-07-19 |
-| **Deloitte** | Applied AI Engineer I | Hermitage, TN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da13b00a43473377) | 2026-07-19 |
-| **Deloitte** | Applied AI Engineer I | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=78531d1019f4b8d6) | 2026-07-19 |
-| **Deloitte** | Applied AI Engineer I | Fort Worth, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b47fc7d04ca49300) | 2026-07-19 |
-| **Deloitte** | Applied AI Engineer I | Chicago, IL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=42e4270a4174f66d) | 2026-07-19 |
-| **Deloitte** | Applied AI Engineer II | Dallas, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=16c9e1dd0a8fd75b) | 2026-07-19 |
-| **Deloitte** | Applied AI Engineer II | Nashville, TN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09676da45784cdfc) | 2026-07-19 |
-| **Deloitte** | Applied AI Engineer II | Hermitage, TN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c910ea741626def) | 2026-07-19 |
-| **Deloitte** | Applied AI Engineer II | Atlanta, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b63b1ead449795e5) | 2026-07-19 |
-| **Deloitte** | Applied AI Engineer II | Fort Worth, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=365840ba6be285e4) | 2026-07-19 |
-| **Everforth ECS** | Senior Data Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f621493fe377140) | 2026-07-19 |
-| **Everforth ECS** | Mid-Level Data Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=126194295cdcb2ff) | 2026-07-19 |
-| **BPM Records** | Software Engineer II – Front-End / Full-Stack (Azure) | Phoenix, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=786096f843a1b5d2) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Morristown, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05d74fed797cf035) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5531d71a220f6d4) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6818a9b159ed5809) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d68aaad818e568b6) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Salt Lake City, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7b15f8710ab44740) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Milwaukee, WI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22b2ecee2f729ae5) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cb7e86ce7fb7de90) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b0b05f18eeb0bdfd) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Memphis, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17eb33bf755a7430) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b551243954f8d3dd) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Detroit, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d56f54aadb9ac51) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Pittsburgh, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1444aa0a27f5c43) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Des Moines, IA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5724cb5421b7e07d) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | St. Louis, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1868c5025e9deac) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Las Vegas, NV, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=53ad89cfa76f3e33) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54bab3feaa577dce) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Minneapolis, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=26561c9828db692e) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Grand Rapids, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c3cb7fcf2b5b216) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Hartford, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a6442420321728c) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Kansas City, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27d9f195af5ff12a) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Denver, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19329f286734550c) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Raleigh, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18a768b79d807a6a) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Cincinnati, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17476c18c6589918) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Boise, ID, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=75ffca8f32aa1b0b) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Princeton, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da8becbae1ec4d6e) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Philadelphia, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d5d0167ff4c7b1b) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | New Orleans, LA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d556b4d36c529bcf) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5ad6fe659787b6f) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=12455f065d23d210) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Baltimore, MD, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=40d39661fd5c6c6b) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22fc97802aa5af1b) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=45eb108988b8d5e1) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Cleveland, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6ddb2364e4eb21ca) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Portland, OR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2eb198f489ed5536) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0362a453f97255c3) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=29d8bc0e20d7c1ff) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | San Diego, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63ba899e2dc26a7b) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Stamford, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e8a79fac501ea654) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=393bdfd492f2790c) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Miami, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76a7c6c522853200) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Costa Mesa, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8aecba6a3472ec32) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1d58733ec5a742c) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Louisville, KY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a6ce468c08facd06) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74839e537975ae27) | 2026-07-19 |
-| **Deloitte** | Microsoft Dynamics Senior Consultant, Technical Transformation | Indianapolis, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a4f7926fac6f809) | 2026-07-19 |
-| **Deloitte** | Java Development Senior Consultant - Integrated Eligibility | Lake Mary, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d60aa630721bcba0) | 2026-07-19 |
-| **nan** | Backend Software Engineer Intern (Contract) | Node.js • Prisma • PostgreSQL | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=21c42369a722e638) | 2026-07-19 |
-| **Starbucks** | data scientist, Data & Analytics (Seattle, WA) | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2de595f8186066e2) | 2026-07-19 |
 
 ---
 
