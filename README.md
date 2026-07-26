@@ -2,7 +2,7 @@
 
 ### 📊 Latest Update: 2026-07-26
 - **New Matches Found in Last Run:** 7
-- **Total Active Matches (Last 4 Days):** 540
+- **Total Active Matches (Last 4 Days):** 547
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-26.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-26.xlsx)
 
@@ -11,12 +11,19 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **3Pillar Global** | AI Data Architect | Remote, US USA | 32.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b2cc185aab9474c) | 2026-07-26 |
+| **Protagona** | Cloud Software Engineer - Egypt | Egypt, AR, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a89355d34c2e7d21) | 2026-07-26 |
+| **Inventive Group** | Senior Full-Stack & AI Engineer | Austin, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8dc578f11b30fa17) | 2026-07-26 |
+| **Protagona** | Senior QA Engineer - Egypt | Egypt, AR, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb073c25dabf3264) | 2026-07-26 |
 | **VASERJOB** | Appled AI Engineer | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d50a16cef0ea7b38) | 2026-07-26 |
 | **GE HealthCare** | AI Engineer | Bellevue, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b06a66005efe32de) | 2026-07-26 |
+| **Hendrickson** | AI Intern | Woodridge, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fad33537b51afafc) | 2026-07-26 |
+| **Tesla** | Sr. Manufacturing Systems Engineer | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ae5ecfeb0d7a920) | 2026-07-26 |
+| **Smart Apply Test Company** | Senior Full-Stack & AI Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1086056a31ef7d7d) | 2026-07-26 |
 | **Recuro Health** | Full-Stack Software Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=890a0cbf6effe0b4) | 2026-07-26 |
 | **Deloitte** | Delivery Senior Consultant, Data Engineering and Gen AI Conversion Solutions | Gilbert, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f66ac3cc90c2b9b) | 2026-07-26 |
 | **Deloitte** | Delivery Senior Consultant, Data Engineering and Gen AI Conversion Solutions | Lake Mary, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5eef2bf3d8c3bbb7) | 2026-07-26 |
 | **Deloitte** | Delivery Senior Consultant, Data Engineering and Gen AI Conversion Solutions | Mechanicsburg, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79bfbcc22c2d5e91) | 2026-07-26 |
+| **Cisco** | Software Engineer (Remote) | Indianapolis, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a56d0b161524d45) | 2026-07-26 |
 | **McAfee** | Senior MarTech Engineer (Braze/Claude) | San Jose, CA, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da2cd5f2d2247bd7) | 2026-07-25 |
 | **Global Payments** | AI Engineer | Oklahoma City, OK, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6359d2f982d74afd) | 2026-07-25 |
 | **Global Payments** | AI Engineer | Alpharetta, GA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb87927ba32fbcbb) | 2026-07-25 |
