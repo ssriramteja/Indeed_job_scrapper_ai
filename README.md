@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-27
-- **New Matches Found in Last Run:** 1
-- **Total Active Matches (Last 4 Days):** 279
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 282
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-27.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-27.xlsx)
 
@@ -12,9 +12,12 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **LTM Limited** | Specialist - Data Sciences | Houston, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=044e306510bc50a9) | 2026-07-27 |
 | **American Airlines** | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f495df65f464e1ae) | 2026-07-27 |
+| **Navat Technologies Pvt Ltd** | Middleware Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84c495ca2a0cc395) | 2026-07-27 |
 | **JPMorganChase** | Data Scientist (Insurance Product)-Senior Associate | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1cce59b9e89e4a03) | 2026-07-27 |
+| **itD Tech** | Data Engineer (AI/ML) III - 6253 | Redmond, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1081434668904e99) | 2026-07-27 |
 | **Regions Financial** | Cloud DevSecOps Engineer | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=71ba8e5763807003) | 2026-07-27 |
 | **MyFitnessPal** | Site Reliability Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17d62d43e9e7cb3c) | 2026-07-27 |
+| **NVIDIA** | Senior Systems Software Engineer, Developer Productivity and Cloud Automation - GeForce NOW | Santa Clara, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=597059b1cca79e48) | 2026-07-27 |
 | **3Pillar Global** | AI Data Architect | Remote, US USA | 32.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b2cc185aab9474c) | 2026-07-26 |
 | **Protagona** | Cloud Software Engineer - Egypt | Egypt, AR, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a89355d34c2e7d21) | 2026-07-26 |
 | **Inventive Group** | Senior Full-Stack & AI Engineer | Austin, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8dc578f11b30fa17) | 2026-07-26 |
