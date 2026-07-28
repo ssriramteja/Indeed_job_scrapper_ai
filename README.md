@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-28
-- **New Matches Found in Last Run:** 75
-- **Total Active Matches (Last 4 Days):** 426
+- **New Matches Found in Last Run:** 31
+- **Total Active Matches (Last 4 Days):** 457
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-28.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-28.xlsx)
 
@@ -23,7 +23,11 @@
 | **Capgemini** | AI/ML, GenAI & Python Developer - Onsite NJ | New York, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b05fd1e4957e7a08) | 2026-07-28 |
 | **Capgemini** | AI/ML, GenAI & Python Developer - Onsite NJ | New York, NY, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=29314a3543779c40) | 2026-07-28 |
 | **Zebra Technologies** | Senior Forward Deployed Software Engineer (FDE) | Holtsville, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b3d38e42153f6fb0) | 2026-07-28 |
+| **Afficiency** | Generative AI Engineer | New York, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58359e4adc4e423e) | 2026-07-28 |
+| **Archer Technologies** | Full Stack Engineer | US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=65c4ae1b70e64e9e) | 2026-07-28 |
 | **Select Minds LLC** | Agentic AI Engineer | Dallas, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f90d4db047b202c6) | 2026-07-28 |
+| **Western Union** | Senior Architect, Software Engineering | Austin, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=66df8cc3622ab111) | 2026-07-28 |
+| **nan** | Full Stack AI Engineer | US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0298490c22365fa) | 2026-07-28 |
 | **Norstella** | AI Operations Architect & AWS Engineer, Life Sciences | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e90dd137a4ac6f19) | 2026-07-28 |
 | **Capgemini** | Senior Developer – Full Stack (Java Spring Boot, React, PostgreSQL) | Dallas, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38439f74465262d5) | 2026-07-28 |
 | **Block** | Software Engineer, Reconciliation & Reporting | San Francisco Bay Area, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c826fbf927fd818) | 2026-07-28 |
@@ -40,6 +44,10 @@
 | **JPMorganChase** | Software Engineer III - Big Data / AWS | Plano, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8515f265503b068a) | 2026-07-28 |
 | **Latent Engineering Firm LTD** | Senior Full Stack Engineer | IL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=028991e683bc85f1) | 2026-07-28 |
 | **RTI International** | Early-Career Software Engineer - AI Applications | Durham, NC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1282439afb6acea7) | 2026-07-28 |
+| **project44** | Senior Software Engineer | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eee6148be255d369) | 2026-07-28 |
+| **project44** | Senior Software Engineer | San Francisco, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a8fc463b1f1234a3) | 2026-07-28 |
+| **project44** | Senior Software Engineer | Chicago, IL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f93d9150c8d68a7) | 2026-07-28 |
+| **Rippling** | Data and Analytics Architect | Irving, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6fca29e64567b9a7) | 2026-07-28 |
 | **RTI International** | Software Engineer - AI Applications | Durham, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=637abe4676ad3cc2) | 2026-07-28 |
 | **HCLTech** | Senior Solution Architect | Santa Clara, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51edf63fd9ce4d7a) | 2026-07-28 |
 | **HCLTech** | Senior Solution Architect | Washington, DC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=acd136a2c45725af) | 2026-07-28 |
@@ -60,6 +68,8 @@
 | **HNTB Corporation** | Transportation Data Scientist | Downers Grove, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62170821e4e69c98) | 2026-07-28 |
 | **nan** | Sr Machine Learning Engineer | Seattle, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a16a037aab83b32) | 2026-07-28 |
 | **University of Alabama in Huntsville** | Research Scientist II, Step 1-4 | AL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b876b59e168c817) | 2026-07-28 |
+| **EDRAY** | Senior Integration Engineer | Charlotte, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cbd9bc76eb207693) | 2026-07-28 |
+| **Public Storage** | Generative AI/LLM Engineer | Frisco, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=887758e7c310917f) | 2026-07-28 |
 | **Lowe's Home Improvement** | Sr Software Engineer - AI | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd1942c35e56392e) | 2026-07-28 |
 | **Lowe's Home Improvement** | Software Engineer - AI | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b404e83cdfac818) | 2026-07-28 |
 | **Dayforce** | Intermediate or Sr Software Developer (AI Platform & Applications) | US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1783e76eef53a01) | 2026-07-28 |
@@ -136,6 +146,12 @@
 | **PwC** | AI Engineer | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=893df4394b7a0148) | 2026-07-28 |
 | **PwC** | AI Engineer | St. Louis, MO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=592bc675839e0e99) | 2026-07-28 |
 | **NTT DATA** | Linux Systems Engineer - Server Migration | Salt Lake City, UT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb1c9201a8161c46) | 2026-07-28 |
+| **BV Teck** | Big Data Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=117b1dca77eb367e) | 2026-07-28 |
+| **Ross Dress For Less** | Engineer II | Dublin, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4bed25e09aacecc) | 2026-07-28 |
+| **Capgemini** | Software Engineer | Seattle, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9284488ddc64765) | 2026-07-28 |
+| **Solovis** | Senior Software Engineer (Data) | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c802ebbce7a223a1) | 2026-07-28 |
+| **SEI Investments** | Software Engineer II | Oaks, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3d91881ede271802) | 2026-07-28 |
+| **SEI Investments** | Software Engineer II, Data Scientist | Oaks, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e1b18dcc8cc3202) | 2026-07-28 |
 | **L.L. Bean, Inc.** | Enterprise Information Architect I | Freeport, ME, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd6d7b7a1225dcc2) | 2026-07-28 |
 | **HCLTech** | Tableau Senior Developer | Santa Clara, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d48807b7201b96c) | 2026-07-28 |
 | **The Hartford** | Senior AI Machine Learning Engineer | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=502f8e4e0f72f9d7) | 2026-07-28 |
@@ -159,6 +175,13 @@
 | **nan** | Machine Learning Engineer | CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d35911913efb4d8) | 2026-07-28 |
 | **Frontline Education** | Senior Software Engineer I-II, Integration Platform Engineering | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1fbfe00edebebf90) | 2026-07-28 |
 | **Capgemini** | SDET - Functional POS Quality Engineer | Berwyn, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=45d29499f51fb765) | 2026-07-28 |
+| **BV Teck** | Senior Java Full Stack Developer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f88cd142184b0e3) | 2026-07-28 |
+| **BV Teck** | Azure Cloud Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6ce4af1dda858ff2) | 2026-07-28 |
+| **BV Teck** | Azure Infrastructure Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=35bff45218ace4eb) | 2026-07-28 |
+| **Ross Dress For Less** | Engineer II | Dublin, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=338590937e0773d6) | 2026-07-28 |
+| **Park Place Technologies** | Artificial Intelligence Engineer | Highland Heights, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b487cf17824a6dcd) | 2026-07-28 |
+| **Hilton Grand Vacations** | Analyst Databricks | Orlando, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79bb920959efbb9a) | 2026-07-28 |
+| **PNC Financial Services Group** | Data Engineer | Strongsville, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=48a21bba741abb42) | 2026-07-28 |
 | **Crafty Software Solutions LLC** | AI/Machine Learning Engineer | Webb City, MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6fea9ba6b2d0df02) | 2026-07-28 |
 | **CCC Intelligent Solutions** | Applied AI Engineering Intern | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74afc122ce0a0583) | 2026-07-28 |
 | **Ursa Space Systems** | Applied AI/ML Engineer | Ithaca, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a1ad41c855b82c2) | 2026-07-28 |
@@ -179,6 +202,10 @@
 | **signitives IT Solutions** | AI Ops Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a00f90bb7fd4f51) | 2026-07-28 |
 | **McKinsey & Company** | Senior Software Engineer - QuantumBlack, AI by McKinsey | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ae2d8ccff2b67768) | 2026-07-28 |
 | **Capgemini** | Data Scientist | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf24b6b2cc90d27f) | 2026-07-28 |
+| **Roadpass Digital** | Senior AI/ML Engineer | Cincinnati, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cdf1de0ee38f9ad5) | 2026-07-28 |
+| **Nubank** | AI and Agentic AI Risk Management Senior Specialist | Washington, DC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8633675b9e8a6b4d) | 2026-07-28 |
+| **The University of Michigan** | Data Architect Senior | Ann Arbor, MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=223a012e2fb6f441) | 2026-07-28 |
+| **Bloomberg** | Senior Data Management Professional - Data Engineering - Corporate Actions | Princeton, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8c3d9bc7ff773ee) | 2026-07-28 |
 | **Aeroflow Health** | Senior Platform Engineer (AWS / DevOps) | Asheville, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9fb2cdce093ffe79) | 2026-07-28 |
 | **Crafty Software Solutions LLC** | Software Engineer | Webb City, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aff15c818708d71d) | 2026-07-28 |
 | **Capgemini** | Digital Manufacturing Engineer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=231d27901dfc5009) | 2026-07-28 |
@@ -201,6 +228,10 @@
 | **Koch** | Senior Cloud Engineer | Wichita, KS, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=023263d27cd1c111) | 2026-07-28 |
 | **Wipro** | DATA ANALYST L3(CONTRACT) | Arlington, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0ab044b8db573cc) | 2026-07-28 |
 | **Select Minds LLC** | Senior AI Python Solutions Engineer | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3992cd1ba674b3ea) | 2026-07-28 |
+| **Rockwell Automation** | Senior Data Scientist | Milwaukee, WI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03269104ff2b487f) | 2026-07-28 |
+| **Entergy** | Solution Architect, Sr | New Orleans, LA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb30cf3f38d166f2) | 2026-07-28 |
+| **Serco** | Senior Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3e3611409cc0333b) | 2026-07-28 |
+| **OCLC** | Associate Data Scientist | Dublin, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6e452409ef410a06) | 2026-07-28 |
 | **Enable Data** | Senior Data Scientist | Minneapolis, MN, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08b279ac901c3356) | 2026-07-27 |
 | **Enable Data** | Senior Data Scientist | Minneapolis, MN, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aed5867cc295ca6e) | 2026-07-27 |
 | **LTM Limited** | Senior Data Engineer | Irving, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20e8b241f5073b73) | 2026-07-27 |
