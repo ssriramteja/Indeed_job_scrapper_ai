@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-30
-- **New Matches Found in Last Run:** 8
-- **Total Active Matches (Last 4 Days):** 707
+- **New Matches Found in Last Run:** 7
+- **Total Active Matches (Last 4 Days):** 714
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-30.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-30.xlsx)
 
@@ -14,6 +14,7 @@
 | **GM Financial** | Data Engineer II - General Motors Insurance | Fort Worth, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5080f9a281fb787e) | 2026-07-30 |
 | **HCLTech** | Platform Engineer I | Frisco, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4013000b557f3707) | 2026-07-30 |
 | **Match Made Tech** | Software Backend Engineer- Hybrid | Irvine, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee7ea8491fb4bdff) | 2026-07-30 |
+| **ClassWallet** | Full Stack Engineer | US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5859053628eb5c2) | 2026-07-30 |
 | **BTI Solutions** | Backend Engineer | Englewood Cliffs, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a3345dd413dc8727) | 2026-07-30 |
 | **AAON** | Data and Analytics AI Engineer | Tulsa, OK, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4077f69e7bd948e6) | 2026-07-30 |
 | **Frost** | Software Engineer III – Open Banking | San Marcos, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81f6c96a218ab629) | 2026-07-30 |
@@ -27,11 +28,13 @@
 | **Capgemini** | AI Harness Engineers | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f50d11fe38cd9a59) | 2026-07-30 |
 | **Pratt Industries** | Senior AWS Cloud Architect | Park City, KS, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7570321d97679526) | 2026-07-30 |
 | **Capgemini** | AI Harness Engineers | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c0976212ce983e0) | 2026-07-30 |
+| **OneTrust** | Senior Software Engineer - SRE | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34fdb7f22611e005) | 2026-07-30 |
 | **Universal Creative** | Engineer, AI Strategy and Solutions | Orlando, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6766b0436a9e52df) | 2026-07-30 |
 | **Hagerty** | Data Engineer II | US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b9f6e1bedc5aca93) | 2026-07-30 |
 | **nan** | Data Scientist — AI Evaluation Analytics (West Coast Preferred) | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=24f3b5c310a572e4) | 2026-07-30 |
 | **American Airlines** | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9708ccf9ee0f5af2) | 2026-07-30 |
 | **Siemens** | Senior Software Engineer | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d5cfa2b4e92424b) | 2026-07-30 |
+| **Samsung Electronics** | Software Engineer | Plano, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c137c0ee6e643b46) | 2026-07-30 |
 | **Humana** | Senior Data Scientist | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=394aa6e5fb90e6e1) | 2026-07-30 |
 | **Humana** | Senior Data Scientist | Boston, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8b185167c49a4d3e) | 2026-07-30 |
 | **Humana** | Senior Data Scientist | Louisville, KY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3089b41c55ab91db) | 2026-07-30 |
@@ -61,6 +64,7 @@
 | **Tech Army** | Software Developer/Engineer (Mid Level experience) | Philadelphia, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c123253362f4f97f) | 2026-07-30 |
 | **Qualcomm** | Sr Engineer, Machine Learning Engineering (ML Apps) | San Diego, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=147dd0427dc3d860) | 2026-07-30 |
 | **Smart Apply Test Company** | Software Developer/Engineer (Mid Level experience) | Philadelphia, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5f9c7c087570b67) | 2026-07-30 |
+| **Texas Instruments** | Early Career: IT Security Engineer | Dallas, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=536a5cbcba65868f) | 2026-07-30 |
 | **Lincoln Financial** | Sr. Analyst, Applied AI Engineer | Radnor, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e69004e46b65327) | 2026-07-30 |
 | **SAS** | Software Development Engineer in Test (C) | Cary, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69e3f5a255507e77) | 2026-07-30 |
 | **Salesforce** | Senior Software Engineer (SMTS), Identity & Access Management - Device Trust | Bellevue, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd560d3519b576ef) | 2026-07-30 |
@@ -75,6 +79,9 @@
 | **NiCE** | Senior Software Engineer | Richardson, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b71e8980fb3c592) | 2026-07-30 |
 | **Berkshire Hathaway GUARD Insurance Companies** | Data Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d44e48661eb7c09) | 2026-07-30 |
 | **AMD** | Senior GPU Performance and Power Benchmark Engineer | Santa Clara, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ecd100e445d40723) | 2026-07-30 |
+| **The Hartford** | Reliability Engineer | Hartford, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77a96e5bb975df12) | 2026-07-30 |
+| **The Hartford** | Reliability Engineer | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2414ca1640b2e6d9) | 2026-07-30 |
+| **IFF** | AI & Data Scientist | Wilmington, DE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=625253be1b67957f) | 2026-07-30 |
 | **ZS Associates** | Senior AI Engineer | Chicago, IL, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=23b0d8efe2a85a6a) | 2026-07-29 |
 | **ZS Associates** | Senior AI Engineer | Princeton, NJ, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9bb6b2adb25c47c) | 2026-07-29 |
 | **Capgemini** | AI Architect | Seattle, WA, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5a4a763e4890e197) | 2026-07-29 |

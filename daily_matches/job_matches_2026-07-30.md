@@ -1,95 +1,84 @@
 # 🎯 Daily Job Matches — 2026-07-30
 
-**Total Jobs Found:** 8
+**Total Jobs Found:** 7
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Platform Engineer I @ HCLTech
-**Match Score:** 17.8%
+## 1. Full Stack Engineer @ ClassWallet
+**Match Score:** 16.7%
 
-📍 **Location:** Frisco, TX, US USA
+📍 **Location:** US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, Kafka, PostgreSQL, MySQL, MongoDB
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4013000b557f3707)
-
----
-
-## 2. Specialist, Data Engineer - SQL and Snowflake @ Nationwide Mutual Insurance Company
-**Match Score:** 12.2%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Data Lake, CI/CD, Jenkins, Git, Snowflake, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5c79cad4a6a280f3)
+[Apply Here](https://www.indeed.com/viewjob?jk=a5859053628eb5c2)
 
 ---
 
-## 3. Senior Data Scientist, Forecasting and Analytics @ McAfee
-**Match Score:** 12.2%
+## 2. Senior Software Engineer - SRE @ OneTrust
+**Match Score:** 14.4%
 
-📍 **Location:** Frisco, TX, US USA
+📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, BigQuery, Git, Snowflake, Databricks, BigQuery, Python, SQL, R
+🔑 **Keywords:** RAG, Prompt Engineering, Kubernetes, AKS, CI/CD, Jenkins, Terraform, Git, NoSQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=125376be857aeaac)
+[Apply Here](https://www.indeed.com/viewjob?jk=34fdb7f22611e005)
 
 ---
 
-## 4. Sr Engineer, Machine Learning Engineering (ML Apps) @ Qualcomm
+## 3. Software Engineer @ Samsung Electronics
+**Match Score:** 13.3%
+
+📍 **Location:** Plano, TX, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Jenkins, Git, PostgreSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c137c0ee6e643b46)
+
+---
+
+## 4. Early Career: IT Security Engineer @ Texas Instruments
 **Match Score:** 11.1%
 
-📍 **Location:** San Diego, CA, US USA
+📍 **Location:** Dallas, TX, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, Generative AI, PyTorch, Docker, CI/CD, Git, Python, R, Java, Optimization
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=147dd0427dc3d860)
-
----
-
-## 5. Software Developer/Engineer (Mid Level experience) @ Smart Apply Test Company
-**Match Score:** 11.1%
-
-📍 **Location:** Philadelphia, PA, US USA
-
-🔑 **Keywords:** LangChain, RAG, LLaMA, Mistral, Hugging Face, Prompt Engineering, Docker, Kubernetes, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a5f9c7c087570b67)
+[Apply Here](https://www.indeed.com/viewjob?jk=536a5cbcba65868f)
 
 ---
 
-## 6. Senior Software Engineer @ NiCE
+## 5. Reliability Engineer @ The Hartford
 **Match Score:** 10.0%
 
-📍 **Location:** Richardson, TX, US USA
+📍 **Location:** Hartford, CT, US USA
 
-🔑 **Keywords:** RAG, Copilot, CI/CD, Jenkins, Git, R, Java, Scala, Optimization
+🔑 **Keywords:** RAG, Copilot, Kubernetes, CI/CD, Terraform, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3b71e8980fb3c592)
-
----
-
-## 7. Data Engineer @ Berkshire Hathaway GUARD Insurance Companies
-**Match Score:** 10.0%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** CI/CD, Snowflake, Databricks, Tableau, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6d44e48661eb7c09)
+[Apply Here](https://www.indeed.com/viewjob?jk=77a96e5bb975df12)
 
 ---
 
-## 8. Senior GPU Performance and Power Benchmark Engineer @ AMD
+## 6. Reliability Engineer @ The Hartford
 **Match Score:** 10.0%
 
-📍 **Location:** Santa Clara, CA, US USA
+📍 **Location:** Charlotte, NC, US USA
 
-🔑 **Keywords:** RAG, PyTorch, Docker, Git, Python, R, Java, Scala, Optimization
+🔑 **Keywords:** RAG, Copilot, Kubernetes, CI/CD, Terraform, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ecd100e445d40723)
+[Apply Here](https://www.indeed.com/viewjob?jk=2414ca1640b2e6d9)
+
+---
+
+## 7. AI & Data Scientist @ IFF
+**Match Score:** 10.0%
+
+📍 **Location:** Wilmington, DE, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Copilot, Git, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=625253be1b67957f)
 
 ---
 
