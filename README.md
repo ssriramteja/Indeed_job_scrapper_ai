@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-07-31
-- **New Matches Found in Last Run:** 16
-- **Total Active Matches (Last 4 Days):** 772
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 777
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-07-31.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-07-31.xlsx)
 
@@ -14,6 +14,7 @@
 | **Thermo Fisher Scientific** | AI Engineer | NC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70a69ee2362e8f4b) | 2026-07-31 |
 | **JPMorganChase** | Software Engineer III - Databricks | Wilmington, DE, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3097ac152749d4d) | 2026-07-31 |
 | **LPL Financial** | Data Engineer II | Fort Mill, SC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dba8335e79adaef9) | 2026-07-31 |
+| **JPMorganChase** | Backend Java Software Engineer III | Palo Alto, CA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=46bd797613407be6) | 2026-07-31 |
 | **Prodapt Solutions** | AI Full Stack Engineer | Irving, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c716bd22ae576c5e) | 2026-07-31 |
 | **Novanta** | Senior Data Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d84674d8dbd92bd) | 2026-07-31 |
 | **Coforge** | AI Engineer | NJ, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a5597d7720fb2e0) | 2026-07-31 |
@@ -89,6 +90,7 @@
 | **Capgemini** | Senior Data Scientist | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d3c438d663f378f7) | 2026-07-31 |
 | **Capital One** | Senior Software Engineer, Full Stack (Java & Kafka) (Cloud Operations Resilience Engineering) | Plano, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=851b1e9451e42a90) | 2026-07-31 |
 | **Capital One** | Senior Software Engineer, Full Stack (Java & Kafka) (Cloud Operations Resilience Engineering) | Riverwoods, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8be459cc3686f5d) | 2026-07-31 |
+| **Serco** | Software Engineer | Herndon, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05510e6f1caeddd8) | 2026-07-31 |
 | **Verizon** | Senior AI Engineer - Live Operations | Basking Ridge, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77af677ef7a92a67) | 2026-07-31 |
 | **LTM Limited** | Specialist - Software Engineering | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f7a16c8d563ec1a) | 2026-07-31 |
 | **Providence** | Data Engineer I IS - Remote | Portland, OR, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=897bf28e61272194) | 2026-07-31 |
@@ -120,6 +122,9 @@
 | **Early Warning Services** | Data Engineer II - Zelle | Scottsdale, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18ad7ae6038eba44) | 2026-07-31 |
 | **The University of Michigan** | Senior Data Scientist - AI and ECG | Ann Arbor, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bccf3d9de1d65d82) | 2026-07-31 |
 | **Waukesha County Technical College** | Applied AI Scholar in Residence | Pewaukee, WI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a2b76de2dee8c1e) | 2026-07-31 |
+| **New York Life** | Senior Associate- Full Stack Software Engineer- AI | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b40647e800c14f2) | 2026-07-31 |
+| **Serco** | Senior Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a3674dda2f0400bd) | 2026-07-31 |
+| **Serco** | Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d98789fa82948dbd) | 2026-07-31 |
 | **Capgemini** | AI Architect/Developer | Seattle, WA, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=116af8cbccb591b5) | 2026-07-30 |
 | **GM Financial** | Data Engineer II - General Motors Insurance | Fort Worth, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5080f9a281fb787e) | 2026-07-30 |
 | **NTT DATA** | AI Foundational Model Engineer | Jersey City, NJ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=376d725617b0f2aa) | 2026-07-30 |
