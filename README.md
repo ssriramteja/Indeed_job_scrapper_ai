@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-02
-- **New Matches Found in Last Run:** 50
-- **Total Active Matches (Last 4 Days):** 488
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 491
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-02.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-02.xlsx)
 
@@ -58,6 +58,9 @@
 | **CLERA** | AI & Backend Engineer | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b258b22cd24e8af7) | 2026-08-02 |
 | **nan** | Decision Scientist | Bellevue, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=059945040a6a3e85) | 2026-08-02 |
 | **Serco** | Software Engineer | Herndon, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=693b10d5533f0611) | 2026-08-02 |
+| **nan** | AI Engineer | Rocklin, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e235cc7e99c3a2a) | 2026-08-02 |
+| **nan** | Backend Software Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e02044809e3bb14e) | 2026-08-02 |
+| **nan** | QA & Operations Engineer – Amazon Connect (CCaaS) | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94e45a080aab120d) | 2026-08-02 |
 | **Epicor Software** | Senior Data Ops Developer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d0c5791b84d17b1) | 2026-08-02 |
 | **Serco** | Senior Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1aae1e27d9570a95) | 2026-08-02 |
 | **BV Teck** | ETL Developer | Remote, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f0ae34753ca05b6) | 2026-08-01 |
