@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-03
-- **New Matches Found in Last Run:** 16
-- **Total Active Matches (Last 4 Days):** 371
+- **New Matches Found in Last Run:** 9
+- **Total Active Matches (Last 4 Days):** 380
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-03.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-03.xlsx)
 
@@ -21,18 +21,27 @@
 | **U.S. Bank** | Emerging Tech Engineer | Atlanta, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f50254df57de18c5) | 2026-08-03 |
 | **U.S. Bank** | Emerging Tech Engineer | Irving, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f76b422550e56c52) | 2026-08-03 |
 | **TikTok** | Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer | San Jose, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df7f3bd6cb74fbdd) | 2026-08-03 |
+| **Edurech Technoogy** | AI/ML Engineer | Florida City, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=255fa6809083315d) | 2026-08-03 |
+| **Edurech Technoogy** | Data Scientist | Landers, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=435b4faa1bb26f3c) | 2026-08-03 |
 | **Adobe** | Sr. Database Reliability Engineer | San Jose, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=669e23632e4f9ad7) | 2026-08-03 |
 | **Green Irony** | Senior MuleSoft Engineer | Durham, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e0eac49545af0ad) | 2026-08-03 |
 | **Green Irony** | Senior MuleSoft Engineer | Apex, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=323e4c2e667bc8d4) | 2026-08-03 |
 | **CLERA** | Platform Engineer | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=217f5fa2f9c7a6b8) | 2026-08-03 |
+| **Arktek Staffing Solutions** | AWS Platform Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d2f7be1910dbeb10) | 2026-08-03 |
 | **Cisco** | Senior Software Engineer (Hybrid) | Research Triangle Park, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17e0fcf9d6680636) | 2026-08-03 |
 | **Optum** | Software Engineer | Eden Prairie, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3eab4072c0b0822a) | 2026-08-03 |
 | **TikTok** | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start (PhD) | San Jose, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c47cdd5fea1d5376) | 2026-08-03 |
+| **JPMorganChase** | 2027 Data & AI Program - Full Time - Analyst - United States | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=60250ef25bb6ecd2) | 2026-08-03 |
+| **JPMorganChase** | 2027 Data & AI Program - Summer Internship - Analyst - United States | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ab560f2d3f8978f) | 2026-08-03 |
+| **Humana** | Data Engineer - Platform Innovation and Engineering | Louisville, KY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e28c74402fdf2d6) | 2026-08-03 |
 | **SprintRay** | Senior Software Engineer | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ff49181ee5dfeee) | 2026-08-03 |
 | **Agilewoven LLC** | Sr .NET Full Stack/AI Engineer | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c4caba2e708a794) | 2026-08-03 |
 | **JPMorganChase** | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=291bce23f034d334) | 2026-08-03 |
 | **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c0ee0a48cf92aa8) | 2026-08-03 |
 | **TikTok** | Machine Learning Engineer Graduate (Ads Targeting)- 2027 Start | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c35f431f5471656a) | 2026-08-03 |
+| **UDCYDE** | Senior Software Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7fd4e99dbd3da66e) | 2026-08-03 |
+| **Moody's** | Software Engineer | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e76b66fdbbfac5e0) | 2026-08-03 |
+| **JPMorganChase** | 2027 Data for Good Hackathon - Data & AI Program - Summer Internship | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d6a840599a311f8b) | 2026-08-03 |
 | **First American** | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=296becbd334bbc67) | 2026-08-02 |
 | **Deloitte** | Cyber - SecOps - Consultant | San Diego, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38cab832678de463) | 2026-08-02 |
 | **Deloitte** | Cyber - SecOps - Consultant | Pittsburgh, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c2fb36bc8bfa5f93) | 2026-08-02 |

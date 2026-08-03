@@ -1,183 +1,106 @@
 # 🎯 Daily Job Matches — 2026-08-03
 
-**Total Jobs Found:** 16
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Specialist - Data Engineering @ LTM Limited
-**Match Score:** 24.4%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, S3, EC2, Glue, Athena, Redshift, Data Lake, Kinesis, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3ec018f4b793bb53)
-
----
-
-## 2. Specialist - Data Engineering @ LTM Limited
-**Match Score:** 24.4%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, S3, EC2, Glue, Athena, Redshift, Data Lake, Kinesis, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6c5406e0a898c0b3)
-
----
-
-## 3. Senior Data Engineer @ LTM Limited
-**Match Score:** 24.4%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, S3, EC2, Glue, Athena, Redshift, Data Lake, Kinesis, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=51afe960d8622afb)
-
----
-
-## 4. Senior Data Engineer @ LTM Limited
-**Match Score:** 24.4%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, S3, EC2, Glue, Athena, Redshift, Data Lake, Kinesis, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b6bdbda24615b096)
-
----
-
-## 5. Senior Data Engineer @ LTM Limited
-**Match Score:** 24.4%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, S3, EC2, Glue, Athena, Redshift, Data Lake, Kinesis, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8a792597231fd045)
-
----
-
-## 6. Senior Data Engineer @ LTM Limited
-**Match Score:** 24.4%
-
-📍 **Location:** Tampa, FL, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, S3, EC2, Glue, Athena, Redshift, Data Lake, Kinesis, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=49b79f56ab220c49)
-
----
-
-## 7. AI Engineer Mentor (Part-Time) @ LearnWise Solutions Inc.
-**Match Score:** 21.1%
-
-📍 **Location:** Bellevue, WA, US USA
-
-🔑 **Keywords:** AI Engineer, Machine Learning Engineer, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a18f1d7c9d073182)
-
----
-
-## 8. Emerging Tech Engineer @ U.S. Bank
+## 1. AI/ML Engineer @ Edurech Technoogy
 **Match Score:** 15.6%
 
-📍 **Location:** Atlanta, GA, US USA
+📍 **Location:** Florida City, FL, US USA
 
-🔑 **Keywords:** LangChain, RAG, Copilot, FAISS, Pinecone, Prompt Engineering, Docker, Kubernetes, CI/CD, Git
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, TensorFlow, PyTorch, Keras, MLflow, Docker, Kubernetes, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f50254df57de18c5)
+[Apply Here](https://www.indeed.com/viewjob?jk=255fa6809083315d)
 
 ---
 
-## 9. Emerging Tech Engineer @ U.S. Bank
+## 2. Data Scientist @ Edurech Technoogy
 **Match Score:** 15.6%
 
-📍 **Location:** Irving, TX, US USA
+📍 **Location:** Landers, CA, US USA
 
-🔑 **Keywords:** LangChain, RAG, Copilot, FAISS, Pinecone, Prompt Engineering, Docker, Kubernetes, CI/CD, Git
+🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, Keras, Hadoop, Tableau, Power BI, Matplotlib, Seaborn
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f76b422550e56c52)
-
----
-
-## 10. Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer @ TikTok
-**Match Score:** 15.6%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, Docker, Kubernetes, Git, Kafka, MySQL, MongoDB, NoSQL, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=df7f3bd6cb74fbdd)
+[Apply Here](https://www.indeed.com/viewjob?jk=435b4faa1bb26f3c)
 
 ---
 
-## 11. Sr. Database Reliability Engineer @ Adobe
-**Match Score:** 14.4%
+## 3. AWS Platform Engineer @ Arktek Staffing Solutions
+**Match Score:** 12.2%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, Terraform, PostgreSQL, MySQL, MongoDB, Cassandra, Python, SQL
+🔑 **Keywords:** Generative AI, RAG, Prompt Engineering, S3, EC2, Kubernetes, CI/CD, Terraform, PostgreSQL, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=669e23632e4f9ad7)
+[Apply Here](https://www.indeed.com/viewjob?jk=d2f7be1910dbeb10)
 
 ---
 
-## 12. Senior Software Engineer (Hybrid) @ Cisco
+## 4. 2027 Data & AI Program - Full Time - Analyst - United States @ JPMorganChase
 **Match Score:** 11.1%
 
-📍 **Location:** Research Triangle Park, NC, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R, Scala, Optimization
+🔑 **Keywords:** Data Scientist, RAG, Copilot, Prompt Engineering, Snowflake, Databricks, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=17e0fcf9d6680636)
+[Apply Here](https://www.indeed.com/viewjob?jk=60250ef25bb6ecd2)
 
 ---
 
-## 13. Software Engineer @ Optum
+## 5. 2027 Data & AI Program - Summer Internship - Analyst - United States @ JPMorganChase
 **Match Score:** 11.1%
 
-📍 **Location:** Eden Prairie, MN, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** Generative AI, RAG, CI/CD, Git, Python, SQL, R, Java, Scala, Optimization
+🔑 **Keywords:** Data Scientist, RAG, Copilot, Prompt Engineering, Snowflake, Databricks, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3eab4072c0b0822a)
+[Apply Here](https://www.indeed.com/viewjob?jk=7ab560f2d3f8978f)
 
 ---
 
-## 14. Machine Learning Engineer Graduate (Brand Ads) - 2027 Start (PhD) @ TikTok
+## 6. Data Engineer - Platform Innovation and Engineering @ Humana
 **Match Score:** 11.1%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** Louisville, KY, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, TensorFlow, PyTorch, Python, R, Java, Scala, Optimization
+🔑 **Keywords:** RAG, Copilot, CI/CD, Git, Databricks, Python, SQL, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c47cdd5fea1d5376)
+[Apply Here](https://www.indeed.com/viewjob?jk=0e28c74402fdf2d6)
 
 ---
 
-## 15. Senior Automation Engineer @ TEEMA
+## 7. Senior Software Engineer @ UDCYDE
 **Match Score:** 10.0%
 
-📍 **Location:** Richmond, VA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Gemini, Databricks, NoSQL, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, MySQL, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2c0ee0a48cf92aa8)
+[Apply Here](https://www.indeed.com/viewjob?jk=7fd4e99dbd3da66e)
 
 ---
 
-## 16. Machine Learning Engineer Graduate (Ads Targeting)- 2027 Start @ TikTok
+## 8. Software Engineer @ Moody's
 **Match Score:** 10.0%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** Charlotte, NC, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Python, SQL, R, Optimization, A/B Testing
+🔑 **Keywords:** S3, EC2, Jenkins, Git, Tableau, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c35f431f5471656a)
+[Apply Here](https://www.indeed.com/viewjob?jk=e76b66fdbbfac5e0)
+
+---
+
+## 9. 2027 Data for Good Hackathon - Data & AI Program - Summer Internship @ JPMorganChase
+**Match Score:** 10.0%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RAG, Copilot, Prompt Engineering, Snowflake, Databricks, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d6a840599a311f8b)
 
 ---
 
