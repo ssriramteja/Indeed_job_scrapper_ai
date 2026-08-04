@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-04
-- **New Matches Found in Last Run:** 16
-- **Total Active Matches (Last 4 Days):** 443
+- **New Matches Found in Last Run:** 12
+- **Total Active Matches (Last 4 Days):** 455
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-04.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-04.xlsx)
 
@@ -27,6 +27,7 @@
 | **World Emblem International** | Data Engineer | Hollywood, FL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d8998c39a2d3607c) | 2026-08-04 |
 | **External SambaNova Systems** | Cloud Site Reliability Engineer | San Jose, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3979f6a95251946e) | 2026-08-04 |
 | **Pattern** | Data Engineer | Lehi, UT, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f815db0ed6fad5a7) | 2026-08-04 |
+| **TikTok** | Data Engineer Graduate (Monetization Data) - 2027 Start | San Jose, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56be91a8f59c7b8c) | 2026-08-04 |
 | **Worth AI** | Senior DevOps Engineer, Infrastructure & Reliability | Miami, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8b54a93247862959) | 2026-08-04 |
 | **Worth AI** | Senior DevOps Engineer, Infrastructure & Reliability | Tampa, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ecd2758d5ca0ec5c) | 2026-08-04 |
 | **Worth AI** | Senior DevOps Engineer, Infrastructure & Reliability | Atlanta, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bbfcb2f3ee241772) | 2026-08-04 |
@@ -34,6 +35,7 @@
 | **WellSky** | Sr. Software Engineer | Overland Park, KS, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=36604cce838968ed) | 2026-08-04 |
 | **Objectways Technologies** | Sr Data Engineer | US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d195c2d700ef8f1) | 2026-08-04 |
 | **Target** | Sr Data Analyst - Planning & Inventory Management | Minneapolis, MN, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56d647741c3e170c) | 2026-08-04 |
+| **TikTok** | Backend Software Engineer Graduate (TikTok-PGC-Digital Content Center) - 2027 Start | San Jose, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4d22af308ad0bf59) | 2026-08-04 |
 | **BV Teck** | Cloud Solutions Engineer – Azure | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7916ae467b0427c) | 2026-08-04 |
 | **Capgemini** | AI/ML Engineer - Agentic AI & Vertex AI | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5da07ea9415038e4) | 2026-08-04 |
 | **Capgemini** | AI/ML Engineer - Agentic AI & Vertex AI | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f158032216cc1261) | 2026-08-04 |
@@ -51,6 +53,7 @@
 | **Pariveda** | Entry-Level Software Engineer | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e2fff84c836d89a0) | 2026-08-04 |
 | **Pariveda** | Entry-Level Software Engineer | Philadelphia, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=688b144c02a2fbd7) | 2026-08-04 |
 | **JPMorganChase** | Software Engineer III (Java/Microservices/AWS) | Columbus, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28bcf22a9ef154fe) | 2026-08-04 |
+| **Garmin** | Data Scientist 1 | Louisville, CO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c944fb920be6412e) | 2026-08-04 |
 | **BV Teck** | Python Software Architect | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31872c8b26f562e3) | 2026-08-04 |
 | **BV Teck** | OCI Solutions Architect | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0d0311822cd0b6fe) | 2026-08-04 |
 | **BV Teck** | NLP AI Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d3c89e58d3d390f2) | 2026-08-04 |
@@ -80,6 +83,9 @@
 | **External SambaNova Systems** | Senior Cloud Platform Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10efc5d7b3f0485f) | 2026-08-04 |
 | **Cornerstone Advisors** | Sr. Power BI Developer & Data Analyst | Scottsdale, AZ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7e2964ae230695c) | 2026-08-04 |
 | **Robert Half** | System Engineer II NA | San Ramon, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3728033321b00995) | 2026-08-04 |
+| **TikTok** | Backend Engineer Graduate (User Growth) - 2027 Start | San Jose, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0596992fe0b17c96) | 2026-08-04 |
+| **EMCOR** | AI Engineer | Norwalk, CT, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49796963804a9fbc) | 2026-08-04 |
+| **Everforth ECS** | Data Scientist | Arlington, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b696b843bec14c5a) | 2026-08-04 |
 | **BV Teck** | Test Automation Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6468a261c686526f) | 2026-08-04 |
 | **BV Teck** | Senior .NET Solutions Developer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e33bfd2f8feede8b) | 2026-08-04 |
 | **BV Teck** | AI Platform Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=358a9f3009b11385) | 2026-08-04 |
@@ -101,6 +107,8 @@
 | **Serco** | Software Engineer | Herndon, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=75847a08a282e5dd) | 2026-08-04 |
 | **GXO Logistics** | Web Application Developer - Union City, GA | Union City, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f6664a9950764f8e) | 2026-08-04 |
 | **Case Western Reserve University** | Data Scientist 1 | Cleveland, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ef3747a475529bc5) | 2026-08-04 |
+| **HealthEquity Inc.** | Sr Cloud Applications Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bae92fb7eaa8dedc) | 2026-08-04 |
+| **TikTok** | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | San Jose, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bf4e3c1562d6183a) | 2026-08-04 |
 | **BV Teck** | Container Platform Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38048ba50b2a7b19) | 2026-08-04 |
 | **Capgemini** | Senior Tooling Engineer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=faeff0bc471d69b6) | 2026-08-04 |
 | **eBay** | Software Engineer 2 | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e966c345a42f20f5) | 2026-08-04 |
@@ -131,6 +139,10 @@
 | **Adobe** | Senior Software Engineer | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=64db48abe5b7a0e0) | 2026-08-04 |
 | **The Seattle Times** | Sr. Application Engineer (DevOps, AI) | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d59598ce14ca437d) | 2026-08-04 |
 | **Capgemini** | Senior Tooling Engineer | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d8e9e8114abbf943) | 2026-08-04 |
+| **NiCE** | AI DevOps Engineer | Sandy, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b29ef1c7c191aa5) | 2026-08-04 |
+| **Torq Consulting** | Senior Consultant – Data Strategy & AI Enablement | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c74856c3a868a08d) | 2026-08-04 |
+| **TikTok** | Machine Learning Engineer Intern (Ads Signal & Measurement) - 2027 Summer | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b2f9a1ca8038f043) | 2026-08-04 |
+| **TikTok** | Machine Learning Engineer Graduate (Ads Signal & Measurement) - 2027 Start | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ed54b2c376ac526) | 2026-08-04 |
 | **FedEx** | Data Scientist I and II (GCP & AI Engineer) | Memphis, TN, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f01b4e79c2d80ad1) | 2026-08-03 |
 | **LTM Limited** | Specialist - Data Engineering | Irving, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ec018f4b793bb53) | 2026-08-03 |
 | **LTM Limited** | Specialist - Data Engineering | Irving, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c5406e0a898c0b3) | 2026-08-03 |
