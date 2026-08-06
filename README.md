@@ -1,15 +1,52 @@
 # 🚀 Indeed Job Scraper AI
 
-### 📊 Latest Update: 2026-08-05
-- **New Matches Found in Last Run:** 23
-- **Total Active Matches (Last 4 Days):** 690
-- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-05.md)
-- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-05.xlsx)
+### 📊 Latest Update: 2026-08-06
+- **New Matches Found in Last Run:** 37
+- **Total Active Matches (Last 4 Days):** 674
+- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-06.md)
+- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-06.xlsx)
 
 #### 🎯 Rolling Window: Matches from last 4 days
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Capgemini** | Java Full Stack Engineer | Charlotte, NC, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=644b32ef05018543) | 2026-08-06 |
+| **Ford Motor Company** | Full-Stack Platform Software Engineer | Dearborn, MI, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b64ece3d83e461e) | 2026-08-06 |
+| **Applied Systems** | Data Engineer (GCP, BigQuery) | US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d730d92415b574ca) | 2026-08-06 |
+| **JPMorganChase** | Senior Associate, Data Scientist - PXT Analytics | Jersey City, NJ, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b18a3410ca26c21c) | 2026-08-06 |
+| **Modivcare** | Database Administrator IV | Denver, CO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=224c101cb5cb9b32) | 2026-08-06 |
+| **Modivcare** | Database Administrator IV | Denver, CO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4752fa061c12fdd3) | 2026-08-06 |
+| **Ford Motor Company** | Senior AI & Full Stack Engineer, Corporate Communications | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=745da0b9e666ddae) | 2026-08-06 |
+| **DASi LLC** | Senior Software Engineer (On-site) | Doral, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=424d7f776f08d66f) | 2026-08-06 |
+| **Blue Origin** | Software Engineer II | Seattle, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a7069e4fec77d355) | 2026-08-06 |
+| **JPMorganChase** | Python Backend Software Engineer III - AWS / Databricks | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4574c28d1f57d4a2) | 2026-08-06 |
+| **Oracle** | Senior Application Software Engineer | Nashville, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca11341c88de41f7) | 2026-08-06 |
+| **JPMorganChase** | Personalization - Product, Senior Associate | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c2f95a382fd1c4e7) | 2026-08-06 |
+| **BV Teck** | Senior Backend Developer – Python | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b6d002c780515dc4) | 2026-08-06 |
+| **4P Consulting Inc.** | Data Analytics Engineer IV. 4P/796 | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=52cb4b188a57c118) | 2026-08-06 |
+| **Bally's Intralot** | BI Engineer | North Little Rock, AR, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5a4a5cb09b0891fe) | 2026-08-06 |
+| **NEOGOV** | [Priority 1 | NS] - Mid-Level Full Stack Engineer .NET + Angular - Platform | Los Angeles, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=725e69782959ac1a) | 2026-08-06 |
+| **ARANGO** | Site Reliability Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c36a1a2a2fec9b00) | 2026-08-06 |
+| **BV Teck** | Azure Infrastructure Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f93f0f7b397e082) | 2026-08-06 |
+| **Fund For Public Health In New York Inc** | 10101 - Data Engineer | Queens, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=132d275252ee1064) | 2026-08-06 |
+| **Morgan Stanley** | Sr AI Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c4174f2a2d6584a) | 2026-08-06 |
+| **MetLife** | Software/Platform Engineer II | Cary, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fdb39cb4e2147615) | 2026-08-06 |
+| **MetLife** | Senior .NET Engineer (Azure/ Kubernetes) | Cary, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb376386d7325bfc) | 2026-08-06 |
+| **Capital One** | Distinguished Engineer -Developer Insights & AI Telemetry | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6b4f5da202dfa225) | 2026-08-06 |
+| **Annexa Inc.** | Microsoft Dynamics 365 Architect (CE/ CRM) | Washington, DC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=048132877b87a6f3) | 2026-08-06 |
+| **Radix** | Data Engineer | Scottsdale, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=436f3c432785fc82) | 2026-08-06 |
+| **JPMorganChase** | 2027 Data & AI Program - Summer Internship - Analyst - United States | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9b814e7b7f5238ed) | 2026-08-06 |
+| **YUM! Brands, Inc.** | Sr. Data Scientist | Plano, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6cfada03970b4968) | 2026-08-06 |
+| **SoftwareOne** | Microsoft Data, AI and Azure Sales Specialist | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0d272c9eac98c1e) | 2026-08-06 |
+| **Morningstar** | Credit Technology, Senior QA Automation Engineer – Chicago | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dffc081844cb7066) | 2026-08-06 |
+| **Applied Systems** | Security Engineer, AI | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5514366d13e9178) | 2026-08-06 |
+| **All Current Electrical Sales** | Software Engineer | Moorestown, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db1e02f7f3382976) | 2026-08-06 |
+| **Ascensus** | Application Architect, IT - Architects | Dresher, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1589ac1067bab8c3) | 2026-08-06 |
+| **Blue Origin** | Senior Software Development Engineer | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d574b109203ff7d) | 2026-08-06 |
+| **JPMorganChase** | Software Engineer III - Agentic/Python | Jersey City, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ad1f05cb250f6ca) | 2026-08-06 |
+| **University of Tennessee Health Science Center** | Data Scientist: Social Work Office of Research & Public Service - UTK | Knoxville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6022d56dd1dd7c06) | 2026-08-06 |
+| **University of Tennessee** | Data Scientist: Social Work Office of Research & Public Service - UTK | Knoxville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=518b0d970b747304) | 2026-08-06 |
+| **JPMorganChase** | 2027 Data for Good Hackathon - Data & AI Program - Summer Internship | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3003a9d5c383ac7c) | 2026-08-06 |
 | **NTT DATA** | AI Security Architect | Boston, MA, US USA | 31.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb2895861185e447) | 2026-08-05 |
 | **Equifax** | Senior Full Stack Engineer | St. Louis, MO, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27dbaa3dc8a3b601) | 2026-08-05 |
 | **Torq Consulting** | Senior Consultant – Modern Data & Analytics Engineering | Plano, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6194bf1cf11624a3) | 2026-08-05 |
@@ -647,59 +684,6 @@
 | **Cherokee Federal** | Healthcare Data Scientist | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f46a6a98a325f97d) | 2026-08-03 |
 | **Fractal Analytics** | Senior Engineer_Data Engineer_7 | CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5907802ebef017e2) | 2026-08-03 |
 | **NexOne, Inc.** | Data Scientist and AI Specialist | Clearfield, UT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13072dc55188e3bf) | 2026-08-03 |
-| **First American** | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=296becbd334bbc67) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | San Diego, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38cab832678de463) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Pittsburgh, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c2fb36bc8bfa5f93) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Jacksonville, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c9948608da85db2f) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Seattle, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f89783ec39dda71) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Jericho, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e30e5ab99bc687ba) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Grand Rapids, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ebbc70a898f2df1) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Miami, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=efc71b78183014c0) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0212d2c7380e3256) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | San Antonio, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9d85a2536024a1c) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Las Vegas, NV, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b542ec65ec380ef6) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Wichita, KS, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b3683c5d3f8250d) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Baltimore, MD, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e876b882b71381ab) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Cleveland, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3538297f6800b42a) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Nashville, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b6a21f275bbf1ce) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Portland, OR, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=461053696bb4f98e) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Memphis, TN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=68b2c087eb7ce0bb) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Austin, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a6183796ae1f0cce) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Indianapolis, IN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd327853ff66a9a1) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Stamford, CT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5e92e45764f2cf58) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Columbus, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c59bd6bb4f64cc6) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Houston, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=490053b3bd21b1a1) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Charlotte, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a5397d91963585f) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Dallas, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ed17083a474588d) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83ffa4a873ccd672) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a08aa14697d69593) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Raleigh, NC, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25a584285a5b9ef5) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Richmond, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e09b68823fa8783c) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Jersey City, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e72d3b1a879fe30d) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Colorado Springs, CO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c95e3785c8f2e689) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Fort Worth, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4cc57e0ac0f96a9f) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Philadelphia, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fdef23932b9e560b) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Minneapolis, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=14980b95b846b0b7) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | McLean, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fdcb1f7c9405a643) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Cincinnati, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30a29548c68c985d) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Tallahassee, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d44b54fed982eead) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | San Jose, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7d9839041c5991b) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Los Angeles, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b0a462760951de7f) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Detroit, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89bbb2bd371ee37e) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Hartford, CT, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=75806847d2c4a70f) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Costa Mesa, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fa87a943a1a74487) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a1173715382264e) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Sacramento, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=69c72bc507f3170d) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Denver, CO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0fad00a5c84faafc) | 2026-08-02 |
-| **Deloitte** | Cyber - SecOps - Consultant | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b0b8214e5b958f0) | 2026-08-02 |
-| **CLERA** | AI & Backend Engineer | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b258b22cd24e8af7) | 2026-08-02 |
-| **nan** | Decision Scientist | Bellevue, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=059945040a6a3e85) | 2026-08-02 |
-| **Serco** | Software Engineer | Herndon, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=693b10d5533f0611) | 2026-08-02 |
-| **nan** | AI Engineer | Rocklin, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e235cc7e99c3a2a) | 2026-08-02 |
-| **nan** | Backend Software Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e02044809e3bb14e) | 2026-08-02 |
-| **nan** | QA & Operations Engineer – Amazon Connect (CCaaS) | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94e45a080aab120d) | 2026-08-02 |
-| **Epicor Software** | Senior Data Ops Developer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d0c5791b84d17b1) | 2026-08-02 |
-| **Serco** | Senior Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1aae1e27d9570a95) | 2026-08-02 |
 
 ---
 
