@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-06
-- **New Matches Found in Last Run:** 14
-- **Total Active Matches (Last 4 Days):** 688
+- **New Matches Found in Last Run:** 9
+- **Total Active Matches (Last 4 Days):** 697
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-06.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-06.xlsx)
 
@@ -18,6 +18,8 @@
 | **Fujitsu** | AI/ML ENG III | Dallas, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c79fecb88f759cdc) | 2026-08-06 |
 | **Modivcare** | Database Administrator IV | Denver, CO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=224c101cb5cb9b32) | 2026-08-06 |
 | **Modivcare** | Database Administrator IV | Denver, CO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4752fa061c12fdd3) | 2026-08-06 |
+| **Ford Motor Company** | Senior Software Engineer | Allen Park, MI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6e4b33ddd29938b6) | 2026-08-06 |
+| **C.H. Robinson** | Software Engineer III | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8fb3264f58d94550) | 2026-08-06 |
 | **Ford Motor Company** | Senior AI & Full Stack Engineer, Corporate Communications | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=745da0b9e666ddae) | 2026-08-06 |
 | **DASi LLC** | Senior Software Engineer (On-site) | Doral, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=424d7f776f08d66f) | 2026-08-06 |
 | **Blue Origin** | Software Engineer II | Seattle, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a7069e4fec77d355) | 2026-08-06 |
@@ -48,6 +50,8 @@
 | **JPMorganChase** | Java Full Stack Software Engineer III - React / PostgreSQL | Tampa, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5098c1122253111e) | 2026-08-06 |
 | **CLERA** | Senior DevOps Engineer | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3ce11b9433c91a10) | 2026-08-06 |
 | **Robert Half** | Software Engineer III NA | San Ramon, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1235d9f4df7b10e4) | 2026-08-06 |
+| **osp labs hiring for us based mnc** | Full Stack SaaS development | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70ba9d56baa5b97e) | 2026-08-06 |
+| **C.H. Robinson** | Senior Software Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8b790018e6435ce) | 2026-08-06 |
 | **SoftwareOne** | Microsoft Data, AI and Azure Sales Specialist | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0d272c9eac98c1e) | 2026-08-06 |
 | **Morningstar** | Credit Technology, Senior QA Automation Engineer – Chicago | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dffc081844cb7066) | 2026-08-06 |
 | **Applied Systems** | Security Engineer, AI | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5514366d13e9178) | 2026-08-06 |
@@ -61,6 +65,11 @@
 | **ByteDance** | AI Network Automation Engineer intern (Global Physical Network Infra) - 2027 Summer | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=78d38c8ca2e45b9d) | 2026-08-06 |
 | **JPMorganChase** | Java Backend Software Engineer II - Spring Boot | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8618671a2ad8c996) | 2026-08-06 |
 | **JPMorganChase** | Data Science Product Senior Associate | Newark, DE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8516e76ab15f7bd) | 2026-08-06 |
+| **State of Texas** | Software Engineer (Austin) | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e975d446e8ff42a3) | 2026-08-06 |
+| **JPMorganChase** | Software Engineer III | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a80d9ad7a8d34ffe) | 2026-08-06 |
+| **JPMorganChase** | Site Reliability Engineer III | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2fee6ae5cd1f5ae) | 2026-08-06 |
+| **Serco** | Senior Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05b634294d1ddbff) | 2026-08-06 |
+| **C.H. Robinson** | Software Engineer III | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=585c50155b96f458) | 2026-08-06 |
 | **NTT DATA** | AI Security Architect | Boston, MA, US USA | 31.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb2895861185e447) | 2026-08-05 |
 | **Equifax** | Senior Full Stack Engineer | St. Louis, MO, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27dbaa3dc8a3b601) | 2026-08-05 |
 | **Torq Consulting** | Senior Consultant – Modern Data & Analytics Engineering | Plano, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6194bf1cf11624a3) | 2026-08-05 |
