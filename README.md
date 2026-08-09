@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-09
-- **New Matches Found in Last Run:** 58
-- **Total Active Matches (Last 4 Days):** 480
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 483
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-09.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-09.xlsx)
 
@@ -11,6 +11,7 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Disney Experiences** | Data Engineer | Orlando, FL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c2beecd9e43cf9c) | 2026-08-09 |
+| **JPMorganChase** | Software Engineer II: Data Engineer | Jersey City, NJ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8ff2428319ab1fc) | 2026-08-09 |
 | **Deloitte** | Google AI Architect | Philadelphia, PA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5a5d6e6433a2545) | 2026-08-09 |
 | **Deloitte** | Google AI Architect | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e8aea74abef8a18) | 2026-08-09 |
 | **Deloitte** | Google AI Architect | Austin, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea9e9fc3b54ac213) | 2026-08-09 |
@@ -58,12 +59,14 @@
 | **Deloitte** | Google AI Architect | Stamford, CT, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d70bcefc31856e94) | 2026-08-09 |
 | **National Geographic** | Data Platforms Analyst - National Geographic | Washington, DC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac094146d5d85d9d) | 2026-08-09 |
 | **Solidigm** | Software Engineer | Rancho Cordova, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7fee03428b22363e) | 2026-08-09 |
+| **LTM Limited** | Specialist - Data Sciences | Irving, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22c33033eaab5731) | 2026-08-09 |
 | **USAA** | Senior AI Data Scientist – Solutions Developer | San Antonio, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9eaa72ca3272b295) | 2026-08-09 |
 | **USAA** | Senior AI & Machine Learning Engineer | San Antonio, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3398a52087621e70) | 2026-08-09 |
 | **USAA** | AI Data Scientist | San Antonio, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ad535ff960edc880) | 2026-08-09 |
 | **USAA** | Experienced AI & Machine Learning Engineer | San Antonio, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=642d185968815468) | 2026-08-09 |
 | **Chicago Financial Search** | Software Development Engineer in Test | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f469ade2831899c) | 2026-08-09 |
 | **Magnakom** | Data Scientist | Van Nuys, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ae7bcb46939c3b6f) | 2026-08-09 |
+| **JPMorganChase** | CCB Risk Program Associate | Wilmington, DE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a38a45c57cb9d50e) | 2026-08-09 |
 | **THEMESOFT** | REMOTE_Senior Gen AI Engineer | Denver, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=550fe2b0b32bbae0) | 2026-08-09 |
 | **USAA** | AI & Machine Learning Engineer | San Antonio, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7a8949442ac05ac) | 2026-08-09 |
 | **JPMorganChase** | Full-Stack Java OR Python React AWS Software Engineer III | Jersey City, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=916b15db524dae4f) | 2026-08-09 |
