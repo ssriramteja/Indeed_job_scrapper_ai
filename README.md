@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-10
-- **New Matches Found in Last Run:** 7
-- **Total Active Matches (Last 4 Days):** 429
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 433
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-10.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-10.xlsx)
 
@@ -13,6 +13,7 @@
 | **Newpage Digital Healthcare solutions** | AI Native BUilder - Bangladesh | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2cb68ac3850d624) | 2026-08-10 |
 | **L.A. Care Health Plan** | Applied Artificial Intelligence Scientist III | Los Angeles, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=853f4fc1b6c4d0a0) | 2026-08-10 |
 | **Doble Engineering Company** | Software Engineer AI | Marlborough, MA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ee2aec48a20d562) | 2026-08-10 |
+| **The Home Depot** | Senior AI Engineer (Remote) | Atlanta, GA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bbdc56aa8fd0f845) | 2026-08-10 |
 | **JPMorganChase** | Personalization Product Senior Data Associate | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ee342097369dcac) | 2026-08-10 |
 | **Simplot Company** | AI Engineer, Data Science Team- Boise, ID | Boise, ID, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9cae4f9c3b33d3d) | 2026-08-10 |
 | **JPMorganChase** | Software Engineer III - Full Stack | Jersey City, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15d09dc910699334) | 2026-08-10 |
@@ -29,6 +30,9 @@
 | **V4C.ai** | Hiring Data Engineers in USA | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c12be1bf8cf78dc) | 2026-08-10 |
 | **Genpact** | AI Engineer 4A | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f17daa76004ab72) | 2026-08-10 |
 | **Nextech Systems** | Technical Product Owner/Business Analyst (Remote - US) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ddba282382509b0d) | 2026-08-10 |
+| **Boston Scientific** | Senior AI Solution Architect | Arden Hills, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c18bea9cda0cf7f1) | 2026-08-10 |
+| **PTMA Financial Solutions** | Senior Software Engineer/Full Stack Developer | Naperville, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c682fc9ace07d7fa) | 2026-08-10 |
+| **PTMA Financial Solutions** | Senior Software Engineer/Full Stack Developer | Denver, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b310f9fae385df3d) | 2026-08-10 |
 | **Disney Experiences** | Data Engineer | Orlando, FL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c2beecd9e43cf9c) | 2026-08-09 |
 | **JPMorganChase** | Software Engineer II: Data Engineer | Jersey City, NJ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8ff2428319ab1fc) | 2026-08-09 |
 | **Deloitte** | Google AI Architect | Philadelphia, PA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5a5d6e6433a2545) | 2026-08-09 |

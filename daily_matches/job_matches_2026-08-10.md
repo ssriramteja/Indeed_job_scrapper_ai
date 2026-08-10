@@ -1,84 +1,51 @@
 # 🎯 Daily Job Matches — 2026-08-10
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AI Native BUilder - Bangladesh @ Newpage Digital Healthcare solutions
-**Match Score:** 18.9%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AI Engineer, RAG, Gemini, Copilot, Pinecone, Glue, MLflow, FastAPI, Docker, Kubernetes
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f2cb68ac3850d624)
-
----
-
-## 2. Software Engineer AI @ Doble Engineering Company
+## 1. Senior AI Engineer (Remote) @ The Home Depot
 **Match Score:** 16.7%
-
-📍 **Location:** Marlborough, MA, US USA
-
-🔑 **Keywords:** RAG, Prompt Engineering, Azure ML, Azure ML Studio, Docker, Kubernetes, CI/CD, Git, Databricks, PostgreSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0ee2aec48a20d562)
-
----
-
-## 3. Senior AI/Full-Stack Software Engineer(Part-Time) @ MODULAR
-**Match Score:** 12.2%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Docker, CI/CD, Git, NoSQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9ceda01afff0d734)
-
----
-
-## 4. Software Engineer III (Java) @ JPMorganChase
-**Match Score:** 12.2%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** RAG, S3, CI/CD, Git, Kafka, Cassandra, NoSQL, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=04e8bc1c932c3a0e)
-
----
-
-## 5. Hiring Data Engineers in USA @ V4C.ai
-**Match Score:** 10.0%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** CI/CD, Git, Databricks, PySpark, Python, SQL, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9c12be1bf8cf78dc)
-
----
-
-## 6. AI Engineer 4A @ Genpact
-**Match Score:** 10.0%
 
 📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, Prompt Engineering, Git, Python, SQL, R, Java
+🔑 **Keywords:** AI Engineer, Machine Learning Engineer, RAG, Gemini, Copilot, Prompt Engineering, Docker, Kubernetes, CI/CD, Terraform
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0f17daa76004ab72)
+[Apply Here](https://www.indeed.com/viewjob?jk=bbdc56aa8fd0f845)
 
 ---
 
-## 7. Technical Product Owner/Business Analyst (Remote - US) @ Nextech Systems
+## 2. Senior AI Solution Architect @ Boston Scientific
 **Match Score:** 10.0%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Arden Hills, MN, US USA
 
-🔑 **Keywords:** RAG, Synapse, Data Lake, Databricks, Tableau, Power BI, SQL, R, Scala
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, RAG, Prompt Engineering, Snowflake, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ddba282382509b0d)
+[Apply Here](https://www.indeed.com/viewjob?jk=c18bea9cda0cf7f1)
+
+---
+
+## 3. Senior Software Engineer/Full Stack Developer @ PTMA Financial Solutions
+**Match Score:** 10.0%
+
+📍 **Location:** Naperville, IL, US USA
+
+🔑 **Keywords:** RAG, Copilot, Git, PostgreSQL, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c682fc9ace07d7fa)
+
+---
+
+## 4. Senior Software Engineer/Full Stack Developer @ PTMA Financial Solutions
+**Match Score:** 10.0%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** RAG, Copilot, Git, PostgreSQL, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b310f9fae385df3d)
 
 ---
 
