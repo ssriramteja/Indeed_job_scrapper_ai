@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-10
-- **New Matches Found in Last Run:** 3
-- **Total Active Matches (Last 4 Days):** 420
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 422
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-10.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-10.xlsx)
 
@@ -14,8 +14,10 @@
 | **JPMorganChase** | Personalization Product Senior Data Associate | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ee342097369dcac) | 2026-08-10 |
 | **Simplot Company** | AI Engineer, Data Science Team- Boise, ID | Boise, ID, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9cae4f9c3b33d3d) | 2026-08-10 |
 | **JPMorganChase** | Software Engineer III - Full Stack | Jersey City, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15d09dc910699334) | 2026-08-10 |
+| **Adobe** | Software Development Engineer - Adobe Firefly Web | San Jose, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13ba4e5643574844) | 2026-08-10 |
 | **Lovable** | Analytics Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7efb7ac07ab648ab) | 2026-08-10 |
 | **Lovable** | Analytics Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0d9ee80d0da4c4aa) | 2026-08-10 |
+| **Aderant** | Senior Cloud Engineer | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=061b33385aba242d) | 2026-08-10 |
 | **Verse** | Software Engineer, Product Experience | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe7c8098355371d7) | 2026-08-10 |
 | **Serco** | Senior Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=054aa1dc99200216) | 2026-08-10 |
 | **CCS Inc** | Data Scientist | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b827883dd79b3647) | 2026-08-10 |
