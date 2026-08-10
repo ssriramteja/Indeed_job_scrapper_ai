@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-10
-- **New Matches Found in Last Run:** 7
-- **Total Active Matches (Last 4 Days):** 417
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 420
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-10.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-10.xlsx)
 
@@ -11,12 +11,15 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **L.A. Care Health Plan** | Applied Artificial Intelligence Scientist III | Los Angeles, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=853f4fc1b6c4d0a0) | 2026-08-10 |
+| **JPMorganChase** | Personalization Product Senior Data Associate | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ee342097369dcac) | 2026-08-10 |
 | **Simplot Company** | AI Engineer, Data Science Team- Boise, ID | Boise, ID, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9cae4f9c3b33d3d) | 2026-08-10 |
+| **JPMorganChase** | Software Engineer III - Full Stack | Jersey City, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15d09dc910699334) | 2026-08-10 |
 | **Lovable** | Analytics Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7efb7ac07ab648ab) | 2026-08-10 |
 | **Lovable** | Analytics Engineer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0d9ee80d0da4c4aa) | 2026-08-10 |
 | **Verse** | Software Engineer, Product Experience | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe7c8098355371d7) | 2026-08-10 |
 | **Serco** | Senior Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=054aa1dc99200216) | 2026-08-10 |
 | **CCS Inc** | Data Scientist | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b827883dd79b3647) | 2026-08-10 |
+| **Serco** | Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8ed94d4000dbeac4) | 2026-08-10 |
 | **Disney Experiences** | Data Engineer | Orlando, FL, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c2beecd9e43cf9c) | 2026-08-09 |
 | **JPMorganChase** | Software Engineer II: Data Engineer | Jersey City, NJ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8ff2428319ab1fc) | 2026-08-09 |
 | **Deloitte** | Google AI Architect | Philadelphia, PA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5a5d6e6433a2545) | 2026-08-09 |
