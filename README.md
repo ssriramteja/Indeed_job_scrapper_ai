@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-12
-- **New Matches Found in Last Run:** 23
-- **Total Active Matches (Last 4 Days):** 596
+- **New Matches Found in Last Run:** 4
+- **Total Active Matches (Last 4 Days):** 600
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-12.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-12.xlsx)
 
@@ -64,6 +64,8 @@
 | **Deloitte** | Cyber Forward Deployed Engineer - Senior Consultant | Colorado Springs, CO, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3dfe56f5a56c3183) | 2026-08-12 |
 | **S&P Global** | Machine Learning Engineer II | New York, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30e54fb12a726038) | 2026-08-12 |
 | **S&P Global** | Machine Learning Engineer II | New York, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=067af6d6bf73eeb0) | 2026-08-12 |
+| **Coretek Services** | Architect - Machine Learning and Data | US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=beef2d77f930831c) | 2026-08-12 |
+| **Princess** | Senior Engineer, ITSM AI Platform | Fort Lauderdale, FL, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eb29d8a4e4f304ec) | 2026-08-12 |
 | **Wells Fargo** | Senior AI Data Engineer (contract) | Charlotte, NC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0871e37a530ef61) | 2026-08-12 |
 | **Wells Fargo** | Senior AI Data Engineer (contract) | Charlotte, NC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f64f4865300918b5) | 2026-08-12 |
 | **Ford Motor Company** | Senior AI Engineer | Dearborn, MI, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6e6dfe786d11af63) | 2026-08-12 |
@@ -138,6 +140,8 @@
 | **Frontline Education** | Solution Architect - Platform, Data Platform & AI Architecture | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81078f7a7b58a157) | 2026-08-12 |
 | **Target** | Engineer - Stores & Supply Chain | Brooklyn Park, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89caa8fcfd13f6cd) | 2026-08-12 |
 | **Recruitics_CH Robinson_Sponsored Jobs_East_Maverick** | Senior Software Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2389ccbb1e201011) | 2026-08-12 |
+| **Greenlight Financial Technology** | Software Development Engineer In Test II Atlanta (Remote Friendly) | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8670ae6971976bb3) | 2026-08-12 |
+| **Huntington Bank** | Data Scientist: III (Senior) | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=301bbe843fb62e2f) | 2026-08-12 |
 | **Salesforce** | Sr. DNS Engineer | Indianapolis, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47fe0d3145b6d766) | 2026-08-12 |
 | **The Evolvers Group** | Cloud Engineer | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9fb25c410bfe57d4) | 2026-08-12 |
 | **Oracle** | Systems Software Engineer | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0459b10199eea7ab) | 2026-08-12 |
