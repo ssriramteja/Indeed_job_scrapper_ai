@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-13
-- **New Matches Found in Last Run:** 11
-- **Total Active Matches (Last 4 Days):** 760
+- **New Matches Found in Last Run:** 57
+- **Total Active Matches (Last 4 Days):** 817
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-13.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-13.xlsx)
 
@@ -11,6 +11,8 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **TELEWORLD SOLUTIONS INC** | Machine Learning Engineer | Plano, TX, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79151862d72c4127) | 2026-08-13 |
+| **84.51°** | Senior Data Engineer (P1129) | Chicago, IL, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=33cf369e908a784a) | 2026-08-13 |
+| **84.51°** | Senior Data Engineer (P1129) | Cincinnati, OH, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d09728235ba261a5) | 2026-08-13 |
 | **Humana** | Senior Software Engineer | Washington, DC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1142c8a0dc63e958) | 2026-08-13 |
 | **Ford Motor Company** | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 |
 | **Verizon** | Engineer II - AI/ML Engineering | Irving, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe877c82bf3765bf) | 2026-08-13 |
@@ -26,6 +28,7 @@
 | **U.S. Bank** | Software Engineer 2 (AI/GenAI) | Brookfield, WI, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f6721a62ef6659e3) | 2026-08-13 |
 | **U.S. Bank** | Software Engineer 2 (AI/GenAI) | Atlanta, GA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85db08255bd1c95b) | 2026-08-13 |
 | **U.S. Bank** | Software Engineer 2 (AI/GenAI) | Irving, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cbe2ba9e399ffb43) | 2026-08-13 |
+| **Verizon** | Data Security Engineer, Exposure and Vulnerability Management | Alpharetta, GA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a24f6408369310a) | 2026-08-13 |
 | **TensorOps** | Junior AI/ML Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b521419e02507c75) | 2026-08-13 |
 | **Solventum** | AI Architect | Pittsburgh, PA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96db8f9c763bb4ee) | 2026-08-13 |
 | **EVERSANA** | Sr. AI Developer, Engineering | Chicago, IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cbfe4e303f1e228c) | 2026-08-13 |
@@ -97,6 +100,57 @@
 | **Adarga** | Platform Engineer - US | Herndon, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fbf173770b138bdd) | 2026-08-13 |
 | **Finance of America** | AI Engineer II | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6cbb45a96403ed58) | 2026-08-13 |
 | **Serco** | Software Engineer | Herndon, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a7359a36b66a907) | 2026-08-13 |
+| **Micron Technology** | Full Stack AI Engineer | Boise, ID, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca3c0de0821df9e2) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c2ca49554b4ebd95) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0546d7816e8914bb) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | Washington, DC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4661437b0a8695e7) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | SC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c5f547b63fc7139) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=691cbe69ae7ec701) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4986682191b6b73f) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | IA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=edaaafcfb7f5a605) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | ID, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=135a04ee6bdd0d5a) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49bb3436587538d1) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9b361589e1c660a3) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | LA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=66a2d1da176d75c3) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | OK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=46cbda8784a3e043) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | TN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfd866fd6835b857) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8bbd186e3e3e053f) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | NH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d7417b325462e7a) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | MS, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=132bf412bf03ed37) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | NM, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a7f920715c344af) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | RI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2e3ac487edec200d) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | OR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9cde8f1161fc1ece) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | UT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df2dd488e4d076d6) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | ND, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43caaa021c77a453) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | AK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=50a44b1740046a02) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e750ba6a7d3c5aa7) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | NV, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=df5cdfc834713e60) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9dfe944808b020b5) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | WY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5047a05a9df7c31e) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | WV, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0492323754adf0cb) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | DE, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b35144048144bb4d) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4becae3a66db32c7) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | WI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4bb1a147a74ce624) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | AR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b541220c9cf97f3) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54369d1e31beff43) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=320aa709905ca016) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | ME, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54cf359574171a1f) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=193480a17934acb3) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | KS, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8539afb385323575) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | IN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=709547c062fff29b) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73a4c23f1f796153) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | CT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=170f2e97660718a6) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74468c7806461527) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | AL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=799f60204f87f37d) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6071e16de34e6922) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | MT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c9eb5b3a8191f35f) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4c724b795724e80) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | KY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a1e6368996ab6a8) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | VT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49ad8db6cef148ec) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e5ac87cf3ad0746) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | NE, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d45ab6ee8f4fae8) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ddf2c70ccac0ec7) | 2026-08-13 |
+| **CVS Health** | Senior Analyst - Business Analytics | SD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8857d82d160bd77b) | 2026-08-13 |
 | **General Motors (GM)** | Agentic Data Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1735db3bce16b8f) | 2026-08-13 |
 | **Ingram Micro** | Sr. Software Engineer in Test (SET) | Greer, SC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dca4bf3b3a81310a) | 2026-08-13 |
 | **Ingram Micro** | Sr. Software Engineer in Test (SET) | Greer, SC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b6eee3eac4a9a64) | 2026-08-13 |
@@ -128,6 +182,9 @@
 | **Serco** | Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=88ef9526766f0b3a) | 2026-08-13 |
 | **canyon associates** | Senior Data Engineer | Princeton, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8092057b1ca46619) | 2026-08-13 |
 | **Capgemini** | Senior Software Technician | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff617cf7531c6801) | 2026-08-13 |
+| **Capgemini** | Senior Software Technician | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=369e515e4afd79b0) | 2026-08-13 |
+| **EPAM Systems** | DevOps Enablement Engineer & AI Adoption Specialist | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=afbd79c4d6b6a33f) | 2026-08-13 |
+| **EPAM Systems** | DevOps Enablement Engineer & AI Adoption Specialist | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=06ace55cba750e2e) | 2026-08-13 |
 | **Kentro** | ETL Developer | Remote, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f93bd43dc6dfa898) | 2026-08-12 |
 | **AdventHealth Corporate** | AI Engineer | Altamonte Springs, FL, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0bf1a15fd8c75d64) | 2026-08-12 |
 | **hallmark health care solutions** | AI Software Engineer | Dallas, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97f17c7cef298683) | 2026-08-12 |
