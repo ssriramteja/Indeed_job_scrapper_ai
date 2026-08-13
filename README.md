@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-13
-- **New Matches Found in Last Run:** 48
-- **Total Active Matches (Last 4 Days):** 690
+- **New Matches Found in Last Run:** 26
+- **Total Active Matches (Last 4 Days):** 716
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-13.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-13.xlsx)
 
@@ -15,6 +15,17 @@
 | **Ford Motor Company** | Tech Anchor - Supply Chain | Dearborn, MI, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=03fb9d71a5df30e5) | 2026-08-13 |
 | **Verizon** | Engineer II - AI/ML Engineering | Irving, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe877c82bf3765bf) | 2026-08-13 |
 | **CarParts.com** | Sr. Full Stack Engineer - AI Forward | Long Beach, CA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a64052bb51ee98f7) | 2026-08-13 |
+| **JPMorganChase** | Software Engineer III | Jersey City, NJ, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=01b861154fd37cbd) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 2 (Backend AI) | Earth City, MO, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f97f550868ed4a0) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 2 (Backend AI) | Chicago, IL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=539b15f3acf3e59d) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 2 (Backend AI) | Saint Paul, MN, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f6cc9573c1dfe07) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 2 (AI/GenAI) | Earth City, MO, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb32f6f568871573) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 2 (AI/GenAI) | Chicago, IL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6885db6408659217) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 2 (AI/GenAI) | Hopkins, MN, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31a066f7c7018f73) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 2 (AI/GenAI) | Denver, CO, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1863e21d6269820) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 2 (AI/GenAI) | Brookfield, WI, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f6721a62ef6659e3) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 2 (AI/GenAI) | Atlanta, GA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85db08255bd1c95b) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 2 (AI/GenAI) | Irving, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cbe2ba9e399ffb43) | 2026-08-13 |
 | **Deloitte** | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | Washington, DC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c90824e3bd008138) | 2026-08-13 |
 | **Deloitte** | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | Boston, MA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=87bcf9c4072c5d54) | 2026-08-13 |
 | **Deloitte** | Senior, Tax Technology Services - Agentic Engineering Platform for GESTC | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=307466eb1e79bfd6) | 2026-08-13 |
@@ -34,12 +45,19 @@
 | **Protera Health** | Senior Data Engineer | US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4eae24a52542621) | 2026-08-13 |
 | **Medallia** | Senior Site Reliability Engineer, GovCloud | McLean, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc5f12797f9848e1) | 2026-08-13 |
 | **Adobe** | Senior Software Development Engineer 5 | San Jose, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98f20089a25d422a) | 2026-08-13 |
+| **Resmed** | Associate Software Engineer | San Diego, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a8a363a45eab6297) | 2026-08-13 |
 | **Salesforce** | Senior AI Engineer, Agentforce Reasoning | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af544c887d36163a) | 2026-08-13 |
 | **Target** | Sr Applied Data Scientist - Personalization (applied ML, PyTorch, ML Ops) | Brooklyn Park, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0eff30c9b008af59) | 2026-08-13 |
 | **PRADCO** | Machine Learning Engineer | MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a96a66a63c39b80b) | 2026-08-13 |
 | **Releady** | Experimentation Data Scientist | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ed5c6b26533dd91) | 2026-08-13 |
 | **nan** | Senior DevOps Platform Engineer | Los Angeles, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=316dfc218c18008e) | 2026-08-13 |
 | **Faith Technologies Incorporated** | Data Engineer II | Menasha, WI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81cff073185154b2) | 2026-08-13 |
+| **Synopsys** | Application Engineering Architect- Enterprise Software/FA&D | Exton, PA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e4a981c834a387a) | 2026-08-13 |
+| **SentiLink** | Data Scientist, Full Stack | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=05b2f58eaae34c09) | 2026-08-13 |
+| **Centene** | Senior IT Data Scientist | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=608618b1815cca7a) | 2026-08-13 |
+| **Centene** | Senior IT Data Scientist | VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c16c77aae1ce8ed2) | 2026-08-13 |
+| **Centene** | Senior IT Data Scientist | PA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=493114ee33ab6c46) | 2026-08-13 |
+| **Centene** | Senior IT Data Scientist | TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=387bf0db41dda0bf) | 2026-08-13 |
 | **Hallmark** | Full Stack Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=697aa02158b0c543) | 2026-08-13 |
 | **ADT** | Senior Site Reliability Engineer | Blue Bell, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94ebaac67a9c2b6b) | 2026-08-13 |
 | **nan** | Senior Full-Stack Engineer, Internal Tools | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=39415ff3c33d7c06) | 2026-08-13 |
@@ -48,6 +66,8 @@
 | **Wells Fargo** | Infrastructure Engineer - Infrastructure Automation | Iselin, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44d39d0981732a18) | 2026-08-13 |
 | **nan** | Senior Site Reliability Engineer (Job ID 3021693) | Blue Bell, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f988632f097474a4) | 2026-08-13 |
 | **DISTILLERY** | Sr. DevOps AWS – United States | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d3535f85c629d570) | 2026-08-13 |
+| **JPMorganChase** | 2027 Data & AI Program - Summer Internship - Analyst - United States | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2b7536a45c1a693b) | 2026-08-13 |
+| **SentiLink** | Applied ML Scientist | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7dde3232c690b9e7) | 2026-08-13 |
 | **General Motors (GM)** | Agentic Data Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1735db3bce16b8f) | 2026-08-13 |
 | **Ingram Micro** | Sr. Software Engineer in Test (SET) | Greer, SC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dca4bf3b3a81310a) | 2026-08-13 |
 | **Ingram Micro** | Sr. Software Engineer in Test (SET) | Greer, SC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b6eee3eac4a9a64) | 2026-08-13 |
@@ -58,6 +78,12 @@
 | **Verizon** | Senior AI Engineer | Basking Ridge, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=068fe99be7280612) | 2026-08-13 |
 | **NTT DATA** | AI Training Sr. Consultant - Developer & End User Enablement | TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=001a25758a5610eb) | 2026-08-13 |
 | **Bellwood** | Software Engineer (Java/Spring Boot) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98aeff7ba80024af) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 1 (Backend UI and AI) | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dce0615b84398da9) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 1 (Backend UI and AI) | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c5479d606c4a8e8) | 2026-08-13 |
+| **U.S. Bank** | Software Engineer 1 (Backend UI and AI) | Earth City, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ba8ca723db12b376) | 2026-08-13 |
+| **Trimble** | Enterprise AI DevOps SRE | CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0af6bf8b671480c6) | 2026-08-13 |
+| **Flight Centre Travel Group** | AI Developer - Forward Deployed Engineer - Houston, TX | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=747c48f0190263d6) | 2026-08-13 |
+| **Serco** | Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=853da5a3c3fdb779) | 2026-08-13 |
 | **Kentro** | ETL Developer | Remote, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f93bd43dc6dfa898) | 2026-08-12 |
 | **AdventHealth Corporate** | AI Engineer | Altamonte Springs, FL, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0bf1a15fd8c75d64) | 2026-08-12 |
 | **hallmark health care solutions** | AI Software Engineer | Dallas, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97f17c7cef298683) | 2026-08-12 |
