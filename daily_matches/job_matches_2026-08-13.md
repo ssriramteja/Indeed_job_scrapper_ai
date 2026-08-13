@@ -1,634 +1,436 @@
 # 🎯 Daily Job Matches — 2026-08-13
 
-**Total Jobs Found:** 57
+**Total Jobs Found:** 39
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Data Engineer (P1129) @ 84.51°
-**Match Score:** 18.9%
+## 1. Cloud Platform Senior Consultant - Remote - Arity @ Arity
+**Match Score:** 24.4%
 
-📍 **Location:** Chicago, IL, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, FastAPI, Kubernetes, AKS, CI/CD, GitHub Actions, Terraform, Git, Databricks
+🔑 **Keywords:** RAG, Athena, Redshift, BigQuery, Kubernetes, Apache Airflow, CI/CD, Jenkins, Terraform, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=33cf369e908a784a)
+[Apply Here](https://www.indeed.com/viewjob?jk=b2c9ee52930eba81)
 
 ---
 
-## 2. Senior Data Engineer (P1129) @ 84.51°
+## 2. AI/Data Science Engineer II @ MiniMed
+**Match Score:** 22.2%
+
+📍 **Location:** Northridge, CA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Redshift, BigQuery, Synapse, Git, Snowflake, Databricks, BigQuery, Redshift
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3b13ae863d10a99c)
+
+---
+
+## 3. Senior Data Engineer (P1129) @ 84.51°
 **Match Score:** 18.9%
 
 📍 **Location:** Cincinnati, OH, US USA
 
 🔑 **Keywords:** Data Scientist, RAG, FastAPI, Kubernetes, AKS, CI/CD, GitHub Actions, Terraform, Git, Databricks
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d09728235ba261a5)
+[Apply Here](https://www.indeed.com/viewjob?jk=2706993ff5471611)
 
 ---
 
-## 3. Data Security Engineer, Exposure and Vulnerability Management @ Verizon
+## 4. Senior Software Engineer @ Optum
 **Match Score:** 17.8%
 
-📍 **Location:** Alpharetta, GA, US USA
+📍 **Location:** Eden Prairie, MN, US USA
 
-🔑 **Keywords:** RAG, Redshift, BigQuery, Apache Airflow, Git, Snowflake, BigQuery, Redshift, PostgreSQL, MySQL
+🔑 **Keywords:** Generative AI, RAG, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Databricks
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4a24f6408369310a)
+[Apply Here](https://www.indeed.com/viewjob?jk=8850eb9992fec828)
 
 ---
 
-## 4. Full Stack AI Engineer @ Micron Technology
+## 5. Cloud Platform Engineer @ Sambanova
+**Match Score:** 16.7%
+
+📍 **Location:** Palo Alto, CA, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, NoSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=45c9eec9d48995e8)
+
+---
+
+## 6. Cloud Data Warehouse Engineer III @ Modivcare
+**Match Score:** 15.6%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** RAG, S3, Glue, Athena, Redshift, CI/CD, Git, Snowflake, Redshift, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d1403d2c68966d88)
+
+---
+
+## 7. Cloud Data Warehouse Engineer III @ Modivcare
+**Match Score:** 15.6%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** RAG, S3, Glue, Athena, Redshift, CI/CD, Git, Snowflake, Redshift, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d7136cd362b32aa5)
+
+---
+
+## 8. BI Analytics Engineer, IQVIA Digital (Remote) @ IQVIA
+**Match Score:** 15.6%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** RAG, Redshift, BigQuery, Synapse, Git, Snowflake, Databricks, BigQuery, Redshift, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a1f29d6a024aa2fc)
+
+---
+
+## 9. BI Analytics Engineer, IQVIA Digital (Remote) @ IQVIA
+**Match Score:** 15.6%
+
+📍 **Location:** Wayne, NJ, US USA
+
+🔑 **Keywords:** RAG, Redshift, BigQuery, Synapse, Git, Snowflake, Databricks, BigQuery, Redshift, Tableau
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c4b18f6f693f585d)
+
+---
+
+## 10. Software Engineering SMTS @ Salesforce
+**Match Score:** 15.6%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Jenkins, Git, NoSQL, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c9bdbba1aa0d5da9)
+
+---
+
+## 11. Overseas Contractor @ LTM Limited
+**Match Score:** 15.6%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, Prompt Engineering, Azure ML, MLflow, CI/CD, Git, Databricks, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1d2cf0c213693874)
+
+---
+
+## 12. Senior Java Full Stack Developer @ BNY
+**Match Score:** 15.6%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** FastAPI, Docker, Kubernetes, AKS, CI/CD, Kafka, PostgreSQL, MongoDB, NoSQL, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4b5ffaad9128b6e7)
+
+---
+
+## 13. Software Engineer @ The Wyanoke Group
+**Match Score:** 15.6%
+
+📍 **Location:** Thorofare, NJ, US USA
+
+🔑 **Keywords:** RAG, S3, BigQuery, CI/CD, GitHub Actions, Terraform, Git, BigQuery, PostgreSQL, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f724dd5d2a21f911)
+
+---
+
+## 14. Senior Software Engineer @ EquipmentShare
+**Match Score:** 14.4%
+
+📍 **Location:** Columbia, MO, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, Kubernetes, CI/CD, Terraform, Snowflake, Kafka, PostgreSQL, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=878d3824262f3896)
+
+---
+
+## 15. Engineer/Sr Engineer, IT Software @ American Airlines
+**Match Score:** 14.4%
+
+📍 **Location:** Fort Worth, TX, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, GitHub Actions, Git, Kafka, PostgreSQL, MongoDB, Power BI, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8b25fb8132ee77a1)
+
+---
+
+## 16. Senior AI Engineer @ Mitratech
+**Match Score:** 13.3%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** AI Engineer, LangChain, RAG, FastAPI, CI/CD, Terraform, Snowflake, MongoDB, NoSQL, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=80ff28496adb3397)
+
+---
+
+## 17. Sr. Salesforce Platform Engineer @ Skechers
+**Match Score:** 13.3%
+
+📍 **Location:** Manhattan Beach, CA, US USA
+
+🔑 **Keywords:** RAG, S3, Docker, CI/CD, Jenkins, GitHub Actions, Git, NoSQL, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a4c5cc701830f318)
+
+---
+
+## 18. Data Scientist @ Stellantis
+**Match Score:** 13.3%
+
+📍 **Location:** Auburn Hills, MI, US USA
+
+🔑 **Keywords:** Data Scientist, XGBoost, LightGBM, CI/CD, Snowflake, Databricks, PySpark, Power BI, Python, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ceb8c1e222fa4dc8)
+
+---
+
+## 19. Senior System Integration Engineer - Enterprise Transformation @ General Motors (GM)
+**Match Score:** 12.2%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** RAG, Gemini, BigQuery, Dataflow, CI/CD, Git, Databricks, BigQuery, Python, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b1a9742bd7c6e882)
+
+---
+
+## 20. Senior AI Workflow Engineer - Enterprise Transformation @ General Motors (GM)
+**Match Score:** 12.2%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** Machine Learning Engineer, LangChain, RAG, LLaMA, Gemini, CI/CD, Git, Python, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2213f793af5121b6)
+
+---
+
+## 21. Senior Software Engineer (Fullstack) @ Quantum Health
+**Match Score:** 12.2%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** Gemini, Copilot, CI/CD, GitHub Actions, Git, PostgreSQL, Python, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8d65873e3282d4a0)
+
+---
+
+## 22. Senior Data Scientist (GenAI Solutions) - Hybrid @ XPO
+**Match Score:** 12.2%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Copilot, Prompt Engineering, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=82ec27746de6a161)
+
+---
+
+## 23. Data Scientist (GenAI Solutions) - Hybrid @ XPO
+**Match Score:** 12.2%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Copilot, Prompt Engineering, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=55874b8389fe6b40)
+
+---
+
+## 24. Software Engineer @ RevSpring, Inc
+**Match Score:** 12.2%
+
+📍 **Location:** Township of Hamilton, NJ, US USA
+
+🔑 **Keywords:** RAG, S3, Docker, Kubernetes, CI/CD, MySQL, MongoDB, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5b55091a3a0eb5d3)
+
+---
+
+## 25. Senior Software Engineer, Web Development @ Communify
 **Match Score:** 11.1%
 
-📍 **Location:** Boise, ID, US USA
+📍 **Location:** Broomfield, CO, US USA
 
-🔑 **Keywords:** AI Engineer, RAG, Prompt Engineering, Kubernetes, CI/CD, NoSQL, SQL, R, Scala, Optimization
+🔑 **Keywords:** RAG, S3, CI/CD, Jenkins, Git, Python, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ca3c0de0821df9e2)
+[Apply Here](https://www.indeed.com/viewjob?jk=5f9af40c795db10c)
 
 ---
 
-## 5. Senior Analyst - Business Analytics @ CVS Health
+## 26. Software Developer / Senior Software Developer (C# / .NET) @ Persante Health Care, Inc.
 **Match Score:** 11.1%
 
-📍 **Location:** TX, US USA
+📍 **Location:** Mount Laurel, NJ, US USA
 
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Docker, CI/CD, Git, PostgreSQL, SQL, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c2ca49554b4ebd95)
+[Apply Here](https://www.indeed.com/viewjob?jk=53e71fad2ba53db8)
 
 ---
 
-## 6. Senior Analyst - Business Analytics @ CVS Health
+## 27. Software Engineer @ Cisco
 **Match Score:** 11.1%
 
-📍 **Location:** NY, US USA
+📍 **Location:** Milpitas, CA, US USA
 
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
+🔑 **Keywords:** Generative AI, RAG, Docker, Kubernetes, CI/CD, Git, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0546d7816e8914bb)
+[Apply Here](https://www.indeed.com/viewjob?jk=b03ec566f856aa20)
 
 ---
 
-## 7. Senior Analyst - Business Analytics @ CVS Health
+## 28. Senior AI Systems Performance Engineer @ Sambanova
 **Match Score:** 11.1%
 
-📍 **Location:** Washington, DC, US USA
+📍 **Location:** Palo Alto, CA, US USA
 
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
+🔑 **Keywords:** Generative AI, RAG, LLaMA, TensorFlow, PyTorch, Dataflow, Python, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4661437b0a8695e7)
+[Apply Here](https://www.indeed.com/viewjob?jk=4cc4244eb02259bb)
 
 ---
 
-## 8. Senior Analyst - Business Analytics @ CVS Health
+## 29. Data Scientist @ Caterpillar
 **Match Score:** 11.1%
 
-📍 **Location:** SC, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
+🔑 **Keywords:** Data Scientist, RAG, Git, Snowflake, NoSQL, Python, SQL, R, Optimization, Hypothesis Testing
 
-[Apply Here](https://www.indeed.com/viewjob?jk=1c5f547b63fc7139)
-
----
-
-## 9. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** MD, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=691cbe69ae7ec701)
+[Apply Here](https://www.indeed.com/viewjob?jk=40d2fc9f20aaf219)
 
 ---
 
-## 10. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
+## 30. Solutions Architect, Adobe Experience Cloud @ Merkle, Inc.
+**Match Score:** 10.0%
 
-📍 **Location:** MI, US USA
+📍 **Location:** US USA
 
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
+🔑 **Keywords:** Generative AI, RAG, BigQuery, Git, Snowflake, Databricks, BigQuery, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4986682191b6b73f)
-
----
-
-## 11. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** IA, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=edaaafcfb7f5a605)
+[Apply Here](https://www.indeed.com/viewjob?jk=e49a05090b23585b)
 
 ---
 
-## 12. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
+## 31. Quality Engineer @ Optum
+**Match Score:** 10.0%
 
-📍 **Location:** ID, US USA
+📍 **Location:** Eden Prairie, MN, US USA
 
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, CI/CD, GitHub Actions, Git, Snowflake, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=135a04ee6bdd0d5a)
-
----
-
-## 13. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** PA, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=49bb3436587538d1)
+[Apply Here](https://www.indeed.com/viewjob?jk=e02651c1df002e38)
 
 ---
 
-## 14. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** NJ, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9b361589e1c660a3)
-
----
-
-## 15. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** LA, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=66a2d1da176d75c3)
-
----
-
-## 16. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** OK, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=46cbda8784a3e043)
-
----
-
-## 17. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** TN, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dfd866fd6835b857)
-
----
-
-## 18. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** NC, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8bbd186e3e3e053f)
-
----
-
-## 19. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** NH, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2d7417b325462e7a)
-
----
-
-## 20. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** MS, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=132bf412bf03ed37)
-
----
-
-## 21. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** NM, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3a7f920715c344af)
-
----
-
-## 22. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** RI, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2e3ac487edec200d)
-
----
-
-## 23. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** OR, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9cde8f1161fc1ece)
-
----
-
-## 24. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** UT, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=df2dd488e4d076d6)
-
----
-
-## 25. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** ND, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=43caaa021c77a453)
-
----
-
-## 26. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** AK, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=50a44b1740046a02)
-
----
-
-## 27. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** WA, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e750ba6a7d3c5aa7)
-
----
-
-## 28. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** NV, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=df5cdfc834713e60)
-
----
-
-## 29. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9dfe944808b020b5)
-
----
-
-## 30. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** WY, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5047a05a9df7c31e)
-
----
-
-## 31. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** WV, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0492323754adf0cb)
-
----
-
-## 32. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** DE, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b35144048144bb4d)
-
----
-
-## 33. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** MA, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4becae3a66db32c7)
-
----
-
-## 34. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** WI, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4bb1a147a74ce624)
-
----
-
-## 35. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** AR, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3b541220c9cf97f3)
-
----
-
-## 36. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** MN, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=54369d1e31beff43)
-
----
-
-## 37. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** CA, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=320aa709905ca016)
-
----
-
-## 38. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** ME, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=54cf359574171a1f)
-
----
-
-## 39. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** IL, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=193480a17934acb3)
-
----
-
-## 40. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** KS, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8539afb385323575)
-
----
-
-## 41. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** IN, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=709547c062fff29b)
-
----
-
-## 42. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** AZ, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=73a4c23f1f796153)
-
----
-
-## 43. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** CT, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=170f2e97660718a6)
-
----
-
-## 44. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=74468c7806461527)
-
----
-
-## 45. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** AL, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=799f60204f87f37d)
-
----
-
-## 46. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** FL, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6071e16de34e6922)
-
----
-
-## 47. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** MT, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c9eb5b3a8191f35f)
-
----
-
-## 48. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** CO, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b4c724b795724e80)
-
----
-
-## 49. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** KY, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2a1e6368996ab6a8)
-
----
-
-## 50. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** VT, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=49ad8db6cef148ec)
-
----
-
-## 51. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** MO, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7e5ac87cf3ad0746)
-
----
-
-## 52. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** NE, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7d45ab6ee8f4fae8)
-
----
-
-## 53. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** OH, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1ddf2c70ccac0ec7)
-
----
-
-## 54. Senior Analyst - Business Analytics @ CVS Health
-**Match Score:** 11.1%
-
-📍 **Location:** SD, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Git, PostgreSQL, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8857d82d160bd77b)
-
----
-
-## 55. Senior Software Technician @ Capgemini
+## 32. Senior Digital Product Owner - Rental Data @ Caterpillar
 **Match Score:** 10.0%
 
 📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Gemini, CI/CD, Git, Kafka, R, Java, Scala
+🔑 **Keywords:** RAG, Git, Snowflake, Databricks, Tableau, Power BI, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=369e515e4afd79b0)
+[Apply Here](https://www.indeed.com/viewjob?jk=382d02d17a844d8a)
 
 ---
 
-## 56. DevOps Enablement Engineer & AI Adoption Specialist @ EPAM Systems
+## 33. Senior Software Engineer- Backend (Platform) @ Yoodli AI Roleplays
+**Match Score:** 10.0%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** Kubernetes, Snowflake, Databricks, NoSQL, Tableau, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d52b04eded6cecf5)
+
+---
+
+## 34. Full Stack Software Engineer (Components) @ SpaceX
+**Match Score:** 10.0%
+
+📍 **Location:** Hawthorne, CA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, Terraform, PostgreSQL, Python, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ec250eb56f86942b)
+
+---
+
+## 35. Senior Salesforce Engineer @ Skechers
+**Match Score:** 10.0%
+
+📍 **Location:** Rancho Belago, CA, US USA
+
+🔑 **Keywords:** RAG, S3, CI/CD, GitHub Actions, Git, NoSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c2c1dfef210aa78b)
+
+---
+
+## 36. Senior Salesforce Engineer @ Skechers
+**Match Score:** 10.0%
+
+📍 **Location:** Manhattan Beach, CA, US USA
+
+🔑 **Keywords:** RAG, S3, CI/CD, GitHub Actions, Git, NoSQL, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c08455bffd353ac8)
+
+---
+
+## 37. Sr. Data Analyst, Business Intelligence @ AgileOne
+**Match Score:** 10.0%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** RAG, Synapse, Data Lake, Dataflow, Power BI, SQL, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=39cf4047b4b5aaa3)
+
+---
+
+## 38. Cloud Platform Architect @ Sambanova
 **Match Score:** 10.0%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Copilot, Docker, CI/CD, GitHub Actions, Git, R, Optimization
+🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Jenkins, Terraform, Git, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=afbd79c4d6b6a33f)
+[Apply Here](https://www.indeed.com/viewjob?jk=40ee12ea08b6cff9)
 
 ---
 
-## 57. DevOps Enablement Engineer & AI Adoption Specialist @ EPAM Systems
+## 39. Cloud Platform Architect @ Sambanova
 **Match Score:** 10.0%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** San Jose, CA, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Copilot, Docker, CI/CD, GitHub Actions, Git, R, Optimization
+🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Jenkins, Terraform, Git, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=06ace55cba750e2e)
+[Apply Here](https://www.indeed.com/viewjob?jk=d72832f873e04e76)
 
 ---
 
