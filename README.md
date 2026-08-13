@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-13
-- **New Matches Found in Last Run:** 20
-- **Total Active Matches (Last 4 Days):** 736
+- **New Matches Found in Last Run:** 9
+- **Total Active Matches (Last 4 Days):** 745
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-13.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-13.xlsx)
 
@@ -41,6 +41,9 @@
 | **nan** | AI Software Engineer II (Credit) | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c7e33422e1a555a) | 2026-08-13 |
 | **JSR Tech Consulting** | Data Engineer | Newark, NJ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15b7cd0c2b62b936) | 2026-08-13 |
 | **FordDirect** | Full Stack Software Engineer | MI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c77dc17406431b44) | 2026-08-13 |
+| **Intuit** | Senior Technical Data & AI Enablement Analyst - Legal, Compliance & Policy Org | Mountain View, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59109dfc565f4f4e) | 2026-08-13 |
+| **Intuit** | Senior Technical Data & AI Enablement Analyst - Legal, Compliance & Policy Org | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7b66593bb55d6baa) | 2026-08-13 |
+| **Intuit** | Senior Technical Data & AI Enablement Analyst - Legal, Compliance & Policy Org | San Diego, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa8bbbd004a99070) | 2026-08-13 |
 | **Frost** | Performance Test Engineer | San Antonio, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8869831f5e9107a5) | 2026-08-13 |
 | **LEADER BANK** | Business Intelligence Engineer | Arlington, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b9c5bfb77638de8) | 2026-08-13 |
 | **Ford Motor Company** | AI Engineer- Agentic AI Solutions | Dearborn, MI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c2c7151d5d725957) | 2026-08-13 |
@@ -65,6 +68,7 @@
 | **Intercontinental Exchange** | Associate Full Stack Developer | Jacksonville, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e3c6c37f4bd02e6) | 2026-08-13 |
 | **Nuuly** | Nuuly Senior Software Engineer | Milwaukee, WI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=60bae50c540c0272) | 2026-08-13 |
 | **Boot Barn** | Data Scientist | Irvine, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c117b192bfa55f26) | 2026-08-13 |
+| **Digital Turbine** | Senior Infrastructure Engineer | Durham, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d23d068c37ba617c) | 2026-08-13 |
 | **Hallmark** | Full Stack Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=697aa02158b0c543) | 2026-08-13 |
 | **ADT** | Senior Site Reliability Engineer | Blue Bell, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94ebaac67a9c2b6b) | 2026-08-13 |
 | **nan** | Senior Full-Stack Engineer, Internal Tools | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=39415ff3c33d7c06) | 2026-08-13 |
@@ -77,6 +81,9 @@
 | **SentiLink** | Applied ML Scientist | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7dde3232c690b9e7) | 2026-08-13 |
 | **Camping World** | Senior Developer - Good Sam AI | Lincolnshire, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=55a020f94c8282a3) | 2026-08-13 |
 | **New York Life** | Senior Associate - Quality Engineer, AI & Automation | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf417995b86a8947) | 2026-08-13 |
+| **Capgemini** | Associate Power BI and Analytics Engineer | Houston, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb100bf934e97393) | 2026-08-13 |
+| **Capgemini** | Associate Power BI and Analytics Engineer | Houston, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7b0d1a6ecd7a3a67) | 2026-08-13 |
+| **Serco** | Software Engineer | Herndon, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e9d1292a960e249) | 2026-08-13 |
 | **General Motors (GM)** | Agentic Data Engineer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e1735db3bce16b8f) | 2026-08-13 |
 | **Ingram Micro** | Sr. Software Engineer in Test (SET) | Greer, SC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dca4bf3b3a81310a) | 2026-08-13 |
 | **Ingram Micro** | Sr. Software Engineer in Test (SET) | Greer, SC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3b6eee3eac4a9a64) | 2026-08-13 |
@@ -104,6 +111,8 @@
 | **Coralogix** | Solution Engineer – FedRAMP | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4429c5d36e18153a) | 2026-08-13 |
 | **Coralogix** | Solution Engineer – FedRAMP | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cb8f0f7c170d62d1) | 2026-08-13 |
 | **BS TECH** | Software Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85311c69346ac31f) | 2026-08-13 |
+| **Sargent & Lundy** | Infrastructure & Cloud Systems Engineer | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9e4b1a61008e4755) | 2026-08-13 |
+| **Serco** | Data Analytics and Research Analyst | Herndon, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=88ef9526766f0b3a) | 2026-08-13 |
 | **Kentro** | ETL Developer | Remote, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f93bd43dc6dfa898) | 2026-08-12 |
 | **AdventHealth Corporate** | AI Engineer | Altamonte Springs, FL, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0bf1a15fd8c75d64) | 2026-08-12 |
 | **hallmark health care solutions** | AI Software Engineer | Dallas, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97f17c7cef298683) | 2026-08-12 |
