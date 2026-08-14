@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-14
-- **New Matches Found in Last Run:** 15
-- **Total Active Matches (Last 4 Days):** 857
+- **New Matches Found in Last Run:** 1
+- **Total Active Matches (Last 4 Days):** 858
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-14.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-14.xlsx)
 
@@ -55,6 +55,7 @@
 | **Capital One** | Distinguished Data Engineer | McLean, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63201f5d771e794a) | 2026-08-14 |
 | **nan** | Sr. .NET Developer | Woodlawn, MD, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=02a522e46dc9045c) | 2026-08-14 |
 | **Rethink First** | Senior Full Stack Engineer – Architecture Team | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ab5430ace02a7fb) | 2026-08-14 |
+| **Redapt inc** | Senior Software Engineer | Las Vegas, NV, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a192e93f96c7fb3d) | 2026-08-14 |
 | **General Motors (GM)** | Senior Data Engineer – Agentic AI, Automation, and Data Platforms | Warren, MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=25402b211806bc05) | 2026-08-14 |
 | **Deloitte** | Delivery Consultant, Infrastructure Engineering Solutions - AWS DevOps Engineer | Gilbert, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6fa3747ba8334c17) | 2026-08-14 |
 | **Union Home Mortgage** | AI Engineer Intern | Strongsville, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c4a538e7a5bb840f) | 2026-08-14 |
