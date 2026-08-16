@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-16
-- **New Matches Found in Last Run:** 12
-- **Total Active Matches (Last 4 Days):** 534
+- **New Matches Found in Last Run:** 9
+- **Total Active Matches (Last 4 Days):** 543
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-16.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-16.xlsx)
 
@@ -11,10 +11,19 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Ford Motor Company** | Data Engineer | Dearborn, MI, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 |
+| **Cinter Networks** | Backend Engineer - AI Gateway | Plano, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfe651047abaadcf) | 2026-08-16 |
+| **Workday** | Software Development Engineer - US Federal | Reston, VA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37b50b0aef4d49b0) | 2026-08-16 |
+| **Workday** | Sr. Associate Software Development Engineer - US Federal | Reston, VA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ccc557eea54e41a1) | 2026-08-16 |
 | **Disney Experiences** | Data Engineer | Orlando, FL, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37b325f2f84b39b8) | 2026-08-16 |
+| **ExxonMobil** | GenAI Data Scientist, Commercial, Supply Chain & Trading | Spring, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7c2254a5e54551fb) | 2026-08-16 |
 | **NTT DATA** | Power BI Engineer | Dallas, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8dfc6ba885136236) | 2026-08-16 |
 | **Colas USA** | Senior Data Engineer, Databricks | Denver, CO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e57d8b4886da861) | 2026-08-16 |
 | **Colas** | Senior Data Engineer, Databricks | US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=623e6ba410872463) | 2026-08-16 |
+| **Pearson** | Software Engineer II | Englewood, CO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13516b225489ef52) | 2026-08-16 |
+| **Medallia** | Senior AI/ML Platform Engineer, GovCloud | McLean, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8a5f83cd6892d049) | 2026-08-16 |
+| **American Airlines** | Senior Engineer, IT Data | Fort Worth, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ca4c7fcf944f91e0) | 2026-08-16 |
+| **nan** | AI Software Engineer Intern | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=918ca0e4dac90e8e) | 2026-08-16 |
+| **Tailored Health LLC** | Statistical Modeling & Global Conflict Foresight Fellow International Truth & Trauma Institute | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fd7b3192805f603f) | 2026-08-16 |
 | **nan** | Senior Java Engineer | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=555e28a50da34fa7) | 2026-08-16 |
 | **nan** | Senior Ruby Developer | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5cb901d6c7646a7) | 2026-08-16 |
 | **infinite choice** | Senior Full Stack Software Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19d76837dc53c3d4) | 2026-08-16 |
