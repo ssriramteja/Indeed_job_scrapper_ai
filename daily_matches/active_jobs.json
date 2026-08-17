@@ -131,6 +131,27 @@
         "scrapped_date": "2026-08-17"
     },
     {
+        "title": "Senior Automation Engineer",
+        "company": "TEEMA",
+        "location": "Richmond, VA, US USA",
+        "posted_at": "2026-08-17",
+        "score": 10.0,
+        "matched_keywords": [
+            "Generative AI",
+            "RAG",
+            "Gemini",
+            "Databricks",
+            "NoSQL",
+            "Python",
+            "SQL",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=96e6e5ae8e575f10",
+        "description": "**automation engineer \u2013 power automate (healthcare operations)**\n\n**contract to permanent**\n\n**job summary** we are seeking a seasoned senior automation engineer to lead the rapid delivery of high\\-impact automation solutions within a healthcare payer environment. in this role, you will act as a lead developer and lead automation solution design. you will be responsible for analyzing complex business workflows in clinical, enrollment, provider, it operations etc and converting them into streamlined, automated processes. you will own the assessment phase to identify repetitive, rules\\-based tasks that offer the highest roi and build robust, scalable solutions. you will prioritize modern generative ai approaches over legacy rpa methods where applicable to reduce maintenance overhead.\n\n**key responsibilities**\n\n* process mining and discovery: lead workshops with business stakeholders in enrollment, provider, clinical, it etc to map workflows. identify manual, repetitive workflows with clear logic and quantify the potential time savings and roi of automation.\n* automation solution: design end\\-to\\-end automation workflows that integrate modern cloud apps like sharepoint with specific healthcare and data systems including careradius, anchor point, and databricks.\n* generative ai implementation: leverage ai tools such as gemini to replace complex rule\\-based scraping with intelligent parsing. design workflows that use large language models to summarize clinical notes or extract data from unstructured provider emails instead of building brittle rpa loops.\n* advanced development: build complex, automations using power automate desktop (and similar rpas) and cloud flows. handle advanced logic, error handling, and exception management using modern ai connectors.\n* governance and mentorship: establish coding standards and secure by design principles for the automation team. provide technical guidance and code reviews for the junior automation engineer.\n* integration strategy: write custom connectors or scripts using powershell, python, or json to bridge gaps where out\\-of\\-the\\-box connectors do not exist.\n\n**education and experience**\n\n* **education:** bachelor\u2019s degree in computer science or a related technical field.\n* **experience:**\n\n\n\t+ 8\\+ years in software development or data engineering, with a strong emphasis on etl\n\t+ 5\\+ years expert\\-level proficiency in microsoft power platform including power automate cloud and desktop. strong proficiency in api integration via rest or soap and sql.\n\t+ 5\\+ years of extensive experience working with sql databases, nosql environments, and complex api integrations within a healthcare context.\n\t+ proven success in processing large volumes of unstructured medical data using ocr, nlp, and document ai technologies.\n\t+ experience building automated testing frameworks to validate the accuracy of ai outputs in regulated environments.\n\t+ leadership in managing the deployment of bots in virtualized environments and ensuring 24/7 operational stability.\n\t+ demonstrated ability to use generative ai tools like gemini, claude, or openai apis to solve automation problems. experience prompting llms to structure unstructured data.\n\t+ proven experience automating workflows in a healthcare payer setting such as enrollment processing, provider credentialing, or clinical prior authorization.\n\n**competencies**\n\n* **full stack capability:** ability to move seamlessly between low\\-code environments and pro\\-code development (python/c\\#) as project requirements dictate.\n* **data fluency:** deep understanding of etl pipelines, data cleaning, and the transformation of unstructured healthcare data into vectorized formats.\n* **operational strategic thinking:** ability to identify systemic workflow constraints and formulate long\\-term technical solutions that move beyond simple task automation to create end\\-to\\-end autonomous processes.\n* **legacy system navigation:** specialized knowledge in extracting and injecting data into healthcare\\-specific legacy applications without native api support.\n* **performance tuning:** expertise in optimizing script execution and bot performance to minimize latency and resource consumption.\n\n **nice to have**\n\n* healthcare systems or sensitive data experience\n* sharepoint automation, scripting (python/powershell), or rpa tools\n\n\nif you enjoy taking messy manual processes and turning them into reliable systems that people depend on daily, this role will be a great fit.\n\n\n\\#workwolf",
+        "scrapped_date": "2026-08-17"
+    },
+    {
         "title": "Data Engineer",
         "company": "Ford Motor Company",
         "location": "Dearborn, MI, US USA",

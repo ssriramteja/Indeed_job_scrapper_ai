@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-17
-- **New Matches Found in Last Run:** 6
-- **Total Active Matches (Last 4 Days):** 289
+- **New Matches Found in Last Run:** 1
+- **Total Active Matches (Last 4 Days):** 290
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-17.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-17.xlsx)
 
@@ -16,6 +16,7 @@
 | **nan** | Data Scientist | Long Island City, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0872ac97637e8ae) | 2026-08-17 |
 | **suburban imaging** | machine learning and LLM | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ffbd42704f90bb1c) | 2026-08-17 |
 | **Puget Sound Energy** | Marketing Data Scientist | Bellevue, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff3fffc8ec6454fd) | 2026-08-17 |
+| **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96e6e5ae8e575f10) | 2026-08-17 |
 | **Ford Motor Company** | Data Engineer | Dearborn, MI, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 |
 | **Cinter Networks** | Backend Engineer - AI Gateway | Plano, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfe651047abaadcf) | 2026-08-16 |
 | **Workday** | Software Development Engineer - US Federal | Reston, VA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37b50b0aef4d49b0) | 2026-08-16 |
