@@ -5,58 +5,58 @@ Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AI / ML Specialist @ Vortalsoft usa.com
-**Match Score:** 18.9%
+## 1. Data Engineer @ nan
+**Match Score:** 17.8%
 
-📍 **Location:** Washington, DC, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Generative AI, LangChain, RAG, LLaMA, Prompt Engineering, TensorFlow, PyTorch, AWS SageMaker, Azure ML, MLflow
+🔑 **Keywords:** LangChain, RAG, LLaMA, FAISS, Pinecone, Prompt Engineering, Apache Airflow, CI/CD, Git, PostgreSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=11b76c169c068558)
-
----
-
-## 2. Senior.Net Full-Stack Engineer @ Optum
-**Match Score:** 14.4%
-
-📍 **Location:** Richardson, TX, US USA
-
-🔑 **Keywords:** RAG, Copilot, S3, Docker, Kubernetes, AKS, CI/CD, GitHub Actions, Git, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=24927959bc1c9207)
+[Apply Here](https://www.indeed.com/viewjob?jk=bac725c816b7cca6)
 
 ---
 
-## 3. Data Engineer (6278) @ itD Tech
+## 2. Data Scientist - San Juan, PR @ Optum
 **Match Score:** 13.3%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** San Juan, PR, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Redshift, BigQuery, Git, Snowflake, BigQuery, Redshift, Python, SQL
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Prompt Engineering, TensorFlow, PyTorch, Snowflake, Databricks, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=22ea4a61a03aa31b)
-
----
-
-## 4. Associate Scientific Technical Engineer II, PDS&T CMC @ AbbVie
-**Match Score:** 11.1%
-
-📍 **Location:** Waltham, MA, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Glue, CI/CD, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=dd4fa506997c9d91)
+[Apply Here](https://www.indeed.com/viewjob?jk=87de4d13401c87d1)
 
 ---
 
-## 5. Associate Scientific Technical Engineer II, PDS&T CMC @ AbbVie
+## 3. Data Scientist @ Waste Connections
+**Match Score:** 12.2%
+
+📍 **Location:** The Woodlands, TX, US USA
+
+🔑 **Keywords:** Data Scientist, Databricks, PySpark, Tableau, Power BI, Python, SQL, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ab7f96c7cbb10552)
+
+---
+
+## 4. Senior Software Engineer, AI @ STORD Warehouse
+**Match Score:** 12.2%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, Prompt Engineering, Kafka, PostgreSQL, Python, SQL, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=cde9b530eec99876)
+
+---
+
+## 5. Azure Databricks/Data Engineer @ signitives IT Solutions
 **Match Score:** 11.1%
 
-📍 **Location:** Worcester, MA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Glue, CI/CD, Snowflake, Databricks, Python, SQL, R, Scala
+🔑 **Keywords:** Data Scientist, Synapse, Data Lake, CI/CD, Databricks, PySpark, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e97a7a884716018a)
+[Apply Here](https://www.indeed.com/viewjob?jk=4541db046ada0e3f)
 
 ---
 
