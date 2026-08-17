@@ -1,84 +1,62 @@
 # 🎯 Daily Job Matches — 2026-08-17
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 5
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AI Agent Engineer @ Orbis AI
-**Match Score:** 15.6%
+## 1. AI / ML Specialist @ Vortalsoft usa.com
+**Match Score:** 18.9%
 
-📍 **Location:** Mountain View, CA, US USA
+📍 **Location:** Washington, DC, US USA
 
-🔑 **Keywords:** Generative AI, LangChain, RAG, LLaMA, Prompt Engineering, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD
+🔑 **Keywords:** Generative AI, LangChain, RAG, LLaMA, Prompt Engineering, TensorFlow, PyTorch, AWS SageMaker, Azure ML, MLflow
 
-[Apply Here](https://www.indeed.com/viewjob?jk=80ad300443dda3e6)
+[Apply Here](https://www.indeed.com/viewjob?jk=11b76c169c068558)
 
 ---
 
-## 2. Senior Backend Engineer (Remote, US) @ Openly
+## 2. Senior.Net Full-Stack Engineer @ Optum
 **Match Score:** 14.4%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Richardson, TX, US USA
 
-🔑 **Keywords:** RAG, BigQuery, Kubernetes, CI/CD, Terraform, Git, BigQuery, Kafka, PostgreSQL, Python
+🔑 **Keywords:** RAG, Copilot, S3, Docker, Kubernetes, AKS, CI/CD, GitHub Actions, Git, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7e2f39f3379fbccf)
-
----
-
-## 3. Senior ML/Data Engineer @ Catapult Sports
-**Match Score:** 14.4%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, RAG, EC2, Data Lake, Kinesis, Git, Kafka, MongoDB, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f70070de74edaf0a)
+[Apply Here](https://www.indeed.com/viewjob?jk=24927959bc1c9207)
 
 ---
 
-## 4. AI Engineer @ Orbis AI
-**Match Score:** 12.2%
+## 3. Data Engineer (6278) @ itD Tech
+**Match Score:** 13.3%
 
-📍 **Location:** Mountain View, CA, US USA
+📍 **Location:** San Jose, CA, US USA
 
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, TensorFlow, Hadoop, Python, SQL, R, Java, Scala
+🔑 **Keywords:** Data Scientist, RAG, Redshift, BigQuery, Git, Snowflake, BigQuery, Redshift, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a1f205cb3b26b005)
+[Apply Here](https://www.indeed.com/viewjob?jk=22ea4a61a03aa31b)
 
 ---
 
-## 5. Backend Engineer @ nan
+## 4. Associate Scientific Technical Engineer II, PDS&T CMC @ AbbVie
 **Match Score:** 11.1%
 
-📍 **Location:** Los Angeles, CA, US USA
+📍 **Location:** Waltham, MA, US USA
 
-🔑 **Keywords:** RAG, Prompt Engineering, Docker, Kubernetes, Terraform, Git, Python, R, Scala, Optimization
+🔑 **Keywords:** Data Scientist, RAG, Glue, CI/CD, Snowflake, Databricks, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=eeb516bb9fc8564b)
+[Apply Here](https://www.indeed.com/viewjob?jk=dd4fa506997c9d91)
 
 ---
 
-## 6. Data Scientist @ Orbis AI
+## 5. Associate Scientific Technical Engineer II, PDS&T CMC @ AbbVie
 **Match Score:** 11.1%
 
-📍 **Location:** Mountain View, CA, US USA
+📍 **Location:** Worcester, MA, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, TensorFlow, Hadoop, Python, SQL, R, Java, Scala
+🔑 **Keywords:** Data Scientist, RAG, Glue, CI/CD, Snowflake, Databricks, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=09e43b7607a681c5)
-
----
-
-## 7. Software Engineer III (US) @ TD
-**Match Score:** 10.0%
-
-📍 **Location:** Mount Laurel, NJ, US USA
-
-🔑 **Keywords:** RAG, Copilot, CI/CD, Kafka, NoSQL, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f4229cd2b126cc88)
+[Apply Here](https://www.indeed.com/viewjob?jk=e97a7a884716018a)
 
 ---
 
