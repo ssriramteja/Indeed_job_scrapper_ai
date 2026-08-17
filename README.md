@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-17
-- **New Matches Found in Last Run:** 1
-- **Total Active Matches (Last 4 Days):** 290
+- **New Matches Found in Last Run:** 7
+- **Total Active Matches (Last 4 Days):** 297
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-17.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-17.xlsx)
 
@@ -11,12 +11,19 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **RoadSync** | Infrastructure Engineer | Atlanta, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43f605a11b0b8a05) | 2026-08-17 |
+| **Orbis AI** | AI Agent Engineer | Mountain View, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80ad300443dda3e6) | 2026-08-17 |
+| **Openly** | Senior Backend Engineer (Remote, US) | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e2f39f3379fbccf) | 2026-08-17 |
+| **Catapult Sports** | Senior ML/Data Engineer | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f70070de74edaf0a) | 2026-08-17 |
 | **Amgen** | Sr Associate Data Analytics | Tampa, FL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4fbfe0f5be436a39) | 2026-08-17 |
 | **Ericsson** | Cloud AI Engineer Intern | Plano, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56d6c36863f4059e) | 2026-08-17 |
 | **nan** | Data Scientist | Long Island City, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0872ac97637e8ae) | 2026-08-17 |
+| **Orbis AI** | AI Engineer | Mountain View, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1f205cb3b26b005) | 2026-08-17 |
 | **suburban imaging** | machine learning and LLM | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ffbd42704f90bb1c) | 2026-08-17 |
+| **nan** | Backend Engineer | Los Angeles, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eeb516bb9fc8564b) | 2026-08-17 |
+| **Orbis AI** | Data Scientist | Mountain View, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09e43b7607a681c5) | 2026-08-17 |
 | **Puget Sound Energy** | Marketing Data Scientist | Bellevue, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff3fffc8ec6454fd) | 2026-08-17 |
 | **TEEMA** | Senior Automation Engineer | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96e6e5ae8e575f10) | 2026-08-17 |
+| **TD** | Software Engineer III (US) | Mount Laurel, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4229cd2b126cc88) | 2026-08-17 |
 | **Ford Motor Company** | Data Engineer | Dearborn, MI, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0d5d92a233a5130) | 2026-08-16 |
 | **Cinter Networks** | Backend Engineer - AI Gateway | Plano, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfe651047abaadcf) | 2026-08-16 |
 | **Workday** | Software Development Engineer - US Federal | Reston, VA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=37b50b0aef4d49b0) | 2026-08-16 |
