@@ -1,150 +1,106 @@
 # 🎯 Daily Job Matches — 2026-08-19
 
-**Total Jobs Found:** 13
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. IT Data Engineer IV @ SouthState Bank
-**Match Score:** 16.7%
+## 1. Senior Developer @ Intercontinental Exchange
+**Match Score:** 18.9%
 
-📍 **Location:** Winter Haven, FL, US USA
+📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** RAG, Redshift, BigQuery, Synapse, Docker, Kubernetes, CI/CD, Snowflake, BigQuery, Redshift
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Hugging Face, TensorFlow, PyTorch, AWS SageMaker, Azure ML, MLflow, Docker
 
-[Apply Here](https://www.indeed.com/viewjob?jk=89c590723bea472d)
+[Apply Here](https://www.indeed.com/viewjob?jk=1864e32484d3961d)
 
 ---
 
-## 2. Senior UI Engineer (React/React Native & AI Development) - Plano, TX @ Photon
+## 2. Senior AI Engineer @ Rearc
 **Match Score:** 15.6%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** LangChain, RAG, Gemini, Copilot, Prompt Engineering, S3, Docker, Kubernetes, CI/CD, Python
+🔑 **Keywords:** AI Engineer, RAG, MLflow, FastAPI, Docker, CI/CD, Databricks, PostgreSQL, MySQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=be70c680c70ebca2)
+[Apply Here](https://www.indeed.com/viewjob?jk=c1dae65756fc60c6)
 
 ---
 
-## 3. Machine Learning Operations Engineer @ Intermountain Health
+## 3. Data Scientist Associate-AI Solutions @ UnityPoint Health
 **Match Score:** 15.6%
 
-📍 **Location:** Salt Lake City, UT, US USA
+📍 **Location:** West Des Moines, IA, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, Docker, Kubernetes, Git, Databricks, Hadoop, NoSQL, Python
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, RAG, Copilot, Prompt Engineering, CI/CD, Git, Databricks, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=30414b2a85fbe095)
-
----
-
-## 4. App Dev & Support Services Engineer II @ Conduent
-**Match Score:** 15.6%
-
-📍 **Location:** Somerset, NJ, US USA
-
-🔑 **Keywords:** Generative AI, Copilot, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, MySQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=331526dcce8bdbb4)
+[Apply Here](https://www.indeed.com/viewjob?jk=222d8e8e7fd9593c)
 
 ---
 
-## 5. Software Development Engineer @ Adobe
-**Match Score:** 14.4%
-
-📍 **Location:** Lehi, UT, US USA
-
-🔑 **Keywords:** RAG, Redshift, Apache Airflow, CI/CD, Jenkins, Git, Redshift, PostgreSQL, Tableau, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ddee801b38d94382)
-
----
-
-## 6. Senior Software Engineer @ NTT DATA
-**Match Score:** 13.3%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** RAG, Kinesis, CI/CD, Jenkins, Git, Kafka, PostgreSQL, NoSQL, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e5a4f8b2a53df275)
-
----
-
-## 7. Senior Software Engineer @ NTT DATA
+## 4. Data Engineer @ Kyndryl
 **Match Score:** 13.3%
 
 📍 **Location:** Dallas, TX, US USA
 
-🔑 **Keywords:** RAG, Kinesis, CI/CD, Jenkins, Git, Kafka, PostgreSQL, NoSQL, SQL, R
+🔑 **Keywords:** RAG, Pinecone, Glue, Synapse, CI/CD, Git, Databricks, PostgreSQL, MongoDB, NoSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=71e4ae5e09b571ae)
-
----
-
-## 8. CDP Data Engineer @ Bounteous
-**Match Score:** 12.2%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** Data Scientist, Redshift, BigQuery, Snowflake, BigQuery, Redshift, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8550b60dfa07a9a8)
+[Apply Here](https://www.indeed.com/viewjob?jk=2548708b2a40faf0)
 
 ---
 
-## 9. 2027 Data & AI Program - Summer Internship - Analyst - United States @ JPMorganChase
-**Match Score:** 11.1%
+## 5. Data Engineer @ Kyndryl
+**Match Score:** 13.3%
 
-📍 **Location:** Chicago, IL, US USA
+📍 **Location:** Dallas, TX, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Copilot, Prompt Engineering, Snowflake, Databricks, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Pinecone, Glue, Synapse, CI/CD, Git, Databricks, PostgreSQL, MongoDB, NoSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=411d31a6d1a79340)
+[Apply Here](https://www.indeed.com/viewjob?jk=c0d7679f31c13e80)
 
 ---
 
-## 10. Backend Engineer @ bareinsights
+## 6. Backend Engineer @ Smart Apply Test Company
 **Match Score:** 11.1%
 
 📍 **Location:** San Francisco, CA, US USA
 
 🔑 **Keywords:** RAG, Prompt Engineering, Docker, Kubernetes, Terraform, Git, Python, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f99653e875f1b81d)
+[Apply Here](https://www.indeed.com/viewjob?jk=0fcc3836acd1acef)
 
 ---
 
-## 11. Database Administrator @ Index Analytics LLC
+## 7. Sr. Data Architect @ Precor
 **Match Score:** 11.1%
 
-📍 **Location:** Baltimore, MD, US USA
+📍 **Location:** Seattle, WA, US USA
 
-🔑 **Keywords:** RAG, Data Lake, CI/CD, Jenkins, Git, Snowflake, Python, SQL, R, Scala
+🔑 **Keywords:** Generative AI, RAG, Copilot, BigQuery, Dataflow, BigQuery, Power BI, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=96b3c17f710c4b52)
-
----
-
-## 12. QA Validation Engineer for AI Initiatives @ Teradyne
-**Match Score:** 10.0%
-
-📍 **Location:** North Reading, MA, US USA
-
-🔑 **Keywords:** Generative AI, Prompt Engineering, Data Lake, CI/CD, Python, SQL, R, Java, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fe1a4313ef8c3f8f)
+[Apply Here](https://www.indeed.com/viewjob?jk=b4034e6e04fe0f86)
 
 ---
 
-## 13. Senior Data Scientist / Analyst, Finance @ Polymarket
+## 8. Senior Oracle HCM Automation +AI Engineer @ Nvizion solutions pvt. ltd
 **Match Score:** 10.0%
 
-📍 **Location:** US USA
+📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, BigQuery, Snowflake, Databricks, BigQuery, Python, SQL, R
+🔑 **Keywords:** AI Engineer, Generative AI, RAG, Copilot, Git, Python, SQL, R, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d5328002055ae982)
+[Apply Here](https://www.indeed.com/viewjob?jk=84d8f084b0d90f4a)
+
+---
+
+## 9. Data & Analytics Enterprise Architect @ Principal Financial Group
+**Match Score:** 10.0%
+
+📍 **Location:** Des Moines, IA, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, Data Lake, Snowflake, Databricks, SQL, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f20aa9c2229f0ea5)
 
 ---
 
