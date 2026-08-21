@@ -1,810 +1,326 @@
 # 🎯 Daily Job Matches — 2026-08-21
 
-**Total Jobs Found:** 73
+**Total Jobs Found:** 29
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer @ Vagaro
-**Match Score:** 18.9%
+## 1. Data Anchor @ Ford Motor Company
+**Match Score:** 20.0%
 
-📍 **Location:** Pleasanton, CA, US USA
+📍 **Location:** Louisville, KY, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, Data Lake, Docker, Kubernetes, CI/CD, GitHub Actions, Git, PySpark
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Gemini, TensorFlow, PyTorch, BigQuery, Data Lake, Git, BigQuery
 
-[Apply Here](https://www.indeed.com/viewjob?jk=44fc81c2d0a70c40)
-
----
-
-## 2. Sr Databricks Engineer @ Hitachi Energy
-**Match Score:** 17.8%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** RAG, Kinesis, MLflow, CI/CD, Jenkins, GitHub Actions, Git, Databricks, Kafka, Tableau
-
-[Apply Here](https://www.indeed.com/viewjob?jk=37f9cb4e7f9e0916)
+[Apply Here](https://www.indeed.com/viewjob?jk=3db1969fc986c5bb)
 
 ---
 
-## 3. Senior Backend Software Engineer — IoT Platform @ E-Space
+## 2. Full Stack Software Engineer - AI Applications @ Ford Motor Company
+**Match Score:** 14.4%
+
+📍 **Location:** Palo Alto, CA, US USA
+
+🔑 **Keywords:** AI Engineer, RAG, BigQuery, AKS, CI/CD, Terraform, Git, BigQuery, NoSQL, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7f5a19c2de7ce51c)
+
+---
+
+## 3. Full Stack Software Engineer - AI Applications @ Ford Motor Company
+**Match Score:** 14.4%
+
+📍 **Location:** Dearborn, MI, US USA
+
+🔑 **Keywords:** AI Engineer, RAG, BigQuery, AKS, CI/CD, Terraform, Git, BigQuery, NoSQL, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=61a29eb9246b24ea)
+
+---
+
+## 4. Cloud Engineer; Platform Analytics (Contract) @ Vervint
+**Match Score:** 14.4%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RAG, S3, Glue, Athena, Data Lake, Kinesis, Terraform, Kafka, Quicksight, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7c0847cb6bf1b0e8)
+
+---
+
+## 5. Senior Architect @ Gallagher
+**Match Score:** 14.4%
+
+📍 **Location:** Rolling Meadows, IL, US USA
+
+🔑 **Keywords:** AI Engineer, Generative AI, RAG, Data Lake, CI/CD, Git, Snowflake, Databricks, Kafka, SQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bc06d4d982f61181)
+
+---
+
+## 6. Senior Associate - Cloud Platform Engineer @ New York Life
+**Match Score:** 14.4%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** RAG, S3, EC2, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Git, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ce955d83d523351c)
+
+---
+
+## 7. Senior Software Engineer @ Ford Motor Company
 **Match Score:** 13.3%
 
-📍 **Location:** Saratoga, CA, US USA
+📍 **Location:** Dearborn, MI, US USA
 
-🔑 **Keywords:** RAG, S3, EC2, FastAPI, CI/CD, Terraform, Git, PostgreSQL, Python, SQL
+🔑 **Keywords:** RAG, BigQuery, AKS, CI/CD, Terraform, BigQuery, MongoDB, NoSQL, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d0e8ed3b7baac81e)
+[Apply Here](https://www.indeed.com/viewjob?jk=6693b8193e00cff6)
 
 ---
 
-## 4. Senior Full Stack Java Developer @ Charles Schwab
+## 8. Software Engineer - Vehicle Connectivity & mobility (VC&M) @ Ford Motor Company
 **Match Score:** 13.3%
 
-📍 **Location:** Southlake, TX, US USA
+📍 **Location:** Dearborn, MI, US USA
 
-🔑 **Keywords:** RAG, Copilot, Prompt Engineering, Docker, Kubernetes, CI/CD, Jenkins, Git, Kafka, R
+🔑 **Keywords:** RAG, CI/CD, GitHub Actions, Terraform, Git, PostgreSQL, MongoDB, NoSQL, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=9514cb3d03b95a2e)
+[Apply Here](https://www.indeed.com/viewjob?jk=14f272fafe4eb2bc)
 
 ---
 
-## 5. AI Engineer @ Kiewit Corporation
+## 9. Software Engineer @ Ford Motor Company
 **Match Score:** 13.3%
 
-📍 **Location:** Lenexa, KS, US USA
+📍 **Location:** Dearborn, MI, US USA
 
-🔑 **Keywords:** AI Engineer, RAG, Prompt Engineering, Docker, CI/CD, Git, PostgreSQL, Python, SQL, R
+🔑 **Keywords:** RAG, CI/CD, Jenkins, GitHub Actions, Terraform, Git, PostgreSQL, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a6e34987b7e0b5fb)
-
----
-
-## 6. Automation Developer - Service Enablement @ AST SpaceMobile
-**Match Score:** 12.2%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** RAG, Copilot, S3, FastAPI, Jenkins, Git, PostgreSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=50d90ff4d4613640)
+[Apply Here](https://www.indeed.com/viewjob?jk=c46cf07764f26975)
 
 ---
 
-## 7. Automation Developer - Service Enablement @ AST SpaceMobile
+## 10. Senior Hybrid Cloud Architect - (Data Center) @ Ford Motor Company
 **Match Score:** 12.2%
 
-📍 **Location:** Lanham, MD, US USA
+📍 **Location:** Dearborn, MI, US USA
 
-🔑 **Keywords:** RAG, Copilot, S3, FastAPI, Jenkins, Git, PostgreSQL, Python, SQL, R
+🔑 **Keywords:** RAG, MLflow, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2aabaa932870e470)
+[Apply Here](https://www.indeed.com/viewjob?jk=271b64578e43ebdc)
 
 ---
 
-## 8. Senior Software Development Engineer in Test - Datacenter Server OS @ NVIDIA
+## 11. Senior Software Engineer — DevOps & Platform, AI Systems @ Ford Motor Company
 **Match Score:** 12.2%
+
+📍 **Location:** Dearborn, MI, US USA
+
+🔑 **Keywords:** RAG, Glue, Docker, Kubernetes, AKS, CI/CD, GitHub Actions, Terraform, Git, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1aca7ea49882dad9)
+
+---
+
+## 12. Software Engineer III - Machine Learning Platform @ JPMorganChase
+**Match Score:** 12.2%
+
+📍 **Location:** Palo Alto, CA, US USA
+
+🔑 **Keywords:** RAG, TensorFlow, PyTorch, S3, EC2, Kubernetes, CI/CD, Dask, Python, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2ea3bf52be048627)
+
+---
+
+## 13. Engineer II - AI Foundations @ Best Buy
+**Match Score:** 12.2%
+
+📍 **Location:** Minneapolis, MN, US USA
+
+🔑 **Keywords:** RAG, PyTorch, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ccb25ca5c5e2d6aa)
+
+---
+
+## 14. Software Engineer, Devops Platform Engineering @ AMD
+**Match Score:** 12.2%
+
+📍 **Location:** Longmont, CO, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Python, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=16e4f35bce2d70bc)
+
+---
+
+## 15. Senior Software Engineer @ Ford Motor Company
+**Match Score:** 11.1%
+
+📍 **Location:** Dearborn, MI, US USA
+
+🔑 **Keywords:** RAG, Kubernetes, CI/CD, Git, Kafka, PostgreSQL, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f2ef31c83a604594)
+
+---
+
+## 16. Java Python AWS Software Engineer III (ML) - Agentic Treasury @ JPMorganChase
+**Match Score:** 11.1%
+
+📍 **Location:** Jersey City, NJ, US USA
+
+🔑 **Keywords:** RAG, PyTorch, CI/CD, Databricks, PostgreSQL, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=443d36ee3e882eca)
+
+---
+
+## 17. Senior End-to-End Quality Engineer @ eBay
+**Match Score:** 11.1%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** RAG, Prompt Engineering, Docker, Kubernetes, CI/CD, Git, Python, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=26112e9d5da37adc)
+
+---
+
+## 18. Senior Associate - AI AppSec Engineer @ New York Life
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** AI Engineer, Data Scientist, LangChain, RAG, LLaMA, CI/CD, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f799f292693d0a5b)
+
+---
+
+## 19. 2027 Masters Software Engineer Intern/Co-op @ AMD
+**Match Score:** 10.0%
 
 📍 **Location:** Santa Clara, CA, US USA
 
-🔑 **Keywords:** RAG, TensorFlow, PyTorch, Docker, Kubernetes, CI/CD, Jenkins, Git, Python, R
+🔑 **Keywords:** RAG, Git, PostgreSQL, MySQL, MongoDB, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=fbe6dd3b6aa64aa7)
-
----
-
-## 9. Senior, Software Engineer, Cryptographic Asset Monitoring @ Salesforce
-**Match Score:** 12.2%
-
-📍 **Location:** Bellevue, WA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Prompt Engineering, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cd72638bd627aaf0)
+[Apply Here](https://www.indeed.com/viewjob?jk=341e17f17c298e75)
 
 ---
 
-## 10. Senior Software Engineer @ Wells Fargo
-**Match Score:** 12.2%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, AKS, CI/CD, Jenkins, GitHub Actions, Git, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8cc515841b0a0665)
-
----
-
-## 11. Senior Software Engineer @ Wells Fargo
-**Match Score:** 12.2%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, AKS, CI/CD, Jenkins, GitHub Actions, Git, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5a76d5a43d9b0fbd)
-
----
-
-## 12. Senior Software Engineer @ Wells Fargo
-**Match Score:** 12.2%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, AKS, CI/CD, Jenkins, GitHub Actions, Git, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f511646e76683c01)
-
----
-
-## 13. Full Stack Engineer @ Nucleus Biologics
-**Match Score:** 12.2%
-
-📍 **Location:** San Diego, CA, US USA
-
-🔑 **Keywords:** S3, EC2, FastAPI, Docker, CI/CD, Terraform, Git, PostgreSQL, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6733a6ca4e19dc2e)
-
----
-
-## 14. Red Team - Sr Security Engineer @ WellSky
-**Match Score:** 11.1%
-
-📍 **Location:** Overland Park, KS, US USA
-
-🔑 **Keywords:** RAG, Copilot, Prompt Engineering, Kubernetes, AKS, CI/CD, Git, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c34e3e61ca8f367f)
-
----
-
-## 15. Data Analyst, Information Technology - KAHE @ Southeastern University
-**Match Score:** 11.1%
-
-📍 **Location:** Lakeland, FL, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Copilot, Tableau, Power BI, Python, SQL, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=968d4ad58922e345)
-
----
-
-## 16. Senior Software Engineer @ Salesforce
-**Match Score:** 11.1%
-
-📍 **Location:** Burlington, MA, US USA
-
-🔑 **Keywords:** Kubernetes, CI/CD, Jenkins, Terraform, NoSQL, Python, SQL, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6db805cce62a3db2)
-
----
-
-## 17. Assoc Data Scientist, AI @ Constellation Energy
-**Match Score:** 11.1%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Prompt Engineering, Data Lake, Databricks, PySpark, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e6466bc0c9a82bdf)
-
----
-
-## 18. Senior Research Scientist/Software Engineer, LLM/Agent Platform (TikTok-Content Ecology AI Innovation & Platform) @ TikTok
-**Match Score:** 10.0%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** LangChain, RAG, LLaMA, FAISS, TensorFlow, PyTorch, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d05ceed99b18c254)
-
----
-
-## 19. Senior Engineer, IAM Platform Engineering @ Cencora
-**Match Score:** 10.0%
-
-📍 **Location:** Conshohocken, PA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Copilot, Terraform, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8561c51f57e1ceb0)
-
----
-
-## 20. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** San Antonio, TX, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0c266a0adc70f1a2)
-
----
-
-## 21. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Richmond, VA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=01f40b660c79c10d)
-
----
-
-## 22. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Morristown, NJ, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=102c20ae1138d9fd)
-
----
-
-## 23. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Milwaukee, WI, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a133bb0c750dcd64)
-
----
-
-## 24. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9c5557674a34f6ed)
-
----
-
-## 25. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Rosslyn, VA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2ad6c99951eec476)
-
----
-
-## 26. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e3473d0aaa2abb34)
-
----
-
-## 27. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Dayton, OH, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=591da3b07088d1b6)
-
----
-
-## 28. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Hermitage, TN, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2842e9313d735c33)
-
----
-
-## 29. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Rochester, NY, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e1ec7dae945266c9)
-
----
-
-## 30. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Cincinnati, OH, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2d2031ff61ffa26a)
-
----
-
-## 31. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Philadelphia, PA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2b6e714afe8711cf)
-
----
-
-## 32. Cyber Full Stack Senior Consultant @ Deloitte
+## 20. 2027 Masters Software Engineer Intern/Co-op @ AMD
 **Match Score:** 10.0%
 
 📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
+🔑 **Keywords:** RAG, Git, PostgreSQL, MySQL, MongoDB, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ad8f4af96cd8dfba)
+[Apply Here](https://www.indeed.com/viewjob?jk=6ee42344782e7889)
 
 ---
 
-## 33. Cyber Full Stack Senior Consultant @ Deloitte
+## 21. 2027 Undergrad Software Engineer Intern/Co-op @ AMD
 **Match Score:** 10.0%
 
-📍 **Location:** Portland, OR, US USA
+📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
+🔑 **Keywords:** RAG, Git, PostgreSQL, MySQL, MongoDB, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ac72ee15051023b8)
+[Apply Here](https://www.indeed.com/viewjob?jk=91aef0c57c0d2292)
 
 ---
 
-## 34. Cyber Full Stack Senior Consultant @ Deloitte
+## 22. 2027 Undergrad Software Engineer Intern/Co-op @ AMD
 **Match Score:** 10.0%
 
-📍 **Location:** Pittsburgh, PA, US USA
+📍 **Location:** Santa Clara, CA, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
+🔑 **Keywords:** RAG, Git, PostgreSQL, MySQL, MongoDB, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=af69c2c580847682)
+[Apply Here](https://www.indeed.com/viewjob?jk=703e6591cf9c4ab2)
 
 ---
 
-## 35. Cyber Full Stack Senior Consultant @ Deloitte
+## 23. Senior Engineer - Software Development Engineering @ Toyota North America
 **Match Score:** 10.0%
 
-📍 **Location:** Houston, TX, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
+🔑 **Keywords:** CI/CD, Git, Kafka, PostgreSQL, MongoDB, SQL, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a3cba95803a2bf93)
+[Apply Here](https://www.indeed.com/viewjob?jk=5b334cf16f3f96c9)
 
 ---
 
-## 36. Cyber Full Stack Senior Consultant @ Deloitte
+## 24. Machine Learning Engineer @ Career Concepts Staffing Services, Inc
 **Match Score:** 10.0%
 
-📍 **Location:** Mechanicsburg, PA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
+🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Git, Snowflake, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ac8da07e8ace3092)
-
----
-
-## 37. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Memphis, TN, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d7d870e0109955ce)
+[Apply Here](https://www.indeed.com/viewjob?jk=7022703d9f94abf1)
 
 ---
 
-## 38. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=150f6bc080fa727d)
-
----
-
-## 39. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e13b1ecb890a8261)
-
----
-
-## 40. Cyber Full Stack Senior Consultant @ Deloitte
+## 25. AI Prototyping & Transformation Associate @ JPMorganChase
 **Match Score:** 10.0%
 
 📍 **Location:** Columbus, OH, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
+🔑 **Keywords:** Generative AI, RAG, Copilot, Git, Tableau, Power BI, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e84ffd2e54c8a0e0)
+[Apply Here](https://www.indeed.com/viewjob?jk=1369c7bffe2fa540)
 
 ---
 
-## 41. Cyber Full Stack Senior Consultant @ Deloitte
+## 26. Data Scientist - Conversational AI @ Ford Motor Company
 **Match Score:** 10.0%
 
-📍 **Location:** Louisville, KY, US USA
+📍 **Location:** Dearborn, MI, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
+🔑 **Keywords:** Data Scientist, RAG, BigQuery, Git, BigQuery, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=81a1f45b22379680)
+[Apply Here](https://www.indeed.com/viewjob?jk=626c0af9dfe8658c)
 
 ---
 
-## 42. Cyber Full Stack Senior Consultant @ Deloitte
+## 27. Software Dev Engineer I @ Optimum
 **Match Score:** 10.0%
 
-📍 **Location:** Boston, MA, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
+🔑 **Keywords:** RAG, CI/CD, GitHub Actions, Terraform, Git, Python, R, Java, A/B Testing
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a69aabff07b352a5)
+[Apply Here](https://www.indeed.com/viewjob?jk=af8b34cea41491bf)
 
 ---
 
-## 43. Cyber Full Stack Senior Consultant @ Deloitte
+## 28. Software Dev Engineer I @ Optimum
 **Match Score:** 10.0%
 
-📍 **Location:** Cleveland, OH, US USA
+📍 **Location:** Bethpage, NY, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
+🔑 **Keywords:** RAG, CI/CD, GitHub Actions, Terraform, Git, Python, R, Java, A/B Testing
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e0c6d947ba032350)
-
----
-
-## 44. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Las Vegas, NV, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7c5c3614c86a2fc3)
+[Apply Here](https://www.indeed.com/viewjob?jk=7d2214b64c665e26)
 
 ---
 
-## 45. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Raleigh, NC, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a0b1067fc76b0b83)
-
----
-
-## 46. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Princeton, NJ, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c596c9aff6e12282)
-
----
-
-## 47. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Minneapolis, MN, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cbfb53a419b3cb6e)
-
----
-
-## 48. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Lake Mary, FL, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ca1d3a393ab8c24e)
-
----
-
-## 49. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Kansas City, MO, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d13d39ad7f43c111)
-
----
-
-## 50. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** New Orleans, LA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a553e2b890e401dc)
-
----
-
-## 51. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Detroit, MI, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=12a515aa64800086)
-
----
-
-## 52. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Charlotte, NC, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=111f2308fbea6650)
-
----
-
-## 53. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Atlanta, GA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e1d45d336e2d2efe)
-
----
-
-## 54. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Hartford, CT, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=fe8e98cf5a174758)
-
----
-
-## 55. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Jericho, NY, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=62cf02ee39dcc707)
-
----
-
-## 56. Cyber Full Stack Senior Consultant @ Deloitte
+## 29. Senior Database Analyst @ NYU Langone Health
 **Match Score:** 10.0%
 
 📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
+🔑 **Keywords:** RAG, TensorFlow, PyTorch, Git, Tableau, Power BI, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=47f8831c7731ab76)
-
----
-
-## 57. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Jersey City, NJ, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b7dce40f519d05fe)
-
----
-
-## 58. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Gilbert, AZ, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=134bed9d4b572ab3)
-
----
-
-## 59. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Davenport, IA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=074cc2ccf18784f8)
-
----
-
-## 60. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Miami, FL, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=73339d64999175bc)
-
----
-
-## 61. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Stamford, CT, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=34d7a355ab6e67dd)
-
----
-
-## 62. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Baltimore, MD, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=babc2a64bc215e0b)
-
----
-
-## 63. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Jacksonville, FL, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=97c23336ccbeb3fa)
-
----
-
-## 64. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Indianapolis, IN, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c443e57310d73ecb)
-
----
-
-## 65. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=27bf197be7ab7948)
-
----
-
-## 66. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=952aa5b62fe830db)
-
----
-
-## 67. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** San Francisco, CA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e1769b274b5731e1)
-
----
-
-## 68. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Colorado Springs, CO, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=38d45991dcdec6e9)
-
----
-
-## 69. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Costa Mesa, CA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=536a0c139757e256)
-
----
-
-## 70. Cyber Full Stack Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Los Angeles, CA, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a734b9795f0b5ea6)
-
----
-
-## 71. Machine Learning Engineer - Ads Core and Commerce Ads @ TikTok USDS JV
-**Match Score:** 10.0%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, Hadoop, Python, SQL, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ca1d6cdfc3c26a46)
-
----
-
-## 72. Software Engineer I @ nan
-**Match Score:** 10.0%
-
-📍 **Location:** Fort Meade, MD, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=85d2088869dd01ad)
-
----
-
-## 73. Data Scientist III, Media & Paid Social Analytics @ Expedia Group
-**Match Score:** 10.0%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Tableau, Python, SQL, R, Scala, Optimization, A/B Testing
-
-[Apply Here](https://www.indeed.com/viewjob?jk=135c1698ee14b8dd)
+[Apply Here](https://www.indeed.com/viewjob?jk=b4efc4e32f803c73)
 
 ---
 
