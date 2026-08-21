@@ -1,205 +1,150 @@
 # 🎯 Daily Job Matches — 2026-08-21
 
-**Total Jobs Found:** 18
+**Total Jobs Found:** 13
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Software Engineer Python - Advanced | Columbus, US | JPMC @ Photon
-**Match Score:** 21.1%
+## 1. Sr Machine Learning Engineer @ Disney Experiences
+**Match Score:** 24.4%
 
-📍 **Location:** Columbus, OH, US USA
+📍 **Location:** Orlando, FL, US USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, Gemini, Pinecone, Prompt Engineering, FastAPI, Docker
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, TensorFlow, PyTorch, AWS SageMaker, S3, EC2, Redshift
 
-[Apply Here](https://www.indeed.com/viewjob?jk=618a4e40ef5bde1f)
-
----
-
-## 2. AI/ML Engineer @ Commence
-**Match Score:** 20.0%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, LangChain, RAG, TensorFlow, PyTorch, S3, MLflow, FastAPI, Docker
-
-[Apply Here](https://www.indeed.com/viewjob?jk=125902545a13a43c)
+[Apply Here](https://www.indeed.com/viewjob?jk=766cfaa008af94ec)
 
 ---
 
-## 3. Full Stack Developer - Advanced | Columbus, US | JPMC @ Photon
-**Match Score:** 20.0%
+## 2. Sr Machine Learning Engineer @ Disney Experiences
+**Match Score:** 15.6%
 
-📍 **Location:** Columbus, OH, US USA
+📍 **Location:** Orlando, FL, US USA
 
-🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, Pinecone, Prompt Engineering, S3, Docker, Kubernetes, CI/CD
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, Prompt Engineering, Docker, Kubernetes, CI/CD, Terraform, Git
 
-[Apply Here](https://www.indeed.com/viewjob?jk=865f8a104cb006d1)
+[Apply Here](https://www.indeed.com/viewjob?jk=28bd955409ade1d4)
 
 ---
 
-## 4. Senior AI Application Developer @ Silgan Containers
+## 3. Senior Software Engineer @ nan
+**Match Score:** 13.3%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, Docker, Kubernetes, CI/CD, Terraform, Databricks, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ae435ef03aa1b3c0)
+
+---
+
+## 4. Software Engineer - AI @ NBT Bank
 **Match Score:** 12.2%
 
-📍 **Location:** Brookfield, WI, US USA
+📍 **Location:** Norwich, NY, US USA
 
-🔑 **Keywords:** AI Engineer, LangChain, RAG, LLaMA, Copilot, CI/CD, Git, Python, SQL, R
+🔑 **Keywords:** Generative AI, RAG, Copilot, Prompt Engineering, CI/CD, Git, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d72d1f3b94beb684)
-
----
-
-## 5. Software Engineer iOS/Android – Advanced | Columbus, US @ Photon
-**Match Score:** 11.1%
-
-📍 **Location:** US USA
-
-🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, Gemini, Prompt Engineering, CI/CD, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c80f07aa82d3c33f)
+[Apply Here](https://www.indeed.com/viewjob?jk=5140254e8c3c2f42)
 
 ---
 
-## 6. Data Scientist Senior Associate — Business Observability & AI Platform @ JPMorganChase
-**Match Score:** 11.1%
-
-📍 **Location:** Jersey City, NJ, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, BigQuery, AKS, Snowflake, BigQuery, Tableau, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1d61a48289fe651f)
-
----
-
-## 7. Senior Forward Deployed AI Architect (GenAI, AWS) @ Provectus
+## 5. Software Engineer- React Native @ Solve Education
 **Match Score:** 11.1%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AI Engineer, PyTorch, Data Lake, MLflow, Kubernetes, CI/CD, Terraform, Python, R, Optimization
+🔑 **Keywords:** TensorFlow, PyTorch, FastAPI, Docker, CI/CD, PostgreSQL, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b6214d6d05e52a4a)
+[Apply Here](https://www.indeed.com/viewjob?jk=e6e4d9102ee12369)
 
 ---
 
-## 8. Senior Forward Deployed AI Architect (GenAI, AWS) @ Provectus
+## 6. IT Analyst Senior @ Vulcan Materials Company
 **Match Score:** 11.1%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Irving, TX, US USA
 
-🔑 **Keywords:** AI Engineer, PyTorch, Data Lake, MLflow, Kubernetes, CI/CD, Terraform, Python, R, Optimization
+🔑 **Keywords:** LangChain, CI/CD, Git, Snowflake, PySpark, Tableau, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=30627f2519238a7d)
-
----
-
-## 9. Senior Forward Deployed AI Architect (GenAI, AWS) @ Provectus
-**Match Score:** 11.1%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AI Engineer, PyTorch, Data Lake, MLflow, Kubernetes, CI/CD, Terraform, Python, R, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6b5acd54e336d48b)
+[Apply Here](https://www.indeed.com/viewjob?jk=ad738591847ea39e)
 
 ---
 
-## 10. Senior Forward Deployed AI Architect (GenAI, AWS) @ Provectus
-**Match Score:** 11.1%
+## 7. AI/ML Engineer @ Visto360 AI Inc.
+**Match Score:** 10.0%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Ann Arbor, MI, US USA
 
-🔑 **Keywords:** AI Engineer, PyTorch, Data Lake, MLflow, Kubernetes, CI/CD, Terraform, Python, R, Optimization
+🔑 **Keywords:** TensorFlow, PyTorch, OpenCV, YOLO, Docker, Kubernetes, Git, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a53156fdd087b203)
-
----
-
-## 11. Senior Forward Deployed AI Architect (GenAI, AWS) @ Provectus
-**Match Score:** 11.1%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AI Engineer, PyTorch, Data Lake, MLflow, Kubernetes, CI/CD, Terraform, Python, R, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7a77018d01dad413)
+[Apply Here](https://www.indeed.com/viewjob?jk=c68df308de319668)
 
 ---
 
-## 12. Senior Forward Deployed AI Architect (GenAI, AWS) @ Provectus
-**Match Score:** 11.1%
+## 8. Forward Deployed Software Engineer @ South Coast Terminals
+**Match Score:** 10.0%
 
-📍 **Location:** Remote, US USA
+📍 **Location:** Houston, TX, US USA
 
-🔑 **Keywords:** AI Engineer, PyTorch, Data Lake, MLflow, Kubernetes, CI/CD, Terraform, Python, R, Optimization
+🔑 **Keywords:** RAG, Docker, CI/CD, Git, NoSQL, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7c929e144df1653d)
-
----
-
-## 13. Senior Forward Deployed AI Architect (GenAI, AWS) @ Provectus
-**Match Score:** 11.1%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** AI Engineer, PyTorch, Data Lake, MLflow, Kubernetes, CI/CD, Terraform, Python, R, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4f4e1846742306c0)
+[Apply Here](https://www.indeed.com/viewjob?jk=c4cfa0ba5599ea10)
 
 ---
 
-## 14. Senior AI/ML Engineer (GenAI, AWS) @ Provectus
-**Match Score:** 11.1%
+## 9. JAVA API with Agentic AI only @ VaaridaTech
+**Match Score:** 10.0%
 
-📍 **Location:** MD, US USA
+📍 **Location:** O'Fallon, MO, US USA
 
-🔑 **Keywords:** AI Engineer, RAG, S3, Kubernetes, Apache Airflow, CI/CD, GitHub Actions, Git, Python, R
+🔑 **Keywords:** AI Engineer, CI/CD, Jenkins, Kafka, PostgreSQL, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=1075d7cc0d3e8b57)
-
----
-
-## 15. Senior AI/ML Engineer (GenAI, AWS) @ Provectus
-**Match Score:** 11.1%
-
-📍 **Location:** ME, US USA
-
-🔑 **Keywords:** AI Engineer, RAG, S3, Kubernetes, Apache Airflow, CI/CD, GitHub Actions, Git, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9bb69f45b1c58c41)
+[Apply Here](https://www.indeed.com/viewjob?jk=4cba7dce30a95ba6)
 
 ---
 
-## 16. Senior Solution Engineer (Guidewire) @ Mercury Insurance Company
+## 10. Senior Backend Software Engineer @ REGARD
+**Match Score:** 10.0%
+
+📍 **Location:** San Francisco, CA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Git, PostgreSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=996708fab93ede84)
+
+---
+
+## 11. Senior Backend Software Engineer @ REGARD
 **Match Score:** 10.0%
 
 📍 **Location:** Los Angeles, CA, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git, SQL, R
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Git, PostgreSQL, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b6c6535e6b03d8b4)
-
----
-
-## 17. FDE AI/ Solutions Architect (AI, Python/Data) @ Provectus
-**Match Score:** 10.0%
-
-📍 **Location:** MD, US USA
-
-🔑 **Keywords:** RAG, S3, Kubernetes, Apache Airflow, CI/CD, GitHub Actions, Git, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b2c055ce9797102c)
+[Apply Here](https://www.indeed.com/viewjob?jk=f5ab1be615875308)
 
 ---
 
-## 18. FDE AI/ Solutions Architect (AI, Python/Data) @ Provectus
+## 12. Senior DevOps Engineer (Data) @ AllStars-IT
 **Match Score:** 10.0%
 
-📍 **Location:** ME, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RAG, S3, Kubernetes, Apache Airflow, CI/CD, GitHub Actions, Git, Python, R
+🔑 **Keywords:** Kubernetes, CI/CD, Git, Hadoop, MongoDB, NoSQL, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c4ffa2bfcb22c9c8)
+[Apply Here](https://www.indeed.com/viewjob?jk=a01188c31d514d0c)
+
+---
+
+## 13. Senior Data Scientist @ TriNet
+**Match Score:** 10.0%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, Tableau, Power BI, Python, SQL, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6f8317c32538df22)
 
 ---
 
