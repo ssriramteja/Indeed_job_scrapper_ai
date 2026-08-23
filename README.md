@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-23
-- **New Matches Found in Last Run:** 7
-- **Total Active Matches (Last 4 Days):** 652
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 655
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-23.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-23.xlsx)
 
@@ -13,10 +13,13 @@
 | **Claritas Rx** | DevSecOps Engineer | US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e12b8c592b8fca76) | 2026-08-23 |
 | **Citi** | Full Stack Cloud Engineer | Irving, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b84e015e4bbf3308) | 2026-08-23 |
 | **Soulside AI** | Applied AI Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15b10be8fa85df5f) | 2026-08-23 |
+| **Deloitte** | Java Full Stack Developer-Software Engineer II | Tampa, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51af3dc634317edc) | 2026-08-23 |
 | **Deepgram** | Solutions Architect - MENA | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d254d3c3f23fd186) | 2026-08-23 |
 | **EY** | Government and Public Sector - Service Delivery Center - AI Solution Developer | San Antonio, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a20acc5c777568e5) | 2026-08-23 |
 | **Inabia Software & Consulting Inc.** | Machine Learning Data Scientist | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea90f0cb952f9858) | 2026-08-23 |
 | **CarMax** | Senior Analyst, Search and Recommendations | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf8fa9b337456e62) | 2026-08-23 |
+| **Adobe** | Software Development Engineer 4 | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7709ce54cf7d3e6) | 2026-08-23 |
+| **Smart Apply Test Company** | Software Engineer | Washington, DC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f83179256865e3c1) | 2026-08-23 |
 | **BV Teck** | Senior Data Scientist | Remote, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9ede359be55ea6d) | 2026-08-22 |
 | **BV Teck** | Senior Data Engineer | Remote, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b2bc68670e06fc48) | 2026-08-22 |
 | **Hyundai AutoEver America** | 10850 – Sr. Software Engineer, Applied AI | Irvine, CA, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f4c04ef00a4ce91) | 2026-08-22 |
