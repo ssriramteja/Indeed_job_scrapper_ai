@@ -1,84 +1,51 @@
 # 🎯 Daily Job Matches — 2026-08-24
 
-**Total Jobs Found:** 7
+**Total Jobs Found:** 4
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. REFRAME Platform Architect @ North Carolina State University
+## 1. AI/ML Solutions Engineer @ BankUnited
 **Match Score:** 22.2%
 
-📍 **Location:** Raleigh, NC, US USA
+📍 **Location:** Miami Lakes, FL, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, TensorFlow, PyTorch, AWS SageMaker, GCP Vertex AI, Azure ML, MLflow, Docker
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, AWS SageMaker, GCP Vertex AI, Azure ML
 
-[Apply Here](https://www.indeed.com/viewjob?jk=5bc4abda60b1248d)
+[Apply Here](https://www.indeed.com/viewjob?jk=cbfd63528cbfd9b2)
 
 ---
 
-## 2. Senior Data Engineer @ Vericast
+## 2. Senior Cloud Reliability Solutions Engineer @ MathWorks
 **Match Score:** 14.4%
 
-📍 **Location:** San Antonio, TX, US USA
+📍 **Location:** Natick, MA, US USA
 
-🔑 **Keywords:** RAG, S3, Data Lake, Kubernetes, Apache Airflow, CI/CD, Git, PySpark, Kafka, Hadoop
+🔑 **Keywords:** RAG, S3, EC2, Docker, Kubernetes, AKS, CI/CD, Terraform, Git, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=31f95d9c50c74e3c)
-
----
-
-## 3. Data Scientist @ Linde
-**Match Score:** 13.3%
-
-📍 **Location:** Danbury, CT, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Docker, Tableau, Matplotlib, Seaborn, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a1a855ea42b12c1b)
+[Apply Here](https://www.indeed.com/viewjob?jk=108f1ed54def2a35)
 
 ---
 
-## 4. Data scientist III View Jobs @ Swiggy
-**Match Score:** 12.2%
-
-📍 **Location:** Capitol, MT, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, S3, PySpark, Python, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7841efff777aa9f9)
-
----
-
-## 5. Data Scientist 3 @ DAIKIN COMFORT TECHNOLOGIES MFG INC
-**Match Score:** 12.2%
-
-📍 **Location:** Waller, TX, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Git, Snowflake, Tableau, Power BI, Python, SQL, R, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6a8c5ddf28842b6a)
-
----
-
-## 6. Software Engineer @ Online Taxes, Inc.
+## 3. Engineer II - AI Platform @ St. Jude Children's Research Hospital
 **Match Score:** 11.1%
 
-📍 **Location:** Overland Park, KS, US USA
+📍 **Location:** Memphis, TN, US USA
 
-🔑 **Keywords:** RAG, CI/CD, Jenkins, Git, MySQL, Python, SQL, R, Java, Scala
+🔑 **Keywords:** LangChain, RAG, LLaMA, Docker, Kubernetes, CI/CD, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=fe389bf2e2ebdf52)
+[Apply Here](https://www.indeed.com/viewjob?jk=a006132fbd4571bf)
 
 ---
 
-## 7. Cloud DevOps and AI Security Engineer @ Renesas
-**Match Score:** 11.1%
+## 4. Solutions Integration Engineer II @ Samsara
+**Match Score:** 10.0%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** Los Angeles, CA, US USA
 
-🔑 **Keywords:** S3, EC2, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R, Scala
+🔑 **Keywords:** RAG, Prompt Engineering, Git, Tableau, Python, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6db3db9a5aed6022)
+[Apply Here](https://www.indeed.com/viewjob?jk=739f0eb98945e450)
 
 ---
 
