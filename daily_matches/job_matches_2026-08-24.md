@@ -1,40 +1,29 @@
 # 🎯 Daily Job Matches — 2026-08-24
 
-**Total Jobs Found:** 3
+**Total Jobs Found:** 2
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Software Engineer AIML @ Ericsson
-**Match Score:** 13.3%
+## 1. MDM Integration Engineer @ McLane Company
+**Match Score:** 12.2%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Temple, TX, US USA
 
-🔑 **Keywords:** LangChain, RAG, LLaMA, TensorFlow, Docker, Kubernetes, AKS, CI/CD, Python, SQL
+🔑 **Keywords:** RAG, BigQuery, Kubernetes, CI/CD, Terraform, Git, BigQuery, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=716a90ad671df648)
-
----
-
-## 2. Completions & Well Management Research Engineer - Advanced @ ExxonMobil
-**Match Score:** 10.0%
-
-📍 **Location:** Spring, TX, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Git, Databricks, Power BI, Python, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=67a37e0d3a0ff599)
+[Apply Here](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f)
 
 ---
 
-## 3. Software Engineer II @ Uber
+## 2. AI/ML Engineer @ Optum
 **Match Score:** 10.0%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Minnetonka, MN, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, MySQL, Python, SQL, R, Java, Scala
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, Git, Databricks, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0af16c460096d8c0)
+[Apply Here](https://www.indeed.com/viewjob?jk=f210119310b3daee)
 
 ---
 

@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-24
-- **New Matches Found in Last Run:** 3
-- **Total Active Matches (Last 4 Days):** 419
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 421
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-24.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-24.xlsx)
 
@@ -18,11 +18,13 @@
 | **propio** | AI Engineer III | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e27050387795d89a) | 2026-08-24 |
 | **nan** | AI Integration & Automation Engineer | Inver Grove Heights, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a23d524d615e8124) | 2026-08-24 |
 | **Propio LS LLC** | AI Engineer III | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a113c3248d344aa) | 2026-08-24 |
+| **McLane Company** | MDM Integration Engineer | Temple, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a9de9ca0c44e375f) | 2026-08-24 |
 | **Ellipsis Health** | Senior DevSecOps Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b5903b1348160f84) | 2026-08-24 |
 | **Movi Healthcare** | Software Engineer | Charleston, SC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3420442aed030eb) | 2026-08-24 |
 | **The Coca-Cola Company** | Senior Data Scientist | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81b499173e817d46) | 2026-08-24 |
 | **ExxonMobil** | Completions & Well Management Research Engineer - Advanced | Spring, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=67a37e0d3a0ff599) | 2026-08-24 |
 | **Uber** | Software Engineer II | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0af16c460096d8c0) | 2026-08-24 |
+| **Optum** | AI/ML Engineer | Minnetonka, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f210119310b3daee) | 2026-08-24 |
 | **Claritas Rx** | DevSecOps Engineer | US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e12b8c592b8fca76) | 2026-08-23 |
 | **Citi** | Full Stack Cloud Engineer | Irving, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b84e015e4bbf3308) | 2026-08-23 |
 | **Soulside AI** | Applied AI Engineer | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15b10be8fa85df5f) | 2026-08-23 |
