@@ -1,139 +1,106 @@
 # 🎯 Daily Job Matches — 2026-08-26
 
-**Total Jobs Found:** 12
+**Total Jobs Found:** 9
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Software Engineer @ Optum
-**Match Score:** 14.4%
+## 1. Data Engineer @ ProArch
+**Match Score:** 20.0%
 
-📍 **Location:** Eden Prairie, MN, US USA
+📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Terraform, Git, Kafka, SQL, R
+🔑 **Keywords:** RAG, AWS SageMaker, S3, Glue, Redshift, Synapse, Data Lake, Snowflake, Databricks, Redshift
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2b9ca78d46c32c41)
+[Apply Here](https://www.indeed.com/viewjob?jk=08c354cd10dc0d65)
 
 ---
 
-## 2. AI Engineer (Python, Machine Learning, Generative AI/LLMs) @ Modus Create
-**Match Score:** 13.3%
+## 2. Senior Specialist - Data Sciences @ LTM Limited
+**Match Score:** 16.7%
+
+📍 **Location:** Plano, TX, US USA
+
+🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, Prompt Engineering, FastAPI, Jenkins, Git, MySQL, MongoDB
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7f794d6e7bb8089a)
+
+---
+
+## 3. Senior Software Engineer - Data Platform @ MetTel
+**Match Score:** 15.6%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** RAG, Copilot, BigQuery, Data Lake, Kubernetes, CI/CD, Snowflake, BigQuery, Kafka, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7cdad9aa5658efec)
+
+---
+
+## 4. Infrastructure & Security Engineer @ Castle Rock Associates
+**Match Score:** 15.6%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, Prompt Engineering, TensorFlow, PyTorch, CI/CD, Git, Python, R
+🔑 **Keywords:** RAG, Copilot, S3, EC2, Docker, CI/CD, Terraform, Git, PostgreSQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2dcf5c5c1c2855a1)
-
----
-
-## 3. Software Engineer II, Fintech @ Twitch
-**Match Score:** 13.3%
-
-📍 **Location:** Seattle, WA, US USA
-
-🔑 **Keywords:** AI Engineer, RAG, Copilot, S3, Redshift, CI/CD, Terraform, Redshift, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c724ec5809ede378)
+[Apply Here](https://www.indeed.com/viewjob?jk=3538beb714b8a6c0)
 
 ---
 
-## 4. Software Engineer II, Fintech @ Twitch
-**Match Score:** 13.3%
+## 5. Senior Specialist - Quality Engineering @ LTM Limited
+**Match Score:** 12.2%
 
-📍 **Location:** San Francisco, CA, US USA
+📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** AI Engineer, RAG, Copilot, S3, Redshift, CI/CD, Terraform, Redshift, Python, SQL
+🔑 **Keywords:** AI Engineer, Generative AI, RAG, Prompt Engineering, Jenkins, Git, MongoDB, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=71ec45fe0952b39c)
-
----
-
-## 5. Senior Software Engineer (Solutions) - TypeScript/Node.js/React @ RealPage Inc
-**Match Score:** 13.3%
-
-📍 **Location:** Richardson, TX, US USA
-
-🔑 **Keywords:** AI Engineer, Generative AI, RAG, Copilot, Prompt Engineering, CI/CD, Git, Python, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0494aa8c9d790ea1)
+[Apply Here](https://www.indeed.com/viewjob?jk=ef0792fba749b538)
 
 ---
 
-## 6. U.S based Senior AI Developer @ nan
-**Match Score:** 13.3%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** Generative AI, RAG, TensorFlow, PyTorch, Kafka, Hadoop, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=28370f7e43b9276b)
-
----
-
-## 7. Senior Forward Deployed AI Engineer / Solutions Architect (GenAI, AWS) @ Provectus
+## 6. AI Engineer @ nan
 **Match Score:** 11.1%
 
-📍 **Location:** San Francisco Bay Area, CA, US USA
+📍 **Location:** Charlotte, NC, US USA
 
-🔑 **Keywords:** AI Engineer, PyTorch, Data Lake, MLflow, Kubernetes, CI/CD, Terraform, Python, R, Optimization
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, RAG, Docker, CI/CD, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=82cbd1f5bd78afb0)
-
----
-
-## 8. Senior Machine Learning Engineer @ Intuit
-**Match Score:** 10.0%
-
-📍 **Location:** San Diego, CA, US USA
-
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, TensorFlow, Keras, NLTK, Git, Python, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=736603db9af75528)
+[Apply Here](https://www.indeed.com/viewjob?jk=be46bc9a67f8e21e)
 
 ---
 
-## 9. Senior Machine Learning Engineer @ Intuit
+## 7. Senior Analytics Engineer, Data Platform @ The New York Times
 **Match Score:** 10.0%
 
-📍 **Location:** Mountain View, CA, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, TensorFlow, Keras, NLTK, Git, Python, R, Scala
+🔑 **Keywords:** RAG, BigQuery, Git, Snowflake, Databricks, BigQuery, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=1ddfff0d73adc542)
+[Apply Here](https://www.indeed.com/viewjob?jk=6da72b4f8dd2050c)
 
 ---
 
-## 10. Research Scientist / Software Engineer, LLM/Agent Platform - TikTok - Content Ecology AI Innovation & Platform @ TikTok
+## 8. Senior Software Engineer @ Moody's
 **Match Score:** 10.0%
 
-📍 **Location:** San Jose, CA, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** LangChain, RAG, LLaMA, FAISS, TensorFlow, PyTorch, R, Scala, Optimization
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Git, NoSQL, Python, SQL, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e4883cede1a1dfd7)
+[Apply Here](https://www.indeed.com/viewjob?jk=870a4881511329a2)
 
 ---
 
-## 11. Senior Go Lang Engineer @ EPAM Systems
+## 9. AI & Process Automation Specialist @ Yogurtland
 **Match Score:** 10.0%
 
-📍 **Location:** Chicago, IL, US USA
+📍 **Location:** Farmers Branch, TX, US USA
 
-🔑 **Keywords:** RAG, Kubernetes, Git, PostgreSQL, MySQL, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Copilot, Git, Power BI, Python, SQL, R, Java, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c3b707da62cb9f27)
-
----
-
-## 12. Senior Go Lang Engineer @ EPAM Systems
-**Match Score:** 10.0%
-
-📍 **Location:** Menlo Park, CA, US USA
-
-🔑 **Keywords:** RAG, Kubernetes, Git, PostgreSQL, MySQL, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=773420fec473c4e5)
+[Apply Here](https://www.indeed.com/viewjob?jk=b9f10431b537fdd2)
 
 ---
 
