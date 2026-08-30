@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-08-30
-- **New Matches Found in Last Run:** 15
-- **Total Active Matches (Last 4 Days):** 491
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 494
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-08-30.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-08-30.xlsx)
 
@@ -17,6 +17,7 @@
 | **ALLO Communications** | Senior Software Engineer, Cloud and AI | Grand Island, NE, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d8a860e6f7c99c7) | 2026-08-30 |
 | **ALLO Communications** | Senior Software Engineer, Cloud and AI | Omaha, NE, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4aab656d0ca3d815) | 2026-08-30 |
 | **ALLO Communications** | Senior Software Engineer, Cloud and AI | Kansas City, MO, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b710a7f0b803f961) | 2026-08-30 |
+| **LPL Financial** | Engineer II, Data (Cloud & AI) | Fort Mill, SC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3ed8a1f209612e2) | 2026-08-30 |
 | **Manpower Internal** | Data Scientist - 0034641 | Milwaukee, WI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c6c7df280aa9cbba) | 2026-08-30 |
 | **Deloitte** | Sr Databricks Data Engineer | Rosslyn, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ab555e988dd3c5f) | 2026-08-30 |
 | **T. Rowe Price** | AI FinOps Engineer | Owings Mills, MD, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ea9a18422648b58) | 2026-08-30 |
@@ -25,6 +26,8 @@
 | **nan** | AI Solutions Automation Engineer | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b197fff47f26e6ba) | 2026-08-30 |
 | **ron turley associates** | Senior Software Engineer | Glendale, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4875b61328aee0d6) | 2026-08-30 |
 | **TikTok** | Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1d48c33c982fbf5) | 2026-08-30 |
+| **LTM Limited** | Specialist - Data Engineering | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c9493a61af734ed1) | 2026-08-30 |
+| **JPMorganChase** | Data Science Senior Associate- Card Data & Analytics team | Wilmington, DE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c16698583bc53709) | 2026-08-30 |
 | **Grainger** | Senior Data Engineer | Chicago, IL, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d9b5bcc98f7ba12) | 2026-08-29 |
 | **Capgemini** | Associate Data Engineer | Bridgewater, NJ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d2ae449ae79ca824) | 2026-08-29 |
 | **Capgemini** | Associate Data Engineer | Bridgewater, NJ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ef4cce7133b6d257) | 2026-08-29 |
