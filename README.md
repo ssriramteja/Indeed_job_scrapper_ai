@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-09-02
-- **New Matches Found in Last Run:** 58
-- **Total Active Matches (Last 4 Days):** 355
+- **New Matches Found in Last Run:** 92
+- **Total Active Matches (Last 4 Days):** 447
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-09-02.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-09-02.xlsx)
 
@@ -10,15 +10,77 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Molex** | AI Data Analytics Engineer | Lisle, IL, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5bc87d8d4b72fa4) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Richmond, VA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=778d1b72e0567b95) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | San Antonio, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=48fb65dd35fe2307) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Morristown, NJ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=496e1c6c66926d88) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | McLean, VA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4deae01c6a6686c9) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Las Vegas, NV, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=562b07a165d95ed9) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Rosslyn, VA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=394f624103f3ac06) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Nashville, TN, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=21794eae441b6843) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Milwaukee, WI, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=628ab10542a9a42e) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Philadelphia, PA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e67eaa88eba9af1d) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Seattle, WA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=047917358e7012db) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Austin, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0e9af2383ade0da) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Houston, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb92712556bdf9a3) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Dallas, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5dd23814a5363ac) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Hermitage, TN, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c1d09517048c4c4) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Memphis, TN, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a0f563a8ea34f62) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Lake Mary, FL, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2a26de6fcc547eda) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Charlotte, NC, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=66eb0c1dd6801423) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Pittsburgh, PA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f51340d14d8a49dc) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Mechanicsburg, PA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ba68ab0255d7215) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Columbus, OH, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f5b7dfa01746cb7) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Cleveland, OH, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a87ee22f7bf1a78) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Dayton, OH, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81424bcfb0a4ec64) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Portland, OR, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=88ddb62688ddbea0) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Raleigh, NC, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=743a058ece0dba52) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Cincinnati, OH, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=901c71e6187e6a70) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Princeton, NJ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db83f93bfba180ac) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Detroit, MI, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e525cc270dd07a4b) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Kansas City, MO, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a83be875dfd67bc3) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Jersey City, NJ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3321d42df031a71) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Baltimore, MD, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62d4974a15c6336c) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Minneapolis, MN, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=509f76b9081eeae1) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | New York, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08233903ec02c8ec) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Davenport, IA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=427b0ee2a0c773dc) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Rochester, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2e1f531c14684ffe) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Jericho, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3df6949a8a4197af) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Louisville, KY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=48c22010c93dd289) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Boston, MA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bc00629b11c0163e) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | New Orleans, LA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1500c3e228fd2624) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Atlanta, GA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08c22a98761ec7e1) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Indianapolis, IN, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d9bf7c11a00a5a1) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Hartford, CT, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1306ded654ee95ce) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Miami, FL, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9b9a70b3bc7e63d3) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Colorado Springs, CO, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=26d3e77c23e2db06) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Stamford, CT, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=88492821d7f7ce72) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Jacksonville, FL, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a088fbb56699a9ff) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Denver, CO, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6dc83c8db1a4ce3b) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Chicago, IL, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf80c0041e58589f) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | San Francisco, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5cced3942942c97) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Gilbert, AZ, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b1a53e7ff09b1e2f) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Costa Mesa, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0260c355d0366cec) | 2026-09-02 |
+| **Deloitte** | Cyber Identity - FDE Senior Consultant - Engineering and Product Engineer III | Los Angeles, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=383b03bef760ffc6) | 2026-09-02 |
+| **WIS International** | Data Engineer | Plano, TX, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e1b49079cb03df4) | 2026-09-02 |
 | **Capgemini** | Associate Data Scientist | Houston, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ef2046c40f9b4630) | 2026-09-02 |
 | **Capgemini** | Associate Data Scientist | Houston, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5613eeda948d152d) | 2026-09-02 |
 | **Capgemini** | Associate Data Scientist | Houston, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f6d82f72b04a6199) | 2026-09-02 |
 | **Capgemini** | Associate Data Scientist | Houston, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10720ff0a4de8cf4) | 2026-09-02 |
+| **Globant** | Data Engineer | CA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de3d10e4076147b8) | 2026-09-02 |
+| **HCLTech** | Platform Engineer II | Frisco, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20452cc6c3df4f7c) | 2026-09-02 |
 | **Fandom** | Senior Cloud Engineer | San Francisco, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3164f9cc4ca6cde8) | 2026-09-02 |
 | **Tiger Analytics** | Forward Deployed AI Engineer -Neo4j / Knowledge Graph | US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=205421f939f9f6af) | 2026-09-02 |
 | **Capgemini** | Senior Platform & SRE Engineer | New York, NY, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ec4f699ead9fde89) | 2026-09-02 |
 | **Centric Software** | Senior DevOps Engineer | US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1350eabc1a8ccc3f) | 2026-09-02 |
+| **Prodapt Solutions** | Devops Engineer | Irving, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9bc2a89638158cad) | 2026-09-02 |
+| **Dave** | Data Engineer II | US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dc313996d778a984) | 2026-09-02 |
+| **Deloitte** | Solution Architect | Hermitage, TN, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4a83fa56d22087cf) | 2026-09-02 |
 | **ServiceTitan** | Senior AI Engineer (Agent OS Platform) | Sacramento, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=642d9d492b002566) | 2026-09-02 |
+| **Lighthouse Document Technologies Inc.** | Senior AI Engineer | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13c947aa23b732f2) | 2026-09-02 |
+| **KLA** | AI Software Engineer - Operations | Ann Arbor, MI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b68f3d8db0a91ba) | 2026-09-02 |
+| **Steelcase** | Senior Data Engineer | Grand Rapids, MI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d35e48617ce425b3) | 2026-09-02 |
+| **PepsiCo** | SWE & App Arch Engineer | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=29bc3b6bca49cc75) | 2026-09-02 |
 | **Capgemini** | Automation Engineer with AI | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a6890c54510ac16b) | 2026-09-02 |
 | **Motorola Solutions** | Applied AI Engineer I – Supply Chain | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30519bbbe22dc7f2) | 2026-09-02 |
 | **FICO** | Sr Software Engineer (B2B Scores) | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7a1053e369bbe3b) | 2026-09-02 |
@@ -29,16 +91,34 @@
 | **Liberty Mutual Insurance** | Senior Software Engineer | Portsmouth, NH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a129774c3b6c3e8d) | 2026-09-02 |
 | **Liberty Mutual Insurance** | Senior Software Engineer | Columbus, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ee890dc40655c32) | 2026-09-02 |
 | **The Goal Family of Companies** | AI Engineer | San Diego, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bdd32aca13a2489e) | 2026-09-02 |
+| **US Foods** | Intern – Data Engineer (Hybrid: Onsite & Remote) | Rosemont, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=384534c24c687bf3) | 2026-09-02 |
 | **LTM Limited** | AI Engineer | Columbus, GA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8fea1e62ccbc4440) | 2026-09-02 |
 | **Oshkosh Corporation** | Cloud Systems & AI Integration Engineer | Madison, WI, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e768d3e65308e16d) | 2026-09-02 |
 | **McKesson** | Sr. Specialist, Software Development & Engineering | Columbus, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c20d43da61d62828) | 2026-09-02 |
 | **Pioneering Evolution** | Data Engineer | Arlington, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8cc53575e5fa190b) | 2026-09-02 |
+| **Hewlett Packard Enterprise | HPE** | AI & Analytics Solutions Engineer | Fort Collins, CO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ddc6f7b22c3923b2) | 2026-09-02 |
+| **Cognizant** | AI Architect | Minneapolis, MN, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=776f5f1b56365c1e) | 2026-09-02 |
+| **Insight** | Transformation Engineer SADA | Chandler, AZ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b0588d3c8970130) | 2026-09-02 |
+| **Neumo Holdings LLC** | Senior Data Engineer (Remote) | TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56051797fb6b2162) | 2026-09-02 |
+| **Pioneering Evolution** | Data Engineer | Arlington, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc20a22613db4d0e) | 2026-09-02 |
+| **Child Mind Institute** | Data Engineer | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2eed7b666dfdbc93) | 2026-09-02 |
+| **Ingredion** | AI & Data Scientist Intern | Westchester, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4c1230ee3c5c180d) | 2026-09-02 |
 | **GM Financial** | Salesforce Development Engineer II | Arlington, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=791008a46e54ae26) | 2026-09-02 |
 | **BV Teck** | Full Stack Solutions Developer – Java | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=16d5fddfa3a804d4) | 2026-09-02 |
 | **U.S. Bank** | Software Engineer 2 (React/Java) Web applications | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7143123bda142ef2) | 2026-09-02 |
 | **ClassLink, Inc.** | Senior Agentic Data Engineer (IC3) | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f5a95e8fe9cae63) | 2026-09-02 |
 | **BLACKBUCK iNSIGHTS** | Engineering Trainee | Schaumburg, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2effc5ea9fcdc2e0) | 2026-09-02 |
 | **DocuSign** | Senior Software Engineer | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eccb85ffecfc1db0) | 2026-09-02 |
+| **LTM Limited** | Databricks Data Engineer | Raritan, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9111ea89841eec4c) | 2026-09-02 |
+| **PortX** | Senior Platform Engineer - Go, Python, AWS, Kubernetes/EKS | Mercer Island, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6869de75829061a2) | 2026-09-02 |
+| **Maximus** | Senior Performance Engineer- JMeter, JavaScript - Remote | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bef4a1587d4ea493) | 2026-09-02 |
+| **Nordstrom** | Software Engineer 2 (Hybrid - Seattle, WA) | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e92eb5beb2f7a4a4) | 2026-09-02 |
+| **GEICO** | Senior Engineer - IVR | Richardson, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28242c11e5b03aad) | 2026-09-02 |
+| **GEICO** | Senior Engineer - IVR | Renton, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4fefdb8c2ca1ff0e) | 2026-09-02 |
+| **GEICO** | Senior Engineer - IVR | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5669473b69f8dfc0) | 2026-09-02 |
+| **GEICO** | Senior Engineer - IVR | Bethesda, MD, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1c5154caded21eb) | 2026-09-02 |
+| **Photon** | AI Analyst - Dallas, TX | Dallas, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfb485445c6b1224) | 2026-09-02 |
+| **Owens & Minor** | Data Scientist | Glen Allen, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4aeda45ddcc9276) | 2026-09-02 |
 | **BV Teck** | Senior .NET Solutions Developer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bcf14adbbc003139) | 2026-09-02 |
 | **BV Teck** | Test Automation Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8be26e9957dff2b5) | 2026-09-02 |
 | **BV Teck** | Python Solutions Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e9dce9e97399ebe) | 2026-09-02 |
@@ -55,6 +135,12 @@
 | **Sound Income Group** | AI Solutions Engineer | Fort Lauderdale, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ad527db0a144ed0) | 2026-09-02 |
 | **ClassLink, Inc.** | Agentic Engineer (IC2) | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84e3d407190b9631) | 2026-09-02 |
 | **JPMorganChase** | Data Scientist — Global Services Insights & Analytics, Commercial Banking - Sr. Associate | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0ef56a9b6c6e7952) | 2026-09-02 |
+| **Tango Technology, Inc.** | Senior Platform Engineer | OR, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4597a66e729c8507) | 2026-09-02 |
+| **Cognizant** | Databricks Architect | Sarasota, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f7ff9e6a3329d1d) | 2026-09-02 |
+| **Novo Nordisk, Inc.** | Data Scientist II - Advanced Analytics | Plainsboro, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ef233fd5c7a57774) | 2026-09-02 |
+| **Climavision** | Jr. Software Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ffa078439d97db5) | 2026-09-02 |
+| **Diversified Gas & Oil** | BI Developer/ Analyst | Birmingham, AL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e30ffff7d49182ff) | 2026-09-02 |
+| **Intuit** | Data Scientist, Customer Success | San Diego, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bec4e796b610ab57) | 2026-09-02 |
 | **American Express** | Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3080ab4c5c616e1b) | 2026-09-02 |
 | **American Express** | Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bc04b733aa013d08) | 2026-09-02 |
 | **American Express** | Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- New York, NY | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1bfccd6fd6ae1824) | 2026-09-02 |
@@ -68,6 +154,12 @@
 | **DocuSign** | Senior Data Scientist | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf90b114f5442003) | 2026-09-02 |
 | **Tesla** | Internship, Charging Data Modeling, Machine Learning Engineer (Winter/Spring 2027) | Palo Alto, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7fcc4ea2784764f4) | 2026-09-02 |
 | **Elanco** | Advisor R&D | Indianapolis, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=29da06a98a847fda) | 2026-09-02 |
+| **Cloudflare** | Senior Software Engineer - Addressing Team | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=11562920d71748d1) | 2026-09-02 |
+| **VeeRteq Solutions Inc.** | Data Engineer (Knowledge Graph) | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19609ee083f0bbaa) | 2026-09-02 |
+| **Block** | Senior GRC Engineer | San Francisco Bay Area, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9cc2b2627eea8568) | 2026-09-02 |
+| **Index Analytics LLC** | Data Engineer | Windsor Mill, MD, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d02c9c5cae4d743b) | 2026-09-02 |
+| **Corning** | Digital & IT Intern, Analyst, Manufacturing AI/ML - Summer 2027 | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c1d6fb9f91a34d2) | 2026-09-02 |
+| **UniFirst** | DevOps Engineer – Azure Platform | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38ac80eca36c370b) | 2026-09-02 |
 | **Copart, Inc** | AI Engineer Intern | Dallas, TX, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=222ed3cc9231d113) | 2026-09-01 |
 | **Royal Caribbean Group** | Senior Data Engineer | Miramar, FL, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15bc705887f3d3f9) | 2026-09-01 |
 | **DailyPay Inc** | Senior Machine Learning Engineer | New York, NY, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=059d00b010e64ab8) | 2026-09-01 |
