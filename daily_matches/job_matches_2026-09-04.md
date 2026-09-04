@@ -1,986 +1,403 @@
 # 🎯 Daily Job Matches — 2026-09-04
 
-**Total Jobs Found:** 89
+**Total Jobs Found:** 36
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
+## 1. Associate-AI-ML Engineer / GenAI Engineer - Data Scientist @ Capgemini
+**Match Score:** 21.1%
 
-📍 **Location:** CT, US USA
+📍 **Location:** Houston, TX, US USA
 
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, LangChain, RAG, Gemini, TensorFlow, PyTorch, Docker, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f9152e708942be7c)
-
----
-
-## 2. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** FL, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c366764337f1ed92)
+[Apply Here](https://www.indeed.com/viewjob?jk=529f4202718cbb5d)
 
 ---
 
-## 3. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** IA, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6058b9b613bca110)
-
----
-
-## 4. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** IN, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8f0b2962748d9789)
-
----
-
-## 5. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** AR, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=62e526d781156add)
-
----
-
-## 6. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** WI, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=97bedc8e0921c527)
-
----
-
-## 7. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** Washington, DC, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f053a808a64ce63c)
-
----
-
-## 8. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** NM, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c2234682221b2376)
-
----
-
-## 9. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** IL, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2c2850791f386fd0)
-
----
-
-## 10. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** UT, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ea5bd5047cb690b7)
-
----
-
-## 11. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** OH, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b6c9d895b4b221fc)
-
----
-
-## 12. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** NH, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6f901d63ec543ec6)
-
----
-
-## 13. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** WY, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d7a2c68b1f9879c6)
-
----
-
-## 14. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** NE, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=34cfdf03756d098f)
-
----
-
-## 15. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** VT, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3d1deaba387bdf2e)
-
----
-
-## 16. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** KY, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=db635ff6ebf1d5ba)
-
----
-
-## 17. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** PA, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c4df6e348da45185)
-
----
-
-## 18. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** TN, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6493bf4f59fe501c)
-
----
-
-## 19. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** WA, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0b3b4996f2df17d3)
-
----
-
-## 20. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** VA, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c769c3d835ff3db7)
-
----
-
-## 21. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** ME, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=04781ba0e218324c)
-
----
-
-## 22. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** ND, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e237f57d26686583)
-
----
-
-## 23. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** LA, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1d50878a49c11777)
-
----
-
-## 24. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** MA, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=189bcc446c9dab44)
-
----
-
-## 25. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** NC, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=44f312befe7b6228)
-
----
-
-## 26. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** MO, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=825ced6b050f62ff)
-
----
-
-## 27. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** OR, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bf99c34ea81acf0e)
-
----
-
-## 28. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** NJ, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ca5468b9bf305c96)
-
----
-
-## 29. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** AL, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=60f9ca1626e817a0)
-
----
-
-## 30. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** AZ, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=742f43f81b2c60f7)
-
----
-
-## 31. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** RI, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2401405eb3baa60e)
-
----
-
-## 32. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** OK, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=745d572a1734deb3)
-
----
-
-## 33. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** MD, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=86fa80072663c39c)
-
----
-
-## 34. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** SD, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=34becb3bb737a3a8)
-
----
-
-## 35. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** DE, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=40c481cde165be31)
-
----
-
-## 36. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** KS, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d3246b068fda8b24)
-
----
-
-## 37. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** NY, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=01a11e4dca1338bd)
-
----
-
-## 38. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** GA, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=19cafaf0905d6ccd)
-
----
-
-## 39. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** CO, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d179f64661459840)
-
----
-
-## 40. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** WV, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=927f4de3ddcabe55)
-
----
-
-## 41. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** SC, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=55c467b89913b40c)
-
----
-
-## 42. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** MI, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=97f79742bd18fbf9)
-
----
-
-## 43. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** CA, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=48534502200da502)
-
----
-
-## 44. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** MN, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a2ce4e192219a234)
-
----
-
-## 45. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** MT, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c386ab65035eb143)
-
----
-
-## 46. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** MS, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=38959fe002eaa620)
-
----
-
-## 47. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** ID, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c5a45ce59fb7c995)
-
----
-
-## 48. Senior Full-Stack Developer - AI @ CVS Health
-**Match Score:** 20.0%
-
-📍 **Location:** NV, US USA
-
-🔑 **Keywords:** LangChain, RAG, Gemini, FastAPI, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Git
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9c332f08ebbb5911)
-
----
-
-## 49. DataBricks Data Engineer @ Prodapt Solutions
-**Match Score:** 16.7%
-
-📍 **Location:** Irving, TX, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Synapse, Data Lake, CI/CD, Terraform, Git, Snowflake, Databricks, PySpark
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8575f37d6f1acd78)
-
----
-
-## 50. Sr. Full Stack Developer @ Ford Motor Company
-**Match Score:** 16.7%
-
-📍 **Location:** Dearborn, MI, US USA
-
-🔑 **Keywords:** RAG, TensorFlow, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, NoSQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f91a79069b7b6c23)
-
----
-
-## 51. Platform Engineer @ Rakuten International
+## 2. Platform Engineer @ Rakuten Global
 **Match Score:** 16.7%
 
 📍 **Location:** San Mateo, CA, US USA
 
 🔑 **Keywords:** LangChain, RAG, FastAPI, Docker, CI/CD, GitHub Actions, Git, Kafka, PostgreSQL, MySQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b44a19f12a8e8842)
+[Apply Here](https://www.indeed.com/viewjob?jk=f9bfadcb3e3c8e3d)
 
 ---
 
-## 52. Sr. AI/Machine Learning Engineer @ Intellivo
+## 3. Senior Data Engineer @ Tempus
+**Match Score:** 16.7%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RAG, Pinecone, Glue, BigQuery, Docker, Kubernetes, Terraform, Git, BigQuery, PostgreSQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7757978021f6f0be)
+
+---
+
+## 4. Cloud Vulnerability Management Engineer (Onsite Hybrid) @ NTT DATA
+**Match Score:** 16.7%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Databricks, Kafka
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a4723cbe97840a8b)
+
+---
+
+## 5. Senior Data Engineer @ Mastercard
 **Match Score:** 15.6%
 
-📍 **Location:** Memphis, TN, US USA
+📍 **Location:** O'Fallon, MO, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, Generative AI, LangChain, RAG, LLaMA, Mistral, TensorFlow, PyTorch, XGBoost, Azure ML
+🔑 **Keywords:** Generative AI, RAG, TensorFlow, PyTorch, Data Lake, Git, Databricks, Hadoop, PostgreSQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=93a647a90dbe7e6a)
+[Apply Here](https://www.indeed.com/viewjob?jk=6b006836fd5da0fd)
 
 ---
 
-## 53. Sr Software Engineer I @ Tandem Diabetes Care, Inc.
+## 6. Sr. Full-Stack Engineer, Data Systems @ Datavations
 **Match Score:** 15.6%
 
-📍 **Location:** Milan, MO, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** RAG, Copilot, Kinesis, Docker, Kubernetes, CI/CD, Git, Kafka, MySQL, MongoDB
+🔑 **Keywords:** RAG, BigQuery, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Snowflake, BigQuery, Tableau
 
-[Apply Here](https://www.indeed.com/viewjob?jk=31ff8701b147ac9f)
+[Apply Here](https://www.indeed.com/viewjob?jk=40e8117ce12171ea)
 
 ---
 
-## 54. Sr. Software Engineer - AI Quality and Productivity @ General Motors (GM)
+## 7. Sr. Systems Engineer @ Datavations
 **Match Score:** 15.6%
 
-📍 **Location:** Warren, MI, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, GitHub Actions, Git, Databricks, PostgreSQL, Python, SQL
+🔑 **Keywords:** RAG, BigQuery, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Snowflake, BigQuery, Tableau
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d251da15ad981a86)
+[Apply Here](https://www.indeed.com/viewjob?jk=69a1db356a25690b)
 
 ---
 
-## 55. Data Scientist II, New College Grad- Master's (Santa Clara, CA) @ Applied Materials
+## 8. Sr Platform Engineer @ Datavations
 **Match Score:** 15.6%
 
-📍 **Location:** Santa Clara, CA, US USA
+📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, BigQuery, Snowflake, Databricks, BigQuery, Tableau, Power BI, Python
+🔑 **Keywords:** RAG, BigQuery, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Snowflake, BigQuery, Tableau
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a8bc8442250535cc)
+[Apply Here](https://www.indeed.com/viewjob?jk=9a78908866a9549b)
 
 ---
 
-## 56. Data Engineer @ Sourceo
+## 9. Senior Software Engineer @ Optum
 **Match Score:** 14.4%
 
-📍 **Location:** IN, US USA
+📍 **Location:** Richardson, TX, US USA
 
-🔑 **Keywords:** RAG, Data Lake, Docker, Kubernetes, Git, Databricks, Kafka, Power BI, Python, SQL
+🔑 **Keywords:** RAG, FastAPI, Snowflake, Databricks, PySpark, Hadoop, MySQL, NoSQL, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a95571cda13f4ac4)
+[Apply Here](https://www.indeed.com/viewjob?jk=b0e939ac0ffe070e)
 
 ---
 
-## 57. Senior Platform Software Engineer @ Oracle
+## 10. Data Engineer - Data Platform (Spark/Kafka/Flink/Scala/Java) - Onsite Hybrid @ NTT DATA
 **Match Score:** 14.4%
 
-📍 **Location:** Nashville, TN, US USA
+📍 **Location:** Cupertino, CA, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, Kubernetes, CI/CD, Python
+🔑 **Keywords:** RAG, Kubernetes, Apache Airflow, CI/CD, Git, Kafka, PostgreSQL, Cassandra, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=da7bf576857a8aca)
-
----
-
-## 58. Senior Platform Software Engineer @ Oracle
-**Match Score:** 14.4%
-
-📍 **Location:** Nashville, TN, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, Kubernetes, CI/CD, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d4beb6556e233fc4)
+[Apply Here](https://www.indeed.com/viewjob?jk=3d5221782b3df25e)
 
 ---
 
-## 59. Senior Platform Software Engineer @ Oracle
-**Match Score:** 14.4%
+## 11. Senior Enterprise AI & Power Platform Developer @ nan
+**Match Score:** 13.3%
 
-📍 **Location:** Nashville, TN, US USA
+📍 **Location:** Los Angeles, CA, US USA
 
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, Kubernetes, CI/CD, Python
+🔑 **Keywords:** Generative AI, RAG, Copilot, CI/CD, Git, Databricks, Power BI, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=06e5b9997367f58a)
+[Apply Here](https://www.indeed.com/viewjob?jk=9bdb2c0a35d4dcba)
 
 ---
 
-## 60. Software Engineer @ Siemens
+## 12. Software Engineer III - AI/ML Platform Engineer @ JPMorganChase
+**Match Score:** 13.3%
+
+📍 **Location:** Jersey City, NJ, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, Docker, Kubernetes, PostgreSQL, MongoDB, Cassandra, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=410e5ddf9504d2a3)
+
+---
+
+## 13. Data Scientist @ VCA Animal Hospitals
+**Match Score:** 13.3%
+
+📍 **Location:** Los Angeles, CA, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, XGBoost, Tableau, Power BI, Matplotlib, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=30ff561860cb5bb4)
+
+---
+
+## 14. Data Engineer @ Origami Risk LLC
+**Match Score:** 12.2%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RAG, S3, Glue, Data Lake, CI/CD, Git, Databricks, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ac9facab44a0c8e5)
+
+---
+
+## 15. Machine Learning Engineer 4 @ Adobe
+**Match Score:** 12.2%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** Machine Learning Engineer, Generative AI, RAG, Hugging Face, TensorFlow, PyTorch, Python, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a32f9ac88b6f18bf)
+
+---
+
+## 16. Associate - Data Engineer @ New York Life
 **Match Score:** 12.2%
 
 📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** Generative AI, LangChain, PyTorch, S3, Kubernetes, GitHub Actions, Terraform, Git, Python, R
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Glue, Git, Databricks, PySpark, Kafka, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=64cd138edc42e2e4)
+[Apply Here](https://www.indeed.com/viewjob?jk=075bcb7fa07a9e22)
 
 ---
 
-## 61. Applied AI Science Co-op - Embedding models and Personalization @ Ancestry
+## 17. Senior Machine Learning Engineer @ Kard Financial
 **Match Score:** 12.2%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Hugging Face, Prompt Engineering, TensorFlow, PyTorch, Keras, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, RAG, MLflow, Kubernetes, Terraform, Databricks, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a91337af49c1bc76)
+[Apply Here](https://www.indeed.com/viewjob?jk=f0fee801aa25c6b2)
 
 ---
 
-## 62. Java Full Stack Developer-Software Engineer III @ Deloitte
+## 18. Cloud Systems Engineer @ Ventura Foods
 **Match Score:** 11.1%
 
-📍 **Location:** Dallas, TX, US USA
+📍 **Location:** Irvine, CA, US USA
 
-🔑 **Keywords:** RAG, CI/CD, Git, Kafka, MongoDB, SQL, R, Java, Scala, Optimization
+🔑 **Keywords:** RAG, Kubernetes, AKS, CI/CD, Terraform, Git, Python, R, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=32ae9d63b93b018e)
+[Apply Here](https://www.indeed.com/viewjob?jk=c0b041672b551828)
 
 ---
 
-## 63. Sr Analytics Engineer @ Alight Solutions
+## 19. Software Engineer I @ Zebra Technologies
 **Match Score:** 11.1%
 
-📍 **Location:** IL, US USA
+📍 **Location:** Holtsville, NY, US USA
 
-🔑 **Keywords:** RAG, Copilot, Git, Tableau, Power BI, Quicksight, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, TensorFlow, PyTorch, OpenCV, CI/CD, Git, Python, R, Java, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e7e3c21146bb634f)
+[Apply Here](https://www.indeed.com/viewjob?jk=9ff7024f3e918ca5)
 
 ---
 
-## 64. Senior Data Scientist, Defect Quality & Systems @ Samsung Electronics
+## 20. Forward Deployment Engineer @ Cvent
+**Match Score:** 11.1%
+
+📍 **Location:** Tysons Corner, VA, US USA
+
+🔑 **Keywords:** RAG, Copilot, BigQuery, Snowflake, Databricks, BigQuery, Python, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bed75fdb3ff1dd96)
+
+---
+
+## 21. Forward Deployed Engineer @ Datavations
+**Match Score:** 11.1%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** RAG, BigQuery, Terraform, Snowflake, BigQuery, Tableau, Power BI, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=acd33162c460f793)
+
+---
+
+## 22. Forward Deployed Engineer @ Datavations
+**Match Score:** 11.1%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RAG, BigQuery, Terraform, Snowflake, BigQuery, Tableau, Power BI, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bc3f94ec0cc1ae86)
+
+---
+
+## 23. AWS Data & AI Platform Engineer @ NTT DATA
+**Match Score:** 11.1%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** Generative AI, RAG, S3, Kubernetes, CI/CD, Terraform, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5489882ff02a2e52)
+
+---
+
+## 24. Senior Software Engineer @ The University of Chicago
 **Match Score:** 10.0%
 
-📍 **Location:** Austin, TX, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, FastAPI, Tableau, Python, SQL, R
+🔑 **Keywords:** Docker, Kubernetes, CI/CD, Hadoop, PostgreSQL, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6e36313756d15747)
-
----
-
-## 65. Software Engineer II @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** Data Scientist, Generative AI, RAG, S3, CI/CD, Jenkins, Git, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ea947be91c507fb0)
+[Apply Here](https://www.indeed.com/viewjob?jk=b4e4b355836bdf2f)
 
 ---
 
-## 66. Senior Software Engineer II - Risk @ Aledade
+## 25. Engineer III (Java, Spring Boot, RESTful APIs) @ Mutual of Omaha
 **Match Score:** 10.0%
 
 📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Python, SQL, R, Java, Scala
+🔑 **Keywords:** RAG, CI/CD, Git, PostgreSQL, MongoDB, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=59fcd712375ba35e)
+[Apply Here](https://www.indeed.com/viewjob?jk=d71ed83fe6a75842)
 
 ---
 
-## 67. Marketing Analytics Engineer @ Ericsson
+## 26. Endpoint Engineer @ ENT
 **Match Score:** 10.0%
 
-📍 **Location:** TX, US USA
+📍 **Location:** US USA
 
-🔑 **Keywords:** RAG, Cortex, CI/CD, Snowflake, Power BI, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Copilot, AKS, CI/CD, GitHub Actions, Git, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4b9f2e4569d1db6a)
+[Apply Here](https://www.indeed.com/viewjob?jk=25b93b2ebc68f426)
 
 ---
 
-## 68. Marketing Analytics Engineer @ Ericsson
+## 27. Finance AI Engineer @ Intuitive (Intuitive Surgical)
+**Match Score:** 10.0%
+
+📍 **Location:** Sunnyvale, CA, US USA
+
+🔑 **Keywords:** AI Engineer, Prompt Engineering, Cortex, Snowflake, Tableau, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=28f1c29c9521b833)
+
+---
+
+## 28. Senior Software Engineer, Fulfillment @ Instacart
+**Match Score:** 10.0%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RAG, PostgreSQL, MySQL, NoSQL, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=45755e3f20791cb8)
+
+---
+
+## 29. Business Analyst – Data Modernization @ Cyberlocke, LLC
+**Match Score:** 10.0%
+
+📍 **Location:** McKinney, TX, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Copilot, Data Lake, Git, Power BI, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b9197494d6b0947b)
+
+---
+
+## 30. Sr. Field Applications Engineer, Datacenter & AI Systems Debug and Deployment Support @ AMD
+**Match Score:** 10.0%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** RAG, TensorFlow, PyTorch, Docker, Kubernetes, Git, Python, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b77e3fa0f1660f53)
+
+---
+
+## 31. Sr. Field Applications Engineer, Datacenter & AI Systems Debug and Deployment Support @ AMD
+**Match Score:** 10.0%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** RAG, TensorFlow, PyTorch, Docker, Kubernetes, Git, Python, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=49b19d9379380acc)
+
+---
+
+## 32. Machine Learning Engineer @ Adobe
+**Match Score:** 10.0%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** Machine Learning Engineer, Generative AI, RAG, TensorFlow, PyTorch, Git, Python, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=de535ff5c8d25ede)
+
+---
+
+## 33. Site Reliability Engineer III @ JPMorganChase
+**Match Score:** 10.0%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, Jenkins, Terraform, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e198e6ac2972e7f1)
+
+---
+
+## 34. Site Reliability Engineer III @ JPMorganChase
+**Match Score:** 10.0%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, Jenkins, Terraform, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=306f0bd44cd0eb2d)
+
+---
+
+## 35. New College Grad - Yield Enhancement Electrical Failure Analysis Engineer @ Micron Technology
 **Match Score:** 10.0%
 
 📍 **Location:** Boise, ID, US USA
 
-🔑 **Keywords:** RAG, Cortex, CI/CD, Snowflake, Power BI, Python, SQL, R, Scala
+🔑 **Keywords:** Generative AI, RAG, Git, Tableau, Power BI, Python, SQL, R, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=0d84c664bc28f4ae)
-
----
-
-## 69. Data Engineer @ Park Place Technologies
-**Match Score:** 10.0%
-
-📍 **Location:** Highland Heights, OH, US USA
-
-🔑 **Keywords:** Data Scientist, Azure ML, Synapse, Data Lake, Git, Python, SQL, R, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2036be33a66f5172)
+[Apply Here](https://www.indeed.com/viewjob?jk=55b636919203144b)
 
 ---
 
-## 70. Data Scientist - Product Safety Data Analytics @ General Motors (GM)
+## 36. Sr. Data Analyst @ BMO Financial Group
 **Match Score:** 10.0%
 
-📍 **Location:** Warren, MI, US USA
+📍 **Location:** San Ramon, CA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Databricks, Tableau, Power BI, Python, SQL, R, Scala
+🔑 **Keywords:** LangChain, RAG, Copilot, Tableau, Power BI, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8d762c0ce05fb2ca)
-
----
-
-## 71. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Morristown, NJ, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=08a841005a79bd72)
-
----
-
-## 72. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Indianapolis, IN, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=24d9675817a64cf7)
-
----
-
-## 73. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** San Antonio, TX, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=53d37910dc7c5a1f)
-
----
-
-## 74. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c30155937f66ae41)
-
----
-
-## 75. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=bd94dbb79d7abcc9)
-
----
-
-## 76. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8066d79c18e6e5e6)
-
----
-
-## 77. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Jericho, NY, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b82d1cd07bc3c3c5)
-
----
-
-## 78. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Cleveland, OH, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8c6992b10693e1a5)
-
----
-
-## 79. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Des Moines, IA, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b8f72f7afebf5df4)
-
----
-
-## 80. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Kansas City, MO, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ea9aa357310f0a0b)
-
----
-
-## 81. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Princeton, NJ, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=4e8292528ac6ce40)
-
----
-
-## 82. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Boston, MA, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=397c5ed0ca7d58e8)
-
----
-
-## 83. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Jersey City, NJ, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=845397acd7122aed)
-
----
-
-## 84. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Omaha, NE, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=89fe0814325c110f)
-
----
-
-## 85. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Cincinnati, OH, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=428a651cf3335a8e)
-
----
-
-## 86. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Detroit, MI, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e48124941694bc3a)
-
----
-
-## 87. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Hartford, CT, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=57bc16540033886c)
-
----
-
-## 88. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** St. Louis, MO, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d5e58b53ffb80f56)
-
----
-
-## 89. Finance Analytics & AI Senior Consultant @ Deloitte
-**Match Score:** 10.0%
-
-📍 **Location:** Stamford, CT, US USA
-
-🔑 **Keywords:** RAG, LLaMA, Gemini, Snowflake, Databricks, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1dad71d0c9341bd3)
+[Apply Here](https://www.indeed.com/viewjob?jk=929b50b31bbbe91a)
 
 ---
 
