@@ -1,139 +1,183 @@
 # 🎯 Daily Job Matches — 2026-09-04
 
-**Total Jobs Found:** 12
+**Total Jobs Found:** 16
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. AI Engineer - Direct Hire Only, no Corp-2-Corp @ Pistevo Decision
+## 1. Software Engineer (Python, Java, C++, or GoLang) - Chicago, IL- ONSITE 2X Week- FreeWheel @ Comcast
+**Match Score:** 20.0%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, Terraform, Git, Snowflake, Databricks
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e0cea54622c0ce7d)
+
+---
+
+## 2. Generative AI Engineer (4-5 Years Experience) @ Verveba telecom
 **Match Score:** 14.4%
 
-📍 **Location:** Herndon, VA, US USA
+📍 **Location:** Richardson, TX, US USA
 
-🔑 **Keywords:** AI Engineer, RAG, Prompt Engineering, S3, Docker, CI/CD, GitHub Actions, Terraform, Git, PostgreSQL
+🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, LLaMA, Pinecone, TensorFlow, PyTorch, Keras, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b60fbf6be4c551ad)
-
----
-
-## 2. AI/ML Engineer Precision Oncology @ Moffitt Cancer Center
-**Match Score:** 13.3%
-
-📍 **Location:** Tampa, FL, US USA
-
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, Hugging Face, PyTorch, CI/CD, Git, Python, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=8db73b8028284c06)
+[Apply Here](https://www.indeed.com/viewjob?jk=ae5981c488755ac7)
 
 ---
 
-## 3. AI/ML Engineer Precision Oncology @ Moffitt Cancer Center
-**Match Score:** 13.3%
+## 3. Data Engineer (DataLake to AWS) @ NTT DATA
+**Match Score:** 14.4%
 
-📍 **Location:** Tampa, FL, US USA
+📍 **Location:** Seattle, WA, US USA
 
-🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, RAG, Hugging Face, PyTorch, CI/CD, Git, Python, R
+🔑 **Keywords:** RAG, Kubernetes, CI/CD, Git, Snowflake, Kafka, Hadoop, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=28fada676edd1a21)
-
----
-
-## 4. Senior Data Engineer, AI & Agents @ Appnovation Technologies
-**Match Score:** 13.3%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** RAG, Cortex, S3, Apache Airflow, CI/CD, Git, Snowflake, Databricks, PySpark, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a3734453d62a91f7)
+[Apply Here](https://www.indeed.com/viewjob?jk=7fa01137fb1dea76)
 
 ---
 
-## 5. Senior Data Engineer, AI & Agents @ Appnovation Technologies
+## 4. Gen AI Engineer @ Realign
 **Match Score:** 13.3%
 
 📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** RAG, Cortex, S3, Apache Airflow, CI/CD, Git, Snowflake, Databricks, PySpark, Python
+🔑 **Keywords:** AI Engineer, Generative AI, RAG, Prompt Engineering, Docker, Kubernetes, CI/CD, Jenkins, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c63f982e3b90ae6e)
+[Apply Here](https://www.indeed.com/viewjob?jk=df0deb6fd9e533ca)
 
 ---
 
-## 6. Senior Data Engineer, AI & Agents @ Appnovation Technologies
+## 5. Sr. Analyst, Supply Chain Data Analytics @ Newell Brands
 **Match Score:** 13.3%
 
-📍 **Location:** Miami, FL, US USA
+📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** RAG, Cortex, S3, Apache Airflow, CI/CD, Git, Snowflake, Databricks, PySpark, Python
+🔑 **Keywords:** AI Engineer, RAG, Copilot, Git, Databricks, Tableau, Power BI, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3f8428fb5228d600)
+[Apply Here](https://www.indeed.com/viewjob?jk=3e56e79b023c480f)
 
 ---
 
-## 7. Software Engineer Sr - Pega Developer @ PNC Financial Services Group
+## 6. Applications Engineer - Senior @ NOVON Consulting
 **Match Score:** 12.2%
 
-📍 **Location:** Pittsburgh, PA, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Generative AI, RAG, CI/CD, Jenkins, Git, PostgreSQL, SQL, R, Java, Scala
+🔑 **Keywords:** AI Engineer, Generative AI, RAG, Gemini, Prompt Engineering, Git, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e30a25501a39a5f1)
-
----
-
-## 8. Software Engineer @ Zoom Communications
-**Match Score:** 12.2%
-
-📍 **Location:** San Jose, CA, US USA
-
-🔑 **Keywords:** Copilot, Docker, CI/CD, Git, Snowflake, Databricks, Kafka, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c1a155cddb69c0b0)
+[Apply Here](https://www.indeed.com/viewjob?jk=df34afb40bf5c4cf)
 
 ---
 
-## 9. Data Architect @ Aureon
-**Match Score:** 12.2%
-
-📍 **Location:** West Des Moines, IA, US USA
-
-🔑 **Keywords:** RAG, Synapse, Data Lake, CI/CD, Databricks, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=761ae4e0fd8c073b)
-
----
-
-## 10. Software Data Engineering Intern @ Innovation Associates, Inc.
+## 7. Senior Python Engineer @ EPAM Systems
 **Match Score:** 11.1%
 
-📍 **Location:** Binghamton, NY, US USA
+📍 **Location:** Houston, TX, US USA
 
-🔑 **Keywords:** Generative AI, Data Lake, Databricks, Tableau, Power BI, Python, SQL, R, Java, Scala
+🔑 **Keywords:** Copilot, Data Lake, FastAPI, Terraform, Git, NoSQL, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=c2ea5af3859d76d5)
+[Apply Here](https://www.indeed.com/viewjob?jk=8471609834aa2a27)
 
 ---
 
-## 11. Data Engineer - Office-Based in Minnesota @ UnitedHealth Group
+## 8. USA - Tax - BTS - FTA - EDGE STEM R&D Credits - Technology - Intern - Summer 2027 @ EY
 **Match Score:** 11.1%
 
-📍 **Location:** Eden Prairie, MN, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** Data Lake, CI/CD, Git, Snowflake, Databricks, Python, SQL, R, Scala, Optimization
+🔑 **Keywords:** Data Scientist, RAG, Copilot, AKS, Python, SQL, R, Java, Scala, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f8abd386f3997679)
+[Apply Here](https://www.indeed.com/viewjob?jk=77c40be597a87b3b)
 
 ---
 
-## 12. Senior Data Scientist @ Gap Inc.
+## 9. Generative AI Engineer (2-3 Years Experience) @ Verveba telecom
+**Match Score:** 11.1%
+
+📍 **Location:** Richardson, TX, US USA
+
+🔑 **Keywords:** AI Engineer, Data Scientist, Machine Learning Engineer, Generative AI, RAG, TensorFlow, PyTorch, Python, R, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=24071b98c910bce8)
+
+---
+
+## 10. Software Engineer @ Amdocs
+**Match Score:** 11.1%
+
+📍 **Location:** Plano, TX, US USA
+
+🔑 **Keywords:** LangChain, RAG, Databricks, PySpark, PostgreSQL, MongoDB, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0896e0a6d30f4222)
+
+---
+
+## 11. DevOps Engineer @ Rhombus Power
 **Match Score:** 10.0%
 
-📍 **Location:** San Francisco, CA, US USA
+📍 **Location:** Palo Alto, CA, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, AWS SageMaker, Azure ML, Databricks, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, Docker, Kubernetes, AKS, CI/CD, Terraform, Git, Python, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8a7e8caf8e6ee509)
+[Apply Here](https://www.indeed.com/viewjob?jk=bec097fb7f2babaa)
+
+---
+
+## 12. USA - Tax - Tax Technology and Transformation (TTT) - FSO - Technology Advisory - Intern - Summer 20 @ EY
+**Match Score:** 10.0%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Copilot, AKS, Git, Python, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e51f1592a2558dd2)
+
+---
+
+## 13. USA - Tax - Tax Technology and Transformation (TTT) - FSO - Technology Advisory - Analyst @ EY
+**Match Score:** 10.0%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Copilot, AKS, Git, Python, SQL, R, Java
+
+[Apply Here](https://www.indeed.com/viewjob?jk=73afea5935ba12be)
+
+---
+
+## 14. Data Engineer @ FanDuel
+**Match Score:** 10.0%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** Data Scientist, CI/CD, Databricks, Kafka, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=34f903a4cd4deb68)
+
+---
+
+## 15. USA - Tax - Tax Technology and Transformation (TTT) - Artificial Intelligence - Intern - Summer 2027 @ EY
+**Match Score:** 10.0%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Copilot, AKS, Git, Snowflake, Databricks, Python, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c0ee3eca93d56ae6)
+
+---
+
+## 16. USA - Tax - Tax Technology and Transformation (TTT) - Artificial Intelligence - Analyst @ EY
+**Match Score:** 10.0%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Copilot, AKS, Git, Snowflake, Databricks, Python, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6f5fbab2f518f237)
 
 ---
 
