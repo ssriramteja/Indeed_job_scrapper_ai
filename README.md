@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-09-06
-- **New Matches Found in Last Run:** 10
-- **Total Active Matches (Last 4 Days):** 597
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 602
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-09-06.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-09-06.xlsx)
 
@@ -16,10 +16,15 @@
 | **JPMorganChase** | Software Engineer II - Platform Engineer Databricks | Jersey City, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47b109467cc3b863) | 2026-09-06 |
 | **Comcast** | Network Reliability Engineer | Mount Laurel, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56a928cddd0171e2) | 2026-09-06 |
 | **nan** | AI Developer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56af02a700baff85) | 2026-09-06 |
+| **CoreWeave** | Account Solutions Architect - Engaged | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=126b2a73151b2dee) | 2026-09-06 |
+| **CoreWeave** | Account Solutions Architect - Engaged | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2e111636ce8d2904) | 2026-09-06 |
 | **Weights & Biases** | Senior Software Engineer, ML Workflows - Weights & Biases | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1633bbf9c918e8cf) | 2026-09-06 |
 | **Weights & Biases** | Senior Software Engineer, ML Workflows - Weights & Biases | Livingston, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c936937c25c5d00) | 2026-09-06 |
 | **Datafactz** | AI Engineer - Senior (GCP) | Northville Tw, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1114218f82b590c) | 2026-09-06 |
 | **Evans Transportation Services** | Data Engineer | Delafield, WI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=23cf1d12b6b3fb6a) | 2026-09-06 |
+| **NTT DATA** | Remote Sitecore Architect | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=228c20ecd1c04a55) | 2026-09-06 |
+| **NTT DATA** | Sitecore Architect | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99b3f36d82474b29) | 2026-09-06 |
+| **Beautyman Alvstad, LLP** | AI expert | Lake Worth Beach, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1d238a402fe9d76) | 2026-09-06 |
 | **VeeRteq Solutions Inc.** | Full Stack Architect - AI & Agentic Systems | Chicago, IL, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=caf8c9fa09debc3a) | 2026-09-05 |
 | **ritepros** | Solution Architect | Portland, ME, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=383bce16ad78ce6b) | 2026-09-05 |
 | **MiniMed** | Senior AI/Data Science Engineer | Northridge, CA, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=33851c58406093cf) | 2026-09-05 |
