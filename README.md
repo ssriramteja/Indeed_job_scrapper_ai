@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-09-07
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 353
+- **New Matches Found in Last Run:** 5
+- **Total Active Matches (Last 4 Days):** 358
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-09-07.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-09-07.xlsx)
 
@@ -12,10 +12,15 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Rocket Science Group** | Full-Stack Engineer - Albany | Albany, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a173f8b22852bf0b) | 2026-09-07 |
 | **NBME** | Data Engineer III | Philadelphia, PA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83f3d0c20a7e71fe) | 2026-09-07 |
+| **Advance Auto Parts** | Software Engineer | Raleigh, NC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=65dc6fa390e72ae6) | 2026-09-07 |
+| **Visibol** | Software Engineer | Los Angeles, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0d15bd8d2dcde66c) | 2026-09-07 |
 | **Cognizant** | Quality Engineer (AI Automation) | Teaneck, NJ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0dc87863da4f376) | 2026-09-07 |
+| **BLH** | AI Specialist | Bowie, MD, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f480c971153328b) | 2026-09-07 |
 | **Lockheed Martin** | Data Platform Engineer - Mid Career | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8374017f54f2d04d) | 2026-09-07 |
+| **Dell Technologies** | Senior AI Developer | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a2904ed9d96d7c41) | 2026-09-07 |
 | **JPMorganChase** | Full Stack Software Engineer III - Network Perimeter & CDN | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fc9466a2d2eb017b) | 2026-09-07 |
 | **Xcel Energy** | Data Scientist Intern - MN, CO | Minneapolis, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1fedf82d7085a87b) | 2026-09-07 |
+| **Qodo** | Senior DevOps Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5233fd9ef54a6243) | 2026-09-07 |
 | **Hewlett Packard Enterprise | HPE** | Full-Stack AI Engineer | San Juan, PR, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f8dffe4f50c2f74c) | 2026-09-06 |
 | **Bourntec Solutions** | Data Scientist – Predictive Analytics / Predictive ML | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=494b81ed34ffba2d) | 2026-09-06 |
 | **mgrm** | AI Application Developer | Tempe, AZ, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=596596549a203384) | 2026-09-06 |
