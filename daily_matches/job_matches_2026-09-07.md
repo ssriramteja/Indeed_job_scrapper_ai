@@ -1,62 +1,29 @@
 # 🎯 Daily Job Matches — 2026-09-07
 
-**Total Jobs Found:** 5
+**Total Jobs Found:** 2
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Software Engineer @ Advance Auto Parts
-**Match Score:** 17.8%
-
-📍 **Location:** Raleigh, NC, US USA
-
-🔑 **Keywords:** RAG, MLflow, Docker, Kubernetes, CI/CD, Jenkins, Git, Kafka, PostgreSQL, MongoDB
-
-[Apply Here](https://www.indeed.com/viewjob?jk=65dc6fa390e72ae6)
-
----
-
-## 2. Software Engineer @ Visibol
-**Match Score:** 16.7%
-
-📍 **Location:** Los Angeles, CA, US USA
-
-🔑 **Keywords:** Docker, Kubernetes, CI/CD, Terraform, Git, Kafka, PostgreSQL, MySQL, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0d15bd8d2dcde66c)
-
----
-
-## 3. AI Specialist @ BLH
-**Match Score:** 13.3%
-
-📍 **Location:** Bowie, MD, US USA
-
-🔑 **Keywords:** Generative AI, RAG, TensorFlow, PyTorch, Hadoop, Tableau, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6f480c971153328b)
-
----
-
-## 4. Senior AI Developer @ Dell Technologies
+## 1. Ai Engineers @ Navisoft
 **Match Score:** 12.2%
 
-📍 **Location:** Austin, TX, US USA
+📍 **Location:** Remote, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, Prompt Engineering, Docker, CI/CD, Git, Databricks, Power BI, Python, R
+🔑 **Keywords:** AI Engineer, Generative AI, RAG, TensorFlow, PyTorch, Hadoop, Python, SQL, R, Java
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a2904ed9d96d7c41)
+[Apply Here](https://www.indeed.com/viewjob?jk=e0d403900cf9f48d)
 
 ---
 
-## 5. Senior DevOps Engineer @ Qodo
-**Match Score:** 10.0%
+## 2. Senior Data Engineer @ Stream
+**Match Score:** 12.2%
 
-📍 **Location:** US USA
+📍 **Location:** Boulder, CO, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, Terraform, PostgreSQL, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, BigQuery, CI/CD, GitHub Actions, Terraform, Git, BigQuery, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=5233fd9ef54a6243)
+[Apply Here](https://www.indeed.com/viewjob?jk=3bddb4afe7c4caf5)
 
 ---
 

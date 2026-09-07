@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-09-07
-- **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 358
+- **New Matches Found in Last Run:** 2
+- **Total Active Matches (Last 4 Days):** 360
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-09-07.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-09-07.xlsx)
 
@@ -18,6 +18,8 @@
 | **BLH** | AI Specialist | Bowie, MD, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f480c971153328b) | 2026-09-07 |
 | **Lockheed Martin** | Data Platform Engineer - Mid Career | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8374017f54f2d04d) | 2026-09-07 |
 | **Dell Technologies** | Senior AI Developer | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a2904ed9d96d7c41) | 2026-09-07 |
+| **Navisoft** | Ai Engineers | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0d403900cf9f48d) | 2026-09-07 |
+| **Stream** | Senior Data Engineer | Boulder, CO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3bddb4afe7c4caf5) | 2026-09-07 |
 | **JPMorganChase** | Full Stack Software Engineer III - Network Perimeter & CDN | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fc9466a2d2eb017b) | 2026-09-07 |
 | **Xcel Energy** | Data Scientist Intern - MN, CO | Minneapolis, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1fedf82d7085a87b) | 2026-09-07 |
 | **Qodo** | Senior DevOps Engineer | US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5233fd9ef54a6243) | 2026-09-07 |
