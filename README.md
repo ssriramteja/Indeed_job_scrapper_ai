@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-09-08
-- **New Matches Found in Last Run:** 3
-- **Total Active Matches (Last 4 Days):** 109
+- **New Matches Found in Last Run:** 85
+- **Total Active Matches (Last 4 Days):** 194
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-09-08.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-09-08.xlsx)
 
@@ -11,8 +11,93 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **arrivia** | Fabric Data Engineer | Scottsdale, AZ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1050647a13a073f5) | 2026-09-08 |
+| **nan** | AI Engineer | London, WV, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea59cc6b90bbb4ce) | 2026-09-08 |
 | **One Way Mirror** | full stack developer/startup founder | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=764626ef7fbd666e) | 2026-09-08 |
+| **JPMorganChase** | Software Engineer II - Automation Tester | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09ab7f1974e96ec0) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Morristown, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ae74d9bbec7bc3a) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4c070562b40fadc) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Richmond, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0551cf1610cd3e9b) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Tempe, AZ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dc074dde1eb4322a) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Seattle, WA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2549a1d2d9efbe16) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | McLean, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3e25fd7b00752cec) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Rosslyn, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f9d3136e9a2fad7) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Dallas, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=314764cd97e82484) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b197cae8250b9573) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | San Jose, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a36c723938805476) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Kansas City, MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f23c32deec889542) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Los Angeles, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d542e1273738b43) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Las Vegas, NV, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5042af754bcf7596) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Sacramento, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b8c5be3ddc6ba78f) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Nashville, TN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7790753ee8825154) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f1e28ccfb6277de7) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Cleveland, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e853c6e180c5204) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Stamford, CT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=637084fed8b6fbbe) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Cincinnati, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6e2400f910adef29) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Austin, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c9286b681021f0ce) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Tampa, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa65a81e16970cf8) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49a2ddefba615540) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Detroit, MI, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=694c918f86ee3bc0) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Philadelphia, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a239919174c51706) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Miami, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f79b5958b5adaeb) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | St. Louis, MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=68440e57a8835c09) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Costa Mesa, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=36aa6194c9f772b0) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Atlanta, GA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=acdbc84dff5f9e6a) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Indianapolis, IN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c97efbe67728bd2) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Raleigh, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e5c18007250dfa99) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Denver, CO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b743038484a91447) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Charlotte, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c4e8ab8be1fb349) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Minneapolis, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a89004287f85f523) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Pittsburgh, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=068f57df15b225f9) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a4ae502b983938a3) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Houston, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d4c70ab5c802b0f) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | San Diego, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34fc70d73aea7e13) | 2026-09-08 |
+| **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Hartford, CT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62d81e8597beebea) | 2026-09-08 |
+| **Merck** | 2027 Future Talent Program - AI/ML Computational Toxicology - Intern | West Point, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b654bbb7b754f7c3) | 2026-09-08 |
 | **Caterpillar** | Data Scientist / Technical Analyst | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96e78519f5c3be5f) | 2026-09-08 |
+| **MISO** | 2027 Summer Intern - Software Engineering | Carmel, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08a5f9785ebf6281) | 2026-09-08 |
+| **Micron Technology** | Intern - Software Engineer | Boise, ID, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d79a153df157a2a9) | 2026-09-08 |
+| **Precisely** | Senior Automation Engineer (Python, AI Agents & Automation) | Burlington, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a15dd66e12319b4e) | 2026-09-08 |
+| **Precisely** | Senior Automation Engineer (Python, AI Agents & Automation) | Arizona City, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=216d37f93c8ccda8) | 2026-09-08 |
+| **Merck** | 2027 Future Talent Program - Computer Scientist - Agentic & Augmented Authoring Systems - Co-op | West Point, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=edbe618c0a56a226) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Pittsburgh, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=324c64f617a48f5e) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Hartford, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77264fd852102457) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Cincinnati, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d5a8e60d936f89f0) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Stamford, CT, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=88153cdf9699fc9d) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a107665cc86bf38) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe78e28e1ca343a0) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d6119895a500f743) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Kansas City, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c493bd7f4ea8fa57) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Sacramento, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c7a52610f82b3390) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Tempe, AZ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c07913c8cbac58bf) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Las Vegas, NV, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1da9027d5e1c61b) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | San Diego, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54373d6510501536) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Miami, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9587ef341a1c8fc) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Nashville, TN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=afe178832b8a6053) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Tampa, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a841ecd741386a00) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Cleveland, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bf53e8c7b65c056a) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | McLean, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6490e8e6fdaf5116) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Indianapolis, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7455ad8e96fd4b7e) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3f7f205484ae4271) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Morristown, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fe6603b388e87e9b) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | St. Louis, MO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6df29a8f460d1aeb) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=912fb80e18999539) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4acc4828c9cfea1c) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d5e4a32e2e22494b) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Charlotte, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00a434cfcd5dacca) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Denver, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8400c06f1c089271) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Richmond, VA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=432614ee613f7a74) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Costa Mesa, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9c2248470823765c) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Los Angeles, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7065a07959ed987a) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Philadelphia, PA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=21b8f5c186231258) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=07d30ca92f79b853) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Minneapolis, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a6edc7b9f3fe031) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Detroit, MI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=edf76ac4053bb112) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Raleigh, NC, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f5dd21c8ebcb09b) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Jacksonville, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=80cb1edfc32e184a) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Dallas, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4d3b4719c39b7a4) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89812e113ec83046) | 2026-09-08 |
+| **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30682ae035ce25d1) | 2026-09-08 |
+| **Capgemini** | SAP AI- Associate Application Consultant | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=162c6b8cee8107c7) | 2026-09-08 |
 | **Rocket Science Group** | Full-Stack Engineer - Albany | Albany, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a173f8b22852bf0b) | 2026-09-07 |
 | **NBME** | Data Engineer III | Philadelphia, PA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83f3d0c20a7e71fe) | 2026-09-07 |
 | **Advance Auto Parts** | Software Engineer | Raleigh, NC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=65dc6fa390e72ae6) | 2026-09-07 |
