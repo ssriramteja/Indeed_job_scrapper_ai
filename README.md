@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-09-08
-- **New Matches Found in Last Run:** 85
-- **Total Active Matches (Last 4 Days):** 194
+- **New Matches Found in Last Run:** 10
+- **Total Active Matches (Last 4 Days):** 204
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-09-08.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-09-08.xlsx)
 
@@ -10,8 +10,13 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Carto** | Senior Solutions Engineer | US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a9fa286e3251664d) | 2026-09-08 |
 | **arrivia** | Fabric Data Engineer | Scottsdale, AZ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1050647a13a073f5) | 2026-09-08 |
+| **Select Minds LLC** | Python Developer | Phoenix, AZ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5b40149cae1024ef) | 2026-09-08 |
+| **FDM Group** | Full Stack Developer | US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d342c243987526b3) | 2026-09-08 |
 | **nan** | AI Engineer | London, WV, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea59cc6b90bbb4ce) | 2026-09-08 |
+| **Optum** | Senior AI/ML Engineer Remote Nationwide or Office-Based in MN/DC/NJ | Basking Ridge, NJ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c74278c8251ec6f) | 2026-09-08 |
+| **Protolabs** | Senior Software Quality Engineer | Maple Plain, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=50167c9262a6f352) | 2026-09-08 |
 | **One Way Mirror** | full stack developer/startup founder | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=764626ef7fbd666e) | 2026-09-08 |
 | **JPMorganChase** | Software Engineer II - Automation Tester | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09ab7f1974e96ec0) | 2026-09-08 |
 | **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Morristown, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9ae74d9bbec7bc3a) | 2026-09-08 |
@@ -53,6 +58,8 @@
 | **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | San Diego, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34fc70d73aea7e13) | 2026-09-08 |
 | **Deloitte** | Software Engineer III - Full-stack Developer with Anthropic Experience | Hartford, CT, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62d81e8597beebea) | 2026-09-08 |
 | **Merck** | 2027 Future Talent Program - AI/ML Computational Toxicology - Intern | West Point, PA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b654bbb7b754f7c3) | 2026-09-08 |
+| **Vestmark** | Senior Java Software Engineer | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7af916b06ba63107) | 2026-09-08 |
+| **Surplus Lines Stamping Office of Texas (SLTX)** | AI Developer | Pflugerville, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=82f93062a4f5a70d) | 2026-09-08 |
 | **Caterpillar** | Data Scientist / Technical Analyst | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96e78519f5c3be5f) | 2026-09-08 |
 | **MISO** | 2027 Summer Intern - Software Engineering | Carmel, IN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08a5f9785ebf6281) | 2026-09-08 |
 | **Micron Technology** | Intern - Software Engineer | Boise, ID, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d79a153df157a2a9) | 2026-09-08 |
@@ -98,6 +105,9 @@
 | **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89812e113ec83046) | 2026-09-08 |
 | **Deloitte** | Software Engineer II - Full-stack Developer with Anthropic Experience | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30682ae035ce25d1) | 2026-09-08 |
 | **Capgemini** | SAP AI- Associate Application Consultant | Houston, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=162c6b8cee8107c7) | 2026-09-08 |
+| **Numonix** | Senior Backend Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=06af47bdf0002d0c) | 2026-09-08 |
+| **Global Linking Solutions** | Full Stack Developer (AI-accelerated) | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=695acbd11308a316) | 2026-09-08 |
+| **UNFI** | Data Science and Analytics - Remote | Providence, RI, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=42a673d0f16aaf8d) | 2026-09-08 |
 | **Rocket Science Group** | Full-Stack Engineer - Albany | Albany, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a173f8b22852bf0b) | 2026-09-07 |
 | **NBME** | Data Engineer III | Philadelphia, PA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83f3d0c20a7e71fe) | 2026-09-07 |
 | **Advance Auto Parts** | Software Engineer | Raleigh, NC, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=65dc6fa390e72ae6) | 2026-09-07 |
