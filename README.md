@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-09-10
-- **New Matches Found in Last Run:** 23
-- **Total Active Matches (Last 4 Days):** 547
+- **New Matches Found in Last Run:** 13
+- **Total Active Matches (Last 4 Days):** 560
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-09-10.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-09-10.xlsx)
 
@@ -39,6 +39,9 @@
 | **Andreessen Horowitz** | Software Engineer, Software Factory (Partner 16, Partner 18) | San Francisco, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bac87d7854fb47ac) | 2026-09-10 |
 | **Ford Motor Company** | Software Engineer - Access Management (Java Full Stack) | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bc88f49ae19c3ea5) | 2026-09-10 |
 | **nan** | Sr Product Software Engineer | Glendale, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=07909a893cd39d21) | 2026-09-10 |
+| **Diversified Services Network** | (1112164) Senior Software Engineer - Java/AWS | Peoria, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e81425a0990a5a5) | 2026-09-10 |
+| **Diversified Services Network** | (1112164) Senior Software Engineer - Java/AWS | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8b1ca06bddd5e551) | 2026-09-10 |
+| **Doeren Mayhew CPAs and Advisors** | Azure Cloud Solutions Developer / Engineer | Dallas, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f16b1ba2fceeeff4) | 2026-09-10 |
 | **Metric5** | Full Stack JavaScript Developer (Data & Search Focus) | Springfield, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8fad6da51118ce14) | 2026-09-10 |
 | **Metric5** | Full Stack JavaScript Developer (Data & Search Focus) | St. Louis, MO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54d5af2eb9226b4f) | 2026-09-10 |
 | **Optum** | Senior Software Engineer | Fort Washington, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7e821a7c8c592b96) | 2026-09-10 |
@@ -84,6 +87,14 @@
 | **The Walt Disney Studios** | Sr Analyst, Marketing Data Product | Burbank, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=56fc09bafabb9a94) | 2026-09-10 |
 | **Information Unlimited, Inc.** | Data Scientist focus on Cybersecurity | Washington, DC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=340d21cbdf088b96) | 2026-09-10 |
 | **Brown & Brown Insurance** | Senior Azure DevOps & Cloud Platform Engineer | Plano, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2e6737df4bf2df23) | 2026-09-10 |
+| **FIS** | Senior Backend Engineer | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a3e1a5beee083cae) | 2026-09-10 |
+| **Optum** | Associate Data Engineer | Eden Prairie, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e60af316cfb20b16) | 2026-09-10 |
+| **nan** | DevOps Engineer | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38c5e3dd352b7bd9) | 2026-09-10 |
+| **nan** | DevOps Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51a2289101d6b3d5) | 2026-09-10 |
+| **nan** | DevOps Engineer | Cambridge, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=24464d7f1d37c460) | 2026-09-10 |
+| **PeerSpace** | Senior Data Scientist | US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=188d399d5c02b54b) | 2026-09-10 |
+| **nan** | AI Developer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=946462b46eca3a28) | 2026-09-10 |
+| **Zotec Partners** | Senior Frontend Software Engineer | Carmel, IN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=686b0959bb1855b3) | 2026-09-10 |
 | **Office Ally** | Senior Implementation Engineer | Antioch, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2743be5052447848) | 2026-09-10 |
 | **Office Ally** | Senior Implementation Engineer | Concord, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=04e33ec158ade71a) | 2026-09-10 |
 | **Office Ally** | Senior Implementation Engineer | Pleasanton, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6f7ec7034b0a78e6) | 2026-09-10 |
@@ -122,6 +133,8 @@
 | **nan** | Senior Generative AI Specialist Solutions Architect | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7b1e1b1d38d5873) | 2026-09-10 |
 | **The University of Chicago** | Computational Scientist- HPC/AI Generalist | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ea111fd2c5e0a4d) | 2026-09-10 |
 | **Mutual of Omaha** | Full Stack Engineer I/II (Java, APIs, AWS) | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d253a2368f580f72) | 2026-09-10 |
+| **Genworth** | Software Engineer - Java Development | Lynchburg, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=345dd67bd2b59c44) | 2026-09-10 |
+| **Mission Pet Health** | Solutions Architect | Birmingham, AL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7c6986a673b69c5d) | 2026-09-10 |
 | **Aircall** | Senior Security Engineer, Detection & Response | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ae0266885ac8547) | 2026-09-10 |
 | **The Home Depot** | Software Engineer - Workforce Management | Atlanta, GA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d502044f4f71aff7) | 2026-09-10 |
 | **Fiserv** | Software Development Engineering, Sr Advisor | Coral Springs, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3a80f7e27488d6af) | 2026-09-10 |
