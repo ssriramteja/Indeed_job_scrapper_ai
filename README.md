@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-09-13
-- **New Matches Found in Last Run:** 26
-- **Total Active Matches (Last 4 Days):** 455
+- **New Matches Found in Last Run:** 11
+- **Total Active Matches (Last 4 Days):** 466
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-09-13.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-09-13.xlsx)
 
@@ -17,8 +17,11 @@
 | **East West Bank** | AI Engineer | Pasadena, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa073332dbb902f4) | 2026-09-13 |
 | **East West Bank** | Senior AI Engineer | Pasadena, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff1dd3a9c03fc083) | 2026-09-13 |
 | **JPMorganChase** | Software Engineer III - Databricks | Wilmington, DE, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d5ac038b52e4c9f) | 2026-09-13 |
+| **JPMorganChase** | Software Engineer III - Data Engineer | Plano, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=abb83d271754206d) | 2026-09-13 |
 | **Kavant Solutions** | AI Workflow Optimization Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c4fe86d26fe3ffa5) | 2026-09-13 |
+| **JPMorganChase** | Full Stack Java/React Developer - Data Scientist Senior Associate | San Antonio, TX, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=099249332f619f68) | 2026-09-13 |
 | **Faro Health Inc.** | Senior DevOps Engineer | San Diego, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ae813694ea2911db) | 2026-09-13 |
+| **Edurech Technoogy** | Data Engineer | Texas City, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d764d5c996e8a37) | 2026-09-13 |
 | **Volvo Group** | Co-op: Engineering, Data Science (Spring 2027) | Greensboro, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cfb3f849b7283fda) | 2026-09-13 |
 | **KinderCare Learning Companies** | Senior Data Engineer - Remote Opportunity! | Beaverton, OR, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e29b703157f7cf6) | 2026-09-13 |
 | **Deloitte** | Finance Analytics & AI Senior Consultant | Baltimore, MD, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2e4badb7c2f63bb4) | 2026-09-13 |
@@ -29,13 +32,21 @@
 | **JPMorganChase** | Software Engineer III - Data Platform Engineer AWS | Plano, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=44e49801926d6f34) | 2026-09-13 |
 | **JPMorganChase** | Software Engineer III - Big Data Databricks, Python / Java | Houston, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bc2d3fa65c104128) | 2026-09-13 |
 | **JPMorganChase** | Software Engineer III- AI/ML Engineering, GPU ML Serving | Palo Alto, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb8baf45f9c51614) | 2026-09-13 |
+| **JPMorganChase** | Personalization Product Senior Data Associate | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ec18260f61a8b7c) | 2026-09-13 |
 | **Volvo Group** | Co-op: Engineering, Data Analyst (Spring 2027) | Greensboro, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a94aaab0838c666e) | 2026-09-13 |
 | **JPMorganChase** | Software Engineer III - Machine Learning Platform | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=030b0793639a952d) | 2026-09-13 |
+| **JPMorganChase** | Software Engineer III - Machine Learning Platform | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f026d04afe119e3) | 2026-09-13 |
 | **JPMorganChase** | Site Reliability Engineer III | Jersey City, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a39ecc4ca815593a) | 2026-09-13 |
 | **JPMorganChase** | Software Engineer III (Python/AWS) | Jersey City, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9cadb9d904c7a2e) | 2026-09-13 |
+| **Edurech Technoogy** | Machine Learning Engineer | Santa Clara, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7bc69f7ee34b797) | 2026-09-13 |
+| **JPMorganChase** | Software Engineer III (Java) | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c8a2058924a345e) | 2026-09-13 |
+| **JPMorganChase** | Software Engineer III - Java/AWS/Python | Plano, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31d293ae32e73a40) | 2026-09-13 |
 | **DAT Solutions** | Site Reliability Engineer II | Denver, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=927113c8494fece3) | 2026-09-13 |
 | **JPMorganChase** | Site Reliability Engineer III | Jersey City, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9f7b17b10d5bed91) | 2026-09-13 |
 | **JPMorganChase** | AI Prototyping & Transformation Associate | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3631153498e82a69) | 2026-09-13 |
+| **McKesson** | Data Scientist | TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6133400dd8a88a97) | 2026-09-13 |
+| **JPMorganChase** | Software Engineer III-ETL/PySpark | Wilmington, DE, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84607e3a06c12fdd) | 2026-09-13 |
+| **JPMorganChase** | Software Engineer III- Python, Databricks | Jersey City, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b7fa6836e8c25f23) | 2026-09-13 |
 | **ritepros** | Data Scientist | Portland, ME, US USA | 43.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=72ebc0184eaf514f) | 2026-09-12 |
 | **Talsolution** | Senior DevOps / Cloud / SRE Engineer, Senior AI / Machine Learning Engineer, Senior Data Engineer | US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=037a42c0ea26c495) | 2026-09-12 |
 | **Viking Cruises** | Machine Learning Engineer | Los Angeles, CA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8438f50351525893) | 2026-09-12 |
