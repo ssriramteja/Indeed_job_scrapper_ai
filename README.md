@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-09-14
-- **New Matches Found in Last Run:** 19
-- **Total Active Matches (Last 4 Days):** 262
+- **New Matches Found in Last Run:** 9
+- **Total Active Matches (Last 4 Days):** 271
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-09-14.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-09-14.xlsx)
 
@@ -14,21 +14,30 @@
 | **Nestlé Purina** | Data Scientist | St. Louis, MO, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de1028ad7a9aa73a) | 2026-09-14 |
 | **JPMorganChase** | Software Engineer III - AI/ML Developer | Plano, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62e66b988bfbe6b1) | 2026-09-14 |
 | **JPMorganChase** | Applied AI/ML Senior Associate | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5186558c260f0015) | 2026-09-14 |
+| **JPMorganChase** | Cloud Infrastructure Engineer III | Columbus, OH, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70a18d3647cd00e8) | 2026-09-14 |
 | **Hewlett Packard Enterprise | HPE** | AI and Machine Learning Engineering Graduate | Durham, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e8659a53ca35cc3f) | 2026-09-14 |
 | **Nestlé Purina** | Expert Data Scientist | St. Louis, MO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd46d25f4490d62a) | 2026-09-14 |
 | **JPMorganChase** | Applied AI/ML Senior Associate - Payments | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4339ab2034b2a1e2) | 2026-09-14 |
 | **Farmers and Merchants Bank of Long Beach** | Senior Azure Cloud & Platform Engineer | Seal Beach, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=64e0da53c55c9779) | 2026-09-14 |
+| **JPMorganChase** | Applied AI/ML Senior Associate | Jersey City, NJ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eae6c6ee7ee4ee8e) | 2026-09-14 |
 | **JPMorganChase** | Software Engineer III - Agentic AI, Java/Python | Jersey City, NJ, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eb9e314fca7d4987) | 2026-09-14 |
 | **Ross Dress For Less** | Engineer II (Middleware) | CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=572e256f7e9350b4) | 2026-09-14 |
+| **Ross Dress For Less** | Engineer II (Middleware) | CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5a03e9857d6b23e) | 2026-09-14 |
 | **JPMorganChase** | Internal Audit, Asset Wealth Management - Senior Associate - Data Scientist | Plano, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d278006464037da3) | 2026-09-14 |
 | **JPMorganChase** | Quant Analytics Senior Associate - Credit Card Installment | Wilmington, DE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=29e210016aa20709) | 2026-09-14 |
 | **JPMorganChase** | Quant Analyst- Senior Associate | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5d24442a00077965) | 2026-09-14 |
 | **JPMorganChase** | Senior Associate Data Scientist | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=def7b99a8f909fd6) | 2026-09-14 |
+| **JPMorganChase** | Software Engineer III - Machine Learning Platform | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a5d0e797b63177f5) | 2026-09-14 |
 | **JPMorganChase** | 2027 Data & AI Program - Summer Internship - Analyst - United States | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fcf80d98b8560ed5) | 2026-09-14 |
 | **JPMorganChase** | Data Scientist — Global Services Insights & Analytics, Commercial Banking - Sr. Associate | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6a260dcc256f6e1c) | 2026-09-14 |
 | **Sony Interactive Entertainment** | Software Engineer II Data Reliability & Automation (APIs) | San Diego, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e2f2c758029e494) | 2026-09-14 |
+| **Intetics Inc** | 1158 Senior AI Developer | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2462fc392cb118f7) | 2026-09-14 |
+| **JPMorganChase** | Marketing Data Scientist Senior Associate - Consumer Bank | Columbus, OH, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bda6f7d9817a58e1) | 2026-09-14 |
+| **Experian** | Solution Engineer - Remote | US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c3199068b458165b) | 2026-09-14 |
+| **JPMorganChase** | Software Engineer III - GenAI Patterns | Plano, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ad94727708755e48) | 2026-09-14 |
 | **JPMorganChase** | AI Data Scientist - Senior Associate | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ca71be4a7c36f4f) | 2026-09-14 |
 | **JPMorganChase** | Data Scientist Senior Associate | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=52dd0b528e3d2393) | 2026-09-14 |
+| **JPMorganChase** | Data for Good Hackathon - Data & AI Program - 2027 Summer Internship - United States | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4428ba5b6407ce18) | 2026-09-14 |
 | **Kavant Solutions** | AI Architect | Remote, US USA | 28.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=28c474e6ef0d9a03) | 2026-09-13 |
 | **Sbt Global** | Jr. AI Developer - Korean Bilingual MUST | Plano, TX, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c1154e8a781d96b) | 2026-09-13 |
 | **Kavant Solutions** | AI Engineer | Remote, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84f280b9c5186dbd) | 2026-09-13 |
