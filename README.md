@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-09-22
-- **New Matches Found in Last Run:** 67
-- **Total Active Matches (Last 4 Days):** 233
+- **New Matches Found in Last Run:** 13
+- **Total Active Matches (Last 4 Days):** 246
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-09-22.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-09-22.xlsx)
 
@@ -10,6 +10,7 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **nan** | Full Stack Architect with AI & Agentic Systems | Chicago, IL, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4542de43b1262402) | 2026-09-22 |
 | **Typeform** | Senior AI Engineer - US | Remote, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c765384ad0b074b) | 2026-09-22 |
 | **BV Teck** | Hadoop Solutions Developer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=947423e1243398ca) | 2026-09-22 |
 | **Aledade** | Senior Software Engineer I - Data & Algorithm Engineering | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89c27477c100ca2e) | 2026-09-22 |
@@ -18,7 +19,9 @@
 | **Capgemini** | Senior Data Engineer - GCP | Chicago, IL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=54f9f03cfec0fc88) | 2026-09-22 |
 | **Cognizant** | Business Analyst | Plano, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d16afaf22f8607c6) | 2026-09-22 |
 | **DEPLOY** | ML Search Engineer | Birmingham, AL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a56139b7af15b128) | 2026-09-22 |
+| **LTM Limited** | Agentic AI Databricks | Raritan, NJ, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=611badfabe276aeb) | 2026-09-22 |
 | **Anika Systems** | Data Engineer | Remote, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ad676d0583954a5) | 2026-09-22 |
+| **nan** | Azure Databricks & Agentic AI Architect | Chicago, IL, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=02432aa1dd6c57d9) | 2026-09-22 |
 | **Steampunk** | Data Engineer - Databricks | McLean, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5175d58988719685) | 2026-09-22 |
 | **Citi** | Part Time Teller (20 Hours), Castro Branch | Rutherford, NJ, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=62e481a61bf24644) | 2026-09-22 |
 | **Capital One** | Data Engineer 4 (Python, AWS) | Richmond, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6785ed8543590d56) | 2026-09-22 |
@@ -58,6 +61,9 @@
 | **Capital One** | Full Stack Engineer 5 | Chicago, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa38f701dd207fff) | 2026-09-22 |
 | **Capital One** | Full Stack Engineer 4 | Plano, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7597fda19c9e29f) | 2026-09-22 |
 | **Capital One** | Full-stack Engineer 4 | McLean, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18346eea91456b61) | 2026-09-22 |
+| **Nomura** | Observability SRE (Site Reliability Engineer) | Philadelphia, PA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=55bdc78152906707) | 2026-09-22 |
+| **Capital One** | Full-stack Engineer 4 | Richmond, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6ab165c224f9bf41) | 2026-09-22 |
+| **NUVISTA AI** | Client Delivery Architecture | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b1b11276c05726f8) | 2026-09-22 |
 | **GuidePoint Security** | Azure Security Engineer- Remote (Anywhere in the U.S.) | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b258636181c4da88) | 2026-09-22 |
 | **Philips** | Intern – AI Engineer, Enterprise AI & Workflow Automation – Plymouth, MN – Summer 2027 | Plymouth, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e6b9555ed0046695) | 2026-09-22 |
 | **The Hershey Company** | Mgr Data Science | TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5f7f0d4317cea21) | 2026-09-22 |
@@ -70,6 +76,9 @@
 | **Cisco** | Software Engineer Full Stack / Backend I (Intern) â€“ United States | San Jose, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=12750212f2a3c980) | 2026-09-22 |
 | **Sentara** | Senior Cloud Engineer | Norfolk, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=153b2eeea635cc15) | 2026-09-22 |
 | **JPMorganChase** | Software Engineer III - Machine Learning Platform | Palo Alto, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ce796de85a39f42) | 2026-09-22 |
+| **Optum** | AI/ML Engineer | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=286cf2909fa4ccd8) | 2026-09-22 |
+| **Capital One** | Machine Learning Engineer 4 (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology) | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4922f7a57cfbdccb) | 2026-09-22 |
+| **Capital One** | Machine Learning Engineer 4 (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology) | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09348324e49b31d7) | 2026-09-22 |
 | **Devengine** | Senior AI/ML Engineer | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d3c6cb0948cf8c38) | 2026-09-22 |
 | **EisnerAmper** | AI Engineer | Iselin, NJ, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=633be495dda3ee56) | 2026-09-22 |
 | **WTW** | AI Engineer | Nashville, TN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ae5a91c56b094aa) | 2026-09-22 |
@@ -89,6 +98,8 @@
 | **Capital One** | Machine Learning Engineer 5 | McLean, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fb8797055dc68a25) | 2026-09-22 |
 | **Capital One** | Machine Learning Engineer 4 | Chicago, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=743e32eaa52b72c3) | 2026-09-22 |
 | **Capital One** | Machine Learning Engineer 4 | McLean, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=86c255b12c34f0c1) | 2026-09-22 |
+| **KLA** | HPC Windows Server Infrastructure Engineer | Milpitas, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=518ee0c62a254d22) | 2026-09-22 |
+| **evolutio** | AI Consultant | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab80761667bcf597) | 2026-09-22 |
 | **University Of Washington** | HPC SYSTEMS ENGINEER | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59a468560cb8abd5) | 2026-09-22 |
 | **BV Teck** | Container Platform Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0022787a9f1c8382) | 2026-09-22 |
 | **ZoomInfo** | Senior Software Engineer - Chorus | Waltham, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7b4465259f3fa73c) | 2026-09-22 |
@@ -135,6 +146,8 @@
 | **Scot Forge** | IT Data Science Intern | Spring Grove, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=07e14ce48a7f7703) | 2026-09-22 |
 | **Xcel Energy** | Data Scientist Intern - MN, CO | Minneapolis, MN, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a02cff4acb0835f0) | 2026-09-22 |
 | **Xcel Energy** | Data Scientist Intern - MN, CO | Denver, CO, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=10f324a128cee047) | 2026-09-22 |
+| **Flywire** | Security Engineer II (Defensive Operations) | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5106607fa3d28a1b) | 2026-09-22 |
+| **Nexamp** | Senior Software Engineer, Full Stack | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ad36e6da08bd6e32) | 2026-09-22 |
 | **Labor Pharmacy Benefit Solutions, LLC** | Data Scientist | West Jordan, UT, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5cc0b811b718bd2a) | 2026-09-21 |
 | **Nexstar Media Group, Inc.** | AI Architect | New York, NY, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd065039757b55c7) | 2026-09-21 |
 | **Capgemini** | Senior Data Engineer - GCP | Chicago, IL, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94d4fb8c5ae21e05) | 2026-09-21 |
