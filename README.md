@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-09-23
-- **New Matches Found in Last Run:** 79
-- **Total Active Matches (Last 4 Days):** 525
+- **New Matches Found in Last Run:** 104
+- **Total Active Matches (Last 4 Days):** 629
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-09-23.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-09-23.xlsx)
 
@@ -10,14 +10,17 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Wayfair** | Software Engineer III - Generative AI Technology | Boston, MA, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dea1b605e8c5ec18) | 2026-09-23 |
 | **CVS Health** | Senior Software Engineer | RI, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8dd495afc5140159) | 2026-09-23 |
 | **The Carlyle Group** | Data & AI Engineer | Washington, DC, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=83876c66e135b993) | 2026-09-23 |
 | **The Carlyle Group** | Data & AI Engineer | New York, NY, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4924b3389452957) | 2026-09-23 |
 | **Bain Capital** | AI Engineer | Boston, MA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eca7f94335380452) | 2026-09-23 |
 | **NTT DATA** | Senior AI Ops / DevOps Engineer | Atlanta, GA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=040c156b15abd039) | 2026-09-23 |
 | **Alignment Health** | Enterprise Data Architect | Orange, CA, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1611fa9de2f7504b) | 2026-09-23 |
+| **United Utility** | Sr. Data Engineer | Spring, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c848474306799be) | 2026-09-23 |
 | **Blue Cross and Blue Shield of Minnesota** | Associate Data Engineer | Eagan, MN, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31bf226ac97de61e) | 2026-09-23 |
 | **Willdan** | Cloud Engineer | Anaheim, CA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d1298ac76effc74) | 2026-09-23 |
+| **Capital One** | Data Engineer 4 (Python, AWS, Kafka, Spark, SQL, Snowflake, Databricks, GenAI) | McLean, VA, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47e2de3bf66a6750) | 2026-09-23 |
 | **The Carlyle Group** | Forward Deployed Engineer, Client Solutions Group | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3cba42b7feabaab8) | 2026-09-23 |
 | **FCT** | Full Stack Senior Software Engineer (Remote in CA) | Santa Ana, CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=70278c6707b92e9e) | 2026-09-23 |
 | **FCT** | Full Stack Senior Software Engineer (Remote in CA) | CA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a25e08cbc61c8f9c) | 2026-09-23 |
@@ -63,6 +66,8 @@
 | **Capital One** | Data Engineer 4 | McLean, VA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0db4720c664a5a3f) | 2026-09-23 |
 | **Capital One** | Data Engineer 5 (Enterprise Platforms Technology) | New York, NY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=220dab7fe793042b) | 2026-09-23 |
 | **Milwaukee Tool** | Machine Learning Engineer II - Operations | Milwaukee, WI, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d1f1b289a3e5556a) | 2026-09-23 |
+| **Honeywell** | Software Engineer I | Duluth, GA, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1c826550112cce8f) | 2026-09-23 |
+| **Capital One** | Full Stack Engineer 4 (Python, AWS, AI, Snowflake, Databricks) | Plano, TX, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d2e1578e6815ef7) | 2026-09-23 |
 | **TransTech Group** | Data Analyst - ERP & Master Data | Cleveland, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49c2343d736f4c5c) | 2026-09-23 |
 | **American Express** | Sr Data Engineer II | Phoenix, AZ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a9b4607cbdf4a3d4) | 2026-09-23 |
 | **Reflex Media Inc** | Senior Cloud / AWS Infrastructure Engineer | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=901aac12afba9b93) | 2026-09-23 |
@@ -75,6 +80,88 @@
 | **Deloitte** | Applied AI Site Reliability Engineer II - PxE A&A | Nashville, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76a0c64002bbb5c1) | 2026-09-23 |
 | **Function Health** | Data Engineer | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d332f2047edfa45) | 2026-09-23 |
 | **News Corp** | Senior Data Analyst - Dow Jones Energy Product Management | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=857537ffca72eab2) | 2026-09-23 |
+| **MariaDB plc** | Senior Software Engineer - Cloud Platform Engineering | VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e683398c349f7a6d) | 2026-09-23 |
+| **Capital One** | Full-Stack Engineer 4 (Java, Spring, DynamoDB, S3, GraphQL, GenAI) | New York, NY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30dd4b0534b4aca9) | 2026-09-23 |
+| **Capital One** | Full-Stack Engineer 4 (Java, Spring, DynamoDB, S3, GraphQL, GenAL) | McLean, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3e502713d51d0a40) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Los Angeles, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e6e88687923bfcde) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Grand Rapids, MI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=23ca0cd83e1c704c) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Jacksonville, FL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4e5e690d9659ab0e) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Florence, AL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=478d3913715a36d5) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Manassas, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5ae07b7c08a9ee08) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | La Crosse, WI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa5347b5729959fc) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | McLean, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b2771dea7e7bebc0) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e978e398ad967da0) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Elk Grove, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfb27bc9bc8fc3fd) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Chandler, AZ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7bf26a5704e50db1) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Indianapolis, IN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3d05cc5a9f520e98) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Las Vegas, NV, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac7aefa56e3dd9a8) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Knoxville, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b195226ebcad916e) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Franklin, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2586760df9fb98ff) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Alpharetta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7aebc535d5559f35) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Malvern, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a9c8653fa3538db6) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Houston, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c8aa777d4875c5c) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Durham, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5708c8b21a8b26c0) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Merrimack, NH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43de1e64a22d9cd2) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Issaquah, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f032eff8cdf1f51c) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Fort Wayne, IN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=106d69456e114d56) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Greeley, CO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38cc6912fc4fff9a) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Columbus, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ea8ed0ca16d81ca) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Buffalo Grove, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=192930961104758a) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Dallas, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=55a54c8e78be5249) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Louisville, KY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2e7ccf71af0d4da5) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Gainesville, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c0551318b5b522ef) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Colorado Springs, CO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eef38f176c0e4573) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Jefferson, WI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5e04e5085d0f3f6) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Fort Worth, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4626717641b97a9c) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Bothell, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7ba338fc39f9e484) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Lewes, DE, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27ab5cfe17121b8c) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Coppell, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac3361eea54e00bb) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Hilo, HI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=22fa515a90f7160f) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Burlington, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eec3c59827b0acff) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Franklin, TN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e9a140d34aa32532) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Fort Collins, CO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e88e0e6d93102b1a) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Menlo Park, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=93ff95ea45b04385) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Irvine, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c188011cdba12b6) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Harrisburg, PA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=640c531fa6e2f2b4) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Costa Mesa, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7dbc623ad523c949) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Buffalo Grove, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c2cb4c0c01eb8a51) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Leominster, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d93bf3129b8f1f40) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Greenville, SC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ce5a6640c3e3a615) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Charlotte, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d2a355e53b5aee04) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a843d240e47bb50d) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Hoboken, NJ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=802de18a676e0b71) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Concord, NH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c90c9293c67e26e2) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Cody, WY, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dea3ed9657eb8d2d) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | El Dorado Hills, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fad997d5c6b37de5) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Boston, MA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5eecdbb637840111) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | San Jose, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b7c6f58239a9a7f9) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Columbus, MS, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=afded3ea6ad0f2d6) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Dearborn, MI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=45ab5afc31123292) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | La Quinta, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=560b4890bef57ed3) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Fairfax, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ecc7c71438c05804) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Blue Ash, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1d0e206f81866fd5) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Carbondale, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=eaaff0d077502734) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Bolingbrook, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=73c319dbadf52415) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Bridgewater, NJ, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bff2cc411884dd58) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d2c371c533aa9ccf) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Charlotte, NC, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a9bf786f0eaa98a) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Carrollton, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fa7060b3253326ee) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Cincinnati, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=174cb30f33f222dd) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Bothell, WA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17b34127e4e373f6) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Spring, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=52076093ad6dfc7c) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c54cd124dfca846d) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Woonsocket, RI, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=893413cf4629d8e0) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | San Jose, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ed8251869808e55) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Dayton, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=658edc4064441a8f) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Arlington, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de4661931c0551fb) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Baltimore, MD, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d73a5d61a96572f) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | San Francisco Bay Area, CA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7dbd5536ad64ce09) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Austin, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3128973e16183783) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Beachwood, OH, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=907323bc9279012a) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Arlington, VA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4f3f64d69483218f) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Bloomington, MN, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09726b911d3017a8) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Denver, CO, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a7ff8f68153967c) | 2026-09-23 |
+| **Hudson Manpower** | Generative AI/ML - Full Time Role - USC and GC's only | Atlanta, GA, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aae315c07444ddca) | 2026-09-23 |
 | **American Express** | Senior Engineer I | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4ca08863d5287990) | 2026-09-23 |
 | **GM Financial** | Software Development Engineer II | Arlington, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77c13363e54e5087) | 2026-09-23 |
 | **Sonos** | Software Development Engineer, Cloud | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7afeb40ffabb89e1) | 2026-09-23 |
@@ -160,6 +247,11 @@
 | **Capital One** | Full-Stack Engineer 4 (Automation Quality Engineer) | Riverwoods, IL, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2acd23b24043f205) | 2026-09-23 |
 | **Capital One** | Full-stack Engineer 4 - Shopping (Remote-Eligible) | McLean, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f87b328e958cbb63) | 2026-09-23 |
 | **Capital One** | Full-stack Engineer 5 (Golang, Python, GenAI) (Cloud Operations Resilience Engineering) | McLean, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c8f457b05bc7029) | 2026-09-23 |
+| **Capital One** | Full-stack Engineer 4 (IC) | San Jose, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4620494dca257198) | 2026-09-23 |
+| **Capital One** | Full-stack Engineer 4 (IC) | McLean, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6b1bed8feba6b917) | 2026-09-23 |
+| **Capital One** | Full-stack Engineer 4 | McLean, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8e194fdfb9b8dbe3) | 2026-09-23 |
+| **Capital One** | Full-Stack Engineer 4 (Python, AWS, Network Automation) | McLean, VA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a77780c738e44a57) | 2026-09-23 |
+| **Wayfair** | Machine Learning Scientist III, Ads Optimization & Automation | Boston, MA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c413dffa7ee3f96b) | 2026-09-23 |
 | **Prime Therapeutics** | Analytics Engineer Sr - Remote | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d51b210f461aeade) | 2026-09-23 |
 | **Dropbox** | Data Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=43e37e262d8bc84b) | 2026-09-23 |
 | **Visa** | Senior Associate Solutions Designer, Automation | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9352577094e32eae) | 2026-09-23 |
@@ -176,6 +268,8 @@
 | **AMD** | Senior Data Engineer | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9724e994419d2473) | 2026-09-23 |
 | **JPMorganChase** | Data Scientist Associate | Wilmington, DE, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b87fe7f54c012f15) | 2026-09-23 |
 | **JPMorganChase** | Software Engineer III - AWS Data Platform Engineer | Plano, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db1a865cc7e5423a) | 2026-09-23 |
+| **Wayfair** | Senior Machine Learning Scientist - Recommendations | Mountain View, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b27dc18cb51c8654) | 2026-09-23 |
+| **Wayfair** | Machine Learning Scientist I | Boston, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5500d998f5b43e33) | 2026-09-23 |
 | **nan** | Solutions Architect | Warrenville, IL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=59133388be98940a) | 2026-09-23 |
 | **American Express** | Sr AI Engineer I | Sunrise, FL, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c0f66b1a3ebd9a53) | 2026-09-23 |
 | **JPMorganChase** | Java Software Engineer III | Plano, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0dca990acc894d8c) | 2026-09-23 |
@@ -212,6 +306,10 @@
 | **Ericsson** | Application Engineer | TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c841479d28f93ba) | 2026-09-23 |
 | **nan** | IT Analyst | Tulsa, OK, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84811fdfbe682535) | 2026-09-23 |
 | **Mastercard** | Senior Software Engineer | O'Fallon, MO, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0245dcafa3f48258) | 2026-09-23 |
+| **Strues Inc** | AI Agent Developer | Reston, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c887ae1e11a45de2) | 2026-09-23 |
+| **Capital One** | Machine Learning Engineer 5 (IC) | McLean, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=fc5dc747c592d8e3) | 2026-09-23 |
+| **CareSource** | Data Scientist IV | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f79ced955268a69b) | 2026-09-23 |
+| **Wayfair** | Machine Learning Science Intern - Summer 2027 | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5bb5ee4c0563f4fb) | 2026-09-23 |
 | **TD** | Associate Developer, Research Technology | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b4b777817204a676) | 2026-09-23 |
 | **Capgemini** | Full Stack Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f2cd8293a16a865) | 2026-09-23 |
 | **Thrive Therapies** | Full Stack Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bdfc788826255acf) | 2026-09-23 |
@@ -247,6 +345,12 @@
 | **Capital One** | Full Stack Engineer 4, Enterprise CI/CD (AWS, Python, Groovy) | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=77931e54d32a9f5a) | 2026-09-23 |
 | **Exelon** | Assoc Data Scientist | Lombard, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5c122a4acaae2096) | 2026-09-23 |
 | **JPMorganChase** | Machine Learning Intelligent Operations Team - Quant Analytics Senior Associate | Columbus, OH, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=50bcf2be164bc349) | 2026-09-23 |
+| **Box** | Sr. Ecommerce Analyst | Chicago, IL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c0b58f1cdd0bba8e) | 2026-09-23 |
+| **The Walt Disney Company** | Software Data Engineer | Burbank, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e7c87c0c0d2d3ec3) | 2026-09-23 |
+| **Hasbro, Inc.** | Senior Software Development Engineer | Renton, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a4789698147fb9f) | 2026-09-23 |
+| **Hasbro, Inc.** | Senior Software Development Engineer | Renton, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=431b277a53c2487f) | 2026-09-23 |
+| **Wayfair** | Machine Learning Scientist III - Ads + Search & Recommendations | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=23a15fdcf3515689) | 2026-09-23 |
+| **Wayfair** | Machine Learning Scientist II - Pricing & Economics | Boston, MA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3e1ff77eb389b355) | 2026-09-23 |
 | **nan** | Full Stack Architect with AI & Agentic Systems | Chicago, IL, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4542de43b1262402) | 2026-09-22 |
 | **CoStar Group** | Senior Database Engineer- Arlington, VA | Arlington, VA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=61eae97728d8e35d) | 2026-09-22 |
 | **Typeform** | Senior AI Engineer - US | Remote, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c765384ad0b074b) | 2026-09-22 |

@@ -1,876 +1,1151 @@
 # 🎯 Daily Job Matches — 2026-09-23
 
-**Total Jobs Found:** 79
+**Total Jobs Found:** 104
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Software Engineer @ CVS Health
-**Match Score:** 21.1%
+## 1. Software Engineer III - Generative AI Technology @ Wayfair
+**Match Score:** 24.4%
 
-📍 **Location:** RI, US USA
+📍 **Location:** Boston, MA, US USA
 
-🔑 **Keywords:** Data Scientist, LangChain, RAG, TensorFlow, BigQuery, Data Lake, Dataflow, Kubernetes, CI/CD, GitHub Actions
+🔑 **Keywords:** Generative AI, RAG, TensorFlow, PyTorch, BigQuery, MLflow, FastAPI, Docker, Kubernetes, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8dd495afc5140159)
-
----
-
-## 2. Machine Learning Engineer II @ Team TTI
-**Match Score:** 15.6%
-
-📍 **Location:** Milwaukee, WI, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, Generative AI, RAG, TensorFlow, PyTorch, Keras, MLflow, CI/CD, Databricks, Matplotlib
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d6df5f550c6a3e5b)
+[Apply Here](https://www.indeed.com/viewjob?jk=dea1b605e8c5ec18)
 
 ---
 
-## 3. Data Engineer 4 @ Capital One
-**Match Score:** 15.6%
+## 2. Sr. Data Engineer @ United Utility
+**Match Score:** 17.8%
+
+📍 **Location:** Spring, TX, US USA
+
+🔑 **Keywords:** RAG, Redshift, BigQuery, Synapse, GitHub Actions, Git, Snowflake, Databricks, BigQuery, Redshift
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2c848474306799be)
+
+---
+
+## 3. Data Engineer 4 (Python, AWS, Kafka, Spark, SQL, Snowflake, Databricks, GenAI) @ Capital One
+**Match Score:** 16.7%
 
 📍 **Location:** McLean, VA, US USA
 
-🔑 **Keywords:** Data Scientist, Glue, Redshift, Snowflake, Databricks, Redshift, MongoDB, Cassandra, NoSQL, Python
+🔑 **Keywords:** Data Scientist, Glue, Redshift, Snowflake, Databricks, Redshift, Kafka, MongoDB, Cassandra, NoSQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d80c6adab1193eaf)
+[Apply Here](https://www.indeed.com/viewjob?jk=47e2de3bf66a6750)
 
 ---
 
-## 4. Data Engineer 5 @ Capital One
+## 4. Software Engineer I @ Honeywell
 **Match Score:** 15.6%
 
-📍 **Location:** McLean, VA, US USA
+📍 **Location:** Duluth, GA, US USA
 
-🔑 **Keywords:** Data Scientist, Glue, Redshift, Snowflake, Databricks, Redshift, MongoDB, Cassandra, NoSQL, Python
+🔑 **Keywords:** Generative AI, RAG, Gemini, Prompt Engineering, CI/CD, GitHub Actions, Git, PostgreSQL, NoSQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=3a1e95e5123a2b15)
+[Apply Here](https://www.indeed.com/viewjob?jk=1c826550112cce8f)
 
 ---
 
-## 5. Data Engineer 5 - Enterprise Risk Management @ Capital One
+## 5. Full Stack Engineer 4 (Python, AWS, AI, Snowflake, Databricks) @ Capital One
 **Match Score:** 15.6%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Data Scientist, Glue, Redshift, Snowflake, Databricks, Redshift, MongoDB, Cassandra, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=a45f08af4f7be5f6)
-
----
-
-## 6. Data Engineer 4 - Nexus Products @ Capital One
-**Match Score:** 15.6%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Data Scientist, Glue, Redshift, Snowflake, Databricks, Redshift, MongoDB, Cassandra, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=36fc31dc37d05722)
-
----
-
-## 7. Data Engineer 4 @ Capital One
-**Match Score:** 15.6%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Data Scientist, Glue, Redshift, Snowflake, Databricks, Redshift, MongoDB, Cassandra, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=45e14228c1ed2aed)
-
----
-
-## 8. Data Engineer 4 - Payment Networks @ Capital One
-**Match Score:** 15.6%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Data Scientist, Glue, Redshift, Snowflake, Databricks, Redshift, MongoDB, Cassandra, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f8d0c3f139798fd9)
-
----
-
-## 9. Data Engineer 4 - HR Tech @ Capital One
-**Match Score:** 15.6%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Data Scientist, Glue, Redshift, Snowflake, Databricks, Redshift, MongoDB, Cassandra, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=010f3637940ea854)
-
----
-
-## 10. Data Engineer 5 (SEO/GEO, AdTech ) @ Capital One
-**Match Score:** 15.6%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Data Scientist, Glue, Redshift, Snowflake, Databricks, Redshift, MongoDB, Cassandra, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e9a8f6941c1a4549)
-
----
-
-## 11. Data Engineer 4 @ Capital One
-**Match Score:** 15.6%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Data Scientist, Glue, Redshift, Snowflake, Databricks, Redshift, MongoDB, Cassandra, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0db4720c664a5a3f)
-
----
-
-## 12. Data Engineer 5 (Enterprise Platforms Technology) @ Capital One
-**Match Score:** 15.6%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** Data Scientist, Glue, Redshift, Snowflake, Databricks, Redshift, MongoDB, Cassandra, NoSQL, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=220dab7fe793042b)
-
----
-
-## 13. Machine Learning Engineer II - Operations @ Milwaukee Tool
-**Match Score:** 15.6%
-
-📍 **Location:** Milwaukee, WI, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, Generative AI, RAG, TensorFlow, PyTorch, Keras, MLflow, CI/CD, Databricks, Matplotlib
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d1f1b289a3e5556a)
-
----
-
-## 14. Full-stack Engineer 5 (Go, TypeScript and Angular) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=81ff3ef325447a98)
-
----
-
-## 15. Full-stack Engineer 5 (Nodejs/Go/Angularjs) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9813442a220867be)
-
----
-
-## 16. Full-stack Engineer 4 @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=70843ae9e366dd5b)
-
----
-
-## 17. Full - Stack Engineer 5 (Remote - Eligible) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=877ad6c20024fb1a)
-
----
-
-## 18. Full-stack Engineer 4 @ Capital One
-**Match Score:** 13.3%
 
 📍 **Location:** Plano, TX, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, Snowflake, Databricks, NoSQL, Python
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6979868bb95d63f0)
-
----
-
-## 19. Full-stack Engineer 4 - RiskTech @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f2960b2498873f28)
+[Apply Here](https://www.indeed.com/viewjob?jk=2d2e1578e6815ef7)
 
 ---
 
-## 20. Full Stack Engineer 5 @ Capital One
-**Match Score:** 13.3%
+## 6. Senior Software Engineer - Cloud Platform Engineering @ MariaDB plc
+**Match Score:** 14.4%
 
-📍 **Location:** McLean, VA, US USA
+📍 **Location:** VA, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** LangChain, RAG, Docker, Kubernetes, CI/CD, Terraform, MySQL, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b743b91aec079a75)
-
----
-
-## 21. Full Stack Engineer 4 @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3fb66ff5f4ef065f)
+[Apply Here](https://www.indeed.com/viewjob?jk=e683398c349f7a6d)
 
 ---
 
-## 22. Full-stack Engineer 4 (Python, Java) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** Richmond, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c9046de91e154d69)
-
----
-
-## 23. Full-stack Engineer 5 ( Python, AWS) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5e4de127a7227d81)
-
----
-
-## 24. Full-stack Engineer 5 (Golang, Java, AWS) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=f3a9ee8f682a9c78)
-
----
-
-## 25. Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6faf5ca1640fcd31)
-
----
-
-## 26. Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX) @ Capital One
-**Match Score:** 13.3%
+## 7. Full-Stack Engineer 4 (Java, Spring, DynamoDB, S3, GraphQL, GenAI) @ Capital One
+**Match Score:** 14.4%
 
 📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** RAG, Copilot, S3, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=42133a298638cb9b)
+[Apply Here](https://www.indeed.com/viewjob?jk=30dd4b0534b4aca9)
 
 ---
 
-## 27. Full-stack Engineer 5 @ Capital One
-**Match Score:** 13.3%
+## 8. Full-Stack Engineer 4 (Java, Spring, DynamoDB, S3, GraphQL, GenAL) @ Capital One
+**Match Score:** 14.4%
 
 📍 **Location:** McLean, VA, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** RAG, Copilot, S3, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a708182f9a1da64d)
-
----
-
-## 28. Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=76c8a5b4fcc58505)
+[Apply Here](https://www.indeed.com/viewjob?jk=3e502713d51d0a40)
 
 ---
 
-## 29. Full-stack Engineer 5 - Shopping (Remote-Eligible) @ Capital One
-**Match Score:** 13.3%
+## 9. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Los Angeles, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e6e88687923bfcde)
+
+---
+
+## 10. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Grand Rapids, MI, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=23ca0cd83e1c704c)
+
+---
+
+## 11. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Jacksonville, FL, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4e5e690d9659ab0e)
+
+---
+
+## 12. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Florence, AL, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=478d3913715a36d5)
+
+---
+
+## 13. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Manassas, VA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5ae07b7c08a9ee08)
+
+---
+
+## 14. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** La Crosse, WI, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=aa5347b5729959fc)
+
+---
+
+## 15. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
 📍 **Location:** McLean, VA, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=419688dc0cbfaf98)
-
----
-
-## 30. Full-stack Engineer 5 (Java, Scala, AWS) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c997daa05db4e0c7)
+[Apply Here](https://www.indeed.com/viewjob?jk=b2771dea7e7bebc0)
 
 ---
 
-## 31. Full Stack Engineer 4 (Go, AWS) @ Capital One
-**Match Score:** 13.3%
+## 16. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** McLean, VA, US USA
+📍 **Location:** Houston, TX, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=6a9874c783fb4a03)
-
----
-
-## 32. Full-stack Engineer 4 @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=1f96da918db85a2a)
+[Apply Here](https://www.indeed.com/viewjob?jk=e978e398ad967da0)
 
 ---
 
-## 33. Full-stack Engineer 4 (Java, Scala, AWS) @ Capital One
-**Match Score:** 13.3%
+## 17. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Elk Grove, CA, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b9e0187cbe4c2e40)
-
----
-
-## 34. Full-stack Engineer 4 @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=900df92ddc778d5f)
+[Apply Here](https://www.indeed.com/viewjob?jk=dfb27bc9bc8fc3fd)
 
 ---
 
-## 35. Full-stack Engineer 4 (JavaScript, React) @ Capital One
-**Match Score:** 13.3%
+## 18. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** Chicago, IL, US USA
+📍 **Location:** Chandler, AZ, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=e7c346fa6453ffb9)
-
----
-
-## 36. Full-stack Engineer 5 (Go/Java, Angular, AWS) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** Chicago, IL, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c039bc465260bc95)
+[Apply Here](https://www.indeed.com/viewjob?jk=7bf26a5704e50db1)
 
 ---
 
-## 37. Full-stack Engineer 4 @ Capital One
-**Match Score:** 13.3%
+## 19. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** Richmond, VA, US USA
+📍 **Location:** Indianapolis, IN, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=54e236865193f8a0)
-
----
-
-## 38. Full-stack Engineer 4 @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b667ebd325202576)
+[Apply Here](https://www.indeed.com/viewjob?jk=3d05cc5a9f520e98)
 
 ---
 
-## 39. Full-stack Engineer 5 (Golang, AWS) @ Capital One
-**Match Score:** 13.3%
+## 20. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** McLean, VA, US USA
+📍 **Location:** Las Vegas, NV, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=672e371e8fd60859)
-
----
-
-## 40. Full-stack Engineer 4 (React, TypeScript, AWS) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=346a7f081a67b46c)
+[Apply Here](https://www.indeed.com/viewjob?jk=ac7aefa56e3dd9a8)
 
 ---
 
-## 41. Full-stack Engineer 4 @ Capital One
-**Match Score:** 13.3%
+## 21. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** McLean, VA, US USA
+📍 **Location:** Knoxville, TN, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=7b21934bf2433e6a)
-
----
-
-## 42. Full-stack Engineer 4 (Scala, React, AWS) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2af3b2e528eb8c47)
+[Apply Here](https://www.indeed.com/viewjob?jk=b195226ebcad916e)
 
 ---
 
-## 43. Full-stack Engineer 4 (Scala, React, AWS) @ Capital One
-**Match Score:** 13.3%
+## 22. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** New York, NY, US USA
+📍 **Location:** Franklin, TN, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=51fd20841ca9c754)
-
----
-
-## 44. Full-stack Engineer 4 @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=619531dae358928f)
+[Apply Here](https://www.indeed.com/viewjob?jk=2586760df9fb98ff)
 
 ---
 
-## 45. Full-stack Engineer 4 (Python, AWS) @ Capital One
-**Match Score:** 13.3%
+## 23. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** McLean, VA, US USA
+📍 **Location:** Alpharetta, GA, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=8e4eaf7eaa027bbb)
-
----
-
-## 46. Full-stack Engineer 4 (Golang, Python, Java, AWS) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=da278457dd975c3f)
+[Apply Here](https://www.indeed.com/viewjob?jk=7aebc535d5559f35)
 
 ---
 
-## 47. Full-stack Engineer 4 @ Capital One
-**Match Score:** 13.3%
+## 24. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** McLean, VA, US USA
+📍 **Location:** Malvern, PA, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=18716e78985d34c6)
-
----
-
-## 48. Full-stack Engineer 4 (Go, AWS) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=6132bb0eb6aaf86d)
+[Apply Here](https://www.indeed.com/viewjob?jk=a9c8653fa3538db6)
 
 ---
 
-## 49. Full-stack Engineer 4 (GoLang) @ Capital One
-**Match Score:** 13.3%
+## 25. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** Chicago, IL, US USA
+📍 **Location:** Houston, TX, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=b7c24e0e87f3fc42)
-
----
-
-## 50. Full-Stack Engineer 4 (Automation Quality Engineer) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** Riverwoods, IL, US USA
-
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=2acd23b24043f205)
+[Apply Here](https://www.indeed.com/viewjob?jk=5c8aa777d4875c5c)
 
 ---
 
-## 51. Full-stack Engineer 4 - Shopping (Remote-Eligible) @ Capital One
-**Match Score:** 13.3%
+## 26. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** McLean, VA, US USA
+📍 **Location:** Durham, NC, US USA
 
-🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f87b328e958cbb63)
-
----
-
-## 52. Full-stack Engineer 5 (Golang, Python, GenAI) (Cloud Operations Resilience Engineering) @ Capital One
-**Match Score:** 13.3%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Docker, Kubernetes, Git, NoSQL, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=3c8f457b05bc7029)
+[Apply Here](https://www.indeed.com/viewjob?jk=5708c8b21a8b26c0)
 
 ---
 
-## 53. Care Innovation - Senior Solution Architect 136-2001 @ CommunityCare
-**Match Score:** 12.2%
+## 27. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** Tulsa, OK, US USA
+📍 **Location:** Merrimack, NH, US USA
 
-🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, Prompt Engineering, CI/CD, GitHub Actions, Git, Python, R
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=4f1669e27f9688a1)
-
----
-
-## 54. R&D Software Engineer (AI Developer Tooling), Intern @ Keysight Technologies
-**Match Score:** 12.2%
-
-📍 **Location:** Colorado Springs, CO, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Prompt Engineering, CI/CD, Jenkins, GitHub Actions, Git, Python, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=cc131accf01fa9d0)
+[Apply Here](https://www.indeed.com/viewjob?jk=43de1e64a22d9cd2)
 
 ---
 
-## 55. Senior Data Engineer @ AMD
-**Match Score:** 12.2%
+## 28. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** Austin, TX, US USA
+📍 **Location:** Issaquah, WA, US USA
 
-🔑 **Keywords:** RAG, Synapse, CI/CD, Git, Snowflake, Databricks, PySpark, Power BI, Python, SQL
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=9724e994419d2473)
-
----
-
-## 56. Data Scientist Associate @ JPMorganChase
-**Match Score:** 12.2%
-
-📍 **Location:** Wilmington, DE, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Copilot, Git, Snowflake, Databricks, Tableau, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b87fe7f54c012f15)
+[Apply Here](https://www.indeed.com/viewjob?jk=f032eff8cdf1f51c)
 
 ---
 
-## 57. Software Engineer III - AWS Data Platform Engineer @ JPMorganChase
-**Match Score:** 12.2%
+## 29. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** Plano, TX, US USA
+📍 **Location:** Fort Wayne, IN, US USA
 
-🔑 **Keywords:** RAG, Glue, Athena, Redshift, CI/CD, Terraform, Redshift, Python, R, Java
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=db1a865cc7e5423a)
-
----
-
-## 58. Forward Deployed Engineer (Palantir Foundry & Custom Development) @ Jacobs
-**Match Score:** 11.1%
-
-📍 **Location:** Dallas, TX, US USA
-
-🔑 **Keywords:** CI/CD, Git, Snowflake, Databricks, PostgreSQL, MongoDB, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e04a1c4764f16e30)
+[Apply Here](https://www.indeed.com/viewjob?jk=106d69456e114d56)
 
 ---
 
-## 59. Machine Learning Engineer 4 @ Capital One
-**Match Score:** 11.1%
+## 30. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
-📍 **Location:** McLean, VA, US USA
+📍 **Location:** Greeley, CO, US USA
 
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Kubernetes, CI/CD, Python, R, Java, Scala
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=21ed0ceedd301029)
-
----
-
-## 60. Machine Learning Engineer 5 (IC) @ Capital One
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Kubernetes, CI/CD, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ff0d8e13c3122e9c)
+[Apply Here](https://www.indeed.com/viewjob?jk=38cc6912fc4fff9a)
 
 ---
 
-## 61. Machine Learning Engineer 3 @ Capital One
-**Match Score:** 11.1%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Kubernetes, CI/CD, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=c37251602c700f44)
-
----
-
-## 62. Machine Learning Engineer 5 (IC) @ Capital One
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Kubernetes, CI/CD, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=ad0c36d7f1a855e4)
-
----
-
-## 63. Cloud Engineer 5 @ Capital One
-**Match Score:** 11.1%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=b93c76a2b8ee680e)
-
----
-
-## 64. Machine Learning Engineer 4 @ Capital One
-**Match Score:** 11.1%
-
-📍 **Location:** New York, NY, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Kubernetes, CI/CD, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=125927cd56c6a328)
-
----
-
-## 65. Machine Learning Engineer 4 @ Capital One
-**Match Score:** 11.1%
-
-📍 **Location:** Cambridge, MA, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Kubernetes, CI/CD, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e3951c1b2b876911)
-
----
-
-## 66. Machine Learning Engineer 4 @ Capital One
-**Match Score:** 11.1%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Kubernetes, CI/CD, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e91cbe985e056f4d)
-
----
-
-## 67. Machine Learning Engineer 5 @ Capital One
-**Match Score:** 11.1%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Kubernetes, CI/CD, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e7d4aff57ff0fdfa)
-
----
-
-## 68. Machine Learning Engineer 4 @ Capital One
-**Match Score:** 11.1%
-
-📍 **Location:** McLean, VA, US USA
-
-🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Kubernetes, CI/CD, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5055224391ab5f82)
-
----
-
-## 69. Application Engineer @ Ericsson
-**Match Score:** 11.1%
-
-📍 **Location:** TX, US USA
-
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Git, Python, SQL, R, Java
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0c841479d28f93ba)
-
----
-
-## 70. IT Analyst @ nan
-**Match Score:** 11.1%
-
-📍 **Location:** Tulsa, OK, US USA
-
-🔑 **Keywords:** RAG, Kinesis, Dataflow, Databricks, Kafka, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=84811fdfbe682535)
-
----
-
-## 71. Senior Software Engineer @ Mastercard
-**Match Score:** 11.1%
-
-📍 **Location:** O'Fallon, MO, US USA
-
-🔑 **Keywords:** RAG, CI/CD, Jenkins, GitHub Actions, Git, PostgreSQL, SQL, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0245dcafa3f48258)
-
----
-
-## 72. Senior Systems Engineer - C/C++ Full Stack Developer @ SocioSquares
-**Match Score:** 10.0%
-
-📍 **Location:** Remote, US USA
-
-🔑 **Keywords:** RAG, CI/CD, PostgreSQL, Python, SQL, R, C++, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=0a718ffc683f8ff2)
-
----
-
-## 73. Care Innovation - Automation Engineer 136-2000 @ CommunityCare
-**Match Score:** 10.0%
-
-📍 **Location:** Tulsa, OK, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Prompt Engineering, CI/CD, GitHub Actions, Git, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=302eed7267c19c88)
-
----
-
-## 74. Consultant, Software Engineer (Apigee, APIs, Kong) @ Nationwide Mutual Insurance Company
-**Match Score:** 10.0%
+## 31. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
 
 📍 **Location:** Columbus, OH, US USA
 
-🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Git, Kafka, Python, R, Java
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
 
-[Apply Here](https://www.indeed.com/viewjob?jk=1d33071a91f60b71)
+[Apply Here](https://www.indeed.com/viewjob?jk=1ea8ed0ca16d81ca)
 
 ---
 
-## 75. Senior Software Engineer, Full Stack @ Nexamp
+## 32. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Buffalo Grove, IL, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=192930961104758a)
+
+---
+
+## 33. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Dallas, TX, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=55a54c8e78be5249)
+
+---
+
+## 34. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Louisville, KY, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2e7ccf71af0d4da5)
+
+---
+
+## 35. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Gainesville, GA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c0551318b5b522ef)
+
+---
+
+## 36. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Colorado Springs, CO, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eef38f176c0e4573)
+
+---
+
+## 37. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Jefferson, WI, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c5e04e5085d0f3f6)
+
+---
+
+## 38. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Fort Worth, TX, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4626717641b97a9c)
+
+---
+
+## 39. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Bothell, WA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7ba338fc39f9e484)
+
+---
+
+## 40. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Lewes, DE, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=27ab5cfe17121b8c)
+
+---
+
+## 41. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Coppell, TX, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ac3361eea54e00bb)
+
+---
+
+## 42. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Hilo, HI, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=22fa515a90f7160f)
+
+---
+
+## 43. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Burlington, MA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eec3c59827b0acff)
+
+---
+
+## 44. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Franklin, TN, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e9a140d34aa32532)
+
+---
+
+## 45. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Fort Collins, CO, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e88e0e6d93102b1a)
+
+---
+
+## 46. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Menlo Park, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=93ff95ea45b04385)
+
+---
+
+## 47. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Irvine, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5c188011cdba12b6)
+
+---
+
+## 48. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Harrisburg, PA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=640c531fa6e2f2b4)
+
+---
+
+## 49. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Costa Mesa, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7dbc623ad523c949)
+
+---
+
+## 50. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Buffalo Grove, IL, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c2cb4c0c01eb8a51)
+
+---
+
+## 51. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Leominster, MA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d93bf3129b8f1f40)
+
+---
+
+## 52. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Greenville, SC, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ce5a6640c3e3a615)
+
+---
+
+## 53. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d2a355e53b5aee04)
+
+---
+
+## 54. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a843d240e47bb50d)
+
+---
+
+## 55. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Hoboken, NJ, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=802de18a676e0b71)
+
+---
+
+## 56. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Concord, NH, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c90c9293c67e26e2)
+
+---
+
+## 57. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Cody, WY, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=dea3ed9657eb8d2d)
+
+---
+
+## 58. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** El Dorado Hills, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fad997d5c6b37de5)
+
+---
+
+## 59. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5eecdbb637840111)
+
+---
+
+## 60. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b7c6f58239a9a7f9)
+
+---
+
+## 61. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Columbus, MS, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=afded3ea6ad0f2d6)
+
+---
+
+## 62. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Dearborn, MI, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=45ab5afc31123292)
+
+---
+
+## 63. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** La Quinta, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=560b4890bef57ed3)
+
+---
+
+## 64. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Fairfax, VA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ecc7c71438c05804)
+
+---
+
+## 65. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Blue Ash, OH, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1d0e206f81866fd5)
+
+---
+
+## 66. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Carbondale, IL, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=eaaff0d077502734)
+
+---
+
+## 67. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Bolingbrook, IL, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=73c319dbadf52415)
+
+---
+
+## 68. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Bridgewater, NJ, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bff2cc411884dd58)
+
+---
+
+## 69. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=d2c371c533aa9ccf)
+
+---
+
+## 70. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Charlotte, NC, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7a9bf786f0eaa98a)
+
+---
+
+## 71. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Carrollton, TX, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fa7060b3253326ee)
+
+---
+
+## 72. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Cincinnati, OH, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=174cb30f33f222dd)
+
+---
+
+## 73. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Bothell, WA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=17b34127e4e373f6)
+
+---
+
+## 74. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Spring, TX, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=52076093ad6dfc7c)
+
+---
+
+## 75. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c54cd124dfca846d)
+
+---
+
+## 76. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Woonsocket, RI, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=893413cf4629d8e0)
+
+---
+
+## 77. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=2ed8251869808e55)
+
+---
+
+## 78. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Dayton, OH, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=658edc4064441a8f)
+
+---
+
+## 79. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Arlington, TX, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=de4661931c0551fb)
+
+---
+
+## 80. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Baltimore, MD, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7d73a5d61a96572f)
+
+---
+
+## 81. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** San Francisco Bay Area, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7dbd5536ad64ce09)
+
+---
+
+## 82. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Austin, TX, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3128973e16183783)
+
+---
+
+## 83. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Beachwood, OH, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=907323bc9279012a)
+
+---
+
+## 84. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Arlington, VA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4f3f64d69483218f)
+
+---
+
+## 85. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Bloomington, MN, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=09726b911d3017a8)
+
+---
+
+## 86. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7a7ff8f68153967c)
+
+---
+
+## 87. Generative AI/ML - Full Time Role - USC and GC's only @ Hudson Manpower
+**Match Score:** 14.4%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, LangChain, RAG, LLaMA, Gemini, Hugging Face, FAISS, Pinecone, Prompt Engineering
+
+[Apply Here](https://www.indeed.com/viewjob?jk=aae315c07444ddca)
+
+---
+
+## 88. Full-stack Engineer 4 (IC) @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=4620494dca257198)
+
+---
+
+## 89. Full-stack Engineer 4 (IC) @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6b1bed8feba6b917)
+
+---
+
+## 90. Full-stack Engineer 4 @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8e194fdfb9b8dbe3)
+
+---
+
+## 91. Full-Stack Engineer 4 (Python, AWS, Network Automation) @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=a77780c738e44a57)
+
+---
+
+## 92. Machine Learning Scientist III, Ads Optimization & Automation @ Wayfair
+**Match Score:** 13.3%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** Generative AI, RAG, TensorFlow, PyTorch, BigQuery, MLflow, BigQuery, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c413dffa7ee3f96b)
+
+---
+
+## 93. Senior Machine Learning Scientist - Recommendations @ Wayfair
+**Match Score:** 12.2%
+
+📍 **Location:** Mountain View, CA, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, MLflow, Hadoop, Python, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b27dc18cb51c8654)
+
+---
+
+## 94. Machine Learning Scientist I @ Wayfair
+**Match Score:** 12.2%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** RAG, TensorFlow, PyTorch, Docker, CI/CD, Git, PySpark, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5500d998f5b43e33)
+
+---
+
+## 95. AI Agent Developer @ Strues Inc
+**Match Score:** 11.1%
+
+📍 **Location:** Reston, VA, US USA
+
+🔑 **Keywords:** AI Engineer, RAG, Glue, Athena, Redshift, Redshift, Python, R, Scala, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c887ae1e11a45de2)
+
+---
+
+## 96. Machine Learning Engineer 5 (IC) @ Capital One
+**Match Score:** 11.1%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** Machine Learning Engineer, RAG, TensorFlow, PyTorch, Kubernetes, CI/CD, Python, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=fc5dc747c592d8e3)
+
+---
+
+## 97. Data Scientist IV @ CareSource
+**Match Score:** 11.1%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Prompt Engineering, CI/CD, Snowflake, Databricks, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=f79ced955268a69b)
+
+---
+
+## 98. Machine Learning Science Intern - Summer 2027 @ Wayfair
+**Match Score:** 11.1%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** RAG, PyTorch, Docker, Git, PySpark, Python, SQL, R, Scala, A/B Testing
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5bb5ee4c0563f4fb)
+
+---
+
+## 99. Sr. Ecommerce Analyst @ Box
+**Match Score:** 10.0%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RAG, BigQuery, Git, Snowflake, BigQuery, Tableau, SQL, R, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=c0b58f1cdd0bba8e)
+
+---
+
+## 100. Software Data Engineer @ The Walt Disney Company
+**Match Score:** 10.0%
+
+📍 **Location:** Burbank, CA, US USA
+
+🔑 **Keywords:** Data Scientist, Terraform, Git, Snowflake, Databricks, Python, SQL, R, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e7c87c0c0d2d3ec3)
+
+---
+
+## 101. Senior Software Development Engineer @ Hasbro, Inc.
+**Match Score:** 10.0%
+
+📍 **Location:** Renton, WA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Kafka, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9a4789698147fb9f)
+
+---
+
+## 102. Senior Software Development Engineer @ Hasbro, Inc.
+**Match Score:** 10.0%
+
+📍 **Location:** Renton, WA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Kafka, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=431b277a53c2487f)
+
+---
+
+## 103. Machine Learning Scientist III - Ads + Search & Recommendations @ Wayfair
+**Match Score:** 10.0%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, BigQuery, MLflow, Docker, BigQuery, Python, R, Optimization
+
+[Apply Here](https://www.indeed.com/viewjob?jk=23a15fdcf3515689)
+
+---
+
+## 104. Machine Learning Scientist II - Pricing & Economics @ Wayfair
 **Match Score:** 10.0%
 
 📍 **Location:** Boston, MA, US USA
 
-🔑 **Keywords:** RAG, FastAPI, CI/CD, Terraform, Git, Python, SQL, R, Scala
+🔑 **Keywords:** RAG, XGBoost, MLflow, Docker, Kubernetes, Python, SQL, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=9b7f0e39754f677b)
-
----
-
-## 76. Data Engineer @ KeHE Distributors
-**Match Score:** 10.0%
-
-📍 **Location:** Naperville, IL, US USA
-
-🔑 **Keywords:** AI Engineer, RAG, CI/CD, Tableau, Power BI, Python, SQL, R, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=9033c8036c6af9b3)
-
----
-
-## 77. Full Stack Engineer 4, Enterprise CI/CD (AWS, Python, Groovy) @ Capital One
-**Match Score:** 10.0%
-
-📍 **Location:** Plano, TX, US USA
-
-🔑 **Keywords:** RAG, Copilot, Kubernetes, CI/CD, Git, Python, R, Java, Scala
-
-[Apply Here](https://www.indeed.com/viewjob?jk=77931e54d32a9f5a)
-
----
-
-## 78. Assoc Data Scientist @ Exelon
-**Match Score:** 10.0%
-
-📍 **Location:** Lombard, IL, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Hadoop, Dask, Python, SQL, R, Scala, Optimization
-
-[Apply Here](https://www.indeed.com/viewjob?jk=5c122a4acaae2096)
-
----
-
-## 79. Machine Learning Intelligent Operations Team - Quant Analytics Senior Associate @ JPMorganChase
-**Match Score:** 10.0%
-
-📍 **Location:** Columbus, OH, US USA
-
-🔑 **Keywords:** RAG, XGBoost, LightGBM, Git, Snowflake, Tableau, Python, SQL, R
-
-[Apply Here](https://www.indeed.com/viewjob?jk=50bcf2be164bc349)
+[Apply Here](https://www.indeed.com/viewjob?jk=3e1ff77eb389b355)
 
 ---
 
