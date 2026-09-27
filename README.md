@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-09-27
-- **New Matches Found in Last Run:** 10
-- **Total Active Matches (Last 4 Days):** 562
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 565
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-09-27.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-09-27.xlsx)
 
@@ -11,8 +11,11 @@
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Prodapt Solutions** | AI Front End Engineer | Irving, TX, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=00d8f8c4202abcea) | 2026-09-27 |
+| **Capital One** | Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI) | New York, NY, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d74f91161f0786df) | 2026-09-27 |
+| **Capital One** | Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI) | New York, NY, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94e06db5919f7704) | 2026-09-27 |
 | **Purple Wave Auction** | Analytics Engineer | Remote, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7d55a501fc68d234) | 2026-09-27 |
 | **Deloitte** | Java Full Stack Developer-Software Engineer III | St. Louis, MO, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b9960bbb7b643cd4) | 2026-09-27 |
+| **Capital One** | Full-stack Engineer 5 (AI Platform & Knowledge Library) (Enterprise Platforms Technology) | New York, NY, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3c9d136b2b0b4aee) | 2026-09-27 |
 | **Community Transit** | Engineer - Spatial Analytics | Everett, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f5b39d8b03c9097b) | 2026-09-27 |
 | **Serco** | Software Engineer - (Hybrid - Herndon, VA) | Herndon, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=749fcfc1e9033aea) | 2026-09-27 |
 | **Oran Inc** | Forward Deployed Engineer | Herndon, VA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7a1d1a332b4190af) | 2026-09-27 |
