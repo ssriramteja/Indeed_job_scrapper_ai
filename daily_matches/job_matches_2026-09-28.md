@@ -1,128 +1,370 @@
 # 🎯 Daily Job Matches — 2026-09-28
 
-**Total Jobs Found:** 11
+**Total Jobs Found:** 33
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Data Engineer - West Region @ Slalom Consulting
-**Match Score:** 24.4%
+## 1. Sr AI/ML Engineer Remote Nationwide or Office-Based in MN/DC @ Optum
+**Match Score:** 16.7%
 
-📍 **Location:** Austin, TX, US USA
+📍 **Location:** Minnetonka, MN, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Redshift, BigQuery, Synapse, Data Lake, Kinesis, Dataflow, Kubernetes, CI/CD
+🔑 **Keywords:** Data Scientist, Generative AI, RAG, Prompt Engineering, TensorFlow, PyTorch, XGBoost, Docker, Kubernetes, CI/CD
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2a19bfa35530d300)
+[Apply Here](https://www.indeed.com/viewjob?jk=cc107e981cfd30ac)
 
 ---
 
-## 2. Data Engineer - East Region @ Slalom Consulting
-**Match Score:** 24.4%
+## 2. Sr. AI/ML Engineer - OptumHealth - Remote @ Optum
+**Match Score:** 16.7%
+
+📍 **Location:** Eden Prairie, MN, US USA
+
+🔑 **Keywords:** AI Engineer, Data Scientist, Generative AI, RAG, TensorFlow, PyTorch, MLflow, Docker, Kubernetes, CI/CD
+
+[Apply Here](https://www.indeed.com/viewjob?jk=bf3a051000d27864)
+
+---
+
+## 3. Software Engineer || - Authentication @ Pindrop
+**Match Score:** 15.6%
+
+📍 **Location:** Remote, US USA
+
+🔑 **Keywords:** RAG, S3, Kinesis, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Git, MySQL
+
+[Apply Here](https://www.indeed.com/viewjob?jk=309ab450891b7cb4)
+
+---
+
+## 4. AI Architect @ nan
+**Match Score:** 14.4%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, Hugging Face, TensorFlow, PyTorch, Kubernetes, CI/CD, Python
+
+[Apply Here](https://www.indeed.com/viewjob?jk=7ec4e5367dc5fdcc)
+
+---
+
+## 5. Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX) @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=20435d9ad597a311)
+
+---
+
+## 6. Full-stack Engineer 4 (DevOps) - Intelligent Foundations and Experiences (IFX) @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** San Jose, CA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=5197f016f75b35ad)
+
+---
+
+## 7. Full-stack Engineer 4 @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=04d0e6836ba7d269)
+
+---
+
+## 8. Full-stack Engineer 4 @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=997a5797f758baff)
+
+---
+
+## 9. Full-stack Engineer 5 @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=3f890393388599b0)
+
+---
+
+## 10. Full-stack Engineer 4 @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9e70c9dd57a7289c)
+
+---
+
+## 11. Full-stack Engineer 5 @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** Chicago, IL, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e2ba786a466821b0)
+
+---
+
+## 12. Full-stack Engineer 5 (Python, Angular) @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** McLean, VA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=1c43596c71eebc7f)
+
+---
+
+## 13. Full-stack Engineer 4 @ Capital One
+**Match Score:** 13.3%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** RAG, Copilot, Docker, Kubernetes, CI/CD, Git, NoSQL, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=82382cea5259933b)
+
+---
+
+## 14. Senior Data Engineer @ Velir
+**Match Score:** 13.3%
+
+📍 **Location:** Baltimore, MD, US USA
+
+🔑 **Keywords:** RAG, BigQuery, Apache Airflow, Snowflake, Databricks, BigQuery, Kafka, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6fff8cf7c0caa031)
+
+---
+
+## 15. Senior Data Engineer @ Velir
+**Match Score:** 13.3%
+
+📍 **Location:** Houston, TX, US USA
+
+🔑 **Keywords:** RAG, BigQuery, Apache Airflow, Snowflake, Databricks, BigQuery, Kafka, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=b433e5c3de97183c)
+
+---
+
+## 16. Senior Data Engineer @ Velir
+**Match Score:** 13.3%
+
+📍 **Location:** Princeton, NJ, US USA
+
+🔑 **Keywords:** RAG, BigQuery, Apache Airflow, Snowflake, Databricks, BigQuery, Kafka, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=e2abd9312c38916a)
+
+---
+
+## 17. Senior Data Engineer @ Velir
+**Match Score:** 13.3%
+
+📍 **Location:** New York, NY, US USA
+
+🔑 **Keywords:** RAG, BigQuery, Apache Airflow, Snowflake, Databricks, BigQuery, Kafka, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=54c9fe751059a090)
+
+---
+
+## 18. Senior Data Engineer @ Velir
+**Match Score:** 13.3%
 
 📍 **Location:** Atlanta, GA, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Redshift, BigQuery, Synapse, Data Lake, Kinesis, Dataflow, Kubernetes, CI/CD
+🔑 **Keywords:** RAG, BigQuery, Apache Airflow, Snowflake, Databricks, BigQuery, Kafka, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=2f180772fc14dcad)
-
----
-
-## 3. Agentic AI Architect - Intelligence Engineering (West) @ Slalom Consulting
-**Match Score:** 14.4%
-
-📍 **Location:** Denver, CO, US USA
-
-🔑 **Keywords:** Generative AI, RAG, Gemini, Prompt Engineering, GCP Vertex AI, FastAPI, CI/CD, Git, Databricks, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=e0bbe64a1948c26b)
+[Apply Here](https://www.indeed.com/viewjob?jk=519ba6eb81f01ddd)
 
 ---
 
-## 4. Agentic AI Architect - Intelligence Engineering (Central) @ Slalom Consulting
-**Match Score:** 14.4%
+## 19. Senior Data Engineer @ Velir
+**Match Score:** 13.3%
+
+📍 **Location:** Boston, MA, US USA
+
+🔑 **Keywords:** RAG, BigQuery, Apache Airflow, Snowflake, Databricks, BigQuery, Kafka, Python, SQL, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=02e9b1f872b9ca87)
+
+---
+
+## 20. Senior Software Engineer, Full Stack Web Development – GCP & Vertex AI Focus @ General Motors (GM)
+**Match Score:** 12.2%
 
 📍 **Location:** Austin, TX, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Gemini, Prompt Engineering, GCP Vertex AI, FastAPI, CI/CD, Git, Databricks, Python
+🔑 **Keywords:** RAG, BigQuery, Terraform, Git, BigQuery, Python, SQL, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=419bca6d3e7f6a90)
-
----
-
-## 5. AI/ML Engineer - Consultant/Senior Consultant - (US-CENTRAL) @ Slalom Consulting
-**Match Score:** 14.4%
-
-📍 **Location:** Austin, TX, US USA
-
-🔑 **Keywords:** AI Engineer, Data Scientist, RAG, Copilot, Cortex, CI/CD, Git, Snowflake, Databricks, Python
-
-[Apply Here](https://www.indeed.com/viewjob?jk=df197bbb6fa7ca32)
+[Apply Here](https://www.indeed.com/viewjob?jk=efab3b52406bee28)
 
 ---
 
-## 6. Data Scientist @ DelRicht Research
-**Match Score:** 14.4%
-
-📍 **Location:** New Orleans, LA, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Gemini, BigQuery, Docker, CI/CD, Terraform, BigQuery, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=d7fd99bddc112896)
-
----
-
-## 7. Data Scientist @ DelRicht Research
-**Match Score:** 14.4%
-
-📍 **Location:** Metairie, LA, US USA
-
-🔑 **Keywords:** Data Scientist, RAG, Gemini, BigQuery, Docker, CI/CD, Terraform, BigQuery, Python, SQL
-
-[Apply Here](https://www.indeed.com/viewjob?jk=207397b9c16660b8)
-
----
-
-## 8. Data Engineer with ETL/ELT pipelines and API integrations @ DHANU GLOBAL ENTERPRISES, INC.
+## 21. Forward Deployed Engineer @ EXL Service
 **Match Score:** 12.2%
 
-📍 **Location:** Indianapolis, IN, US USA
+📍 **Location:** Jersey City, NJ, US USA
 
-🔑 **Keywords:** S3, Glue, CI/CD, Git, PySpark, PostgreSQL, Python, SQL, R, Scala
+🔑 **Keywords:** Data Lake, CI/CD, Terraform, Git, Snowflake, Databricks, PySpark, Python, SQL, R
 
-[Apply Here](https://www.indeed.com/viewjob?jk=f8385d0cbea264ab)
+[Apply Here](https://www.indeed.com/viewjob?jk=e9fadd67c5d6b60a)
 
 ---
 
-## 9. Senior Software Architect - AI Accelerated Development - Cloud Build Practice @ Slalom Consulting
+## 22. Senior Data Analyst @ nan
 **Match Score:** 12.2%
 
-📍 **Location:** Miami, FL, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** Generative AI, RAG, Gemini, Copilot, CI/CD, Terraform, Git, Python, R, Java
+🔑 **Keywords:** RAG, BigQuery, AKS, Git, Snowflake, BigQuery, Tableau, Power BI, Python, SQL
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d37602d170cbc74b)
+[Apply Here](https://www.indeed.com/viewjob?jk=d3d60c1504af0532)
 
 ---
 
-## 10. Software Engineer (SWIFT), Global Banking & Markets, Transaction Banking @ Goldman Sachs
+## 23. Advanced Data Scientist @ Honeywell
+**Match Score:** 11.1%
+
+📍 **Location:** Atlanta, GA, US USA
+
+🔑 **Keywords:** Data Scientist, RAG, TensorFlow, PyTorch, Keras, Git, Python, R, Optimization, Hypothesis Testing
+
+[Apply Here](https://www.indeed.com/viewjob?jk=184df85b2572f6da)
+
+---
+
+## 24. Sr. AI Engineer @ Legrand
+**Match Score:** 11.1%
+
+📍 **Location:** West Hartford, CT, US USA
+
+🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, FastAPI, CI/CD, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=10a2848f3bd89c2c)
+
+---
+
+## 25. Sr. AI Engineer @ Legrand
+**Match Score:** 11.1%
+
+📍 **Location:** US USA
+
+🔑 **Keywords:** AI Engineer, Generative AI, LangChain, RAG, FastAPI, CI/CD, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ea78b0860a28a7b3)
+
+---
+
+## 26. AI Native Founding Product and Platform Engineer @ SGS
+**Match Score:** 11.1%
+
+📍 **Location:** Hayward, CA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ae0b0b80f557bd14)
+
+---
+
+## 27. AI Native Founding Product and Platform Engineer @ SGS
+**Match Score:** 11.1%
+
+📍 **Location:** Seattle, WA, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=8372fea10d24e8e2)
+
+---
+
+## 28. AI Native Founding Product and Platform Engineer @ SGS
+**Match Score:** 11.1%
+
+📍 **Location:** Bloomfield, NJ, US USA
+
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, GitHub Actions, Terraform, Git, Python, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=6755de8fbb5220e3)
+
+---
+
+## 29. Sr. Backend Engineer (Hybrid, NYC) @ CrowdStrike
 **Match Score:** 11.1%
 
 📍 **Location:** New York, NY, US USA
 
-🔑 **Keywords:** RAG, EC2, Terraform, Git, PostgreSQL, Python, SQL, R, Java, Scala
+🔑 **Keywords:** RAG, Kubernetes, CI/CD, Git, Kafka, Cassandra, Python, R, Java, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=ecdc55cfac74d874)
+[Apply Here](https://www.indeed.com/viewjob?jk=6f96c1c8e52a0ebf)
 
 ---
 
-## 11. Associate Data Scientist - BlackLocus @ The Home Depot
+## 30. Cloud Engineer @ Northwestern Medicine
 **Match Score:** 10.0%
 
-📍 **Location:** Austin, TX, US USA
+📍 **Location:** Chicago, IL, US USA
 
-🔑 **Keywords:** Data Scientist, RAG, BigQuery, BigQuery, Tableau, Python, SQL, R, Optimization
+🔑 **Keywords:** RAG, Docker, Kubernetes, CI/CD, Terraform, Git, Python, R, Scala
 
-[Apply Here](https://www.indeed.com/viewjob?jk=d0cb7f01b2f338d5)
+[Apply Here](https://www.indeed.com/viewjob?jk=20000dac4b171f7a)
+
+---
+
+## 31. Senior Engineer - Production Cloud and Container Services @ Fastly
+**Match Score:** 10.0%
+
+📍 **Location:** Denver, CO, US USA
+
+🔑 **Keywords:** RAG, S3, EC2, Kubernetes, CI/CD, Terraform, Git, Python, R
+
+[Apply Here](https://www.indeed.com/viewjob?jk=ce22089613d67546)
+
+---
+
+## 32. AI/ML engineer @ MAMSYS Consulting Services Ltd
+**Match Score:** 10.0%
+
+📍 **Location:** Baton Rouge, LA, US USA
+
+🔑 **Keywords:** Generative AI, RAG, TensorFlow, Hadoop, Python, SQL, R, Java, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=9fff4abb3faf8cbe)
+
+---
+
+## 33. Senior Automation Engineer @ TEEMA
+**Match Score:** 10.0%
+
+📍 **Location:** Richmond, VA, US USA
+
+🔑 **Keywords:** Generative AI, RAG, Gemini, Databricks, NoSQL, Python, SQL, R, Scala
+
+[Apply Here](https://www.indeed.com/viewjob?jk=0e3889fc78d978d5)
 
 ---
 
