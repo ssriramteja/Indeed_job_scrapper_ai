@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-10-04
-- **New Matches Found in Last Run:** 50
-- **Total Active Matches (Last 4 Days):** 537
+- **New Matches Found in Last Run:** 1
+- **Total Active Matches (Last 4 Days):** 538
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-10-04.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-10-04.xlsx)
 
@@ -60,6 +60,7 @@
 | **Uber** | Software Engineer II - Security Review Automation | Seattle, WA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=370a162cb4199f2b) | 2026-10-04 |
 | **Uber** | Software Engineer II - Security Review Automation | San Francisco, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d7790c5d1ede5a80) | 2026-10-04 |
 | **Uber** | Software Engineer II - Security Review Automation | Sunnyvale, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=773a5e9fef8d51c1) | 2026-10-04 |
+| **Capital One** | AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services) | San Jose, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8878d76c16c8c9ea) | 2026-10-04 |
 | **Wells Fargo** | Senior Data Engineer | San Francisco, CA, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8c7ac7363c390d2) | 2026-10-03 |
 | **Wells Fargo** | Senior Data Engineer | Charlotte, NC, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=466d7045497ccea0) | 2026-10-03 |
 | **nan** | Senior Software Engineer, Cloud Infrastructure | San Carlos, CA, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=42cd837866eddbf4) | 2026-10-03 |
