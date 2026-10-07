@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-10-07
-- **New Matches Found in Last Run:** 56
-- **Total Active Matches (Last 4 Days):** 341
+- **New Matches Found in Last Run:** 57
+- **Total Active Matches (Last 4 Days):** 398
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-10-07.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-10-07.xlsx)
 
@@ -15,11 +15,15 @@
 | **BV Teck** | Apache Spark Developer | Remote, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d8bb3e07175ba5a) | 2026-10-07 |
 | **BV Teck** | Senior Data Scientist | Remote, US USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc5341b3eae13016) | 2026-10-07 |
 | **BV Teck** | Senior Data Engineer | Remote, US USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e99bcc3745577f44) | 2026-10-07 |
+| **GEICO** | Senior Machine Learning Engineer, Fraud Risk Modeling | Palo Alto, CA, US USA | 23.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c1b0bc837735bcf) | 2026-10-07 |
 | **Capgemini** | NodeJS/AWS Fullstack developer - Software Engineer | Irving, TX, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da9b6e62814d5305) | 2026-10-07 |
 | **Capgemini** | Node js/AWS fullstack developerSoftware Engineer | Irving, TX, US USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=262e6fd34c0f8ab5) | 2026-10-07 |
 | **Capgemini** | Software Engineer | Dallas, TX, US USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=850f4c0879ad3a62) | 2026-10-07 |
+| **Securian Financial** | AWS DevOps Engineer (Hybrid) | Saint Paul, MN, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=20ae1a526db03909) | 2026-10-07 |
+| **Insight** | Sr AI Customer Engineer | Chandler, AZ, US USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=12d56dd98ccf656b) | 2026-10-07 |
 | **BV Teck** | Rust Developer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aac1512204e679c4) | 2026-10-07 |
 | **BV Teck** | Hadoop Solutions Developer | Remote, US USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c64452ea9ee84058) | 2026-10-07 |
+| **NTT DATA** | Forward-Deployed Engineer (FDE/GTM) | Plano, TX, US USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=36155a5c2444770b) | 2026-10-07 |
 | **Hexaware Technologies** | Java Full Stack Engineer - Associate | US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a924de370ac9d076) | 2026-10-07 |
 | **Target** | Senior Engineer – Apply For CircleCard | Brooklyn Park, MN, US USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47ca3963cee3be6c) | 2026-10-07 |
 | **Realign** | GenAI Engineer-3 | Newark, DE, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0c030b480e70d90b) | 2026-10-07 |
@@ -29,6 +33,8 @@
 | **BV Teck** | Blockchain Developer | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=06a412cb9f758689) | 2026-10-07 |
 | **Innovate Tech IT LLC** | Software Engineer | Sheridan, WY, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b478fd52cc625f4f) | 2026-10-07 |
 | **YT Global Network** | GCP Data Engineer – Remote | Remote, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4b02a541e66f4c5b) | 2026-10-07 |
+| **Howard Hughes Medical Institute** | AI Data Engineer | Chevy Chase, MD, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=97c5e1818487b920) | 2026-10-07 |
+| **RBC** | 2027 Capital Markets, Quantitative Technology Services Summer, Raleigh | Raleigh, NC, US USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea97b81f8a8fbea5) | 2026-10-07 |
 | **Realign** | SDET (Software Development Engineer in Test)-3 | Chicago, IL, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=086b42150c1c6423) | 2026-10-07 |
 | **BV Teck** | Angular Developer | Remote, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=934be651d2822067) | 2026-10-07 |
 | **Lantern** | Data Platform Engineer | Dallas, TX, US USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff2ab2b60d846cd6) | 2026-10-07 |
@@ -37,11 +43,51 @@
 | **BV Teck** | Senior Devops Engineer | Remote, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=be020efc616ae06a) | 2026-10-07 |
 | **Meetic** | Software Engineer III, Backend | San Francisco, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bcdac1dc01d8884d) | 2026-10-07 |
 | **IDEXX Laboratories** | GenAI Developer Sr I | Westbrook, ME, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1192ef8099416b0e) | 2026-10-07 |
+| **NAC Architecture** | Data Engineer | Los Angeles, CA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=de63d204e832110a) | 2026-10-07 |
+| **NAC Architecture** | Data Engineer | Spokane, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=876322e831ec8eca) | 2026-10-07 |
+| **NAC Architecture** | Data Engineer | Seattle, WA, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7c07ba22730cc31c) | 2026-10-07 |
+| **NAC Architecture** | Data Engineer | Columbus, OH, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0d993410e2b916af) | 2026-10-07 |
+| **American Airlines** | Engineer/Sr Engineer, IT Software | Fort Worth, TX, US USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d57923c372a91491) | 2026-10-07 |
 | **Cenergistic** | Software Engineer - Mid Level | Dallas, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a06fdb5232c62474) | 2026-10-07 |
 | **BV Teck** | React Native Developer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=53df3f7066abea20) | 2026-10-07 |
 | **Metropolis** | Senior Software Engineer, Incentive Offers | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=260ab5e6808866c1) | 2026-10-07 |
 | **Target** | Sr Engineer - Stores & Supply Chain | Brooklyn Park, MN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f418a3e9ef70735) | 2026-10-07 |
 | **EquipmentShare** | Software Engineer I | Columbia, MO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ffeeb6da650ee050) | 2026-10-07 |
+| **Tempus** | Data Visualization Engineer | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5131e2f85865e971) | 2026-10-07 |
+| **Siemens** | Software Engineer | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9398f49551c5bb4d) | 2026-10-07 |
+| **Citi** | Full Stack Software Engineer Analyst | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=15d208d296c27320) | 2026-10-07 |
+| **First Tech Federal Credit Union** | AI Engineer | Marlborough, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=13c0db858176cb52) | 2026-10-07 |
+| **California Institute of Technology** | Data Scientist | Pasadena, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=72d562b5facb7466) | 2026-10-07 |
+| **reveleer** | Sr. Information Security Engineer | Remote, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30bee6defc91ca2b) | 2026-10-07 |
+| **McKesson** | Sr. Data Scientist, Pharmaceutical Supply Chain | Irving, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=227bb5d9c4815669) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | St. Louis, MO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b61a7405c84dfffc) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Kansas City, MO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aa4d05244362f989) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Tempe, AZ, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d904c2b5f58c6606) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Seattle, WA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=47264d648682c4f3) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Pittsburgh, PA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=96e1162dafc17ae6) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Charlotte, NC, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=99557b0ef9c92c11) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Dallas, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a7e43350da6c2235) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Philadelphia, PA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7beb6cd74617ff46) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Detroit, MI, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=4f26a5e0867808b1) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Houston, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5eb4b9006e5a261a) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Boston, MA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=619459096d05a901) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Nashville, TN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=532a2d4b82e1603b) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | New York, NY, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=092b28496b3af73f) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Cincinnati, OH, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=218407a1387da551) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Rosslyn, VA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=674377c599a842fe) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Austin, TX, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=49c3498a59b5d74b) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Indianapolis, IN, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cfb700de7f228650) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Stamford, CT, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f3f3824a28c34365) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Miami, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f142aa24794da177) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | San Jose, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=93197d2c979d8326) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | San Francisco, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=64f3f84b7d6957ef) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Tampa, FL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dd3ada3d7fa3fe05) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Sacramento, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=b764944388dfa0e6) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Atlanta, GA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3230ff0da333eb2e) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Denver, CO, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f89bbe79ffdc7b5) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | San Diego, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cc220fc74e19de7d) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Chicago, IL, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3187fc969380e49b) | 2026-10-07 |
+| **Deloitte** | Banking Product Forward Deployed Engineer - Innovation_Delivery_Transformation | Costa Mesa, CA, US USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cd3cbad22cfacaf4) | 2026-10-07 |
 | **_coderio** | Senior Elixir Developer - USA | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=92e1941605485de6) | 2026-10-07 |
 | **_coderio** | Senior Elixir Developer - USA | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34efbf1abc68bf50) | 2026-10-07 |
 | **_coderio** | Senior Elixir Developer - USA | Remote, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f1f4cce4b2c559d) | 2026-10-07 |
@@ -56,6 +102,12 @@
 | **iRhythm Technologies** | Machine Learning Scientist | San Francisco, CA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bbcaf60daad9eb76) | 2026-10-07 |
 | **Bitsight** | Senior DevOps Engineer | Boston, MA, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63e5d4c0ba6bf9cd) | 2026-10-07 |
 | **Target** | Engineer - Stores & Supply Chain | Brooklyn Park, MN, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0949974561561535) | 2026-10-07 |
+| **JPMorganChase** | Software Engineer III - Backend | Plano, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3bfe9ad476bd328d) | 2026-10-07 |
+| **JPMorganChase** | Software Engineer III | New York, NY, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=65745051474ea39e) | 2026-10-07 |
+| **JPMorganChase** | Python Software Engineer III | Plano, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1ea7b2258ae68843) | 2026-10-07 |
+| **MetLife** | Junior AI Engineer | Cary, NC, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=48c9906598dd507a) | 2026-10-07 |
+| **HP** | Senior Machine Learning Platform Engineer — Model Hosting & MLOps | Spring, TX, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e3f9b41775fcfd7e) | 2026-10-07 |
+| **JPMorganChase** | 2027 Consumer & Community Banking - Risk Modeling Associate Program - Summer Internship | Wilmington, DE, US USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8b3446438ab9209e) | 2026-10-07 |
 | **Intercontinental Exchange** | Engineer II | Jacksonville, FL, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5378627ae30a4582) | 2026-10-07 |
 | **nan** | Professional Services Engineer | New York, NY, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=e0f07433764ff47c) | 2026-10-07 |
 | **BV Teck** | Container Platform Engineer | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=31614612c22a3bf8) | 2026-10-07 |
@@ -66,6 +118,11 @@
 | **U.S. Bank** | Software Engineer 2 (Full Stack - React) | Irving, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=af66fbc265bff345) | 2026-10-07 |
 | **Electronic Arts** | Software Engineer Intern | Austin, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b7716243899cf59) | 2026-10-07 |
 | **NTT DATA** | Automation Platform Engineer / DevOps Systems Integration Engineer - Hybrid Plano, TX | Plano, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8c00cb91ece5cdd7) | 2026-10-07 |
+| **Citi** | Java Software Engineer, Data Platform | Jersey City, NJ, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ae9f34125a0d7797) | 2026-10-07 |
+| **Frost** | AI Automation Engineer II | San Antonio, TX, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4cbae61cfc768f6) | 2026-10-07 |
+| **OneDigital** | Analytics Engineer II, Marketing Technology - Remote | Remote, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=238a27c5210ae789) | 2026-10-07 |
+| **GEICO** | Senior Software Engineer - Full Stack | Palo Alto, CA, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2ac6c69177b62bd1) | 2026-10-07 |
+| **GEICO** | Senior Software Engineer - Full Stack | Bethesda, MD, US USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1b3c7fbddfbcdc41) | 2026-10-07 |
 | **Nixon Web Technology** | Data Engineer | CA, US USA | 31.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6ec453d2d16d9041) | 2026-10-06 |
 | **Realign** | AI Enterprise Architect-4 | Seattle, WA, US USA | 27.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bd3d45a3054cc31c) | 2026-10-06 |
 | **American Airlines** | Sr Engineer, IT Machine Learning | Fort Worth, TX, US USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ab9e361c44f6f503) | 2026-10-06 |
