@@ -1,51 +1,40 @@
 # 🎯 Daily Job Matches — 2026-10-11
 
-**Total Jobs Found:** 4
+**Total Jobs Found:** 3
 Jobs posted in the last 24 hours, ranked by resume match score.
 
 ---
 
-## 1. Senior Software Development Engineer AI @ CVS Health
-**Match Score:** 17.8%
+## 1. Sr Data Engineer @ Karoo Health
+**Match Score:** 20.0%
 
-📍 **Location:** FL, USA USA
+📍 **Location:** Pittsburgh, PA, USA USA
 
-🔑 **Keywords:** LangChain, RAG, LLaMA, FAISS, Pinecone, Prompt Engineering, FastAPI, Docker, Kubernetes, CI/CD
+🔑 **Keywords:** RAG, S3, Athena, Redshift, BigQuery, Data Lake, Apache Airflow, CI/CD, Git, Snowflake
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a34cbe3d8382805b)
-
----
-
-## 2. Senior Software Development Engineer AI @ CVS Health
-**Match Score:** 17.8%
-
-📍 **Location:** MA, USA USA
-
-🔑 **Keywords:** LangChain, RAG, LLaMA, FAISS, Pinecone, Prompt Engineering, FastAPI, Docker, Kubernetes, CI/CD
-
-[Apply Here](https://www.indeed.com/viewjob?jk=7450ea7e0a46fadb)
+[Apply Here](https://www.indeed.com/viewjob?jk=89a4ee98072606c4)
 
 ---
 
-## 3. Software Development Engineer @ CVS Health
-**Match Score:** 15.6%
+## 2. Solutions Engineer - Splunk (Remote) @ Cisco
+**Match Score:** 10.0%
 
-📍 **Location:** Atlanta, GA, USA USA
+📍 **Location:** San Jose, CA, USA USA
 
-🔑 **Keywords:** LangChain, RAG, LLaMA, Gemini, Prompt Engineering, BigQuery, Dataflow, Docker, CI/CD, Git
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, LangChain, RAG, Git, Python, R, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=a0ecd01a06f53156)
+[Apply Here](https://www.indeed.com/viewjob?jk=0557188a83024668)
 
 ---
 
-## 4. Senior Data Scientist - AI Engineer (Healthcare) @ American Radiologist Network
-**Match Score:** 13.3%
+## 3. Solutions Engineer - Splunk (Remote) @ Cisco
+**Match Score:** 10.0%
 
-📍 **Location:** Remote, USA USA
+📍 **Location:** New York, NY, USA USA
 
-🔑 **Keywords:** AI Engineer, Data Scientist, Hugging Face, TensorFlow, PyTorch, YOLO, Docker, Kubernetes, Python, R
+🔑 **Keywords:** Data Scientist, Machine Learning Engineer, Generative AI, LangChain, RAG, Git, Python, R, Optimization
 
-[Apply Here](https://www.indeed.com/viewjob?jk=87aad3290cc5e7a9)
+[Apply Here](https://www.indeed.com/viewjob?jk=dfc8f9acd90796dc)
 
 ---
 

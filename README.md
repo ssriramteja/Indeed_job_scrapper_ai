@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-10-11
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 407
+- **New Matches Found in Last Run:** 3
+- **Total Active Matches (Last 4 Days):** 410
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-10-11.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-10-11.xlsx)
 
@@ -10,10 +10,13 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Karoo Health** | Sr Data Engineer | Pittsburgh, PA, USA USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89a4ee98072606c4) | 2026-10-11 |
 | **CVS Health** | Senior Software Development Engineer AI | FL, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a34cbe3d8382805b) | 2026-10-11 |
 | **CVS Health** | Senior Software Development Engineer AI | MA, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7450ea7e0a46fadb) | 2026-10-11 |
 | **CVS Health** | Software Development Engineer | Atlanta, GA, USA USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0ecd01a06f53156) | 2026-10-11 |
 | **American Radiologist Network** | Senior Data Scientist - AI Engineer (Healthcare) | Remote, USA USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=87aad3290cc5e7a9) | 2026-10-11 |
+| **Cisco** | Solutions Engineer - Splunk (Remote) | San Jose, CA, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0557188a83024668) | 2026-10-11 |
+| **Cisco** | Solutions Engineer - Splunk (Remote) | New York, NY, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfc8f9acd90796dc) | 2026-10-11 |
 | **Humana** | Software Engineer II | Tampa, FL, USA USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5fb3dc77e214e474) | 2026-10-10 |
 | **Choice Hotels** | Software Engineer 1 – Finance Technology | Scottsdale, AZ, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9fc62c04cf377635) | 2026-10-10 |
 | **CVS Health** | Senior Software Development Engineer AI | TX, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0a062edfe43d2da3) | 2026-10-10 |
