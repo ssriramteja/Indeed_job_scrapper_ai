@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-10-12
-- **New Matches Found in Last Run:** 4
-- **Total Active Matches (Last 4 Days):** 222
+- **New Matches Found in Last Run:** 18
+- **Total Active Matches (Last 4 Days):** 240
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-10-12.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-10-12.xlsx)
 
@@ -10,10 +10,28 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **ICF** | Senior Databricks Platform Engineer (Remote US) | Reston, VA, USA USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=567f4ddfd333af1a) | 2026-10-12 |
 | **Meme House LA, Inc** | AI Algorithmic Trader — Interview Today, Start Tomorrow! | Los Angeles, CA, USA USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0d4c02190c8806d0) | 2026-10-12 |
+| **Global Payments** | AI Engineer | Alpharetta, GA, USA USA | 21.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=27a1347e63b333ff) | 2026-10-12 |
 | **Element 84** | Senior DevOps Engineer (Hub-Remote: DC or Philly Metro) | Alexandria, VA, USA USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=cf2162b37870f256) | 2026-10-12 |
+| **ICF** | Azure Ops/AI Engineer (US Remote) | Reston, VA, USA USA | 18.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=194ae6ae0e83b1f9) | 2026-10-12 |
 | **Visibol** | Software Engineer | Chicago, IL, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6cdaf76f16c112ab) | 2026-10-12 |
+| **Kharon** | Senior AI Engineer | New York, NY, USA USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff02c5e627bf52c0) | 2026-10-12 |
+| **Kiewit Corporation** | Senior Cloud Engineer | Omaha, NE, USA USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8f3210094a7b1a68) | 2026-10-12 |
+| **Stitch Consulting Services, Inc.** | Senior Databricks Data Analyst | USA USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=287dcd1bbf750e92) | 2026-10-12 |
+| **Cystems Logic Inc** | AI Full Stack Engineer - Dallas, TX | Dallas, TX, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=34ab6141a1b3831f) | 2026-10-12 |
+| **T prods solutions inc** | Full Stack Developer | El Paso, TX, USA USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=aed15eb60f15f6e3) | 2026-10-12 |
+| **Andersen** | AI Engineer in the USA | Remote, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=30e040163962f6b4) | 2026-10-12 |
+| **CME Group** | Sr AI Solutions Specialist - Architecture Foundry | Chicago, IL, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=626e5dce758e5ab8) | 2026-10-12 |
+| **Victaulic** | Snowflake dbt Developer | VA, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ef7cf14a046fe980) | 2026-10-12 |
+| **Optum** | Senior DevOps Engineer | Eden Prairie, MN, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=da31ce66bd2bac28) | 2026-10-12 |
+| **Logic, Inc.** | Senior AWS Developer (Java Spring Boot) 6454565 | Chicago, IL, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ea60007b0d463606) | 2026-10-12 |
 | **Nu Image Medical** | AI Engineer | Mahwah, NJ, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=90ec722c8443c70b) | 2026-10-12 |
+| **The Hartford** | Sr Cloud Data and AI Engineer | Chicago, IL, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ebece57643cc8a61) | 2026-10-12 |
+| **Empirical Security** | Software Engineer | USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=38a9d2b4f085a03c) | 2026-10-12 |
+| **C3 AI** | Associate Site Reliability Engineer/Site Reliability Engineer | Redwood City, CA, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8b511b2cb7189734) | 2026-10-12 |
+| **Mars** | Capability Engineer – Next-Gen Pet Center Technologies | Lewisburg, OH, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63202df230bab42b) | 2026-10-12 |
+| **Smartcat** | Senior DevOps and Infrastructure Engineer New | GA, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=661c5630216c22dc) | 2026-10-12 |
 | **Karoo Health** | Sr Data Engineer | Pittsburgh, PA, USA USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89a4ee98072606c4) | 2026-10-11 |
 | **CVS Health** | Senior Software Development Engineer AI | FL, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a34cbe3d8382805b) | 2026-10-11 |
 | **CVS Health** | Senior Software Development Engineer AI | MA, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7450ea7e0a46fadb) | 2026-10-11 |
