@@ -1,15 +1,36 @@
 # 🚀 Indeed Job Scraper AI
 
-### 📊 Latest Update: 2026-10-14
-- **New Matches Found in Last Run:** 27
-- **Total Active Matches (Last 4 Days):** 273
-- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-10-14.md)
-- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-10-14.xlsx)
+### 📊 Latest Update: 2026-10-15
+- **New Matches Found in Last Run:** 21
+- **Total Active Matches (Last 4 Days):** 287
+- 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-10-15.md)
+- 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-10-15.xlsx)
 
 #### 🎯 Rolling Window: Matches from last 4 days
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **American Express** | Sr Software Engineer II - Enterprise Architecture | New York, NY, USA USA | 24.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2c8166ffe447c83c) | 2026-10-15 |
+| **Mad Mobile** | Full Stack Engineer (Back-end) | Tampa, FL, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=049e17c22f6357d3) | 2026-10-15 |
+| **Photon** | GenAI/Python Developer - AI/ML - Newyork, NY - Citi | USA USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6c525fa32512d4e1) | 2026-10-15 |
+| **Oakwood Systems Group** | AI Engineer | St. Louis, MO, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8adc70dab60b5264) | 2026-10-15 |
+| **American Express** | Senior Agentic AI Engineer - Core Platforms | New York, NY, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee611649ef0f40c5) | 2026-10-15 |
+| **Oakwood Systems Group** | AI Engineer | Remote, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=02af0306e380da94) | 2026-10-15 |
+| **Oakwood Systems Group** | AI Engineer | Kansas City, MO, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9abf4632add3f574) | 2026-10-15 |
+| **Tomorrow.io** | Software Engineer | Golden, CO, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=79c299784b27caa7) | 2026-10-15 |
+| **Endor Labs** | Customer Reliability Engineer | Palo Alto, CA, USA USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85c7e1fd779e75aa) | 2026-10-15 |
+| **Hawaiian Electric Company, Inc.** | Business Analytics Engineer Enterprise - Oahu | Honolulu, HI, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=773b8c018503ce6a) | 2026-10-15 |
+| **TD** | Engineer II (US) | Mount Laurel, NJ, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c15141184b12f52a) | 2026-10-15 |
+| **XPRIZE Foundation** | AI-Native Software Engineer - Consultant | Remote, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81e15c410c50fa30) | 2026-10-15 |
+| **American Express** | Agentic AI Infrastructure Engineer II - Core Platforms | New York, NY, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=991e515999a78167) | 2026-10-15 |
+| **DNV** | Senior Data Engineer | San Diego, CA, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c1c7d9604432fc69) | 2026-10-15 |
+| **Truveta** | Software Engineer - Security & Trust | Seattle, WA, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=413630bf00116978) | 2026-10-15 |
+| **Goodwin Procter LLP** | Data Engineer | Boston, MA, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f385f431c05e95eb) | 2026-10-15 |
+| **Viridien** | ML Engineer, Agentic Systems | Houston, TX, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=67febc962942f43e) | 2026-10-15 |
+| **Verizon** | Agentic AI Engineer | Irving, TX, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c2a8a3060e238344) | 2026-10-15 |
+| **ALTANA AG** | Senior Software Engineer | New York, NY, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee3f63c42f2039db) | 2026-10-15 |
+| **Hertz** | Sr. Revenue Data Analyst | Estero, FL, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=048b033996f3ea64) | 2026-10-15 |
+| **Slalom Consulting** | Google Cloud Architect | Chicago, IL, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=98ee560b6b53530b) | 2026-10-15 |
 | **Leading Path Consulting** | Systems Architect - TS/SCI w/ Poly required | Warrenton, VA, USA USA | 28.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=51b2560066a45e46) | 2026-10-14 |
 | **VTG Defense** | Systems Architect, SME | Tysons Corner, VA, USA USA | 28.9% | [Apply 🚀](https://www.indeed.com/viewjob?jk=74acab416de0ee2f) | 2026-10-14 |
 | **Friant & Associates** | AI Engineer | San Leandro, CA, USA USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4182938ad6c7715) | 2026-10-14 |
@@ -276,13 +297,6 @@
 | **Qualcomm** | LLM Serving Engineer | San Diego, CA, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=babb4cd0ce60fe9f) | 2026-10-12 |
 | **EnergyHub** | Senior Software Engineer | New York, NY, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7c5ea12d8497425d) | 2026-10-12 |
 | **Westport Properties, Inc.** | Associate Data Scientist | Remote, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d6703ec0ae4b1acf) | 2026-10-12 |
-| **Karoo Health** | Sr Data Engineer | Pittsburgh, PA, USA USA | 20.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=89a4ee98072606c4) | 2026-10-11 |
-| **CVS Health** | Senior Software Development Engineer AI | FL, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a34cbe3d8382805b) | 2026-10-11 |
-| **CVS Health** | Senior Software Development Engineer AI | MA, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7450ea7e0a46fadb) | 2026-10-11 |
-| **CVS Health** | Software Development Engineer | Atlanta, GA, USA USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a0ecd01a06f53156) | 2026-10-11 |
-| **American Radiologist Network** | Senior Data Scientist - AI Engineer (Healthcare) | Remote, USA USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=87aad3290cc5e7a9) | 2026-10-11 |
-| **Cisco** | Solutions Engineer - Splunk (Remote) | San Jose, CA, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0557188a83024668) | 2026-10-11 |
-| **Cisco** | Solutions Engineer - Splunk (Remote) | New York, NY, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=dfc8f9acd90796dc) | 2026-10-11 |
 
 ---
 
