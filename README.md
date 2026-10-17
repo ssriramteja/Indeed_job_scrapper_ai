@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-10-17
-- **New Matches Found in Last Run:** 17
-- **Total Active Matches (Last 4 Days):** 348
+- **New Matches Found in Last Run:** 29
+- **Total Active Matches (Last 4 Days):** 377
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-10-17.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-10-17.xlsx)
 
@@ -12,21 +12,50 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Visa** | Software Development Engineer- Product Reliability Engineering | Highlands Ranch, CO, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19bb11d6bd744f5f) | 2026-10-17 |
 | **Capgemini** | Conversational AI Engineer (LLM & GenAI) | Atlanta, GA, USA USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58590d983e09d0d2) | 2026-10-17 |
+| **Allspring Global Investments Holdings, LLC** | Application Engineer - AI | Charlotte, NC, USA USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=499279ea0bb831c0) | 2026-10-17 |
 | **Floor & Decor** | Senior Data Scientist, Digital | Atlanta, GA, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5abc5aa030484718) | 2026-10-17 |
+| **Invesco** | Senior Software Engineer - Agentic AI and Frontend Applications | Atlanta, GA, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0f9041fd45ab767d) | 2026-10-17 |
+| **Ally Financial** | Mgr - Software Eng | Detroit, MI, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=32e7326c6ece402d) | 2026-10-17 |
+| **Ensemble Health Partners** | AI / Machine Learning Talent | San Jose, CA, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1493bb2b3c51f848) | 2026-10-17 |
+| **Ross Dress For Less** | Engineer II | Dublin, CA, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=09cb0db2afcac907) | 2026-10-17 |
 | **AMD** | Generative AI Engineer - Graphics | San Jose, CA, USA USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=025fafb2ecdf259c) | 2026-10-17 |
+| **Cognizant** | Senior Data Scientist – Generative AI & LLM Engineering | Chicago, IL, USA USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=17cecd02e1887d0a) | 2026-10-17 |
+| **Shure** | Engineer Sr, Applied Research Science | Niles, IL, USA USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ebbae7f2346252b4) | 2026-10-17 |
+| **Humana** | Senior Cloud Services Engineer | KY, USA USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ff6c8ab87fd251d4) | 2026-10-17 |
+| **CVS Health** | Software Development Engineer | Hartford, CT, USA USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=6d6df8d550538c2e) | 2026-10-17 |
 | **Vivmark Residential** | Sr Data Engineer | Chicago, IL, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=758796bed3b06a29) | 2026-10-17 |
 | **Hexaware Technologies** | Gen AI Developer Specialist | USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3169bfdad7427759) | 2026-10-17 |
 | **Intuit** | Software Engineer 1 | Mountain View, CA, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d4f8ead9fe081bdc) | 2026-10-17 |
 | **JPMorganChase** | Software Engineering III - AWS, GCP, Terraform | Jersey City, NJ, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f8af66e2b857b882) | 2026-10-17 |
 | **JPMorganChase** | Software Engineer II - Python, Databricks, ETL | Chicago, IL, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1bec91c851aad821) | 2026-10-17 |
+| **Deloitte** | Data Engineer II | Atlanta, GA, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1abf5c225b429044) | 2026-10-17 |
+| **Atlas Air, Inc.** | Data Engineer | Cincinnati, OH, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=71b643cc943fe0db) | 2026-10-17 |
+| **Deloitte** | Data Engineer II | New Orleans, LA, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f2d8ff32333b0bbf) | 2026-10-17 |
+| **Ally Financial** | Senior Software Engineer | Detroit, MI, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=701f73a757e3a978) | 2026-10-17 |
+| **Intuit** | Software Engineer 1 | San Diego, CA, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a75f554c97282bc2) | 2026-10-17 |
 | **InMarket** | Data Scientist - Measurement | New York, NY, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bfe3b0d4c13e431e) | 2026-10-17 |
 | **Floor & Decor** | Data Scientist, Digital | Atlanta, GA, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=76f173c083d795f2) | 2026-10-17 |
+| **Baylor Scott & White Health** | Senior AI Engineer, Agentic Healthcare Platform - Remote | Dallas, TX, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0e830aef437fae1d) | 2026-10-17 |
+| **Deloitte** | AI Engineer III | New Orleans, LA, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a1fd87eba80653d8) | 2026-10-17 |
+| **Deloitte** | AI Engineer II | Las Vegas, NV, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9433a2a95dfe0b9b) | 2026-10-17 |
+| **Deloitte** | AI Engineer II | Detroit, MI, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c769b23903df4a93) | 2026-10-17 |
+| **WEX Inc.** | Sr Credit Data Scientist | Remote, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=217a810281e242a4) | 2026-10-17 |
+| **Deloitte** | AI Engineer III | Jacksonville, FL, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=08f3cf35f8eeb8b0) | 2026-10-17 |
+| **Lenovo** | AI Engineer | Morrisville, NC, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=29b8ad979af342c6) | 2026-10-17 |
+| **Deloitte** | AI Engineer II | New Orleans, LA, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=18c8f5cd15d15d9f) | 2026-10-17 |
+| **Morningstar** | Associate Software Engineer | Chicago, IL, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=384f685ebddb8fe6) | 2026-10-17 |
+| **Deloitte** | AI Engineer III | Las Vegas, NV, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=85cf11ec1c2cfc0f) | 2026-10-17 |
 | **Integrated Dermatology** | Business Applications & AI Engineer | Boca Raton, FL, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=94b249f3181b0ae3) | 2026-10-17 |
 | **Marvell Technology** | Network Site Reliability Engineer, AI Solutions Lab | Santa Clara, CA, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ba0359210efb08ba) | 2026-10-17 |
 | **Mirion** | AI Solutions Engineer | USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=316b87233c946e3d) | 2026-10-17 |
 | **National Carwash Solutions, Inc.** | Cyber Security Cloud Engineer | Atlanta, GA, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ee1187c9ade4946d) | 2026-10-17 |
 | **GitHub** | Senior Software Engineer, Vulnerability Management | Remote, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=16c2992c50fa7ee8) | 2026-10-17 |
 | **Recorded Future** | Product Support Solutions Developer | Boston, MA, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=db17d3780e550a03) | 2026-10-17 |
+| **Vanderbilt University** | Cloud Developer | Nashville, TN, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a6141663241f54e2) | 2026-10-17 |
+| **Uber** | Sr Scientist, Tech - Science | New York, NY, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a12e12e2b06e7038) | 2026-10-17 |
+| **New York Life** | Associate - Full-Stack Software Engineer | New York, NY, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=3dca5a9875177819) | 2026-10-17 |
+| **Thomson Reuters** | Senior Software Engineer- Rust / C++ | Eagan, MN, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=2d92a0858909681b) | 2026-10-17 |
+| **SPS Commerce** | AI & Automations Builder (HR) | Minneapolis, MN, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d238613517a2fa41) | 2026-10-17 |
 | **Altak Group** | Senior Data Scientist | Remote, USA USA | 26.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9a1b0e4f8d04d392) | 2026-10-16 |
 | **Antra, Inc** | AI Engineer | Sterling, VA, USA USA | 25.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=9d46eeb55d14c6a2) | 2026-10-16 |
 | **ICW Group** | AI Architect | San Diego, CA, USA USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=421c23fea92d2957) | 2026-10-16 |
