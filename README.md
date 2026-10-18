@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-10-18
-- **New Matches Found in Last Run:** 5
-- **Total Active Matches (Last 4 Days):** 255
+- **New Matches Found in Last Run:** 1
+- **Total Active Matches (Last 4 Days):** 256
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-10-18.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-10-18.xlsx)
 
@@ -15,6 +15,7 @@
 | **ALLEN INSTITUTE** | Scientist III – AI Scientist for Quantitative Neuropathy and ML Scalable Infrastructure | Seattle, WA, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e3e6ff21bb5e7bf) | 2026-10-18 |
 | **Planview** | Software Engineer I | USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=71520074c21c4715) | 2026-10-18 |
 | **College Board** | Senior Engineer, Agentic Engineering Governance, Open Source | Remote, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c8aaa98c8c3416fe) | 2026-10-18 |
+| **Shield AI** | Data Engineer, Finance (R6329) | San Diego, CA, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=5f71da028c1e7730) | 2026-10-18 |
 | **Visa** | Software Development Engineer- Product Reliability Engineering | Highlands Ranch, CO, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=19bb11d6bd744f5f) | 2026-10-17 |
 | **Capital One** | Data Engineer 4, Real-time Data Platform | Plano, TX, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=84b8331b9f96dda9) | 2026-10-17 |
 | **Capgemini** | Conversational AI Engineer (LLM & GenAI) | Atlanta, GA, USA USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=58590d983e09d0d2) | 2026-10-17 |

@@ -107,6 +107,27 @@
         "scrapped_date": "2026-10-18"
     },
     {
+        "title": "Data Engineer, Finance (R6329)",
+        "company": "Shield AI",
+        "location": "San Diego, CA, USA USA",
+        "posted_at": "2026-10-18",
+        "score": 10.0,
+        "matched_keywords": [
+            "Cortex",
+            "S3",
+            "Snowflake",
+            "Databricks",
+            "PySpark",
+            "Python",
+            "SQL",
+            "R",
+            "Scala"
+        ],
+        "apply_link": "https://www.indeed.com/viewjob?jk=5f71da028c1e7730",
+        "description": "shield ai is a venture-backed defense-tech company with the mission of protecting service members and civilians with intelligent systems. its products include hivemind autonomy software, v-bat and x-bat aircraft, and aechelon simulation and synthetic reality technologies. with offices and facilities across the u.s., europe, the middle east, and asia-pacific, shield ai\u2019s technology actively supports operations worldwide. for more information, visit www.shield.ai. follow shield ai on linkedin, x, instagram, and youtube.\n\n### **job description:**\n\nshield ai is seeking a data engineer to build the reliable, governed data foundation for finance's next generation of planning and decision support. working on our databricks platform, you will own reusable integrations, semantic-layer infrastructure, and production data services that support analytics and ai-enabled applications. you will combine engineering rigor with ai-assisted development to increase delivery speed, reliability, and cost efficiency.\n\n### **what you'll do:**\n\n* build and operate scalable pipelines and integrations connecting enterprise data to finance products.\n* develop semantic-layer infrastructure and governed data access for analytics, planning, and ai applications.\n* establish end-to-end pipeline observability, data-quality controls, and resilient operations.\n* engineer the services and integrations behind databricks genie and other ai-enabled finance workflows.\n* use ai coding assistants to accelerate development while validating correctness, security, and performance.\n* apply finops practices to manage platform spend and optimize cost without compromising service quality.\n* partner with analytics engineers and enterprise teams on architecture, data contracts, and sustainable ownership.\n\n### **required qualifications:**\n\n* hands-on production data engineering experience with sql and python or pyspark.\n* experience with cloud data platforms, orchestration, data modeling, and governed serving patterns.\n* ability to design for observability, recoverability, security, and maintainability.\n* proficiency with ai coding assistants and independent validation of generated work.\n* practical experience enabling ai capabilities on enterprise data, ideally in databricks; adjacent snowflake cortex or comparable experience is welcome.\n* strong cross-functional collaboration and production ownership.\n\n### **preferred qualifications:**\n\n* experience with databricks, delta lake, cloud infrastructure, and deployment automation.\n* experience developing ai application backends, model integrations, or llm-based workflows.\n* experience with finops, financial data, or enterprise-system integrations.\n\n$97,000 - $140,000 a year\n\n#li-rs3\n\n#lb\n\nfull-time regular employee offer package:\n\npay within range listed + bonus + benefits + equity\n\ntemporary employee offer package:\n\npay within range listed above + temporary benefits package (applicable after 60 days of employment)\n\nsalary compensation is influenced by a wide array of factors including but not limited to skill set, level of experience, licenses and certifications, and specific work location. all offers are contingent on a cleared background and possible reference check. military fellows and part-time employees are not eligible for benefits. please speak to your talent acquisition representative for more information.\n\n###\n\nshield ai is proud to be an equal opportunity workplace and is an affirmative action employer. we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender identity or veteran status. if you have a disability or special need that requires accommodation, please let us know.\n\nwe may use artificial intelligence (ai) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. these tools assist our recruitment team but do not replace human judgment. final hiring decisions are ultimately made by humans. if you would like more information about how your data is processed, please contact us.",
+        "scrapped_date": "2026-10-18"
+    },
+    {
         "title": "Software Development Engineer- Product Reliability Engineering",
         "company": "Visa",
         "location": "Highlands Ranch, CO, USA USA",
