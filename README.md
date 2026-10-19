@@ -1,8 +1,8 @@
 # 🚀 Indeed Job Scraper AI
 
 ### 📊 Latest Update: 2026-10-19
-- **New Matches Found in Last Run:** 8
-- **Total Active Matches (Last 4 Days):** 165
+- **New Matches Found in Last Run:** 16
+- **Total Active Matches (Last 4 Days):** 181
 - 📄 [Full Markdown Report](job-alert/daily_matches/job_matches_2026-10-19.md)
 - 📁 [Excel Report](job-alert/daily_matches/job_matches_2026-10-19.xlsx)
 
@@ -10,14 +10,30 @@
 
 | Company | Role | Location | Match Score | Application | Date Found |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Optum** | Sr AI/ML Engineer- UHC Tech (Remote) | Minnetonka, MN, USA USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=187256adb651d30e) | 2026-10-19 |
+| **SANTEE COOPER** | Solution Architect - Data | Moncks Corner, SC, USA USA | 17.8% | [Apply 🚀](https://www.indeed.com/viewjob?jk=d0dc4750fd2d1381) | 2026-10-19 |
+| **Syntiant Corp** | DevOps Machine Learning Infrastructure | Redwood City, CA, USA USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f9b6d2e723c537f7) | 2026-10-19 |
+| **Revstar** | Databricks Forward Deployed Engineer | FL, USA USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=0b06c504c630d06c) | 2026-10-19 |
+| **Revstar** | Databricks Forward Deployed Engineer | AZ, USA USA | 16.7% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1a7420847497c556) | 2026-10-19 |
+| **Intuitive (Intuitive Surgical)** | Software Engineer ML Platform | San Francisco, CA, USA USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ecb62b181fb4436d) | 2026-10-19 |
+| **Cisco** | Software Engineer | Research Triangle Park, NC, USA USA | 15.6% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1f3d89fb837011e9) | 2026-10-19 |
 | **The Walt Disney Studios** | Senior Site Reliability Engineer | Burbank, CA, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=a305eedaa5ea3e71) | 2026-10-19 |
+| **ColigoMed** | Software Engineer – AI and Platform (based in Central or East Coast time zone) | Remote, USA USA | 14.4% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f4c8d4da122708c3) | 2026-10-19 |
+| **Axiomatic AI** | Senior Applied AI Engineer | Cambridge, MA, USA USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=61060e733bcb0703) | 2026-10-19 |
+| **Cisco** | Software Engineer | Research Triangle Park, NC, USA USA | 13.3% | [Apply 🚀](https://www.indeed.com/viewjob?jk=bb1d297730e01212) | 2026-10-19 |
 | **Mondelēz International** | Sr. Scientist, Modelling & Simulation | East Hanover, NJ, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7b1c10c3e3fa6787) | 2026-10-19 |
 | **Triade Flevoland** | Data Pipeline Engineer — Apache Airflow (Astronomer) & Python | Remote, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=41823bf35722426c) | 2026-10-19 |
 | **Optum** | Senior Data Engineer - Remote | Eden Prairie, MN, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=92800e8ae0ec90fd) | 2026-10-19 |
+| **Revstar** | Data & AI Engineer | TX, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=c5bc2c22eb9a1dce) | 2026-10-19 |
+| **Revstar** | Data & AI Engineer | FL, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1371f88e31739c77) | 2026-10-19 |
 | **Cisco** | UI Desktop Engineer Hybird, North Carolina Hybrid | Research Triangle Park, NC, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=21f8e27145209897) | 2026-10-19 |
+| **Goldman Sachs** | AI/ML Engineer, Global Banking & Markets, RIA Engineering | New York, NY, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=662b603972838718) | 2026-10-19 |
+| **NEXXA** | Senior Software Development Engineer in Test (SDET), QA - AI Systems | Sunnyvale, CA, USA USA | 11.1% | [Apply 🚀](https://www.indeed.com/viewjob?jk=63ec514f881f6726) | 2026-10-19 |
 | **Ammortal Inc** | Senior Embedded Linux Applications Engineer | Raleigh, NC, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=f7cbcd2cd1aee590) | 2026-10-19 |
 | **Omninode.ai** | Senior Developer Engineer | Remote, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=81831a9630d47da0) | 2026-10-19 |
 | **Ammortal Inc** | Senior Embedded Linux Applications Engineer | Knoxville, TN, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=66f18423eedcb9b7) | 2026-10-19 |
+| **Samsung Electronics** | Manufacturing System Integration Engineer | Taylor, TX, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=ac0ce9952102a2ea) | 2026-10-19 |
+| **Virginia Tech** | Postdoctoral Associate, Intelligent Systems Division | Blacksburg, VA, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=7f26c5402ddade8f) | 2026-10-19 |
 | **EchoStar** | Senior Data Warehouse Engineer | Englewood, CO, USA USA | 22.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=50267e1f88400770) | 2026-10-18 |
 | **HealthEdge Software, Inc.** | Senior Software Engineer | Remote, USA USA | 12.2% | [Apply 🚀](https://www.indeed.com/viewjob?jk=8d11a19f488c0ecd) | 2026-10-18 |
 | **ALLEN INSTITUTE** | Scientist III – AI Scientist for Quantitative Neuropathy and ML Scalable Infrastructure | Seattle, WA, USA USA | 10.0% | [Apply 🚀](https://www.indeed.com/viewjob?jk=1e3e6ff21bb5e7bf) | 2026-10-18 |
